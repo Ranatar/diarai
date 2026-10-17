@@ -29,7 +29,7 @@ VOWELS = set("аеёиоуыэюя")
 
 
 def nsyl(w):
-    return sum(c in VOWELS for c in w)
+    return sum(c in VOWELS for c in w.lower())
 
 
 def _from_marked(form, mark):

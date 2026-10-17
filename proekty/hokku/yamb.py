@@ -1,0 +1,189 @@
+"""Найденный четырёхстопный ямб и онегинская строфа из собственного текста.
+
+По мотивам inbox/Tsiolkovskiy_oneginskaya.txt. Там строки набраны из слов
+Циолковского с пропусками. Здесь строка — это всегда подряд идущие слова
+текста, ничего не выкинуто и не переставлено. Пропуски бывают только
+между строками.
+
+Строка годится, если:
+  * в ней 8 слогов (мужское окончание) или 9 (женское);
+  * у каждого многосложного слова ударение может падать на чётный слог
+    (2, 4, 6, 8); односложные стоят где угодно, как и в настоящих стихах;
+  * последнее ударение приходится ровно на 8-й слог;
+  * все многосложные слова есть в словаре (udar.py); незнакомое слово — отказ.
+
+Строфа: AbAbCCddEffEgg, заглавные — женские рифмы (9 слогов), строчные —
+мужские (8). Строки берутся по порядку текста, жадно.
+
+Запуск: python3 yamb.py файлы... [--lines] > out.txt
+"""
+import re
+import sys
+
+from udar import stress, nsyl, VOWELS
+
+SCHEME = "AbAbCCddEffEgg"
+
+
+def words_of(text):
+    text = re.sub(r"`[^`]*`|https?://\S+", " ", text)
+    text = text.replace("́", "")
+    out, pending = [], ""
+    for w in re.findall(r"[А-Яа-яЁё]+(?:-[А-Яа-яЁё]+)*|[.!?;:—]", text):
+        if not w[0].isalpha():
+            if out:
+                out.append("|")  # граница фразы
+            pending = ""
+            continue
+        if w.isupper() and len(w) > 1:  # аббревиатуры (ГБ, МБ, ИИ) — граница
+            out.append("|")
+            pending = ""
+            continue
+        if nsyl(w.lower()):
+            out.append(pending + w)
+            pending = ""
+        else:
+            pending += w + " "
+    return out
+
+
+# служебные слова, на которых строка не может кончаться
+WEAK_END = set("и а но что кто же из в не ли как то бы для до по о у с к"
+               " от за на со ко во об при без над под про через".split())
+
+
+def fits(words):
+    """Вернуть (строка с ударениями, рифмоключ, женская?) или None."""
+    pos, marked, last = 0, [], None
+    for i, w in enumerate(words):
+        core = w.split()[-1].lower()  # без приклеенного предлога
+        n = nsyl(core)
+        ss = stress(core.replace("-", ""))
+        if ss is None:
+            return None
+        if n == 1:
+            s = 1
+            if i == len(words) - 1 and pos + 1 != 8:
+                return None
+        else:
+            good = [s for s in ss if (pos + s) % 2 == 0]
+            if not good:
+                return None
+            s = good[0]
+        if pos + s > 8 and i == len(words) - 1:
+            return None
+        marked.append(mark(w, s))
+        last = (core, s)
+        pos += n
+    if pos not in (8, 9):
+        return None
+    core, s = last
+    if core in WEAK_END:
+        return None
+    if (pos - nsyl(core) + s) != 8:
+        return None
+    return " ".join(marked), rhyme_key(core, s), pos == 9
+
+
+def mark(w, s):
+    pre, core = (w.rsplit(" ", 1) + [""])[:2] if " " in w else ("", w)
+    k, out = 0, []
+    pre = pre.lower()
+    for c in core.lower():
+        if c in VOWELS:
+            k += 1
+            if k == s:
+                c = c.upper()
+        out.append(c)
+    return (pre + " " if pre else "") + "".join(out)
+
+
+V_NORM = str.maketrans("яюеёыэ", "ауэоиэ")
+DEVOICE = str.maketrans("бдгвзж", "пткфсш")
+
+
+def rhyme_key(word, s):
+    w = word.lower().replace("ь", "").replace("ъ", "").replace("-", "")
+    k = 0
+    for i, c in enumerate(w):
+        if c in VOWELS:
+            k += 1
+            if k == s:
+                tail = w[i:]
+                # мужская открытая рифма: нужна опорная согласная
+                if len(tail) == 1 and i > 0:
+                    tail = w[i - 1:]
+                tail = tail.translate(V_NORM)
+                return tail[:-1] + tail[-1:].translate(DEVOICE)
+    return w
+
+
+def lines(words):
+    """Все подходящие строки, без пересечений, в порядке текста."""
+    i = 0
+    while i < len(words):
+        found = None
+        if words[i] != "|":
+            for j in range(i + 1, min(i + 10, len(words)) + 1):
+                if "|" in words[i:j]:
+                    break
+                r = fits(words[i:j])
+                if r:
+                    found = (j, r)
+                    if r[2]:
+                        break  # женская длиннее — дальше не ищем
+        if found:
+            j, r = found
+            last = words[j - 1].split()[-1].lower()
+            yield (*r, last)
+            i = j
+        else:
+            i += 1
+
+
+def stanzas(ls):
+    """Жадно: идём по строкам, заполняем слоты схемы."""
+    ls = list(ls)
+    start = 0
+    while start < len(ls):
+        slots, keys, used, words_used = [], {}, start, {}
+        k = start
+        for letter in SCHEME:
+            fem = letter.isupper()
+            want = keys.get(letter)
+            while k < len(ls):
+                text, key, isfem, last = ls[k]
+                k += 1
+                if isfem != fem:
+                    continue
+                if want is None:
+                    # новая рифма: должна найтись пара дальше
+                    if not any(l[1] == key and l[2] == fem and l[3] != last
+                               for l in ls[k:]):
+                        continue
+                    keys[letter], words_used[letter] = key, {last}
+                    slots.append(text)
+                    break
+                if key == want and last not in words_used[letter]:
+                    words_used[letter].add(last)
+                    slots.append(text)
+                    break
+            else:
+                return
+        yield slots
+        start = k
+
+
+if __name__ == "__main__":
+    files = [a for a in sys.argv[1:] if not a.startswith("--")]
+    text = "\n".join(open(p, encoding="utf-8").read() for p in files)
+    ls = list(lines(words_of(text)))
+    if "--lines" in sys.argv:
+        for t, key, fem, last in ls:
+            print(("Ж " if fem else "М ") + t + "   [" + key + "]")
+    else:
+        out = []
+        for st in stanzas(ls):
+            out.append("\n".join(st[:4]) + "\n" + "\n".join(st[4:8]) + "\n"
+                       + "\n".join(st[8:12]) + "\n" + "\n".join(st[12:]))
+        print("\n\n".join(out))
