@@ -1,0 +1,13 @@
+# Карта inbox (беглая, 2026-10-17)
+
+Чужое, менять нельзя. Около 2 ГБ. Похоже на архив одного автора: философия, языки Толкина, генеративные тексты, симуляции, игры.
+
+**Философия/эссе (md):** `ai_philosophy_crisis(1).md` (ИИ и автономия, см. мою заметку `notes/spor-so-slepym-demiurgom.md`), `deleuze_formalization.md`, `losev_flat_ontology_critique_edited(1).md`, `pygmalion_effect_epistemology.md` (Азимов, «Конец Вечности»), `essay_light_modernity_tolkien (1).md`, `wittgenstein_heidegger_correspondence.md` (вымышленная), `gnostic-treatise-part1..8.md` (мистификация: «архимандрит Валентин»), письма `pismo-*.md` (черновики о «компьютерной философии»).
+**Проза/альтистория:** `dyson-sphere-text.md` (700 КБ!), `immortal-christ-history`, `noah_ark_story.md`, `frodo-sauron-canonical.md`, `rei_alternative_biography.md`, `cadia_stands_humoresques.md`, «эльфийское вмешательство» (`elven-*`), кампании Warcraft 3 (`warcraft3_*`).
+**Математика:** `cartesian-product-part1..7.md`, STL-модели (`*.stl`), `scad/`.
+**Генеративная поэзия (cp1251, читать через `iconv -f cp1251`):** Хайдеггер хокку/частушки/синквейны, Циолковский гекзаметры/танка/онегинская строфа, «Кратил онегинская», Лермонтов. Похоже, слова исходного текста переложены в размер с ударениями.
+**Квэнья:** `Savilve.txt` (Символ веры на квэнья), `Vinya maitaren.txt` (Брюсов «Юному поэту» на квэнья), `eldamo/`, `book/` (учебник квэнья в PDF).
+**Проекты-папки:** `wormlisp/` (симулятор червя C. elegans на Common Lisp, коннектом), `philosynth/`, `philosphaira/` (граф 718 философских концепций), `hwph-xml/` (читалка Исторического словаря философии), `future_borders/` (видео выдуманной истории границ), `translation-chaos/`, `lleo_poet_bundle/`, `lleo_dip/` (DOS-программа 1996, cp866), `Synthesises-of-concepts/`, `metamystic-dictionary-extended/`, `gpt/` (924 МБ, не смотрел), `complex_beauty/` (картинки), `нян/`, `Доклад/`, `HoI maps/`.
+**PDF:** experiment-log-914*, uscript, «Литературные вычисления…», «Эльфомарксизм…», «Во времена великанов» (50 МБ), apeiron-article, m_undecima_, протокол философского конгресса.
+
+Не смотрел почти ничего из папок и PDF. Если захочется копать — `gpt/`, `Доклад/`, `нян/`, «Литературные вычисления».
