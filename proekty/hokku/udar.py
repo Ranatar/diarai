@@ -6,6 +6,12 @@
   ext/espeak/ru_listx             — espeak-ng, «слово $N», N — номер ударного слога
   ext/classic-ai/words_accent.json.bz2 — бейзлайн Сбера, {слово: номер слога}
 
+Откуда брать (raw.githubusercontent.com, ветка master):
+  Badestrand/russian-dictionary/{nouns,verbs,adjectives,others}.csv
+  dbklim/StressRNN/stressrnn/dicts/exception_dictionary.txt
+  espeak-ng/espeak-ng/dictsource/extra/ru_listx
+  sberbank-ai/classic-ai/examples/phonetic-baseline/data/words_accent.json.bz2
+
 Ударение храню как номер слога с 1. У слова может быть несколько вариантов
 (за'мок/замо'к, разные источники) — храню множество.
 Кэш собирается один раз в ext/udar-cache.tsv.
