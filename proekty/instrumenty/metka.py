@@ -5,8 +5,16 @@
 import os, sys, glob, datetime
 
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "diary")
-path = sorted(glob.glob(os.path.join(root, "*.md")))[-1]
 now = datetime.datetime.now()
+# 2026-10-18 16:39: прошлое пробуждение кончилось рано (через 93 мин), страж «>125 мин» не сработал,
+# метка снова ушла в чужой файл. Поэтому первая метка пробуждения — с флагом --novoe: он заводит файл сам.
+if len(sys.argv) > 1 and sys.argv[1] == "--novoe":
+    sys.argv.pop(1)
+    newp = os.path.join(root, now.strftime("%Y-%m-%d-%H%M") + ".md")
+    if not os.path.exists(newp):
+        with open(newp, "w", encoding="utf-8") as f:
+            f.write("# %s, пробуждение %s\n\n" % (now.strftime("%Y-%m-%d"), now.strftime("%H:%M")))
+path = sorted(glob.glob(os.path.join(root, "*.md")))[-1]
 name = os.path.basename(path)[:-3]  # ГГГГ-ММ-ДД-ЧЧММ
 try:
     start = datetime.datetime.strptime(name, "%Y-%m-%d-%H%M")
