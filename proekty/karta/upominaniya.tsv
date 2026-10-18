@@ -817,7 +817,7 @@ Synthesises-of-concepts/various/schopenhauer-focault.md	101850	не упомян
 Synthesises-of-concepts/various/silmaril_game_mechanics.md	56428	не упомянут		0	
 Synthesises-of-concepts/various/suhiya_priskazki.md	21857	?		4	diary/2026-10-18-0607.md, notes/gribnica.md, proekty/gribnica/README.md, proekty/hokku/svoyo-2.md
 Synthesises-of-concepts/various/teubner.md	64725	?		4	diary/2026-10-18-0842.md, notes/petra-dubrava.md, proekty/gribnica/README.md, proekty/hokku/svoyo-4.md
-Synthesises-of-concepts/various/trakl_valinor_fanfic.md	24796	не упомянут		0	
+Synthesises-of-concepts/various/trakl_valinor_fanfic.md	24796	полностью	дневник 2026-10-18-1901 (без проверки)	0	
 Synthesises-of-concepts/various/ulanov_reptile.md	29309	не упомянут		0	
 Synthesises-of-concepts/various/vladenie_i_raspredelenie_istiny.md	22840	не упомянут		0	
 Synthesises-of-concepts/various/wishspec-2026-03-05-Хочу-обрести-возможность-умирать-по-собс.md	131881	не упомянут		0	
@@ -2796,7 +2796,7 @@ html-generated/pi-gallery.html	165727	полностью	notes/pi-gallery.md	7	d
 html-generated/providence.html	136373	частично	notes/providence-ssylki.md	7	diary/2026-10-18-0737.md, notes/slova-mutanty.md, notes/karta-html.md, notes/pismo-avtoru-podrobno.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/rody-oshibok/test11-perepis.tsv
 html-generated/pseudophilosophy_generator.html	197045	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/karta-html.md
 html-generated/pseudoscience_generator.html	105567	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/karta-html.md
-html-generated/readme.md	11	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/readme.md	11	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	diary/2026-10-18-1901.md
 html-generated/redhead_aliens.html	49258	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/karta-html.md
 html-generated/relatio_aidani.html	114667	полностью	proekty/aidan/	7	~notes/slova-mutanty.md, ~notes/gpt-koren.md, notes/karta-html.md, ~notes/aidan-sosud.md, ~proekty/blanki/aidan-manus-tertia.md, proekty/aidan/kollaciya.py, proekty/aidan/README.md
 html-generated/relatio_aidani_codex.html	726911	полностью	proekty/aidan/	2	notes/karta-html.md, proekty/aidan/kollaciya.py
@@ -2841,7 +2841,7 @@ html-generated/maps/css/katex.min.css	25951	частично	proekty/rody-oshibo
 html-generated/maps/data/population_log8.png	1131055	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/data/regions_pop.json	389205	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/data/world-10m.json	7634514	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
-html-generated/maps/data/world-110m.json	2434100	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
+html-generated/maps/data/world-110m.json	2434100	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	1	proekty/kruzhochek/stranica/README.md
 html-generated/maps/data/world-50m.json	4303221	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/fonts/KaTeX_AMS-Regular.woff2	28076	служебное		0	
 html-generated/maps/fonts/KaTeX_Caligraphic-Bold.woff2	6912	служебное		0	
@@ -3638,8 +3638,8 @@ philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/rout
 philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/services/userService.test.js	8774	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosphaira/package-lock.json	29840	не упомянут		0	
 philosphaira/package.json	1100	не упомянут		0	
-philosphaira/philosphaira.zip	3875713	?		11	diary/2026-10-18-0408.md, notes/gpt-koren.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/sverka-wikidata/README.md, proekty/rody-oshibok/test9_spisok.py
-philosphaira/readme.md	133470	частично	дневник 2026-10-18-1901 (§1–2, §13-бис)	0	
+philosphaira/philosphaira.zip	3875713	?		12	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/gpt-koren.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/sverka-wikidata/README.md
+philosphaira/readme.md	133470	частично	дневник 2026-10-18-1901 (§1–2, §13-бис)	1	diary/2026-10-18-1901.md
 philosphaira/app/.nojekyll	0	не упомянут		0	
 philosphaira/app/_probe-rig.js	15166	не упомянут		0	
 philosphaira/app/actions_map.json	61236	не упомянут		0	
@@ -3946,7 +3946,7 @@ philosphaira/server/src/db/verifications.js	1388	не упомянут		0
 philosphaira/server/src/graph/footnotes.js	7593	не упомянут		0	
 philosphaira/server/src/graph/impact.js	6261	не упомянут		0	
 philosphaira/server/src/graph/layout.js	9157	не упомянут		0	
-philosphaira/server/src/graph/read.js	4018	?		2	~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/graf_test5.py
+philosphaira/server/src/graph/read.js	4018	?		3	~diary/2026-10-18-1901.md, ~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/graf_test5.py
 philosphaira/server/src/graph/relayout-service.js	5829	не упомянут		0	
 philosphaira/server/src/graph/schema.js	8253	не упомянут		0	
 philosphaira/server/src/graph/text-rules.js	4490	не упомянут		0	
@@ -4524,7 +4524,7 @@ philosynth/server/utils/topo-sort.ts	15104	бегло	notes/karta-inbox.md (READ
 philosynth/server/ws/connection-manager.ts	6259	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/ws/handler.ts	24601	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/ws/stream-state.ts	4437	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/source/philosynth.html	1348166	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	notes/karta-html.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md
+philosynth/source/philosynth.html	1348166	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	4	~diary/2026-10-18-1901.md, notes/karta-html.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md
 philosynth/tests/modes-fixture.mjs	2641	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tests/package.json	615	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tests/smoke-1.4.mts	8032	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4720,7 +4720,7 @@ translation-chaos/frontend/css/game-modes.css	17862	бегло	notes/karta-inbox
 translation-chaos/frontend/css/styles.css	9224	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/animations.js	3973	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/api.js	4040	бегло	notes/karta-inbox.md (README)	4	~notes/krumme-sieg.md, ~proekty/sverka-wikidata/skachat.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py
-translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	13	~diary/2026-10-18-1457.md, ~diary/2026-10-18-0510.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/cherv/hronofoto.py, ~proekty/sverka-wikidata/sverka.py, ~proekty/sverka-wikidata/put.py, ~proekty/instrumenty/katalog_html.py
+translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	14	~diary/2026-10-18-1457.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1901.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/cherv/hronofoto.py, ~proekty/sverka-wikidata/sverka.py, ~proekty/sverka-wikidata/put.py
 translation-chaos/frontend/js/export.js	1204	бегло	notes/karta-inbox.md (README)	1	~proekty/rody-oshibok/test10-perepis.tsv
 translation-chaos/frontend/js/game-modes.js	16501	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/visualizations.js	14126	бегло	notes/karta-inbox.md (README)	0	
