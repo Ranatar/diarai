@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1455, служебное — 1441, не упомянут — 1291, бегло — 1005, полностью — 795, ? — 206, нет — 2.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1455, служебное — 1441, не упомянут — 1287, бегло — 1005, полностью — 799, ? — 206, нет — 2.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -68,7 +68,7 @@
 | `pismo-makulinu.md` | 1 | 14 КБ | полностью | 1 | дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md | `proekty/sverka-wikidata/README.md` |
 | `pygmalion_effect_epistemology.md` | 1 | 55 КБ | ? | 1 |  | `notes/karta-inbox.md`, `proekty/hokku/centon-2.md` |
 | `rei_alternative_biography.md` | 1 | 21 КБ | полностью | 1 | дневник 2026-10-18-1901 (без проверки) | `diary/2026-10-18-1901.md`, `notes/karta-inbox.md` |
-| `syhur6ytr.stl` | 1 | 8 МБ | не упомянут | 0 |  |  |
+| `syhur6ytr.stl` | 1 | 8 МБ | полностью | 0 | proekty/karta/stl-vidy.jpg |  |
 | `uscript.pdf` | 1 | 2 МБ | бегло | 1 | notes/karta-inbox.md (по оглавлению) | `notes/karta-inbox.md` |
 | `uscript2.pdf` | 1 | 1 МБ | нет | 0 |  |  |
 | `warcraft3_campaign_epilogue.md` | 1 | 35 КБ | ? | 1 |  | `proekty/hokku/centon-2.md` |
@@ -82,12 +82,12 @@
 | `Кратил онегинская.txt` | 1 | 25 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `notes/karta-inbox.md` |
 | `Лермонтов.txt` | 1 | 6 КБ | ? | 1 |  | `notes/karta-inbox.md` |
 | `Литературные вычисления работа с генеративными нейросетями.pdf` | 1 | 139 КБ | полностью | 0 | дневник 2026-10-18-0343; ext/litvych.txt |  |
-| `Пересечение.stl` | 1 | 2 МБ | не упомянут | 0 |  |  |
-| `Тор.stl` | 1 | 2 МБ | не упомянут | 0 |  |  |
+| `Пересечение.stl` | 1 | 2 МБ | полностью | 0 | proekty/karta/stl-vidy.jpg |  |
+| `Тор.stl` | 1 | 2 МБ | полностью | 0 | proekty/karta/stl-vidy.jpg (глазом) |  |
 | `Циолковский гекзаметры.txt` | 1 | 21 КБ | полностью | 1 | notes/sito-2020.md | `notes/karta-inbox.md` |
 | `Циолковский танка.txt` | 1 | 7 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md` |
 | `Эльфомарксизм неизвестные страницы истории.pdf` | 1 | 114 КБ | полностью | 0 | notes/elfomarksizm.md |  |
-| `асглеглаенлна.stl` | 1 | 2 МБ | не упомянут | 0 |  |  |
+| `асглеглаенлна.stl` | 1 | 2 МБ | полностью | 0 | proekty/karta/stl-vidy.jpg |  |
 | `HoI maps/` | 7 | 8 МБ | полностью | 1 | дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py) | `diary/2026-10-18-1901.md` |
 | `Synthesises-of-concepts/elven-conspiracy` | 2 | 84 КБ | ? | 2 |  | `notes/nevidimaja-ruka.md` |
 | `Synthesises-of-concepts/hegel-pythagoras` | 5 | 58 КБ | не упомянут | 0 |  |  |
