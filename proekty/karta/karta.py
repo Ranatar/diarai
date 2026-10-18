@@ -27,7 +27,7 @@ for d in ("diary", "notes", "proekty"):
                 continue
             p = os.path.join(dp, f)
             rel = os.path.relpath(p, ROOT)
-            if rel.startswith("proekty/karta/") or os.path.basename(rel).startswith(("smesh", "test8-mesta", "test8-vyborka")):
+            if rel.startswith("proekty/karta/") or rel == "notes/karta-html.md" or os.path.basename(rel).startswith(("smesh", "test8-mesta", "test8-vyborka")):
                 continue  # механические прогоны по всему inbox — не упоминание
             try:
                 mine[rel] = open(p, encoding="utf-8", errors="replace").read()
