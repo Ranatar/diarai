@@ -854,7 +854,7 @@ book/chapters/eldamo-intro-quenya-12.html	123598	не упомянут		0
 book/chapters/eldamo-intro-quenya-13.html	85410	не упомянут		0	
 book/chapters/eldamo-intro-quenya-14.html	98603	не упомянут		0	
 book/chapters/eldamo-intro-quenya-15.html	68866	не упомянут		0	
-book/chapters/index.html	7109	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+book/chapters/index.html	7109	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 book/css/GentiumPlus-B.woff	410356	не упомянут		0	
 book/css/GentiumPlus-BI.woff	449320	не упомянут		0	
 book/css/GentiumPlus-I.woff	699288	не упомянут		0	
@@ -1177,7 +1177,7 @@ complex_beauty/рл.png	1668384	бегло	notes/karta-inbox.md (листом)	0
 complex_beauty/рмлбрм.png	62079	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/рплро.png	1044652	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/уну5у.png	1379000	бегло	notes/karta-inbox.md (листом)	0	
-eldamo/L10N-ru.md	37053	не упомянут		0	
+eldamo/L10N-ru.md	37053	полностью	дневник 2026-10-18-1901	0	
 eldamo/README.md	2371	упомянут, статус не поставлен		21	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 eldamo/build.gradle	1497	не упомянут		0	
 eldamo/gloss-nq.xml	565039	не упомянут		0	
@@ -1550,7 +1550,7 @@ eldamo/build/tmp/compileJava/compileTransaction/stash-dir/Model.class.uniqueId20
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/RuBase.class.uniqueId17	10885	служебное		0	
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile$Item.class.uniqueId15	2166	служебное		0	
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile.class.uniqueId18	12016	служебное		0	
-eldamo/src/data/eldamo-data-ru.xml	4784914	не упомянут		0	
+eldamo/src/data/eldamo-data-ru.xml	4784914	бегло	proekty/karta/eldamo_ru.py (заполненность)	0	
 eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	9	notes/kvenya-holmy.md, notes/ranatar.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py, proekty/instrumenty/eldamo_sverka.py, proekty/instrumenty/eldamo_spisok.py
 eldamo/src/main/java/eldarin/parser/IndexParser.java	12368	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/LexiconParser.java	17360	не упомянут		0	
@@ -1693,7 +1693,7 @@ eldamo/src/main/webapp/css/tengwar-eldamar-glaemscrafu.woff	35480	не упом�
 eldamo/src/main/webapp/data/eldamo-data-ru.xml	4562828	не упомянут		0	
 eldamo/src/main/webapp/data/eldamo-data.xml	30774128	упомянут, статус не поставлен		9	notes/kvenya-holmy.md, notes/ranatar.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py, proekty/instrumenty/eldamo_sverka.py, proekty/instrumenty/eldamo_spisok.py
 eldamo/src/main/webapp/elvish-composition-archive/elvish-composition-archive.zip	1766561	не упомянут		0	
-eldamo/src/main/webapp/elvish-composition-archive/index.html	9668	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/elvish-composition-archive/index.html	9668	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/elvish-composition-archive/almariel/i-carma-tecindova.html	1872	не упомянут		0	
 eldamo/src/main/webapp/elvish-composition-archive/almariel/soldier-poet-king.html	1430	не упомянут		0	
 eldamo/src/main/webapp/elvish-composition-archive/arcaino/parmalaire.html	1205	не упомянут		0	
@@ -1741,7 +1741,7 @@ eldamo/src/main/webapp/elvish-essays/adjectival-mutations-in-sindarin.html	31654
 eldamo/src/main/webapp/elvish-essays/before-and-after-in-elvish.html	19477	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/conceptual-stablity-of-elvish-roots.html	55158	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/conceptual-stablity-of-elvish-roots.ods	77024	не упомянут		0	
-eldamo/src/main/webapp/elvish-essays/index.html	1192	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/elvish-essays/index.html	1192	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/elvish-essays/late-sindarin-articles-and-mutations.html	138482	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/morphology-of-the-quenya-perfect.html	33952	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/vocalization-of-spirants-in-Sindarin.html	88475	не упомянут		0	
@@ -1775,7 +1775,7 @@ eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-12.html	80171	не уп�
 eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-13.html	66678	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-14.html	78312	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-15.html	51045	не упомянут		0	
-eldamo/src/main/webapp/intro-quenya/index.html	5641	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/intro-quenya/index.html	5641	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/intro-quenya/memrise/eldamo-memrise-01.csv	3154	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/memrise/eldamo-memrise-02.csv	4700	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/memrise/eldamo-memrise-03.csv	3332	не упомянут		0	
@@ -1798,7 +1798,7 @@ eldamo/src/main/webapp/js/sindarin-beleriand.glaem.js	13666	не упомяну�
 eldamo/src/main/webapp/js/sindarin-classical.glaem.js	13536	не упомянут		0	
 eldamo/src/main/webapp/js/tengwar_ds_eldamar.cst.js	44878	не упомянут		0	
 eldamo/src/main/webapp/js/transcribe.js	4149	не упомянут		0	
-eldamo/src/main/webapp/l10n/ru/index.jsp	10311	упомянут, статус не поставлен		15	~diary/2026-10-18-0737.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/kruzhochek/rimskaya.py
+eldamo/src/main/webapp/l10n/ru/index.jsp	10311	упомянут, статус не поставлен		16	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1901.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py
 eldamo/src/main/webapp/l10n/ru/general/conceptual-history.html	33719	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/general/elvish-fonts.html	18314	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/general/getting-started.html	14013	не упомянут		0	
@@ -1819,7 +1819,7 @@ eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-12.html	124953	�
 eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-13.html	86608	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-14.html	100055	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-15.html	70270	не упомянут		0	
-eldamo/src/main/webapp/l10n/ru/intro-quenya/index.html	7252	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/l10n/ru/intro-quenya/index.html	7252	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/l10n/ru/sources/index.jsp.txt	3610	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/sources/general/conceptual-history.html.txt	17984	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/sources/general/elvish-fonts.html.txt	4636	не упомянут		0	
@@ -1872,9 +1872,9 @@ eldamo/src/test/java/xdb/l10n/NotesTest.java	1904	не упомянут		0
 eldamo/src/test/java/xdb/l10n/StaticPagesTest.java	1150	не упомянут		0	
 eldamo/src/test/java/xdb/layout/LayoutFilterTest.java	793	не упомянут		0	
 eldamo/src/test/java/xdb/layout/NodeInfoManagerTest.java	3301	не упомянут		0	
-eldamo/src/test/java/xdb/layout/testRoot/index.html	283	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/test/java/xdb/layout/testRoot/index.html	283	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 eldamo/src/test/java/xdb/layout/testRoot/page1.html	287	не упомянут		0	
-eldamo/src/test/java/xdb/layout/testRoot/subdir/index.html	299	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/test/java/xdb/layout/testRoot/subdir/index.html	299	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 eldamo/src/test/java/xdb/layout/testRoot/subdir/page2.html	287	не упомянут		0	
 eldamo/src/test/java/xdb/query/MultiIdQueryTest.java	2956	не упомянут		0	
 eldamo/src/test/java/xdb/query/MultiKeyQueryTest.java	1663	не упомянут		0	
@@ -2917,7 +2917,7 @@ html-generated/waves/venus_elev.png	240160	частично	дневник 2026-
 html-generated/waves/wave_lab.html	272350	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	1	diary/2026-10-18-1901.md
 html-generated/webmap/README.md	2559	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 html-generated/webmap/app.js	29445	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/index.html	4853	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+html-generated/webmap/index.html	4853	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 html-generated/webmap/style.css	6375	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/webmap/assets/arrival_sim.png	1053396	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/webmap/assets/arrival_sim2.png	1051820	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -3364,7 +3364,7 @@ hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff	16028	служебно
 hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff2	13568	служебное		0	
 hwph-xml/tools/i18n_check.py	5914	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/tools/persons_review.py	7961	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	7	diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/instrumenty/html2txt.py, proekty/instrumenty/hwph_statya.py
+hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	8	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/instrumenty/html2txt.py, proekty/instrumenty/hwph_statya.py
 hwph-xml/xq/common.xq	9896	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/global.xq	10205	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/index.xq	11792	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -3644,7 +3644,7 @@ philosphaira/app/.nojekyll	0	не упомянут		0
 philosphaira/app/_probe-rig.js	15166	не упомянут		0	
 philosphaira/app/actions_map.json	61236	не упомянут		0	
 philosphaira/app/boot.js	15005	не упомянут		0	
-philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	8	notes/gpt-koren.md, notes/ranatar.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/zelyonyi-obl.py, proekty/kruzhochek/stranica/README.md
+philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	9	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/zelyonyi-obl.py
 philosphaira/app/main.js	5554	упомянут, статус не поставлен		8	~diary/2026-10-18-1457.md, ~diary/2026-10-18-1807.md, ~proekty/hokku/hokku.py, ~proekty/hokku/yamb.py, ~proekty/cherv/hronofoto.py, ~proekty/instrumenty/sverka_paragrafov.py, ~proekty/instrumenty/trinity_dc.py, ~proekty/kruzhochek/rimskaya.py
 philosphaira/app/namespaces.json	3505	не упомянут		0	
 philosphaira/app/css/01-base.css	18657	не упомянут		0	
@@ -4048,7 +4048,7 @@ philosynth/env.local.example	2254	бегло	notes/karta-inbox.md (README, NEXT-
 philosynth/package-lock.json	198314	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/package.json	2316	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tsconfig.base.json	593	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/client/index.html	1102	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+philosynth/client/index.html	1102	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 philosynth/client/package.json	772	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/postcss.config.js	87	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/tailwind.config.ts	1568	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4715,7 +4715,7 @@ translation-chaos/backend/services/game-modes.js	9239	бегло	notes/karta-inb
 translation-chaos/backend/services/keywords.js	4738	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/presets.js	1294	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/translator.js	4519	бегло	notes/karta-inbox.md (README)	0	
-translation-chaos/frontend/index.html	6321	бегло	notes/karta-inbox.md (README)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+translation-chaos/frontend/index.html	6321	бегло	notes/karta-inbox.md (README)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 translation-chaos/frontend/css/game-modes.css	17862	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/css/styles.css	9224	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/animations.js	3973	бегло	notes/karta-inbox.md (README)	0	
@@ -4823,7 +4823,7 @@ wormlisp/src/dsl/package.lisp	2440	частично	proekty/cherv/README.md (з�
 wormlisp/src/dsl/primitives.lisp	2049	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/io/frames.lisp	12050	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/hronofoto.py
 wormlisp/src/io/package.lisp	1493	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/kruzhochek/out/log.txt
-wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	14	~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-0408.md, ~notes/krumme-sieg.md, ~notes/pismo-avtoru-podrobno.md, ~proekty/cherv/hronofoto.py, ~proekty/cherv/README.md
+wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	15	~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-1901.md, ~diary/2026-10-18-0408.md, ~notes/krumme-sieg.md, ~notes/pismo-avtoru-podrobno.md, ~proekty/cherv/hronofoto.py
 wormlisp/src/ir/derivative.lisp	5033	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~diary/2026-10-18-0510.md
 wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	7	~diary/2026-10-18-1901.md, ~notes/krumme-sieg.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/graf_test5.py, ~proekty/rody-oshibok/README.md
@@ -5658,7 +5658,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/Atanquesta_files/unnamed.png	444	не упомянут		0	
 Доклад/ERTP/LICENSE	1097	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/README.md	154	бегло	notes/smesh-otchet.md (только смесь букв)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-Доклад/ERTP/index.html	8953	бегло	notes/smesh-otchet.md (только смесь букв)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+Доклад/ERTP/index.html	8953	бегло	notes/smesh-otchet.md (только смесь букв)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/.git/COMMIT_EDITMSG	25	служебное		0	
 Доклад/ERTP/.git/FETCH_HEAD	89	служебное		0	
 Доклад/ERTP/.git/HEAD	21	служебное		0	
@@ -5698,7 +5698,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/ERTP/css/global.css	3660	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/css/tengwar-eldamar-glaemscrafu.woff	35480	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/elvish-composition-archive/elvish-composition-archive.zip	1412540	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/elvish-composition-archive/index.html	6728	бегло	notes/smesh-otchet.md (только смесь букв)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+Доклад/ERTP/elvish-composition-archive/index.html	6728	бегло	notes/smesh-otchet.md (только смесь букв)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/elvish-composition-archive/chaered/gloomy-march.html	1313	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/elvish-composition-archive/chaered/ninya-masta.html	3718	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/elvish-composition-archive/chaered/tengwa-abc.html	18178	бегло	notes/smesh-otchet.md (только смесь букв)	1	notes/ranatar.md
@@ -5738,7 +5738,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/ERTP/intro-quenya/eldamo-intro-quenya-13.html	86521	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/intro-quenya/eldamo-intro-quenya-14.html	78170	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/intro-quenya/eldamo-intro-quenya-15.html	70223	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/intro-quenya/index.html	7170	бегло	notes/smesh-otchet.md (только смесь букв)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+Доклад/ERTP/intro-quenya/index.html	7170	бегло	notes/smesh-otchet.md (только смесь букв)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/js/add-queries.js	319	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/glaemscribe.min.js	69798	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/quenya.glaem.js	19724	бегло	notes/smesh-otchet.md (только смесь букв)	0	
