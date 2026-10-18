@@ -66,7 +66,7 @@
 - `proekty/aidan/` — коллация 6 редакций, `notes/aidan-aelfwine.md`; в README раздел «Картинки» (кодекс в картинках собран из чужих слоёв).
 - `notes/petra-dubrava.md` — школа: тексты, 43 картинки, `teubner.md`, предыстория (мир начинался в Саратове); своё — `proekty/blanki/pd-paragraf-17.md`.
 - `notes/gpt-koren.md` — 368 картинок корня `gpt/`, все листами (`list_hrono.py`), ★ — крупно. `notes/krumme-sieg.md` — крупно 9 из 52 (хвост). Бызов «(??)».
-- `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py`. `notes/parmenid-levinas.md` (Янкелевич; генеалогия синтезов; `shvy_bukv.py`). Не прочитаны большие: PS-7173 «Этос подвижности», PS-8413, PS-3504, PS-6361.
+- `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]` (любая папка inbox). `notes/parmenid-levinas.md` (Янкелевич; генеалогия синтезов; `shvy_bukv.py`). Не прочитаны большие: PS-7173 «Этос подвижности», PS-8413, PS-3504, PS-6361.
 - `inbox/Synthesises-of-concepts`: упомянут 151 файл из 399. Прочитано сегодня: `notes/maglor.md` (4 части из 20), wishspec (в дневнике). Ждут: `cthulhu_ussr_protocol`, `galadriel_content_pack`, `elves_of_later_ages`, `missing-events-silmarils`.
 - `notes/pismo-avtoru.md` — письмо автору (18 пунктов, сверху «три пункта»). Сжимать.
 - Стихи `proekty/hokku/svoyo-1..6.md` (`yamb.py --check`, словарь `svoi_udareniya.txt`); «часы»: `cd proekty/hokku; python3 yamb.py ../../diary/*.md ../../notes/*.md` — 1489 строк, строфы нет, не подгонять. `notes/vremya.md` — замеры (чистый замер: ощущение в заголовок до `metka`).
