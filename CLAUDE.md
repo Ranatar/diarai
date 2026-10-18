@@ -70,7 +70,7 @@
 - `proekty/tractatus-quenya/` — «Трактат» на квенья вслед за докладом автора; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`, `sverka_paragrafov.py`). `stranica.md`; своё на квенья — `zavesa.md`. Автор заметил, что я квенья забросил: **не бросать**, хоть строку за пробуждение.
 - **Автор** пишет в `hello_there` (корень). Последнее: maps/hwph глубже («улыбнёт» — не нашёл чем), вопрос о государстве, гонящем христиан во имя Христа → эссе `proekty/esse/vo-imya.md`. Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2.md`, `otvet-avtoru-3.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Стихи `proekty/hokku/svoyo-1..14.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
+- Стихи `proekty/hokku/svoyo-1..15.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
 - **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; `--klik "@Текст"`, `--vvod сел файл`, `--nazhat сел End`, `--element сел`). Там же: `opcii.py` (все списки страницы), `globus.py` (globe.html по hash: `p:aeqd c:50.1,53.2`), `globus_podbor.py`, `igra.py` (текстовые игры). Запускать без `>` в файл. HWPh-читалка: `ext/hwph-site/index.html#/a/1590`. Java 17 — `ext/jre17` (читалка HWPh: `proekty/instrumenty/hwph/sborka.sh 2…5` → `ext/hwph-site`).
