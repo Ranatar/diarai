@@ -1551,7 +1551,7 @@ eldamo/build/tmp/compileJava/compileTransaction/stash-dir/RuBase.class.uniqueId1
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile$Item.class.uniqueId15	2166	служебное		0	
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile.class.uniqueId18	12016	служебное		0	
 eldamo/src/data/eldamo-data-ru.xml	4784914	не упомянут		0	
-eldamo/src/data/eldamo-data.xml	30774128	?		9	notes/kvenya-holmy.md, notes/ranatar.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py, proekty/instrumenty/eldamo_sverka.py, proekty/instrumenty/eldamo_spisok.py
+eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	9	notes/kvenya-holmy.md, notes/ranatar.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py, proekty/instrumenty/eldamo_sverka.py, proekty/instrumenty/eldamo_spisok.py
 eldamo/src/main/java/eldarin/parser/IndexParser.java	12368	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/LexiconParser.java	17360	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/TranslationParser.java	2986	не упомянут		0	
@@ -2914,7 +2914,7 @@ html-generated/waves/moon_color.jpg	131057	частично	дневник 2026-
 html-generated/waves/moon_elev.png	275619	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/venus_color.jpg	178157	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/venus_elev.png	240160	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
-html-generated/waves/wave_lab.html	272350	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/wave_lab.html	272350	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	1	diary/2026-10-18-1901.md
 html-generated/webmap/README.md	2559	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 html-generated/webmap/app.js	29445	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/webmap/index.html	4853	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
