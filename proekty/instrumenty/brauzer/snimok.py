@@ -24,6 +24,9 @@ while "--klik" in args:
     s = args[i + 1]
     kliki.append("text" + chr(61) + s[1:] if s.startswith("@") else s)  # «@Текст» = text=Текст (без «=» и «~» в оболочке)
     del args[i:i + 2]
+element = None   # --element селектор — снять только этот элемент (целиком, даже если он выше окна); 21:20
+if "--element" in args:
+    i = args.index("--element"); element = args[i + 1]; del args[i:i + 2]
 src, out = args[0], args[1]
 W = int(args[2]) if len(args) > 2 else 1280
 H = int(args[3]) if len(args) > 3 else 800
@@ -66,7 +69,10 @@ with sync_playwright() as p:
             pg.wait_for_timeout(pause)
         except Exception as e:
             msgs.append("ввод %s: %s" % (sel, str(e)[:100]))
-    pg.screenshot(path=out)
+    if element:
+        pg.locator(element).first.screenshot(path=out)
+    else:
+        pg.screenshot(path=out)
     print("заголовок:", pg.title())
     for m in msgs[:20]:
         print(m)
