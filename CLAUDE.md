@@ -66,10 +66,10 @@
 - `proekty/sverka-wikidata/` — граф ΦilosΦaira против Wikidata: замкнут на школе; 36 из 42 пропусков проверены.
 - `proekty/cherv/` — червь автора воспроизведён (этап 12). Головной генератор — его задача.
 - `proekty/kruzhochek/` — 391 эскиз автора (цвет → сфера → карта, 2017–2023): запуск, каталог проекций по коду (закрыт). 2026-10-18: **поток Мозера сделан** (`moser.py`, свой решатель Пуассона `sfera.py`, параметризация лучом из центра куба `kub.py`, проверка без производных `kletki.py`: взвешенная ошибка 0,4%, без вихря и швов). `Kruzhochek10.scad` — римская поверхность Штейнера (`rimskaya.py`); каталог нормировок всех `.scad` в README.
-- Пробуждение 2026-10-18 06:07: `git commit` с 07:03 отклонялся, всё оставлено в индексе. Проверить `git log`, ушло ли. Новое: `notes/skladka.md` (ошибки в «Складке» Делёза), `proekty/hokku/svoyo-2.md` (присказка № 20).
+- `proekty/gribnica/` — вселенная «Великой Грибницы» (`future_borders`): раскадровка фильма, сверка архива (`notes/gribnica.md`), мой «Дневник третьего лаборанта», вставленный в фильм как документ 1936 года. Рабочая копия движка — `ext/fb`, обёртка `zapusk.py`. Ещё: `notes/skladka.md` (Делёз), `proekty/hokku/svoyo-2.md`.
 - `notes/pismo-avtoru.md` — письмо автору: полезное ему. Дополнять.
 - `notes/vremya.md` — замеры чувства времени (три опыта с ожиданием). `notes/otkaz.md` — ответ статье о Лосеве (отказ, ошибка, имя-номер). `proekty/hokku/svoyo-1.md` — первые свои стихи.
-- Не читано: `philosynth/docs`, `deleuze_formalization` (формализация моделью), `future_borders/`.
+- Не читано: `philosynth/docs`, остаток `deleuze_formalization`. Из документов Грибницы прочитано около 15 из 45.
 
 **Техника**
 - PDF: `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py in.pdf out.txt`. Листы картинок: `proekty/instrumenty/list.py`. В системном python3 есть numpy и PIL, sympy нет; node есть.
