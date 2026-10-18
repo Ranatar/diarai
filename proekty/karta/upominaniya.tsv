@@ -111,7 +111,7 @@ Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy-manifesto.md	9
 Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy-social-diagram.mmd	3766	не упомянут		0	
 Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy.md	17212	?		1	notes/gpt-koren.md
 Synthesises-of-concepts/philosophy-graph-descriptions/INSTRUCTIONS-next-batch.md	25808	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/README.md	29109	частично	notes/graf-revizija.md	19	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+Synthesises-of-concepts/philosophy-graph-descriptions/README.md	29109	частично	notes/graf-revizija.md	20	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-concepts.py	15628	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-descriptions.py	14539	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-newlinks.py	13550	частично	notes/graf-revizija.md	0	
@@ -835,7 +835,7 @@ Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	649
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки)	1	diary/2026-10-18-1901.md
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	22587	не упомянут		0	
-book/README.md	25791	?		18	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+book/README.md	25791	?		19	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 book/build.bat	116	не упомянут		0	
 book/chrome.bat	145	не упомянут		0	
 book/ci.bat	98	?		4	~diary/2026-10-18-1457.md, ~diary/2026-10-18-1807.md, ~notes/karta-inbox.md, ~notes/providence-ssylki.md
@@ -1178,7 +1178,7 @@ complex_beauty/рмлбрм.png	62079	бегло	notes/karta-inbox.md (лист�
 complex_beauty/рплро.png	1044652	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/уну5у.png	1379000	бегло	notes/karta-inbox.md (листом)	0	
 eldamo/L10N-ru.md	37053	не упомянут		0	
-eldamo/README.md	2371	?		20	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
+eldamo/README.md	2371	?		21	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 eldamo/build.gradle	1497	не упомянут		0	
 eldamo/gloss-nq.xml	565039	не упомянут		0	
 eldamo/gloss-q.xml	741143	не упомянут		0	
@@ -1893,7 +1893,7 @@ eldamo/src/test/java/xdb/util/CollectionsUtilTest.java	1017	не упомяну�
 eldamo/src/test/java/xdb/util/ProbTest.java	6114	не упомянут		0	
 eldamo/src/test/java/xdb/util/XmlUtilTest.java	5383	не упомянут		0	
 eldamo/src/test/java/xdb/util/test/root.txt	41	?		3	~diary/2026-10-18-1016.md, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py
-future_borders/README.md	13122	частично	notes/gribnica.md; proekty/gribnica/	19	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+future_borders/README.md	13122	частично	notes/gribnica.md; proekty/gribnica/	20	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 future_borders/RENDER_TERMUX.md	22973	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/add_music.py	3187	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/docs_rsfgr_names.tsv	4101	частично	notes/gribnica.md; proekty/gribnica/	0	
@@ -2789,9 +2789,9 @@ html-generated/philosophers-coordinates.html	64622	?	notes/karta-html.md (кат
 html-generated/philosophometer.html	51033	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	notes/gpt-koren.md, notes/karta-html.md
 html-generated/philosophy_diagrams.html	56182	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/karta-html.md
 html-generated/philosophy_graph.html	2731727	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	4	notes/karta-html.md, notes/graf-revizija.md, proekty/rody-oshibok/graf_vyborka.py, proekty/rody-oshibok/graf_test5.py
-html-generated/philosynth-2026-03-11-doc.html	69615	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	notes/karta-html.md, notes/parmenid-levinas.md
+html-generated/philosynth-2026-03-11-doc.html	69615	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	notes/karta-html.md, notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
 html-generated/philosynth-v2.html	81156	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	notes/karta-html.md, notes/geolimpiada.md
-html-generated/philosynth.html	1322142	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	6	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, notes/karta-html.md, ~notes/geolimpiada.md, notes/karta-inbox.md, ~notes/parmenid-levinas.md
+html-generated/philosynth.html	1322142	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	8	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1901.md, notes/karta-html.md, ~notes/geolimpiada.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, ~notes/parmenid-levinas.md
 html-generated/pi-gallery.html	165727	полностью	notes/pi-gallery.md	7	diary/2026-10-18-1457.md, notes/pi-gallery.md, notes/karta-html.md, notes/atomnye-modeli.md, proekty/rody-oshibok/README.md, proekty/proverki/README.md, proekty/proverki/pi_gallery.py
 html-generated/providence.html	136373	частично	notes/providence-ssylki.md	7	diary/2026-10-18-0737.md, notes/slova-mutanty.md, notes/karta-html.md, notes/pismo-avtoru-podrobno.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/rody-oshibok/test11-perepis.tsv
 html-generated/pseudophilosophy_generator.html	197045	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/karta-html.md
@@ -2915,7 +2915,7 @@ html-generated/waves/moon_elev.png	275619	частично	дневник 2026-1
 html-generated/waves/venus_color.jpg	178157	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/venus_elev.png	240160	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/wave_lab.html	272350	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	1	diary/2026-10-18-1901.md
-html-generated/webmap/README.md	2559	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+html-generated/webmap/README.md	2559	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 html-generated/webmap/app.js	29445	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/webmap/index.html	4853	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 html-generated/webmap/style.css	6375	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -2940,7 +2940,7 @@ html-generated/webmap/assets/meta.json	242	?	notes/karta-html.md (каталог
 html-generated/webmap/assets/rankings.json	45068	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/webmap/assets/rankings2.json	44886	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 hwph-xml/MANUAL.md	65507	не упомянут		0	
-hwph-xml/README.md	17463	?		17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/README.md	17463	?		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 hwph-xml/build_site.cmd	4040	не упомянут		0	
 hwph-xml/build_site.sh	2242	не упомянут		0	
 hwph-xml/compare.py	5490	не упомянут		0	
@@ -2951,7 +2951,7 @@ hwph-xml/serve.cmd	1575	не упомянут		0
 hwph-xml/serve.sh	683	не упомянут		0	
 hwph-xml/site.xml	181530917	?		2	notes/ext-opis.md, proekty/instrumenty/hwph_statya.py
 hwph-xml/split.py	738	?		4	~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/hwph_statya.py
-hwph-xml/bridge/README.md	16336	?		17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/bridge/README.md	16336	?		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 hwph-xml/bridge/SPEC.md	118214	не упомянут		0	
 hwph-xml/bridge/build_concept_map.py	4620	не упомянут		0	
 hwph-xml/bridge/build_phil_map.py	1867	не упомянут		0	
@@ -3286,7 +3286,7 @@ hwph-xml/philosphaira_decisions/hwph/R2-review.md	18417	не упомянут		0
 hwph-xml/philosphaira_decisions/hwph/R3-concepts.json	5767	не упомянут		0	
 hwph-xml/philosphaira_decisions/hwph/R3-fix.json	5124	не упомянут		0	
 hwph-xml/philosphaira_decisions/hwph/R3-review.md	20843	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/README.md	14391	?		17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/philosphaira_decisions/hwph/README.md	14391	?		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 hwph-xml/saxon/saxon-he-11.7.jar	5218107	не упомянут		0	
 hwph-xml/saxon/xmlresolver-5.3.3-data.jar	1033122	не упомянут		0	
 hwph-xml/saxon/xmlresolver-5.3.3.jar	167889	не упомянут		0	
@@ -3423,7 +3423,7 @@ lleo_dip/pushk.txt	232313	частично	notes/sito-2020.md	1	notes/sito-2020.
 lleo_dip/sneg.RTM	149	частично	notes/sito-2020.md	0	
 lleo_dip/vizb.rtm	123	частично	notes/sito-2020.md	0	
 lleo_dip/ыкпувка.txt	2418	частично	notes/sito-2020.md	0	
-lleo_poet_bundle/README.md	2628	бегло	дневник 2026-10-18-0737	19	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-0343.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+lleo_poet_bundle/README.md	2628	бегло	дневник 2026-10-18-0737	20	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-0343.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 lleo_poet_bundle/base_ru.txt	60887	бегло	дневник 2026-10-18-0737	4	diary/2026-10-18-0737.md, proekty/hokku/sverka.py, proekty/hokku/udar.py, proekty/hokku/README.md
 lleo_poet_bundle/lleo_poet.html	150295	бегло	дневник 2026-10-18-0737	8	diary/2026-10-18-1640.md, diary/2026-10-18-0343.md, diary/2026-10-18-0408.md, notes/krumme-sieg.md, notes/karta-inbox.md, proekty/hokku/sverka.py, proekty/hokku/udar.py, proekty/hokku/README.md
 lleo_poet_bundle/bases/base_de.txt	675972	бегло	дневник 2026-10-18-0737	0	
@@ -3435,7 +3435,7 @@ lleo_poet_bundle/bases/base_ru.txt	43056573	бегло	дневник 2026-10-18
 lleo_poet_bundle/bases/meters.txt	628	бегло	дневник 2026-10-18-0737	0	
 lleo_poet_bundle/docs/COMPARISON_ru_forms.md	7070	бегло	дневник 2026-10-18-0737	0	
 lleo_poet_bundle/docs/MERGE_ru.md	4422	бегло	дневник 2026-10-18-0737	0	
-lleo_poet_bundle/docs/README.md	7747	бегло	дневник 2026-10-18-0737	19	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+lleo_poet_bundle/docs/README.md	7747	бегло	дневник 2026-10-18-0737	20	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 lleo_poet_bundle/docs/SPEC_multibase.md	6622	бегло	дневник 2026-10-18-0737	0	
 metamystic-dictionary-extended/metamystic-dictionary-1.txt	4897	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metamystic-dictionary-10(1).txt	10185	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
@@ -3455,190 +3455,190 @@ metamystic-dictionary-extended/metamystic-dictionary-7.txt	7377	бегло	дн�
 metamystic-dictionary-extended/metamystic-dictionary-8.txt	8876	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metamystic-dictionary-9.txt	8855	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metaphilosophic-metamystic-dictionary.txt	116231	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
-philosophical-concepts-omnidirectional/README.md	30217	?		17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-philosophical-concepts-omnidirectional/philosophical-concepts-schema.md	25907	не упомянут		0	
-philosophical-concepts-omnidirectional/philosophy-service-documentation.md	67117	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/claude-interaction.mmd	7280	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/claude-interface.tsx	26079	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/claude-requests.js	35046	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/concept-graph-visualization.tsx	55414	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/db-schema.mmd	5636	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/deployment-architecture.mmd	2961	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/docker-compose-config.yml	18030	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/document-db-schema.json	27201	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/element-validation-flow.mmd	2524	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/graph-db-schema.mmd	7307	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/philosophy-service-architecture.md	62115	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/relational-db-schema.mmd	5754	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/system-architecture.mmd	4591	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/ui-architecture.mmd	5656	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/user-flow.mmd	15700	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/claude-integration-analysis.md	41707	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/comparative-analysis.md	48581	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/conclusions-recommendations.md	27988	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/data-storage-analysis.md	22353	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/infrastructure-deployment-analysis.md	28042	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/microservices-analysis.md	30893	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/practical-implementation-examples.md	68844	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/processes-data-flows-analysis.md	46471	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/security-scalability-analysis.md	43545	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/system-architecture-analysis.md	11102	не упомянут		0	
-philosophical-concepts-omnidirectional/architecture/analysis/ui-analysis.md	31196	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/development-by-phases.md	79017	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/development-strategy.md	39639	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/development-strategy.mmd	10744	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/file-structure.md	68502	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/structure-diagram.mmd	3957	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/structure-explanation.md	9017	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/structure-interactions.mmd	8264	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/docker-compose.override.yml	4056	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/docker-compose.yml	12506	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/dockerfile.dev	1073	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/dockerfile.prod	1451	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/phase-1_sequence.md	10460	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/migrations/00001_create_collections.js	28622	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/migrations/00002_create_indexes.js	14002	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/migrations/00003_add_validations.js	24543	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/categoryDescriptions.js	19895	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/conceptAnalyses.js	22735	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/relationshipDescriptions.js	21360	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/theses.js	15906	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00001_create_constraints.cypher	5295	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00002_create_indexes.cypher	7604	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00003_concept_nodes.cypher	5100	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00004_category_nodes.cypher	9972	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00005_relationship_types.cypher	10964	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/scripts/backup.sh	16013	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/scripts/init.sh	15704	?		1	~proekty/cherv/README.md
-philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/scripts/restore.sh	17409	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00001_create_users_table.sql	5168	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00002_create_concepts_table.sql	8203	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00003_create_philosophers_table.sql	8425	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00004_create_traditions_table.sql	9803	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00005_create_concept_philosophers_table.sql	9257	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00006_create_concept_traditions_table.sql	11322	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00007_create_user_activity_table.sql	10023	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00008_create_claude_interactions_table.sql	11303	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00009_create_concept_names_table.sql	9803	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00010_create_concept_origins_table.sql	13226	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00011_create_transformations_table.sql	12730	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00012_create_concept_evolutions_table.sql	14114	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00013_create_historical_conmtexts_table.sql	14336	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00014_create_practical_applications_table.sql	15598	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00015_create_dialogue_interpretations_table.sql	15058	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00016_create_dialogue_participants_table.sql	14431	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00017_create_category_templates_table.sql	16402	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00018_create_relationship_type_templates_table.sql	18117	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00019_add_api_key_to_users.sql	7655	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00020_create_shared_api_keys_table.sql	13001	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00021_create_api_key_usage_table.sql	13464	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/scripts/backup.sh	13411	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/scripts/migrate.sh	21885	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/scripts/restore.sh	18388	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/init/mongo/init.js	9122	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/init/neo4j/init.sh	1869	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/init/postgres/init.sql	2407	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/errorCodes.js	7955	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/philosophyConstants.js	9571	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/roles.js	10411	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/statuses.js	6212	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/auth/jwtHelper.js	11663	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/auth/roleHelper.js	11938	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/mongodb/client.js	21056	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/mongodb/queryBuilder.js	16602	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/neo4j/cypherBuilder.js	18441	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/neo4j/driver.js	16628	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/postgres/client.js	13649	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/postgres/queryBuilder.js	17768	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/redis/cacheHelper.js	16388	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/redis/client.js	15251	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/appError.js	4703	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/httpErrors.js	5608	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/notFoundError.js	7005	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/validationError.js	7283	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/formatting/dateFormatters.js	10685	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/formatting/stringFormatters.js	11254	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/http/client.js	14727	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/http/responseFormatter.js	14942	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/logging/logger.js	5560	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/logging/requestLogger.js	7652	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/consumers.js	12945	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/producers.js	17262	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/rabbitmq/channelManager.js	13672	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/rabbitmq/connection.js	11520	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/metrics/counters.js	10339	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/metrics/prometheus.js	10158	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/security/apiKeyEncryption.js	12430	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/security/apiKeyValidator.js	13875	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/validators.js	14935	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	?		26	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	?		1	~notes/karta-html.md
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	?		26	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/api-tests/api-test-template.js	15864	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/clients/service-client-template.js	13642	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/controllers/crud-controller-template.js	13122	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/controllers/specialized-controller-template.js	12631	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/repositories/mongodb-repository-template.js	18308	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/repositories/neo4j-repository-template.js	16597	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/repositories/postgres-repository-template.js	15821	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/services/crud-service-template.js	18591	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/services/specialized-service-template.js	21277	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/tests/integration-test-template.js	18453	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/tests/unit-test-template.js	14672	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/docs/api-documentation-template.md	10282	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/components/base-component-template.ts	14206	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/components/form-component-template.ts	17305	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/components/list-component-template.ts	23897	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/hooks/use-api-template.ts	15251	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/hooks/use-form-template.ts	18990	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/services/api-service-template.ts	15878	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/services/entity-service-template.ts	13640	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/phase-2_sequence.md	23143	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/phase-2_strategy.md	30118	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/dockerfile	1065	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/package.json	1538	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/server.js	2745	?		1	~proekty/instrumenty/brauzer/snimok.py
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/config/db.js	6261	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/config/index.js	3670	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/activityController.js	4847	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/authController.js	6265	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/profileController.js	3561	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/userController.js	3912	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/auth.js	5372	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/errorHandler.js	4620	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/rateLimiter.js	4987	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/validation.js	5320	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/models/activityModel.js	5242	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/models/userModel.js	6482	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/repositories/activityRepository.js	9348	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/repositories/userRepository.js	9744	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/activityRoutes.js	1621	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/authRoutes.js	2091	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/index.js	707	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/profileRoutes.js	1386	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/userRoutes.js	1578	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/activityService.js	8945	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/authService.js	9983	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/passwordService.js	10711	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/tokenService.js	8135	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/userService.js	9086	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/utils/passwordUtil.js	8007	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/utils/tokenUtil.js	6257	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/activitySchemas.js	1598	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/authSchemas.js	4486	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/profileSchemas.js	1738	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/userSchemas.js	3937	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/controllers/userController.test.js	5650	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/repositories/userRepository.test.js	8747	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/routes/userRoutes.tests.js	19885	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/services/userService.test.js	8774	не упомянут		0	
+philosophical-concepts-omnidirectional/README.md	30217	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosophical-concepts-omnidirectional/philosophical-concepts-schema.md	25907	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/philosophy-service-documentation.md	67117	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/claude-interaction.mmd	7280	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/claude-interface.tsx	26079	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/claude-requests.js	35046	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/concept-graph-visualization.tsx	55414	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/db-schema.mmd	5636	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/deployment-architecture.mmd	2961	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/docker-compose-config.yml	18030	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/document-db-schema.json	27201	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/element-validation-flow.mmd	2524	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/graph-db-schema.mmd	7307	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/philosophy-service-architecture.md	62115	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/relational-db-schema.mmd	5754	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/system-architecture.mmd	4591	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/ui-architecture.mmd	5656	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/user-flow.mmd	15700	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/claude-integration-analysis.md	41707	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/comparative-analysis.md	48581	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/conclusions-recommendations.md	27988	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/data-storage-analysis.md	22353	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/infrastructure-deployment-analysis.md	28042	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/microservices-analysis.md	30893	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/practical-implementation-examples.md	68844	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/processes-data-flows-analysis.md	46471	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/security-scalability-analysis.md	43545	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/system-architecture-analysis.md	11102	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/architecture/analysis/ui-analysis.md	31196	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/development-by-phases.md	79017	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/development-strategy.md	39639	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/development-strategy.mmd	10744	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/file-structure.md	68502	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/structure-diagram.mmd	3957	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/structure-explanation.md	9017	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/structure-interactions.mmd	8264	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/docker-compose.override.yml	4056	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/docker-compose.yml	12506	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/dockerfile.dev	1073	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/dockerfile.prod	1451	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/phase-1_sequence.md	10460	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/migrations/00001_create_collections.js	28622	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/migrations/00002_create_indexes.js	14002	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/migrations/00003_add_validations.js	24543	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/categoryDescriptions.js	19895	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/conceptAnalyses.js	22735	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/relationshipDescriptions.js	21360	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/mongodb/schemas/theses.js	15906	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00001_create_constraints.cypher	5295	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00002_create_indexes.cypher	7604	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00003_concept_nodes.cypher	5100	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00004_category_nodes.cypher	9972	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/migrations/00005_relationship_types.cypher	10964	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/scripts/backup.sh	16013	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/scripts/init.sh	15704	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	1	~proekty/cherv/README.md
+philosophical-concepts-omnidirectional/structure/Phase-1/db/neo4j/scripts/restore.sh	17409	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00001_create_users_table.sql	5168	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00002_create_concepts_table.sql	8203	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00003_create_philosophers_table.sql	8425	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00004_create_traditions_table.sql	9803	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00005_create_concept_philosophers_table.sql	9257	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00006_create_concept_traditions_table.sql	11322	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00007_create_user_activity_table.sql	10023	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00008_create_claude_interactions_table.sql	11303	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00009_create_concept_names_table.sql	9803	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00010_create_concept_origins_table.sql	13226	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00011_create_transformations_table.sql	12730	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00012_create_concept_evolutions_table.sql	14114	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00013_create_historical_conmtexts_table.sql	14336	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00014_create_practical_applications_table.sql	15598	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00015_create_dialogue_interpretations_table.sql	15058	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00016_create_dialogue_participants_table.sql	14431	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00017_create_category_templates_table.sql	16402	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00018_create_relationship_type_templates_table.sql	18117	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00019_add_api_key_to_users.sql	7655	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00020_create_shared_api_keys_table.sql	13001	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/migrations/00021_create_api_key_usage_table.sql	13464	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/scripts/backup.sh	13411	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/scripts/migrate.sh	21885	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/db/postgres/scripts/restore.sh	18388	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/init/mongo/init.js	9122	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/init/neo4j/init.sh	1869	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/init/postgres/init.sql	2407	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/errorCodes.js	7955	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/philosophyConstants.js	9571	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/roles.js	10411	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/constants/statuses.js	6212	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/auth/jwtHelper.js	11663	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/auth/roleHelper.js	11938	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/mongodb/client.js	21056	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/mongodb/queryBuilder.js	16602	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/neo4j/cypherBuilder.js	18441	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/neo4j/driver.js	16628	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/postgres/client.js	13649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/postgres/queryBuilder.js	17768	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/redis/cacheHelper.js	16388	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/db/redis/client.js	15251	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/appError.js	4703	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/httpErrors.js	5608	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/notFoundError.js	7005	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/errors/validationError.js	7283	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/formatting/dateFormatters.js	10685	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/formatting/stringFormatters.js	11254	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/http/client.js	14727	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/http/responseFormatter.js	14942	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/logging/logger.js	5560	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/logging/requestLogger.js	7652	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/consumers.js	12945	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/producers.js	17262	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/rabbitmq/channelManager.js	13672	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/messaging/rabbitmq/connection.js	11520	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/metrics/counters.js	10339	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/metrics/prometheus.js	10158	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/security/apiKeyEncryption.js	12430	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/security/apiKeyValidator.js	13875	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/validators.js	14935	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	27	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	1	~notes/karta-html.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	27	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/api-tests/api-test-template.js	15864	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/clients/service-client-template.js	13642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/controllers/crud-controller-template.js	13122	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/controllers/specialized-controller-template.js	12631	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/repositories/mongodb-repository-template.js	18308	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/repositories/neo4j-repository-template.js	16597	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/repositories/postgres-repository-template.js	15821	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/services/crud-service-template.js	18591	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/services/specialized-service-template.js	21277	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/tests/integration-test-template.js	18453	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/tests/unit-test-template.js	14672	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/docs/api-documentation-template.md	10282	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/components/base-component-template.ts	14206	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/components/form-component-template.ts	17305	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/components/list-component-template.ts	23897	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/hooks/use-api-template.ts	15251	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/hooks/use-form-template.ts	18990	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/services/api-service-template.ts	15878	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-1/templates/frontend/services/entity-service-template.ts	13640	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/phase-2_sequence.md	23143	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/phase-2_strategy.md	30118	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/dockerfile	1065	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/package.json	1538	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/server.js	2745	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	1	~proekty/instrumenty/brauzer/snimok.py
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/config/db.js	6261	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/config/index.js	3670	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/activityController.js	4847	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/authController.js	6265	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/profileController.js	3561	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/controllers/userController.js	3912	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/auth.js	5372	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/errorHandler.js	4620	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/rateLimiter.js	4987	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/middleware/validation.js	5320	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/models/activityModel.js	5242	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/models/userModel.js	6482	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/repositories/activityRepository.js	9348	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/repositories/userRepository.js	9744	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/activityRoutes.js	1621	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/authRoutes.js	2091	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/index.js	707	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/profileRoutes.js	1386	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/routes/userRoutes.js	1578	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/activityService.js	8945	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/authService.js	9983	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/passwordService.js	10711	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/tokenService.js	8135	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/services/userService.js	9086	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/utils/passwordUtil.js	8007	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/utils/tokenUtil.js	6257	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/activitySchemas.js	1598	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/authSchemas.js	4486	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/profileSchemas.js	1738	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/src/validation/userSchemas.js	3937	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/controllers/userController.test.js	5650	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/repositories/userRepository.test.js	8747	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/routes/userRoutes.tests.js	19885	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
+philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/services/userService.test.js	8774	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosphaira/package-lock.json	29840	не упомянут		0	
 philosphaira/package.json	1100	не упомянут		0	
-philosphaira/philosphaira.zip	3875713	?		10	diary/2026-10-18-0408.md, notes/gpt-koren.md, notes/karta-inbox.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/sverka-wikidata/README.md, proekty/rody-oshibok/test9_spisok.py, proekty/rody-oshibok/test8_itog.py
+philosphaira/philosphaira.zip	3875713	?		11	diary/2026-10-18-0408.md, notes/gpt-koren.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/sverka-wikidata/README.md, proekty/rody-oshibok/test9_spisok.py
 philosphaira/readme.md	133470	не упомянут		0	
 philosphaira/app/.nojekyll	0	не упомянут		0	
 philosphaira/app/_probe-rig.js	15166	не упомянут		0	
@@ -3658,7 +3658,7 @@ philosphaira/app/css/08-stats-results.css	14974	не упомянут		0
 philosphaira/app/css/09-tension.css	5959	не упомянут		0	
 philosphaira/app/css/10-forms.css	16654	не упомянут		0	
 philosphaira/app/css/11-multiuser.css	12339	не упомянут		0	
-philosphaira/app/data/concepts.json	957366	?		26	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosphaira/app/data/concepts.json	957366	?		27	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
 philosphaira/app/data/nodePositions.json	36219	не упомянут		0	
 philosphaira/app/data/philosophers.json	463934	?		2	proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py
 philosphaira/app/data/relationTypes.json	3108	?		1	proekty/sverka-wikidata/sverka.py
@@ -3811,7 +3811,7 @@ philosphaira/decisions/exposure.json	8492	не упомянут		0
 philosphaira/decisions/layers.json	2722	не упомянут		0	
 philosphaira/decisions/plan_signs.json	17425	не упомянут		0	
 philosphaira/decisions/tradition_kinds.draft.json	4401	не упомянут		0	
-philosphaira/decisions/sources/wittgenstein/README.md	4139	?		18	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+philosphaira/decisions/sources/wittgenstein/README.md	4139	?		19	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 philosphaira/decisions/sources/wittgenstein/W1-add.json	1917	не упомянут		0	
 philosphaira/decisions/sources/wittgenstein/W1-fix.json	1305	не упомянут		0	
 philosphaira/decisions/sources/wittgenstein/W1-provenance.json	11531	не упомянут		0	
@@ -3839,7 +3839,7 @@ philosphaira/doc/build-ops.md	32290	не упомянут		0
 philosphaira/doc/build.md	46107	?		1	~notes/parmenid-levinas.md
 philosphaira/doc/gaps-2026-08-27.md	14032	не упомянут		0	
 philosphaira/doc/github-pages.md	6558	не упомянут		0	
-philosphaira/doc/history.md	394332	?		5	diary/2026-10-18-0842.md, notes/imyaslavie.md, ~notes/karta-html.md, notes/karta-inbox.md, notes/parmenid-levinas.md
+philosphaira/doc/history.md	394332	?		6	diary/2026-10-18-0842.md, notes/imyaslavie.md, ~notes/karta-html.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
 philosphaira/doc/module-ops.md	9703	не упомянут		0	
 philosphaira/doc/plan-next.md	146125	не упомянут		0	
 philosphaira/doc/server-design.md	16489	не упомянут		0	
@@ -3853,7 +3853,7 @@ philosphaira/mapping/map_tree.md	159193	не упомянут		0
 philosphaira/mapping/module-spec.md	124684	не упомянут		0	
 philosphaira/server/.env.example	6465	?		1	~proekty/instrumenty/brauzer/snimok.py
 philosphaira/server/.gitignore	19	?		2	diary/2026-10-17-1900.md, diary/2026-10-18-0408.md
-philosphaira/server/README.md	19279	?		17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosphaira/server/README.md	19279	?		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 philosphaira/server/accept.sh	3464	не упомянут		0	
 philosphaira/server/package-lock.json	55423	не упомянут		0	
 philosphaira/server/package.json	2133	не упомянут		0	
@@ -4041,7 +4041,7 @@ philosphaira/tools/probes/tip_probe.mjs	2470	не упомянут		0
 philosphaira/tools/probes/tradition_trial.mjs	15665	не упомянут		0	
 philosynth/.env.example	5051	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/NEXT-CONTEXT.md	75937	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, notes/karta-inbox.md
-philosynth/README.md	28767	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	20	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md
+philosynth/README.md	28767	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	21	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md
 philosynth/docker-compose.yml	810	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/drizzle.config.ts	477	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/env.local.example	2254	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4184,7 +4184,7 @@ philosynth/docs/04-code-reuse-map.md	97572	бегло	notes/karta-inbox.md (READ
 philosynth/docs/05-file-structure.md	94400	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/docs/06-dev-strategy.md	56994	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/docs/07-conversation-protocol.md	1102864	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	notes/parmenid-levinas.md
-philosynth/docs/08-history.md	620781	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	2	notes/karta-inbox.md, notes/parmenid-levinas.md
+philosynth/docs/08-history.md	620781	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
 philosynth/docs/09-lessons.md	190659	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	2	diary/2026-10-18-0510.md, notes/karta-inbox.md
 philosynth/docs/fragments-for-conversations/0.1-monorepo-db.html	78455	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/docs/fragments-for-conversations/0.3-seed-prompts-configs.js	161633	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4240,8 +4240,8 @@ philosynth/packages/shared/i18n/locales.ts	3267	бегло	notes/karta-inbox.md 
 philosynth/packages/shared/i18n/strings.json	1062463	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/t.ts	10690	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/generated/data-keys.ts	42503	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	45	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md, ~notes/slova-mutanty.md, ~notes/zhizn-figury.md
-philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	53	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md, ~notes/slova-mutanty.md, ~notes/zhizn-figury.md
+philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	46	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md, ~notes/slova-mutanty.md, ~notes/zhizn-figury.md
+philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	54	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md, ~notes/slova-mutanty.md, ~notes/zhizn-figury.md
 philosynth/packages/shared/types/admin.ts	2481	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/billing.ts	5025	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/edit-plan.ts	12624	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4253,7 +4253,7 @@ philosynth/packages/shared/types/modes.ts	2967	бегло	notes/karta-inbox.md (
 philosynth/packages/shared/types/prompts.ts	2743	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/recommendations.ts	7912	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/section.ts	6996	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	proekty/instrumenty/html2txt.py
-philosynth/packages/shared/types/synthesis.ts	13402	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
+philosynth/packages/shared/types/synthesis.ts	13402	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	notes/rodoslovnaya-sinteza.md
 philosynth/packages/shared/types/ws-messages.ts	11246	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/cardinality.ts	3709	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/colorize-log.ts	18214	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4263,7 +4263,7 @@ philosynth/packages/shared/utils/transliterate.ts	1485	бегло	notes/karta-in
 philosynth/packages/shared/utils/version.ts	1996	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/visibility.ts	1917	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/sample/PS-6933-6RIK-vmeschayuschiy-razlom-rgG2.html	1150098	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	notes/karta-html.md
-philosynth/sample/README.md	1156	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosynth/sample/README.md	1156	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 philosynth/scripts/package.json	499	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/tsconfig.json	348	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/checks/check-dotfiles.mjs	2693	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4274,7 +4274,7 @@ philosynth/scripts/extract/extract-by-name.py	16828	бегло	notes/karta-inbox
 philosynth/scripts/extract/extract-export-assets.mjs	10549	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/extract/extract-section-templates.mjs	40087	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/extract/extract-seed-data.mjs	24217	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/scripts/i18n/README.md	20038	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosynth/scripts/i18n/README.md	20038	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 philosynth/scripts/i18n/build-localized.mjs	7715	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/i18n/extract-ui-strings.mjs	5993	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/i18n/i18n-add-lang.mjs	8102	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4524,7 +4524,7 @@ philosynth/server/utils/topo-sort.ts	15104	бегло	notes/karta-inbox.md (READ
 philosynth/server/ws/connection-manager.ts	6259	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/ws/handler.ts	24601	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/ws/stream-state.ts	4437	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/source/philosynth.html	1348166	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	2	notes/karta-html.md, notes/karta-inbox.md
+philosynth/source/philosynth.html	1348166	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	notes/karta-html.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md
 philosynth/tests/modes-fixture.mjs	2641	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tests/package.json	615	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tests/smoke-1.4.mts	8032	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4698,7 +4698,7 @@ scad/Kruzhochek7.scad	2093	частично	proekty/kruzhochek/README.md	0
 scad/Kruzhochek8.scad	2040	частично	proekty/kruzhochek/README.md	0	
 scad/Kruzhochek9.scad	2040	частично	proekty/kruzhochek/README.md	0	
 scad/Kub.scad	480	частично	proekty/kruzhochek/README.md	0	
-translation-chaos/README.md	13159	бегло	notes/karta-inbox.md (README)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+translation-chaos/README.md	13159	бегло	notes/karta-inbox.md (README)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 translation-chaos/env.example	1596	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/package.json	848	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/server.js	2798	бегло	notes/karta-inbox.md (README)	0	
@@ -4725,7 +4725,7 @@ translation-chaos/frontend/js/export.js	1204	бегло	notes/karta-inbox.md (RE
 translation-chaos/frontend/js/game-modes.js	16501	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/visualizations.js	14126	бегло	notes/karta-inbox.md (README)	0	
 wormlisp/Makefile	1083	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/README.md	15466	частично	proekty/cherv/README.md (запущен; код — выборочно)	19	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+wormlisp/README.md	15466	частично	proekty/cherv/README.md (запущен; код — выборочно)	20	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 wormlisp/worm.asd	8943	частично	proekty/cherv/README.md (запущен; код — выборочно)	10	~diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, ~diary/2026-10-18-0408.md, ~notes/ext-opis.md, ~notes/pismo-avtoru.md, ~notes/pismo-avtoru-podrobno.md, ~notes/karta-inbox.md, ~proekty/cherv/hronofoto.py
 wormlisp/anatomy/.gitkeep	0	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/anatomy/muscles.sexp	11188	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4753,7 +4753,7 @@ wormlisp/configs/proprio-water-anterior.sexp	457	частично	proekty/cherv/
 wormlisp/configs/proprio-water.sexp	292	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/configs/rhythm-agar.sexp	429	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/configs/rhythm-water.sexp	376	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/docs/README.md	1448	частично	proekty/cherv/README.md (запущен; код — выборочно)	19	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+wormlisp/docs/README.md	1448	частично	proekty/cherv/README.md (запущен; код — выборочно)	20	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 wormlisp/docs/architecture.md	165580	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/docs/design.md	64603	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/docs/parameters.md	97893	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4763,13 +4763,13 @@ wormlisp/params/agar-a-v1.sexp	1048	частично	proekty/cherv/README.md (з
 wormlisp/params/agar-c-v1.sexp	651	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/README.md
 wormlisp/params/base-v1.sexp	9805	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/params/water-v1.sexp	791	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/README.md
-wormlisp/reference/boyle2012-wormsim/README.md	1914	частично	proekty/cherv/README.md (запущен; код — выборочно)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+wormlisp/reference/boyle2012-wormsim/README.md	1914	частично	proekty/cherv/README.md (запущен; код — выборочно)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 wormlisp/reference/boyle2012-wormsim/medium-0.001.wcon	268679	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.01.wcon	266579	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.1.wcon	275135	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.wcon	270902	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-1.wcon	274500	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/reference/schafer-n2-agar/README.md	2178	частично	proekty/cherv/README.md (запущен; код — выборочно)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+wormlisp/reference/schafer-n2-agar/README.md	2178	частично	proekty/cherv/README.md (запущен; код — выборочно)	19	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 wormlisp/reference/schafer-n2-agar/track.wcon	2661399	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/scripts/bench.lisp	2364	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/scripts/boyle-wormsim.sh	1864	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4811,7 +4811,7 @@ wormlisp/src/core/conditions.lisp	2165	частично	proekty/cherv/README.md 
 wormlisp/src/core/log.lisp	2443	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/sverka-wikidata/sverka.py
 wormlisp/src/core/model.lisp	7770	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/core/package.lisp	1828	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/core/project.lisp	1631	частично	proekty/cherv/README.md (запущен; код — выборочно)	14	diary/2026-10-18-1640.md, notes/ext-opis.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, notes/vitgenshtejn-sintez.md, notes/pismo-avtoru-podrobno.md, proekty/rody-oshibok/pu_razbor.py, proekty/rody-oshibok/test10-perepis.tsv
+wormlisp/src/core/project.lisp	1631	частично	proekty/cherv/README.md (запущен; код — выборочно)	15	diary/2026-10-18-1640.md, notes/ext-opis.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, notes/vitgenshtejn-sintez.md, notes/pismo-avtoru-podrobno.md, notes/rodoslovnaya-sinteza.md, proekty/rody-oshibok/pu_razbor.py
 wormlisp/src/core/types.lisp	2081	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/sverka-wikidata/sverka.py
 wormlisp/src/dsl/component.lisp	9278	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/conditions.lisp	5428	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4826,7 +4826,7 @@ wormlisp/src/io/package.lisp	1493	частично	proekty/cherv/README.md (за
 wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	14	~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-0408.md, ~notes/krumme-sieg.md, ~notes/pismo-avtoru-podrobno.md, ~proekty/cherv/hronofoto.py, ~proekty/cherv/README.md
 wormlisp/src/ir/derivative.lisp	5033	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~diary/2026-10-18-0510.md
-wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	6	~notes/krumme-sieg.md, ~notes/karta-html.md, ~notes/karta-inbox.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/graf_test5.py, ~proekty/rody-oshibok/README.md
+wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	8	~diary/2026-10-18-1901.md, ~notes/krumme-sieg.md, ~notes/karta-html.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/graf_test5.py, ~proekty/rody-oshibok/README.md
 wormlisp/src/ir/package.lisp	1728	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/primitives.lisp	6250	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/params/catalog.lisp	15836	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4936,7 +4936,7 @@ wormlisp/tests/data/trial-model.lisp	4765	частично	proekty/cherv/README.
 wormlisp/tests/data/batch/slow-sweep.sexp	224	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/batch/tiny-sweep.sexp	262	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/batch/tiny.sexp	287	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/tests/data/wcon/README.md	504	частично	proekty/cherv/README.md (запущен; код — выборочно)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+wormlisp/tests/data/wcon/README.md	504	частично	proekty/cherv/README.md (запущен; код — выборочно)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 wormlisp/tests/data/wcon/maximal_0.wcon	190	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/wcon/minimal.wcon	48	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/wcon/multiworm.wcon	3543	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -5657,7 +5657,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/Atanquesta_files/986107742-mobileweb_binary_i18n_mobileweb_binary_chunk__ru.js	188456	не упомянут		0	
 Доклад/Atanquesta_files/unnamed.png	444	не упомянут		0	
 Доклад/ERTP/LICENSE	1097	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/README.md	154	бегло	notes/smesh-otchet.md (только смесь букв)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+Доклад/ERTP/README.md	154	бегло	notes/smesh-otchet.md (только смесь букв)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 Доклад/ERTP/index.html	8953	бегло	notes/smesh-otchet.md (только смесь букв)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/.git/COMMIT_EDITMSG	25	служебное		0	
 Доклад/ERTP/.git/FETCH_HEAD	89	служебное		0	

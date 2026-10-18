@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1467, служебное — 1441, не упомянут — 1275, бегло — 1005, полностью — 800, ? — 205, нет — 2.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1467, служебное — 1441, бегло — 1186, не упомянут — 1100, полностью — 800, ? — 199, нет — 2.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -115,9 +115,9 @@
 | `lleo_dip/` | 54 | 1 МБ | частично | 16 | notes/sito-2020.md | `notes/sito-2020.md`, `notes/karta-inbox.md` |
 | `lleo_poet_bundle/` | 14 | 46 МБ | бегло | 5 | дневник 2026-10-18-0737 | `diary/2026-10-18-0737.md`, `diary/2026-10-18-0408.md` |
 | `metamystic-dictionary-extended/` | 18 | 252 КБ | бегло | 0 | дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py) |  |
-| `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | не упомянут 175, ? 6 | 3 |  | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |
+| `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | бегло | 3 | notes/rodoslovnaya-sinteza.md (README, состав) | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |
 | `philosphaira/` | 403 | 19 МБ | не упомянут 354, ? 41, служебное 8 | 22 |  | `notes/gpt-koren.md`, `proekty/sverka-wikidata/sverka.py` |
-| `philosynth/` | 599 | 21 МБ | бегло | 18 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `diary/2026-10-18-0737.md` |
+| `philosynth/` | 599 | 21 МБ | бегло | 19 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `notes/rodoslovnaya-sinteza.md` |
 | `scad/` | 60 | 127 КБ | частично | 3 | proekty/kruzhochek/README.md | `proekty/kruzhochek/README.md`, `diary/2026-10-18-0510.md` |
 | `translation-chaos/` | 26 | 185 КБ | бегло | 3 | notes/karta-inbox.md (README) | `notes/ranatar.md`, `diary/2026-10-18-0510.md` |
 | `wormlisp/` | 920 | 15 МБ | служебное 684, частично 236 | 27 | proekty/cherv/README.md (запущен; код — выборочно) | `proekty/cherv/README.md`, `diary/2026-10-18-0408.md` |
