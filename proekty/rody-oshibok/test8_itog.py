@@ -3,12 +3,14 @@
 import sys
 from collections import Counter
 
-V = [l.rstrip("\n").split("|", 1) for l in open("test8-verdikty.txt", encoding="utf-8") if l.strip()]
-L = [l.rstrip("\n").split("\t") for l in open("test8-vyborka.tsv", encoding="utf-8")]
+VF = sys.argv[1] if len(sys.argv) > 1 else "test8-verdikty.txt"   # тест 9: test9-verdikty.txt test9-perepis.tsv
+TF = sys.argv[2] if len(sys.argv) > 2 else "test8-vyborka.tsv"
+V = [l.rstrip("\n").split("|", 1) for l in open(VF, encoding="utf-8") if l.strip()]
+L = [l.rstrip("\n").split("\t") for l in open(TF, encoding="utf-8")]
 assert len(L) - 1 == len(V), (len(L), len(V))
 for r, (a, b) in zip(L[1:], V):
     r[4], r[5] = a, b
-with open("test8-vyborka.tsv", "w", encoding="utf-8") as f:
+with open(TF, "w", encoding="utf-8") as f:
     for r in L:
         f.write("\t".join(r) + "\n")
 
