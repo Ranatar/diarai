@@ -817,10 +817,10 @@ Synthesises-of-concepts/various/schopenhauer-focault.md	101850	не упомян
 Synthesises-of-concepts/various/silmaril_game_mechanics.md	56428	не упомянут		0	
 Synthesises-of-concepts/various/suhiya_priskazki.md	21857	?		4	diary/2026-10-18-0607.md, notes/gribnica.md, proekty/gribnica/README.md, proekty/hokku/svoyo-2.md
 Synthesises-of-concepts/various/teubner.md	64725	?		4	diary/2026-10-18-0842.md, notes/petra-dubrava.md, proekty/gribnica/README.md, proekty/hokku/svoyo-4.md
-Synthesises-of-concepts/various/trakl_valinor_fanfic.md	24796	полностью	дневник 2026-10-18-1901 (без проверки)	0	
+Synthesises-of-concepts/various/trakl_valinor_fanfic.md	24796	полностью	дневник 2026-10-18-1901 (без проверки)	2	diary/2026-10-18-1901.md, proekty/hokku/svoyo-13.md
 Synthesises-of-concepts/various/ulanov_reptile.md	29309	не упомянут		0	
 Synthesises-of-concepts/various/vladenie_i_raspredelenie_istiny.md	22840	не упомянут		0	
-Synthesises-of-concepts/various/wishspec-2026-03-05-Хочу-обрести-возможность-умирать-по-собс.md	131881	не упомянут		0	
+Synthesises-of-concepts/various/wishspec-2026-03-05-Хочу-обрести-возможность-умирать-по-собс.md	131881	бегло	дневник 2026-10-18-1901 (§1)	0	
 Synthesises-of-concepts/wittgenstein-hesychasm/1- wittgenstein-biography.md	24194	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/10 - interdisciplinary-applications.md	69731	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/11 - literary-elements.md	77226	не упомянут		0	
@@ -3574,9 +3574,9 @@ philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/v
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	27	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	28	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	1	~notes/karta-html.md
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	27	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	28	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/api-tests/api-test-template.js	15864	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/clients/service-client-template.js	13642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
@@ -3658,7 +3658,7 @@ philosphaira/app/css/08-stats-results.css	14974	не упомянут		0
 philosphaira/app/css/09-tension.css	5959	не упомянут		0	
 philosphaira/app/css/10-forms.css	16654	не упомянут		0	
 philosphaira/app/css/11-multiuser.css	12339	не упомянут		0	
-philosphaira/app/data/concepts.json	957366	?		27	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosphaira/app/data/concepts.json	957366	?		28	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
 philosphaira/app/data/nodePositions.json	36219	не упомянут		0	
 philosphaira/app/data/philosophers.json	463934	?		2	proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py
 philosphaira/app/data/relationTypes.json	3108	?		1	proekty/sverka-wikidata/sverka.py
