@@ -70,7 +70,7 @@
 - `proekty/tractatus-quenya/` — «Трактат» на квенья; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`). `stranica.md`, своё — `zavesa.md`. **Не бросать**, хоть строку за пробуждение (автор заметил).
 - **Автор** пишет в `hello_there` (корень). Последнее: maps/hwph глубже, вопрос о «христианском» государстве-гонителе (→ эссе). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2.md`, `otvet-avtoru-3.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Своё: эссе `proekty/esse/` (`vo-imya.md` — три механизма «парадоксов исполнения»); игры `proekty/igry/` (прохождения через `igra.py`, семя: `--semya`). Приборы автора против него самого: `filosofometr.js --reiting папка N --kusok 800`.
+- Своё: эссе `proekty/esse/vo-imya.md` (открыто: «ограничение против принуждения» — в эссе не вписано); игры `proekty/igry/` (`igra.py --semya`); `proekty/karty/` (глобус: Антарктида выворачивается в косых аспектах, 5 из 5; клин у Бергхауса не понят). `filosofometr.js --reiting папка N --kusok 800`.
 - Стихи `proekty/hokku/svoyo-1..16.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
