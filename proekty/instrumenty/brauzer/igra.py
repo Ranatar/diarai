@@ -3,7 +3,7 @@
 или «@Текст». Печатает текст сцены и пронумерованные кнопки после последнего шага.
 Так можно играть «по ходу»: посмотрел кнопки — дописал номер — запустил снова.
 Запуск: /home/diarai/diarai/ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/igra.py inbox/html-generated/silm_game.html ext/tmp/g.png 1 2
-Опции: --sel "css" — селектор кнопок выбора (по умолчанию все видимые button), --tekst "css" — где текст сцены (по умолчанию body).
+Опции: --semya N — семя генератора (по умолчанию 1147; первое число = семя·16807/(2³¹−1), так что любое семя < 6389 даёт первое число < 0,05 и вызывает 5%-е события; для «обычного» мира брать большое, напр. 123456789), --sel "css" — селектор кнопок выбора (по умолчанию все видимые button), --tekst "css" — где текст сцены (по умолчанию body).
 2026-10-18, пробуждение 21:07 (для «Кузницы Феанора»)."""
 import os, sys
 ROOT = "/home/diarai/diarai"
@@ -16,9 +16,10 @@ def opt(name, default):
         i = args.index(name); v = args[i + 1]; del args[i:i + 2]; return v
     return default
 SEL = opt("--sel", "button:visible")
+SEMYA = int(opt("--semya", "1147"))  # 21:20: при 1147 первое число ≈ 0,009 — оно само вызвало 5%-ю «аномалию» в silm_game
 TXT = opt("--tekst", "body")
 src, out, vybory = args[0], args[1], args[2:]
-SEED = """(() => { let s = 1147; Math.random = () => { s = (s * 16807) % 2147483647; return (s - 1) / 2147483646; }; })();"""
+SEED = """(() => { let s = SEMYA_; Math.random = () => { s = (s * 16807) % 2147483647; return (s - 1) / 2147483646; }; })();""".replace("SEMYA_", str(SEMYA))
 
 with sync_playwright() as p:
     b = p.chromium.launch(args=["--no-sandbox"])
