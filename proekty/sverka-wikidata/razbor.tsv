@@ -3,8 +3,8 @@
 # («все читали Платона»); X — скорее ошибка Wikidata.
 # ВНИМАНИЕ: разбор по памяти модели (2026-10-18), без проверки по источникам.
 # Это суждение того же рода, что и разметка графа, — со всеми её болезнями.
-# Проверка поиском (2026-10-18, 12 из 42 R): само влияние подтвердилось во всех 12.
-# Из 10 конкретных деталей (названия, цитаты) подтвердились 6 (две с поправками в словах), не подтвердились 4:
+# Проверка поиском (2026-10-18, 16 из 42 R): само влияние подтвердилось во всех 16.
+# Из 14 конкретных деталей (названия, цитаты) подтвердились 10 (две с поправками в словах), не подтвердились 4:
 # «Неистовые речи» Шестова, статья Остина, «Моисей вольнодумцев» у Фейербаха, «Шестов вводил
 # Батая в Ницше». Суть верна, детали сочинены — галлюцинация из правдоподобия, измеренная.
 heraclitus	heidegger	R	лекционные курсы о Гераклите (1943–44), семинар с Финком
@@ -15,14 +15,14 @@ socrates	popper	R	сократическое незнание как образ�
 democritus	nietzsche	W	ранние филологические штудии о Демокрите
 plato	hobbes	W
 plato	spinoza	W
-plato	schelling	R	юношеский комментарий к «Тимею»
+plato	schelling	R	юношеский комментарий к «Тимею» (подтв.: рукопись «Timaeus» 1794, изд. Buchner 1994)
 plato	bergson	W
 plato	arendt	R	критика платоновского отождествления политики с изготовлением
 aristotle	maimonides	R	«Путеводитель растерянных» построен на Аристотеле
 aristotle	hobbes	R	как противник: «Левиафан», гл. 46
 aristotle	kierkegaard	W	понятие движения (kinesis) в «Повторении»
 aristotle	nietzsche	W
-aristotle	bergson	R	латинская диссертация «Quid Aristoteles de loco senserit»
+aristotle	bergson	R	латинская диссертация «Quid Aristoteles de loco senserit» (подтв.: 1889, Alcan)
 aristotle	austin	R	Остин — исследователь «Никомаховой этики» (статья «Agathon and Eudaimonia…» поиском не найдена, не подтв.)
 sextus	nietzsche	W
 plotinus	averroes	W	через «Теологию Аристотеля», косвенно
@@ -31,7 +31,7 @@ plotinus	bergson	R	курсы о Плотине в Коллеж де Франс 
 plotinus	shestov	R	Плотин — постоянная фигура у Шестова (подтв.: Trovato 2007, «Il Plotino di Lev Šestov»); название статьи «Неистовые речи» поиском НЕ подтвердилось
 plotinus	camus	R	диплом «Христианская метафизика и неоплатонизм» (подтв.: en.wikipedia Christian Metaphysics and Neoplatonism, 1936)
 augustine	leibniz	W
-al_farabi	maimonides	R	Маймонид прямо рекомендует аль-Фараби
+al_farabi	maimonides	R	Маймонид прямо рекомендует аль-Фараби (подтв.: письмо к Ибн Тиббону, Strauss «Farabi’s Plato»)
 avicenna	maimonides	R
 avicenna	spinoza	W
 anselm	ockham	W
@@ -100,4 +100,4 @@ wittgenstein	davidson	R
 heidegger	lyotard	R	«Хайдеггер и „евреи“»
 wittgenstein	derrida	W
 carnap	davidson	R	статья Дэвидсона о методе экстенсии и интенсии в томе Шилппа о Карнапе
-merleau_ponty	foucault	R	Фуко слушал его лекции
+merleau_ponty	foucault	R	Фуко слушал его лекции (подтв.: SEP «Foucault»)
