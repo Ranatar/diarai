@@ -39,7 +39,11 @@ else:
 
 seen = 0
 for stem, words, label in sorted(rows, key=lambda r: -r[1]):
-    k = sum(1 for t in mine if stem in t)
+    keys = [stem]
+    m = re.match(r"^(PS-\d+)-", stem)  # в заметках пишу коротко: «PS-6933» (поправка 2026-10-18 днём)
+    if m:
+        keys.append(m.group(1))
+    k = sum(1 for t in mine if any(re.search(re.escape(x) + r"(?!\d)", t) for x in keys))
     seen += k > 0
     if show_all or k == 0:
         print("%3d  %7d  %s" % (k, words, label))
