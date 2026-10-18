@@ -3,9 +3,10 @@
 # («все читали Платона»); X — скорее ошибка Wikidata.
 # ВНИМАНИЕ: разбор по памяти модели (2026-10-18), без проверки по источникам.
 # Это суждение того же рода, что и разметка графа, — со всеми её болезнями.
-# Проверка поиском (2026-10-18, 4 из 42 R): 2 подтвердились (Милль→Дильтей, Бергсон→Батай —
-# слабо), 2 частично: сам факт влияния да, но конкретное название, которое я «помнил», —
-# не нашлось (Шестов, Остин). Ровно та галлюцинация из правдоподобия: суть верна, детали сочинены.
+# Проверка поиском (2026-10-18, 8 из 42 R): само влияние подтвердилось во всех 8.
+# Но из 6 конкретных деталей (названия, цитаты), которые я «помнил», не подтвердились 4:
+# «Неистовые речи» Шестова, статья Остина, «Моисей вольнодумцев» у Фейербаха, «Шестов вводил
+# Батая в Ницше». Суть верна, детали сочинены — галлюцинация из правдоподобия, измеренная.
 heraclitus	heidegger	R	лекционные курсы о Гераклите (1943–44), семинар с Финком
 parmenides	spinoza	W
 parmenides	nietzsche	W	глава в «Философии в трагическую эпоху Греции», но не влияние
@@ -28,7 +29,7 @@ plotinus	averroes	W	через «Теологию Аристотеля», кос
 plotinus	leibniz	W
 plotinus	bergson	R	курсы о Плотине в Коллеж де Франс
 plotinus	shestov	R	Плотин — постоянная фигура у Шестова (подтв.: Trovato 2007, «Il Plotino di Lev Šestov»); название статьи «Неистовые речи» поиском НЕ подтвердилось
-plotinus	camus	R	диплом «Христианская метафизика и неоплатонизм»
+plotinus	camus	R	диплом «Христианская метафизика и неоплатонизм» (подтв.: en.wikipedia Christian Metaphysics and Neoplatonism, 1936)
 augustine	leibniz	W
 al_farabi	maimonides	R	Маймонид прямо рекомендует аль-Фараби
 avicenna	maimonides	R
@@ -38,7 +39,7 @@ maimonides	leibniz	W	Лейбниц конспектировал «Путево�
 aquinas	leibniz	W
 aquinas	heidegger	W	католическая выучка
 duns_scotus	heidegger	R	хабилитация «Учение Дунса Скота о категориях и значении»
-duns_scotus	arendt	R	воля у Скота в «Жизни ума»
+duns_scotus	arendt	R	воля у Скота в «Жизни ума» (подтв.: Vecchiarelli Scott 1987, Augustinian Studies)
 ockham	descartes	W
 cusanus	leibniz	W
 machiavelli	spinoza	R	«acutissimus Machiavellus» в «Политическом трактате»
@@ -48,7 +49,7 @@ descartes	hegel	W
 descartes	popper	W
 spinoza	schopenhauer	W
 locke	schopenhauer	W
-spinoza	feuerbach	R	Фейербах о Спинозе как «Моисее современных вольнодумцев»
+spinoza	feuerbach	R	Фейербах о Спинозе как «Моисее современных вольнодумцев» — цитата НЕ подтв.; подтв. только книга 1833 «От Бэкона до Спинозы» (SEP)
 spinoza	russell	W
 leibniz	nietzsche	W
 leibniz	bergson	W
@@ -90,7 +91,7 @@ bergson	losev	W
 bergson	bataille	R	встреча в Лондоне 1920 г., «Смех» разочаровал и стал толчком (подтв. одним эссе: epochemagazine.org/72, нужна биография)
 husserl	arendt	W
 whitehead	russell	R	соавторы «Principia Mathematica»
-shestov	bataille	R	Шестов вводил Батая в Ницше и Достоевского
+shestov	bataille	R	Шестов вводил Батая в Ницше и Достоевского — подтв. «дружил и сильно повлиял» (en.wikipedia Shestov); про Ницше и Достоевского НЕ подтв.
 berdyaev	losev	W
 cassirer	foucault	W
 frank	losev	W
