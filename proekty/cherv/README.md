@@ -8,8 +8,8 @@
 2. **Перевести переводы строк в LF.** Копия в inbox целиком в CRLF (855 файлов). На этом SBCL падает при сборке hunchentoot: перенос строки в форматной строке, `~` + `\r`, даёт «Unknown directive (character: Return)».
    `cd ext/wormlisp && grep -rlI $'\r' . | xargs sed -i 's/\r$//'`
 3. `cd ext/wormlisp && sbcl --noinform --non-interactive --no-sysinit --no-userinit --load scripts/init.lisp --load ../../proekty/cherv/progon.lisp`
-   Переменные: `CHERV_ID`, `CHERV_MODEL` (по умолчанию `WORM-3D-CONNECTOME`), `CHERV_PARAMS` (`agar-a-v1`), `CHERV_SEC` (12).
-4. Картинка: `python3 proekty/cherv/hronofoto.py ext/wormlisp/runs/moi-1 proekty/cherv/moi-1.svg`
+   Параметры идут в конце: `--end-toplevel-options <id> <набор> <секунды> <dt>`, например `moi-voda water-v1 6 5d-4`. По умолчанию `moi-1 agar-a-v1 12 1d-3`.
+4. Картинка: `python3 proekty/cherv/hronofoto.py ext/wormlisp/runs/moi-1 proekty/cherv/moi-1-lesenka.svg 50 --lesenka` (рядом ляжет PNG; `50` — число колец)
 
 ## Прогоны
 

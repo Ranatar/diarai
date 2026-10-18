@@ -8,11 +8,16 @@
 
 (asdf:load-system "worm")
 
-(defparameter *id* (or (uiop:getenv "CHERV_ID") "moi-1"))
-(defparameter *model* (or (uiop:getenv "CHERV_MODEL") "WORM-3D-CONNECTOME"))
-(defparameter *params* (or (uiop:getenv "CHERV_PARAMS") "agar-a-v1"))
-(defparameter *duration* (parse-integer (or (uiop:getenv "CHERV_SEC") "12")))
-(defparameter *dt* 1d-3)
+;;; Параметры: после --end-toplevel-options идут  id params секунды dt
+;;; (песочница не пускает переменные окружения перед командой).
+(defparameter *args* (rest (member "--end-toplevel-options" sb-ext:*posix-argv* :test #'string=)))
+(defparameter *id* (or (first *args*) "moi-1"))
+(defparameter *model* "WORM-3D-CONNECTOME")
+(defparameter *params* (or (second *args*) "agar-a-v1"))
+(defparameter *duration* (parse-integer (or (third *args*) "12")))
+(defparameter *dt* (if (fourth *args*) (let ((*read-default-float-format* 'double-float))
+                                        (coerce (read-from-string (fourth *args*)) 'double-float))
+                       1d-3))
 
 (let* ((dir (merge-pathnames (format nil "runs/~A/" *id*) (uiop:getcwd)))
        (set (worm.params:load-param-set *params*))

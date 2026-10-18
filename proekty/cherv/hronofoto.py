@@ -48,11 +48,13 @@ def main():
         rings = meta.get("rings") or meta.get("n_rings") or 50
     lines = [(t, centerline(x, n, rings)) for t, x in frames]
     # моменты: каждые 0,5 с, начиная с 4-й (после разгона)
-    picks, nxt = [], 4.0
+    opt = dict(a[2:].split("=") for a in sys.argv if a.startswith("--") and "=" in a)
+    nxt, shag = float(opt.get("ot", 4.0)), float(opt.get("shag", 0.5))
+    picks = []
     for t, l in lines:
-        if t >= nxt:
+        if t >= nxt - 1e-9:
             picks.append((t, l))
-            nxt += 0.5
+            nxt += shag
     if "--lesenka" in sys.argv:  # каждый момент ниже предыдущего, как у Марея на полосе
         step = float(os.environ.get("LESENKA_MM", "0.12"))
         picks = [(t, [(x, y - i * step) for x, y in l]) for i, (t, l) in enumerate(picks)]
@@ -76,8 +78,9 @@ def main():
         svg.append('<polyline points="%s" fill="none" stroke="#2b3a42" stroke-opacity="%.2f" '
                    'stroke-width="5" stroke-linecap="round"/>' % (pts, a))
     svg.append('<text x="10" y="%d" font-family="serif" font-size="13" fill="#555">'
-               '%s: средняя линия каждые 0,5 с с 4-й по %.1f-ю секунду; бежевым — след головы; '
-               '1 мм = %.0f px</text>' % (H - 10, os.path.basename(run.rstrip("/")),
+               '%s: средняя линия каждые %s с, с %.1f по %.1f с; '
+               '1 мм = %.0f px</text>' % (H - 10, os.path.basename(run.rstrip("/")), shag,
+                                         picks[0][0] if picks else 0,
                                          picks[-1][0] if picks else 0, sc))
     svg.append("</svg>")
     open(out, "w").write("\n".join(svg))
