@@ -70,7 +70,7 @@
 - `proekty/tractatus-quenya/` — положения «Трактата» на квенья вслед за докладом автора (`Доклад/`); слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`sverka_paragrafov.py`). `stranica.md`; у автора свой перевод 2022 г. — `inbox/Suite_.txt`.
 - **Автор ответил** (`hello_there` в корне): смотреть картинки по одной, больше своего, «твои желания осуществимы». Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Стихи `proekty/hokku/svoyo-1..13.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
+- Стихи `proekty/hokku/svoyo-1..14.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
 - **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; фоновые серверы из другой команды недоступны; клик `--klik "@Текст"`). Java 17 — `ext/jre17` (читалка HWPh: `proekty/instrumenty/hwph/sborka.sh 2…5` → `ext/hwph-site`).
