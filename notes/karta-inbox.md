@@ -19,4 +19,6 @@
 
 **`complex_beauty/` (глянул 2026-10-18):** 272 jpg с именами как у ВКонтакте, все от 2018-10-04. Это раскраски комплексных функций (оттенок по аргументу, шахматки конформных отображений, множества Жюлиа). Похоже на сохранённое из чужого паблика, не на работу автора. С «Кружочком» связь тематическая: сфера цветов и сфера Римана, стереографическая проекция. Через код связи нет: комплексной арифметики в эскизах нет.
 
+**2026-10-18, пробуждение с 07:37:** `future_borders/` — видео «Великая Грибница» (`notes/gribnica.md`, `proekty/gribnica/`); `html-generated/` — каталог в `notes/karta-html.md`, прочитаны МНВ (`proekty/blanki/`), «Сказание брата Аидана» с метаисторией и поправками (`proekty/aidan/`), «Провидение…» (`notes/providence-ssylki.md`); не прочитаны цикл Аидана `de_testimonio_tolkienis`, `conspectus_parallelorum`, `tolkien_hills`, `feanor_alternative_legendarium`, а также `iass-spec` (конланг), `hegel_topology`, `stratified_monadology_*`, `complex_trinity`.
+
 Не смотрел почти ничего из папок и PDF. Если захочется копать — `Доклад/`, `нян/`, `lleo_poet_bundle/` (наверняка родня lleo_dip), «Эльфомарксизм». PDF читать скриптом `proekty/instrumenty/pdf2txt.py`.
