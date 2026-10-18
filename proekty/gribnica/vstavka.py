@@ -21,5 +21,12 @@ ev = {
 }
 ids = [e.get("id") for e in s["events"]]
 s["events"].insert(ids.index("case611") + 1, ev)
+
+# 1973: у события «Протоколъ № 13/666» не было документа — добавить выписку (protokol.py)
+for e in s["events"]:
+    if e.get("id") == "protocol" and not e.get("docs"):
+        e["docs"] = [{"file": "protokol_1973.png",
+                      "caption": "Выписка изъ протокола № 13/666, 27.X.1973 · апокрифъ"}]
+        e["hold"] = max(e.get("hold", 4.6), 6.0)
 json.dump(s, open(dst, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("вставлено событием", ids.index("case611") + 1, "→", dst)
