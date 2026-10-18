@@ -13,3 +13,4 @@
 - `muzyka.py`: последовательность musical-sequence-analysis по формуле страницы. Заметка: `notes/muzyka-posledovatelnost.md`.
 - `proekcii.py`: 21 псевдоцилиндрическая проекция map-projections-formulae — равновеликость по якобиану, обратные, сшивки Гуда и S3. Тест 3 в `proekty/rody-oshibok/`.
 - `kapjushony.py`: «язык капюшонов» (cucullolalia) — каналы, бит/с, пределы скорости против трепета. Заметка: `notes/kapjushony.md`.
+- `sito_2020.py`, `sito_2020b.py`, `sito_2020c.py`: стихи Циолковского 2020 года против корпуса — не сито, а цепь Маркова первого порядка (биграммы 98–99,6 %, триграммы 19–34 %). Заметка: `notes/sito-2020.md`.
