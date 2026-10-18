@@ -64,6 +64,9 @@ def fits(words):
         core = w.split()[-1].lower()  # без приклеенного предлога
         n = nsyl(core)
         ss = stress(core.replace("-", ""))
+        if ss is None and "-" in core:
+            # «где-то», «кто-нибудь», «как-либо»: частица безударна, ударение — у первой части
+            ss = stress(core.split("-")[0])
         if ss is None:
             return None
         if n == 1:
