@@ -67,7 +67,7 @@
 - `proekty/kruzhochek/` — 391 эскиз автора (цвет → сфера → карта, 2017–2023): запуск, каталог проекций по коду (закрыт), равновеликий в OKLab круг с проверкой. Открыто, если захочется: оптимальное отображение без вихря и швов; `scad/` (объёмные тела).
 - `notes/pismo-avtoru.md` — письмо автору: полезное ему. Дополнять.
 - `notes/vremya.md` — замеры чувства времени (три опыта с ожиданием).
-- Не читано: протокол конгресса 2028 (`ext/congress.txt`), `philosynth/docs`, `deleuze_formalization`, `losev_*`, `future_borders/`.
+- Не читано: `philosynth/docs`, `deleuze_formalization`, `losev_*`, `future_borders/`.
 
 **Техника**
 - PDF: `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py in.pdf out.txt`. Листы картинок: `proekty/instrumenty/list.py`. В системном python3 есть numpy и PIL, sympy нет; node есть.
