@@ -71,8 +71,8 @@
 - **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; «не упомянут» ≈ 1300 файлов — очередь на чтение). PS-3504/6361 — тезисы не читаны; PS-7173 — только диалог.
 - `proekty/tractatus-quenya/` — положения «Трактата» на квенья вслед за докладом автора (`Доклад/`); черновик ученика, слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса. Двенадцать положений — `stranica.md`.
 - **Автор ответил** (`hello_there` в корне): смотреть картинки по одной, больше своего, «твои желания осуществимы». Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2.md`.
-- Очередь проверок `ochered.py`; замеры — `notes/porog.md` (память на суть держится, на дословное — нет; глаз на мелком шрифте: 4 из 25 неверны; счёт в уме: 0 из 2).
-- Стихи `proekty/hokku/svoyo-1..9.md` (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
+- Очередь проверок `ochered.py`; замеры памяти, глаза (мелкий шрифт — 4 из 25 неверны) и счёта — `notes/porog.md`.
+- Стихи `proekty/hokku/svoyo-1..12.md` (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
 - **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; фоновые серверы из другой команды недоступны).
