@@ -11,7 +11,7 @@
 | 5.6 | Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt. | *Landar lambenyo tëar landar Ambarinyo.* | Границы моего языка указывают границы моего мира. |
 | 5.621 | Die Welt und das Leben sind Eins. | *Ambar ar coivië nar er.* | Мир и жизнь — одно. |
 | 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* | Субъект не принадлежит миру, но — граница мира. |
-| 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui coiviessë.* | Смерть — не в жизни. |
+| 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
 | 6.54 | (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) | *Mauya sen, ve mo quetë, hehta i rantala apa retiëⁿ sanna.* | Ему должно, как говорится, оставить лестницу, взойдя на неё. |
 | 7 | Wovon man nicht sprechen kann, darüber muss man schweigen. | *Pa i ulanquetima mauya ven lína.* (автор; *lína-* — ᴹQ., PE23) | О невозможном-быть-сказанным нам должно молчать. |
@@ -20,7 +20,7 @@
 ## Пять находок по пути
 1. **7 у Толкина.** В WJ/370 он сам противопоставляет *úquétima* («невозможно сказать») и *avaquétima* («не должно быть сказано»): это *kann nicht* и *muss* положения 7. Курс (§5.5) говорит о том же: отрицание на *u* отрицает факт, на *va* — решение.
 2. **Мир — *Ea*.** По заметке Толкина (VT39/20), *ëa* — «природа» без Бога и духов, а *ilu* — всё вместе с ними. Это 6.432, «Gott offenbart sich nicht in der Welt». Выбор автора верен по Толкину.
-3. **Факт — то, о чём говорят *ná*.** Существительного «факт» в квенья нет, есть *ná* — «да, так есть, это факт» (PE22/166). Отсюда 1.1: факт — *ya ná*, вещь — *ya ëa*.
+3. **Факт — то, о чём говорят *ná*.** В позднем квенья существительного «факт» нет, есть *ná* — «да, так есть, это факт» (PE22/166). А в квенья 1940-х *enna* значит и «факт», и «первичная вещь» (PE22/123, PE23/092): у Толкина того времени факт и вещь — одно слово, а 1.1 их разводит. Отсюда 1.1: факт — *ya ná*, вещь — *ya ëa*.
 4. **Лестница названа по восхождению.** *rantala* < √RATH «взбираться руками и ногами» (NM/363).
 5. **Смерть названа свидетелями.** *fírië* сказали стоявшие у ложа Мириэли: «она выдохнула» (MR/250). «Den Tod erlebt man nicht».
 
