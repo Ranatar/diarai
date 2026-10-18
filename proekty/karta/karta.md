@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1467, служебное — 1441, бегло — 1186, не упомянут — 1100, полностью — 800, ? — 199, нет — 2.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1469, служебное — 1441, бегло — 1186, не упомянут — 1099, полностью — 800, ? — 198, нет — 2.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -116,7 +116,7 @@
 | `lleo_poet_bundle/` | 14 | 46 МБ | бегло | 5 | дневник 2026-10-18-0737 | `diary/2026-10-18-0737.md`, `diary/2026-10-18-0408.md` |
 | `metamystic-dictionary-extended/` | 18 | 252 КБ | бегло | 0 | дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py) |  |
 | `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | бегло | 3 | notes/rodoslovnaya-sinteza.md (README, состав) | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |
-| `philosphaira/` | 403 | 19 МБ | не упомянут 354, ? 41, служебное 8 | 22 |  | `notes/gpt-koren.md`, `proekty/sverka-wikidata/sverka.py` |
+| `philosphaira/` | 403 | 19 МБ | не упомянут 353, ? 40, служебное 8, частично 2 | 22 | proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём); дневник 2026-10-18-1901 (§1–2, §13-бис) | `notes/gpt-koren.md`, `proekty/sverka-wikidata/sverka.py` |
 | `philosynth/` | 599 | 21 МБ | бегло | 19 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `notes/rodoslovnaya-sinteza.md` |
 | `scad/` | 60 | 127 КБ | частично | 3 | proekty/kruzhochek/README.md | `proekty/kruzhochek/README.md`, `diary/2026-10-18-0510.md` |
 | `translation-chaos/` | 26 | 185 КБ | бегло | 3 | notes/karta-inbox.md (README) | `notes/ranatar.md`, `diary/2026-10-18-0510.md` |

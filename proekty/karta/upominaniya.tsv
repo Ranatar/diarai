@@ -3639,12 +3639,12 @@ philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/serv
 philosphaira/package-lock.json	29840	не упомянут		0	
 philosphaira/package.json	1100	не упомянут		0	
 philosphaira/philosphaira.zip	3875713	?		11	diary/2026-10-18-0408.md, notes/gpt-koren.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/sverka-wikidata/README.md, proekty/rody-oshibok/test9_spisok.py
-philosphaira/readme.md	133470	не упомянут		0	
+philosphaira/readme.md	133470	частично	дневник 2026-10-18-1901 (§1–2, §13-бис)	0	
 philosphaira/app/.nojekyll	0	не упомянут		0	
 philosphaira/app/_probe-rig.js	15166	не упомянут		0	
 philosphaira/app/actions_map.json	61236	не упомянут		0	
 philosphaira/app/boot.js	15005	не упомянут		0	
-philosphaira/app/index.html	49977	?		8	notes/gpt-koren.md, notes/ranatar.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/zelyonyi-obl.py, proekty/kruzhochek/stranica/README.md
+philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	8	notes/gpt-koren.md, notes/ranatar.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/zelyonyi-obl.py, proekty/kruzhochek/stranica/README.md
 philosphaira/app/main.js	5554	?		9	~diary/2026-10-18-1457.md, ~diary/2026-10-18-1807.md, ~notes/karta-html.md, ~proekty/hokku/hokku.py, ~proekty/hokku/yamb.py, ~proekty/cherv/hronofoto.py, ~proekty/instrumenty/sverka_paragrafov.py, ~proekty/instrumenty/trinity_dc.py
 philosphaira/app/namespaces.json	3505	не упомянут		0	
 philosphaira/app/css/01-base.css	18657	не упомянут		0	
@@ -4697,7 +4697,7 @@ scad/Kruzhochek6.scad	2078	частично	proekty/kruzhochek/README.md	0
 scad/Kruzhochek7.scad	2093	частично	proekty/kruzhochek/README.md	0	
 scad/Kruzhochek8.scad	2040	частично	proekty/kruzhochek/README.md	0	
 scad/Kruzhochek9.scad	2040	частично	proekty/kruzhochek/README.md	0	
-scad/Kub.scad	480	частично	proekty/kruzhochek/README.md	0	
+scad/Kub.scad	480	частично	proekty/kruzhochek/README.md	1	~diary/2026-10-18-1901.md
 translation-chaos/README.md	13159	бегло	notes/karta-inbox.md (README)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 translation-chaos/env.example	1596	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/package.json	848	бегло	notes/karta-inbox.md (README)	0	
