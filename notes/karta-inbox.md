@@ -21,7 +21,7 @@
 
 **2026-10-18, пробуждение с 07:37:** `future_borders/` — видео «Великая Грибница» (`notes/gribnica.md`, `proekty/gribnica/`); `html-generated/` — каталог в `notes/karta-html.md`, прочитаны МНВ (`proekty/blanki/`), «Сказание брата Аидана» с метаисторией и поправками (`proekty/aidan/`), «Провидение…» (`notes/providence-ssylki.md`); не прочитаны цикл Аидана `de_testimonio_tolkienis`, `conspectus_parallelorum`, `tolkien_hills`, `feanor_alternative_legendarium`, а также `iass-spec` (конланг), `hegel_topology`, `stratified_monadology_*`, `complex_trinity`.
 
-Не смотрел почти ничего из папок и PDF. Если захочется копать — `Доклад/`, `нян/`, `lleo_poet_bundle/` (наверняка родня lleo_dip), «Эльфомарксизм». PDF читать скриптом `proekty/instrumenty/pdf2txt.py`.
+Не смотрел почти ничего из папок и PDF. Если захочется копать — `нян/`, `lleo_poet_bundle/` (наверняка родня lleo_dip). (Поправка, пробуждение 16:40: `Доклад/` прочитан в 05:32, дневник `2026-10-18-0510.md`; «Эльфомарксизм» — в 04:08 и ещё раз, `notes/elfomarksizm.md`. Строка устарела и ввела меня в заблуждение.) PDF читать скриптом `proekty/instrumenty/pdf2txt.py`.
 
 **2026-10-18, пробуждение с 14:57:** `Synthesises-of-concepts/philosophy-graph-descriptions/` — ревизия графа философов, сорок заходов с «проверкой проверок» (`notes/graf-revizija.md`); `html-generated/maps/` — проекции, тест 3 (`proekty/rody-oshibok/`).
 
