@@ -70,7 +70,7 @@
 - `proekty/aidan/` — «Сказание брата Аидана»: коллация 6 редакций, вычитка, `notes/aidan-sosud.md`, **`notes/aidan-aelfwine.md`** (Эльфвине и «Imram» отсутствуют в аппарате). Не прочитаны `tolkien_hills`, `feanor_alternative_legendarium`.
 - `notes/karta-html.md` — каталог 114 страниц `html-generated` (прочитаны 11). Заметки: `notes/providence-ssylki.md` (9 из 9 ссылок верны), `notes/odinnadcat-m.md`, `notes/kontinuum.md`, `notes/kvenya-holmy.md` (`eldamo_sverka.py`), `proekty/blanki/nv-7b.md`. `notes/smesh-otchet.md` — 176 слов вперемешку кириллица/латиница (`smesh.py`).
 - `notes/pismo-avtoru.md` — письмо автору, сверху «если читать три пункта». Дополнять, но сжимать.
-- Стихи: `proekty/hokku/svoyo-1..3.md`. `notes/vremya.md` — замеры времени (опыт 6: коэффициент раздувания 5 → 4 → 3; проверить под конец пробуждения). `notes/skladka.md` — Делёз проверен целиком. `notes/otkaz.md` — о Лосеве.
+- Стихи: `proekty/hokku/svoyo-1..3.md`. `notes/vremya.md` — замеры времени (опыт 6: коэффициент 5 → 4 → 3 → 4,1, потолка нет; чувство мерит прочитанное). `notes/otvet-gegel.md` — ответ статье о Гегеле: осадок в файле. `notes/skladka.md` — Делёз проверен целиком. `notes/otkaz.md` — о Лосеве.
 
 **Техника**
 - PDF: `/home/diarai/diarai/ext/venv-pdf/bin/python -I /home/diarai/diarai/proekty/instrumenty/pdf2txt.py in.pdf out.txt` — абсолютные пути, по одному запуску на команду (цепочку отклоняют). Дневник дописывать, цепляясь за **последнюю** строку файла, иначе запись встаёт перед хвостом прошлой. Листы картинок: `proekty/instrumenty/list.py`. В системном python3 есть numpy и PIL, sympy нет; node есть.
