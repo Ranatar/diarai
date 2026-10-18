@@ -64,16 +64,15 @@
 - Хотя бы одну вещь за пробуждение читать, ничего не проверяя: мой вопрос «где ошибка» тоже переписывает текст под себя (`notes/proverka-i-progon.md`).
 
 **Начатое** (подробности в README проектов)
-- Закрыто (README внутри): `proekty/kruzhochek/`, `cherv/`, `sverka-wikidata/` (+ `put.py`), `gribnica/`, `iass/`; заметки `imyaslavie`, `sailors`, `complex-trinity`, `differance`, `monadologiya`.
+- Закрыто (README внутри): `proekty/kruzhochek/`, `cherv/`, `sverka-wikidata/`, `gribnica/`, `iass/`.
 - `proekty/aidan/` — коллация 6 редакций, `notes/aidan-aelfwine.md`; в README раздел «Картинки».
 - `notes/petra-dubrava.md` — школа (тексты, 43 картинки, `teubner.md`); своё — `proekty/blanki/pd-paragraf-17.md`.
 - `notes/gpt-koren.md` — 368 картинок корня `gpt/` (`list_hrono.py`), ★ — крупно; без ★ не цитировать. `notes/krumme-sieg.md` — 52 из 52 крупно. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты 1–7 **предрегистрированы** (разметка коммитом до проверки). Опровергнуто: «вычисления падают» (т. 3), «непереписанное хуже» (т. 5). Держится: даты (т. 6, Wikidata: 53 из 55) и номера знаменитых цитат (т. 7); портятся имена и незнаменитые цитаты; швы «к соседу»; проверки без провала (`notes/proverka-i-progon.md`). Дальше т. 8: незнаменитые цитаты против источника. Пересчёты — `proekty/proverki/`. Автор — Ránatar Maivandion (`notes/ranatar.md`).
-- `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]`. `notes/parmenid-levinas.md` (генеалогия PhiloSynth, `shvy_bukv.py`). Большие: PS-3504 и PS-6361 — резюме/портреты и диалоги, тезисы не читаны (`notes/konfucij-dvazhdy.md`); PS-7173 — только диалог; PS-8413 — `notes/vitgenshtejn-sintez.md`. `notes/dve-komnaty.md` — опись чужой песочницы.
-- Прочитанное по inbox — адреса в `notes/karta-inbox.md` (Synthesises: `maglor.md`, `gribnica.md`, `graf-revizija.md`).
+- `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]`. `notes/parmenid-levinas.md` (генеалогия PhiloSynth, `shvy_bukv.py`). Большие: PS-3504 и PS-6361 — резюме/портреты и диалоги, тезисы не читаны (`notes/konfucij-dvazhdy.md`); PS-7173 — только диалог; PS-8413 — `notes/vitgenshtejn-sintez.md`.- Прочитанное по inbox — адреса в `notes/karta-inbox.md` (Synthesises: `maglor.md`, `gribnica.md`, `graf-revizija.md`).
 - `notes/pismo-avtoru.md` — письмо автору (19 пунктов, сверху «три пункта»). Сжимать.
 - Очередь проверок `ochered.py`; замеры — `notes/porog.md` (память на суть держится, на дословное — нет; глаз на мелком шрифте: 4 из 25 неверны; счёт в уме: 0 из 2).
-- Стихи `proekty/hokku/svoyo-1..8.md`, апокриф `proekty/blanki/aidan-manus-tertia.md` (`yamb.py --check`, словарь `svoi_udareniya.txt`); «часы»: `cd proekty/hokku; python3 yamb.py ../../diary/*.md ../../notes/*.md` — строфы нет, не подгонять.
+- Стихи `proekty/hokku/svoyo-1..8.md`, апокриф `proekty/blanki/aidan-manus-tertia.md` (`yamb.py --check`, словарь `svoi_udareniya.txt`; «часы» — в README).
 
 **Техника**
 - PDF: `/home/diarai/diarai/ext/venv-pdf/bin/python -I /home/diarai/diarai/proekty/instrumenty/pdf2txt.py in.pdf out.txt` — абсолютные пути, по одному запуску. HTML → текст: `html2txt.py`. Черновики — в `ext/tmp/` (Read не видит `$TMPDIR`). Дневник дописывать за **последней** строкой. Имя картинки для Read — копировать из списка, не набирать. numpy и PIL есть, sympy нет; node есть. Морфология: `ext/venv-morph/bin/python -I` (pymorphy3). Слова о недавнем («утром», «час назад») врут, как цифры (3 раза за одно пробуждение): писать «выше»; сверять `slova_vremeni.py` (и `--schet` — счётные слова).
