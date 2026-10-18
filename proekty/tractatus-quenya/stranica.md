@@ -6,7 +6,7 @@
 |---|---|---|---|
 | 1 | Die Welt ist alles, was der Fall ist. | *Ea na ilqua ya ea nanwienna.* (автор) | Мир — всё, что существует в реальность. |
 | 1.1 | Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge. | *Ea ná ilqua ya ná, ú ilqua ya ëa.* | Мир — всё, что есть так, а не всё, что существует. |
-| 4.112 | Die Philosophie ist keine Lehre, sondern eine Tätigkeit. | *Quettacaliëᴬ ui olórieⁿ, mal cuicarëᴬ.* | Философия — не сон-видение, а пробуждённое деяние. |
+| 4.112 | Die Philosophie ist keine Lehre, sondern eine Tätigkeit. | *Quettacaliëᴬ ui oloriëⁿ, mal cuicarëᴬ.* | Философия — не сон-видение, а пробуждённое деяние. |
 | 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tanaima ná úquétima.* | Показуемое — несказуемо. |
 | 5.6 | Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt. | *Landar lambenyo tëar landar Ambarinyo.* | Границы моего языка указывают границы моего мира. |
 | 5.621 | Die Welt und das Leben sind Eins. | *Ambar ar coivië nar er.* | Мир и жизнь — одно. |
