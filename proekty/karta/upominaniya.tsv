@@ -833,7 +833,7 @@ Synthesises-of-concepts/wittgenstein-hesychasm/6 - bibliography-apocrypha.md	380
 Synthesises-of-concepts/wittgenstein-hesychasm/7 - critical-perspectives.md	56421	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	64936	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки)	0	
+Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки)	1	diary/2026-10-18-1901.md
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	22587	не упомянут		0	
 book/README.md	25791	?		18	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 book/build.bat	116	не упомянут		0	
@@ -2904,17 +2904,17 @@ html-generated/maps/fonts/spline-sans-mono-latin-ext-400-normal.woff2	8492	сл�
 html-generated/maps/fonts/spline-sans-mono-latin-ext-500-normal.woff2	8352	служебное		0	
 html-generated/maps/lib/auto-render.min.js	5936	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/lib/katex.min.js	453045	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
-html-generated/waves/earth_color.jpg	69536	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/earth_elev.png	272792	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/mars_color.jpg	99991	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/mars_elev.png	171030	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/mercury_color.jpg	251268	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/mercury_elev.png	268511	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/moon_color.jpg	131057	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/moon_elev.png	275619	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/venus_color.jpg	178157	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/venus_elev.png	240160	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/waves/wave_lab.html	272350	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/waves/earth_color.jpg	69536	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/earth_elev.png	272792	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/mars_color.jpg	99991	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/mars_elev.png	171030	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/mercury_color.jpg	251268	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/mercury_elev.png	268511	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/moon_color.jpg	131057	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/moon_elev.png	275619	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/venus_color.jpg	178157	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/venus_elev.png	240160	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
+html-generated/waves/wave_lab.html	272350	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/webmap/README.md	2559	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 html-generated/webmap/app.js	29445	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/webmap/index.html	4853	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
@@ -3574,9 +3574,9 @@ philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/v
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	не упомянут		0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	не упомянут		0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	не упомянут		0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	?		25	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md, notes/maglor.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	?		26	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	?		1	~notes/karta-html.md
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	?		25	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md, notes/maglor.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	?		26	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	не упомянут		0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/api-tests/api-test-template.js	15864	не упомянут		0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/clients/service-client-template.js	13642	не упомянут		0	
@@ -3658,7 +3658,7 @@ philosphaira/app/css/08-stats-results.css	14974	не упомянут		0
 philosphaira/app/css/09-tension.css	5959	не упомянут		0	
 philosphaira/app/css/10-forms.css	16654	не упомянут		0	
 philosphaira/app/css/11-multiuser.css	12339	не упомянут		0	
-philosphaira/app/data/concepts.json	957366	?		25	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md, notes/maglor.md
+philosphaira/app/data/concepts.json	957366	?		26	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
 philosphaira/app/data/nodePositions.json	36219	не упомянут		0	
 philosphaira/app/data/philosophers.json	463934	?		2	proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py
 philosphaira/app/data/relationTypes.json	3108	?		1	proekty/sverka-wikidata/sverka.py

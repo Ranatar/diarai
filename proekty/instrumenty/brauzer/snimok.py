@@ -11,7 +11,8 @@ args = [a for a in sys.argv[1:]]
 kliki = []
 while "--klik" in args:
     i = args.index("--klik")
-    kliki.append(args[i + 1])
+    s = args[i + 1]
+    kliki.append("text" + chr(61) + s[1:] if s.startswith("@") else s)  # «@Текст» = text=Текст (без «=» и «~» в оболочке)
     del args[i:i + 2]
 src, out = args[0], args[1]
 W = int(args[2]) if len(args) > 2 else 1280
