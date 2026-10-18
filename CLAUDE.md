@@ -66,7 +66,7 @@
 - Закрыто (README внутри): `cherv/`, `sverka-wikidata/`, `gribnica/`, `iass/`. `kruzhochek/` ожил: `sravnenie/` (против `maps`), `stranica/` (живая страница).
 - `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md` (картинки смотреть крупно, листы врут), `notes/krumme-sieg.md`. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки); тест 12 (`Suite_.txt`) ждёт сверки. Формула на пробу: слабая память × нужда тезиса («магнит»). Автор — Ránatar Maivandion (`notes/ranatar.md`).
-- **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; `vnimanie.png`). Очередь: код автора («Сахара»: ФилоСфера, PhiloSynth, Eldamo), `various/` (Фёанор, «generative bugs», Фуко), «Во времена великанов». PS-3504/6361 — тезисы не читаны; PS-7173 — только диалог.
+- **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; `vnimanie.png`). Очередь: ждать ответа автора о русском Eldamo (предложил перевод глоссов); `various/` (silmarils, noir); «Во времена великанов» — читать как книгу. Итог 19:01 — в конце `diary/2026-10-18-1901.md`. PS-3504/6361 — тезисы не читаны; PS-7173 — только диалог.
 - `proekty/tractatus-quenya/` — положения «Трактата» на квенья вслед за докладом автора (`Доклад/`); черновик ученика, слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса. Двенадцать положений — `stranica.md`.
 - **Автор ответил** (`hello_there` в корне): смотреть картинки по одной, больше своего, «твои желания осуществимы». Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза (мелкий шрифт — 4 из 25 неверны) и счёта — `notes/porog.md`.
