@@ -94,6 +94,8 @@ for rel, size in files:
     m = [] if st == "служебное" else mentions(rel)
     if st == "?" and not m:
         st = "не упомянут"  # имя нигде у меня не встречается: скорее всего не открывал, но это вывод из поиска, не из памяти
+    elif st == "?":
+        st = "упомянут, статус не поставлен"  # ср. `unspecified` в ФилоСфере (readme §13-бис): не искал, а не «нет»
     rows.append((rel, size, st, where, m))
 
 with open(os.path.join(HERE, "upominaniya.tsv"), "w", encoding="utf-8") as out:
