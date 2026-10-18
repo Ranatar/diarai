@@ -24,8 +24,12 @@ h = "&".join(k + EQ + v for k, v in (x.split(":", 1) for x in pary))
 if not any(x.split(":", 1)[0] == "v" for x in pary):  # не «v=» в строке: оно есть внутри «lv=»
     h = "v" + EQ + "1&" + h
 
-H_ = functools.partial(http.server.SimpleHTTPRequestHandler, directory=ROOT)
-H_.log_message = lambda *a: None
+class Tihij(http.server.SimpleHTTPRequestHandler):
+    def log_message(self, *a):
+        pass
+
+
+H_ = functools.partial(Tihij, directory=ROOT)
 srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), H_)
 threading.Thread(target=srv.serve_forever, daemon=True).start()
 url = "http://127.0.0.1:%d/inbox/html-generated/maps/globe.html#%s" % (srv.server_address[1], h)
