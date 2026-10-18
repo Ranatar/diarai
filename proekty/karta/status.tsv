@@ -1,0 +1,86 @@
+# префикс пути в inbox	статус	где разобрано (ссылка обязательна; «?» — не нашёл, где)
+# статусы: полностью / частично / бегло / нет / служебное. «бегло» = опознано, оглавление или выборка.
+# Ставлю только по дневнику и заметкам (досмотр 2026-10-18, пробуждение 19:01). Где не уверен — «частично».
+ai_philosophy_crisis(1).md	частично	notes/spor-so-slepym-demiurgom.md
+apeiron-article.pdf	полностью	notes/porog.md; дневник 2026-10-18-0408
+Литературные вычисления работа с генеративными нейросетями.pdf	полностью	дневник 2026-10-18-0343; ext/litvych.txt
+Эльфомарксизм неизвестные страницы истории.pdf	полностью	notes/elfomarksizm.md
+Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf	полностью	дневник 2026-10-18-0408 («Эллины и эльфы»)
+m_undecima_.pdf	частично	notes/karta-inbox.md; дневник 2026-10-18-0408
+philosophy_congress_protocol.pdf	бегло	notes/karta-inbox.md
+uscript.pdf	бегло	notes/karta-inbox.md (по оглавлению)
+uscript2.pdf	нет
+experiment-log-914	бегло	дневник 2026-10-18-0408 (опознаны: вики SCP)
+Vo_vremena_velikanov_kniga_ed_hardcover.pdf	нет
+gnostic-treatise-part	частично	notes/gnosticheskij-traktat.md (гл. 10, 20, 22)
+elven-	бегло	notes/nevidimaja-ruka.md (оглавление и выборка хронологии)
+cucullolalia_final.html	полностью	notes/kapjushony.md
+losev_flat_ontology_critique_edited(1).md	полностью	notes/otkaz.md
+wittgenstein_heidegger_correspondence.md	полностью	notes/pismo-13.md
+wittgenstein-cartoon.html	полностью	дневник 2026-10-18-1457
+deleuze_formalization.md	частично	notes/skladka.md (разд. VI, VIII.1)
+cartesian-product-part	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)
+noah_ark_story.md	частично	дневник 2026-10-18-1457
+Savilve.txt	полностью	дневник 2026-10-18-1457
+Vinya maitaren.txt	полностью	notes/vinya-maitaren.md
+Suite_.txt	полностью	дневник 2026-10-18-1807; proekty/rody-oshibok/test12_suite.py
+gyjth.txt	полностью	дневник 2026-10-18-1807
+Khaydegger_	полностью	notes/sito-2020.md
+Tsiolkovskiy_	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)
+Tsiolkovskiy_texty.txt	бегло	notes/sito-2020.md (корпус программы)
+Циолковский 	полностью	notes/sito-2020.md
+Кратил онегинская.txt	полностью	notes/sito-2020.md
+RESULTAT.TXT	частично	notes/karta-inbox.md (вывод lleo_dip)
+lleo_dip/	частично	notes/sito-2020.md
+lleo_poet_bundle/	бегло	дневник 2026-10-18-0737
+нян/	полностью	proekty/kruzhochek/README.md (все 391 эскиз прогнаны программой; глазами — выборка)
+нян/временное	частично	proekty/kruzhochek/README.md
+scad/	частично	proekty/kruzhochek/README.md
+complex_beauty/	бегло	notes/karta-inbox.md (листом)
+gpt/SAILORS	полностью	notes/sailors.md (листами; крупно — две)
+gpt/KRUMME SIEG	полностью	notes/krumme-sieg.md; notes/krumme-sieg-krupno.tsv
+gpt/ПЕТРА-ДУБРАВСКАЯ ШКОЛА	полностью	notes/petra-dubrava.md
+gpt/ИМЯСЛАВНАЯ РОССИЯ	полностью	notes/imyaslavie.md
+gpt/	частично	notes/gpt-koren.md (корень: листами по 40, отдельно — почти нет)
+future_borders/	частично	notes/gribnica.md; proekty/gribnica/
+wormlisp/	частично	proekty/cherv/README.md (запущен; код — выборочно)
+philosynth/	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)
+translation-chaos/	бегло	notes/karta-inbox.md (README)
+Synthesises-of-concepts/philosophy-graph-descriptions	частично	notes/graf-revizija.md
+Доклад/Философские термины на квэнья.pdf	полностью	дневник 2026-10-18-0510; proekty/tractatus-quenya/
+Доклад/Quenya; Quetin	частично	proekty/tractatus-quenya/perevod.md (справочник: §§ по поиску)
+Доклад/correlatives_PE23.png	полностью	proekty/tractatus-quenya/perevod.md
+Доклад/2nd_PE23.png	полностью	дневник 2026-10-18-1640
+Доклад/ERTP	бегло	notes/smesh-otchet.md (только смесь букв)
+html-generated/relatio_aidani	полностью	proekty/aidan/
+html-generated/de_testimonio_tolkienis.html	полностью	notes/aidan-aelfwine.md
+html-generated/conspectus_parallelorum.html	полностью	notes/aidan-aelfwine.md
+html-generated/tolkien_hills.html	полностью	notes/kvenya-holmy.md
+html-generated/iass-spec.html	полностью	proekty/iass/
+html-generated/hegel_topology.html	полностью	notes/otvet-gegel.md
+html-generated/stratified_monadology	частично	notes/monadologiya.md
+html-generated/complex_trinity.html	частично	notes/complex-trinity.md
+html-generated/differance-kak-operezhenie.html	полностью	notes/differance.md
+html-generated/environment_report_cyber.html	полностью	notes/dve-komnaty.md
+html-generated/providence.html	частично	notes/providence-ssylki.md
+html-generated/PS-4470	частично	notes/parmenid-levinas.md
+html-generated/PS-8413	частично	notes/vitgenshtejn-sintez.md
+html-generated/PS-3504	бегло	notes/konfucij-dvazhdy.md (тезисы не читаны)
+html-generated/PS-6361	бегло	notes/konfucij-dvazhdy.md (тезисы не читаны)
+html-generated/PS-7173	частично	раздел CLAUDE.md: «только диалог»
+html-generated/anthropological-garden	полностью	notes/sad-soglasovanij.md
+html-generated/pi-gallery.html	полностью	notes/pi-gallery.md
+html-generated/vinilograf.html	частично	notes/vinilograf.md
+html-generated/atomic-models-history.html	полностью	notes/atomnye-modeli.md
+html-generated/geolympiad.html	полностью	notes/geolimpiada.md
+html-generated/chuvstvennost-continuuma.html	полностью	notes/kontinuum.md
+html-generated/musical-sequence-analysis(1).html	полностью	notes/muzyka-posledovatelnost.md
+html-generated/ministry_non-existing_memories.html	полностью	proekty/blanki/
+html-generated/personometer-pl7.html	полностью	proekty/hokku/README.md (без проверки)
+html-generated/schizography-proto-language.html	полностью	дневник 2026-10-18-1807
+html-generated/game-life-color	частично	notes/zhizn-figury.md (фигуры)
+html-generated/cycle-comm-styled.html	полностью	notes/odinnadcat-m.md
+html-generated/historia_codicis_R.html	частично	notes/aidan-sosud.md
+html-generated/maps	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)
+html-generated/maps/fonts	служебное
+html-generated/	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)
