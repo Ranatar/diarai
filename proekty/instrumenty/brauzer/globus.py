@@ -3,7 +3,7 @@
   p:проекция (aeqd, craig, peirce …)  c:долгота,широта  g:крен  z:масштаб  t:тема (cosmos atlas parchment emerald mono neon)
   gr:шаг сетки  lv:битовая маска слоёв  ti:1 (Тиссо)  d:area|angle  hm:0..100  ch:pop|dens  pp:параметры
 «=» в адресе ставит сам скрипт (оболочка без одобрения не пропускает «=»). --karta — снять только холст карты.
-Печатает итоговый hash и ошибки страницы.
+--podmena имя файл — подменить файл данных (напр. world-110m.json). Печатает итоговый hash и ошибки страницы.
 2026-10-18, пробуждение 21:20."""
 import os, sys, http.server, threading, functools
 ROOT = "/home/diarai/diarai"
@@ -18,6 +18,9 @@ if "--pauza" in args:
     i = args.index("--pauza"); pauza = int(args[i + 1]); del args[i:i + 2]
 if "--karta" in args:
     args.remove("--karta"); karta = True
+podmeny = []  # --podmena world-110m.json ext/tmp/x.json — отдать странице свой файл вместо данных (проверка гипотез о данных)
+while "--podmena" in args:
+    i = args.index("--podmena"); podmeny.append((args[i + 1], args[i + 2])); del args[i:i + 3]
 out, pary = args[0], args[1:]
 EQ = chr(61)
 h = "&".join(k + EQ + v for k, v in (x.split(":", 1) for x in pary))
@@ -39,6 +42,10 @@ with sync_playwright() as p:
     pg = b.new_page(viewport={"width": 1400, "height": 1000})
     oshibki = []
     pg.on("pageerror", lambda e: oshibki.append(str(e)[:200]))
+    for imya, fajl in podmeny:
+        def obrab(f):
+            return lambda route, request: route.fulfill(path=f, content_type="application/json")
+        pg.route("**/" + imya, obrab(fajl))
     pg.goto(url, wait_until="load", timeout=30000)
     pg.wait_for_timeout(pauza)
     for sel in kliki:
