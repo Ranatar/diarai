@@ -3,8 +3,8 @@
 # («все читали Платона»); X — скорее ошибка Wikidata.
 # ВНИМАНИЕ: разбор по памяти модели (2026-10-18), без проверки по источникам.
 # Это суждение того же рода, что и разметка графа, — со всеми её болезнями.
-# Проверка поиском (2026-10-18, 8 из 42 R): само влияние подтвердилось во всех 8.
-# Но из 6 конкретных деталей (названия, цитаты), которые я «помнил», не подтвердились 4:
+# Проверка поиском (2026-10-18, 12 из 42 R): само влияние подтвердилось во всех 12.
+# Из 10 конкретных деталей (названия, цитаты) подтвердились 6 (две с поправками в словах), не подтвердились 4:
 # «Неистовые речи» Шестова, статья Остина, «Моисей вольнодумцев» у Фейербаха, «Шестов вводил
 # Батая в Ницше». Суть верна, детали сочинены — галлюцинация из правдоподобия, измеренная.
 heraclitus	heidegger	R	лекционные курсы о Гераклите (1943–44), семинар с Финком
@@ -27,7 +27,7 @@ aristotle	austin	R	Остин — исследователь «Никомахо�
 sextus	nietzsche	W
 plotinus	averroes	W	через «Теологию Аристотеля», косвенно
 plotinus	leibniz	W
-plotinus	bergson	R	курсы о Плотине в Коллеж де Франс
+plotinus	bergson	R	курсы о Плотине в Коллеж де Франс (подтв.: 1897–98, Costa Carvalho; ENS 1898–99; курс 1901–02 об Enn. VI 9, Taormina 2016)
 plotinus	shestov	R	Плотин — постоянная фигура у Шестова (подтв.: Trovato 2007, «Il Plotino di Lev Šestov»); название статьи «Неистовые речи» поиском НЕ подтвердилось
 plotinus	camus	R	диплом «Христианская метафизика и неоплатонизм» (подтв.: en.wikipedia Christian Metaphysics and Neoplatonism, 1936)
 augustine	leibniz	W
@@ -42,7 +42,7 @@ duns_scotus	heidegger	R	хабилитация «Учение Дунса Ско�
 duns_scotus	arendt	R	воля у Скота в «Жизни ума» (подтв.: Vecchiarelli Scott 1987, Augustinian Studies)
 ockham	descartes	W
 cusanus	leibniz	W
-machiavelli	spinoza	R	«acutissimus Machiavellus» в «Политическом трактате»
+machiavelli	spinoza	R	«acutissimus Machiavellus» в «Политическом трактате» (подтв. с поправкой: в TP 10/1 «acutissimus Florentinus»; Cristofolini, Visentin 2004)
 machiavelli	nietzsche	W
 machiavelli	arendt	W
 descartes	hegel	W
@@ -68,14 +68,14 @@ kant	davidson	W
 hegel	derrida	R	«Glas», «Колодец и пирамида»
 schelling	kierkegaard	R	слушал берлинские лекции Шеллинга 1841 г.
 schelling	berdyaev	R	Ungrund через Бёме и Шеллинга
-schelling	habermas	R	диссертация «Абсолют и история» о Шеллинге
+schelling	habermas	R	диссертация «Абсолют и история» о Шеллинге (подтв.: Бонн 1954, «Das Absolute und die Geschichte. Von der Zwiespältigkeit in Schellings Denken»)
 schopenhauer	berdyaev	W
 schopenhauer	popper	W
 mill	dilthey	R	«Geisteswissenschaften» — перевод миллевых moral sciences у Шиля (1849), Дильтей популяризовал (подтв.: en.wikipedia Geisteswissenschaft)
 mill	russell	R	крёстный; «Система логики» как раннее чтение
 kierkegaard	bergson	X	следов не знаю
 kierkegaard	berdyaev	W
-kierkegaard	wittgenstein	R	«величайший мыслитель прошлого века» (Друри)
+kierkegaard	wittgenstein	R	«величайший мыслитель прошлого века» (Друри) (подтв. с разночтениями: «самый глубокий мыслитель XIX века», по Друри)
 kierkegaard	gadamer	W
 kierkegaard	popper	W
 kierkegaard	arendt	W
