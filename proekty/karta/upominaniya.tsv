@@ -2939,81 +2939,81 @@ html-generated/webmap/assets/map_sim2.png	102120	не упомянут	notes/kar
 html-generated/webmap/assets/meta.json	242	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	proekty/cherv/hronofoto.py
 html-generated/webmap/assets/rankings.json	45068	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/webmap/assets/rankings2.json	44886	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-hwph-xml/MANUAL.md	65507	не упомянут		0	
-hwph-xml/README.md	17463	упомянут, статус не поставлен		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-hwph-xml/build_site.cmd	4040	упомянут, статус не поставлен		1	~diary/2026-10-18-1901.md
-hwph-xml/build_site.sh	2242	упомянут, статус не поставлен		1	diary/2026-10-18-1901.md
-hwph-xml/compare.py	5490	не упомянут		0	
-hwph-xml/crawl.py	3436	не упомянут		0	
-hwph-xml/finish.py	1200	упомянут, статус не поставлен		1	diary/2026-10-18-1901.md
-hwph-xml/md2xml.py	70399	не упомянут		0	
-hwph-xml/serve.cmd	1575	не упомянут		0	
-hwph-xml/serve.sh	683	не упомянут		0	
-hwph-xml/site.xml	181530917	упомянут, статус не поставлен		3	diary/2026-10-18-1901.md, notes/ext-opis.md, proekty/instrumenty/hwph_statya.py
-hwph-xml/split.py	738	упомянут, статус не поставлен		5	diary/2026-10-18-1901.md, ~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/hwph_statya.py
-hwph-xml/bridge/README.md	16336	упомянут, статус не поставлен		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-hwph-xml/bridge/SPEC.md	118214	не упомянут		0	
-hwph-xml/bridge/build_concept_map.py	4620	не упомянут		0	
-hwph-xml/bridge/build_phil_map.py	1867	не упомянут		0	
-hwph-xml/bridge/compare.py	8581	не упомянут		0	
-hwph-xml/bridge/concept_brief.py	9297	не упомянут		0	
-hwph-xml/bridge/concept_candidates.py	9159	не упомянут		0	
-hwph-xml/bridge/concept_de.py	44134	не упомянут		0	
-hwph-xml/bridge/concept_review.py	12938	не упомянут		0	
-hwph-xml/bridge/corpus_pairs.py	8851	не упомянут		0	
-hwph-xml/bridge/grep_art.py	1242	не упомянут		0	
-hwph-xml/bridge/hwphxml.py	12488	не упомянут		0	
-hwph-xml/bridge/make_report.py	14773	не упомянут		0	
-hwph-xml/bridge/phil_brief.py	2461	не упомянут		0	
-hwph-xml/bridge/phil_names.py	4158	не упомянут		0	
-hwph-xml/bridge/read_brief.py	7710	не упомянут		0	
-hwph-xml/bridge/read_evidence.py	7759	не упомянут		0	
-hwph-xml/bridge/run_bridge.py	1680	не упомянут		0	
-hwph-xml/bridge/review/adds.json	5334	не упомянут		0	
-hwph-xml/bridge/review/apply_all.sh	2501	не упомянут		0	
-hwph-xml/bridge/review/decisions.json	138749	не упомянут		0	
-hwph-xml/bridge/review/export.py	2701	не упомянут		0	
-hwph-xml/bridge/review/fix_descriptions.json	2274	не упомянут		0	
-hwph-xml/bridge/review/influence_develop_pairs.json	2625	не упомянут		0	
-hwph-xml/bridge/review/log.py	553	не упомянут		0	
-hwph-xml/bridge/review/report.py	5312	не упомянут		0	
-hwph-xml/bridge/review/c1/decisions.json	281210	не упомянут		0	
-hwph-xml/bridge/review/c1/export.py	2081	не упомянут		0	
-hwph-xml/bridge/review/c1/log.py	951	упомянут, статус не поставлен		2	~diary/2026-10-18-0737.md, ~notes/sad-soglasovanij.md
-hwph-xml/bridge/review/c1/report.py	4688	не упомянут		0	
-hwph-xml/bridge/review/f1/build.py	3604	не упомянут		0	
-hwph-xml/bridge/review/f1/cands.py	1868	не упомянут		0	
-hwph-xml/bridge/review/f1/decisions.json	188557	не упомянут		0	
-hwph-xml/bridge/review/f1/extract_lits.mjs	751	не упомянут		0	
-hwph-xml/bridge/review/f1/set_provenance_paragraphs.patch	1656	не упомянут		0	
-hwph-xml/bridge/review/f2/build.py	5318	не упомянут		0	
-hwph-xml/bridge/review/f2/candidates.json	55826	не упомянут		0	
-hwph-xml/bridge/review/f2/decisions.py	20768	не упомянут		0	
-hwph-xml/bridge/review/h2/decisions.json	354891	не упомянут		0	
-hwph-xml/bridge/review/h2/export.py	3819	не упомянут		0	
-hwph-xml/bridge/review/h2/log.py	968	не упомянут		0	
-hwph-xml/bridge/review/k1/decisions.json	77635	не упомянут		0	
-hwph-xml/bridge/review/k1/export.py	5450	не упомянут		0	
-hwph-xml/bridge/review/k1/extract_data.mjs	881	не упомянут		0	
-hwph-xml/bridge/review/k2/decisions.json	93599	не упомянут		0	
-hwph-xml/bridge/review/k2/export.py	5450	не упомянут		0	
-hwph-xml/bridge/review/l1/check.py	8161	упомянут, статус не поставлен		2	notes/zhizn-figury.md, proekty/proverki/README.md
-hwph-xml/bridge/review/l1/draft.py	37730	не упомянут		0	
-hwph-xml/bridge/review/n1/decisions.json	122204	не упомянут		0	
-hwph-xml/bridge/review/n1/report.py	5601	не упомянут		0	
-hwph-xml/bridge/review/r1/apply_concepts.py	17967	не упомянут		0	
-hwph-xml/bridge/review/r1/connectivity.mjs	2270	не упомянут		0	
-hwph-xml/bridge_out/candidate_concepts.json	275030	не упомянут		0	
-hwph-xml/bridge_out/candidate_relations.json	152377	не упомянут		0	
-hwph-xml/bridge_out/concepts_hwph.json	407116	не упомянут		0	
-hwph-xml/bridge_out/philosophers_hwph.json	16967	не упомянут		0	
-hwph-xml/bridge_out/relations_evidence.json	888097	не упомянут		0	
-hwph-xml/bridge_out/report.md	57600	не упомянут		0	
-hwph-xml/epub2md/align.py	1008	не упомянут		0	
-hwph-xml/epub2md/convert.py	6117	не упомянут		0	
-hwph-xml/epub2md/epub2md.py	11227	не упомянут		0	
-hwph-xml/epub2md/epub_stream.py	2016	не упомянут		0	
-hwph-xml/epub2md/transfer.py	8562	не упомянут		0	
+hwph-xml/MANUAL.md	65507	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/README.md	17463	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/build_site.cmd	4040	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	~diary/2026-10-18-1901.md
+hwph-xml/build_site.sh	2242	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	diary/2026-10-18-1901.md
+hwph-xml/compare.py	5490	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/crawl.py	3436	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/finish.py	1200	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	diary/2026-10-18-1901.md
+hwph-xml/md2xml.py	70399	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/serve.cmd	1575	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/serve.sh	683	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/site.xml	181530917	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	3	diary/2026-10-18-1901.md, notes/ext-opis.md, proekty/instrumenty/hwph_statya.py
+hwph-xml/split.py	738	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	5	diary/2026-10-18-1901.md, ~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/hwph_statya.py
+hwph-xml/bridge/README.md	16336	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/bridge/SPEC.md	118214	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/build_concept_map.py	4620	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/build_phil_map.py	1867	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/compare.py	8581	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/concept_brief.py	9297	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/concept_candidates.py	9159	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/concept_de.py	44134	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/concept_review.py	12938	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/corpus_pairs.py	8851	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/grep_art.py	1242	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/hwphxml.py	12488	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/make_report.py	14773	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/phil_brief.py	2461	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/phil_names.py	4158	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/read_brief.py	7710	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/read_evidence.py	7759	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/run_bridge.py	1680	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/adds.json	5334	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/apply_all.sh	2501	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/decisions.json	138749	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/export.py	2701	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/fix_descriptions.json	2274	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/influence_develop_pairs.json	2625	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/log.py	553	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/report.py	5312	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/c1/decisions.json	281210	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/c1/export.py	2081	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/c1/log.py	951	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	2	~diary/2026-10-18-0737.md, ~notes/sad-soglasovanij.md
+hwph-xml/bridge/review/c1/report.py	4688	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f1/build.py	3604	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f1/cands.py	1868	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f1/decisions.json	188557	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f1/extract_lits.mjs	751	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f1/set_provenance_paragraphs.patch	1656	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f2/build.py	5318	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f2/candidates.json	55826	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/f2/decisions.py	20768	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/h2/decisions.json	354891	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/h2/export.py	3819	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/h2/log.py	968	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/k1/decisions.json	77635	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/k1/export.py	5450	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/k1/extract_data.mjs	881	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/k2/decisions.json	93599	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/k2/export.py	5450	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/l1/check.py	8161	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	2	notes/zhizn-figury.md, proekty/proverki/README.md
+hwph-xml/bridge/review/l1/draft.py	37730	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/n1/decisions.json	122204	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/n1/report.py	5601	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/r1/apply_concepts.py	17967	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge/review/r1/connectivity.mjs	2270	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge_out/candidate_concepts.json	275030	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge_out/candidate_relations.json	152377	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge_out/concepts_hwph.json	407116	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge_out/philosophers_hwph.json	16967	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge_out/relations_evidence.json	888097	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/bridge_out/report.md	57600	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/epub2md/align.py	1008	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/epub2md/convert.py	6117	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/epub2md/epub2md.py	11227	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/epub2md/epub_stream.py	2016	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/epub2md/transfer.py	8562	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/jre/ASSEMBLY_EXCEPTION	1522	служебное		0	
 hwph-xml/jre/LICENSE	19274	служебное		0	
 hwph-xml/jre/NOTICE	2400	служебное		0	
@@ -3189,116 +3189,116 @@ hwph-xml/jre/lib/security/policy/limited/US_export_policy.jar	620	служебн
 hwph-xml/jre/lib/security/policy/limited/local_policy.jar	1040	служебное		0	
 hwph-xml/jre/lib/security/policy/unlimited/US_export_policy.jar	620	служебное		0	
 hwph-xml/jre/lib/security/policy/unlimited/local_policy.jar	638	служебное		0	
-hwph-xml/lib/hwph_cite.py	20202	не упомянут		0	
-hwph-xml/lib/hwph_common.py	4716	не упомянут		0	
-hwph-xml/lib/persons_fix.json	6895	не упомянут		0	
-hwph-xml/lib/persons_review.md	99420	не упомянут		0	
+hwph-xml/lib/hwph_cite.py	20202	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/hwph_common.py	4716	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/persons_fix.json	6895	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/persons_review.md	99420	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/lib/__pycache__/hwph_cite.cpython-38.pyc	15623	служебное		0	
 hwph-xml/lib/__pycache__/hwph_common.cpython-38.pyc	4927	служебное		0	
-hwph-xml/lib/img_svg/0b4d228846759e72b7bda4e775b54107.svg	19475	не упомянут		0	
-hwph-xml/lib/img_svg/0c3e066b080936688614169abe0bc740.svg	25486	не упомянут		0	
-hwph-xml/lib/img_svg/0c5de0460051abd8dcc5b1d15a92e735.svg	38578	не упомянут		0	
-hwph-xml/lib/img_svg/184171a782dda844a1314afd4590aecb.svg	85054	не упомянут		0	
-hwph-xml/lib/img_svg/18516742c2116ef9204d9eb3883b4d5a.svg	9913	не упомянут		0	
-hwph-xml/lib/img_svg/19b175687605bda540a001a969ba9484.svg	51350	не упомянут		0	
-hwph-xml/lib/img_svg/2054707bda0438fb9ac83a36bdfec55c.svg	32515	не упомянут		0	
-hwph-xml/lib/img_svg/26a0aa08dc36da198b0f08b4e533927f.svg	70240	не упомянут		0	
-hwph-xml/lib/img_svg/3099eed796d3568e387785ff8b94cf45.svg	8216	не упомянут		0	
-hwph-xml/lib/img_svg/3146ab3469bda4c28f0adbb4442ad5df.svg	14103	не упомянут		0	
-hwph-xml/lib/img_svg/3aef73d3d5ff691d540ae96f4a2d8e6b.svg	25913	не упомянут		0	
-hwph-xml/lib/img_svg/436ac21a2807b75717e50fa1cd4bd349.svg	10123	не упомянут		0	
-hwph-xml/lib/img_svg/44f44768edf75c7d557222e7eebfe8fa.svg	56925	не упомянут		0	
-hwph-xml/lib/img_svg/48f379bbd94b5ad0ca2cbe9ce4e2f43c.svg	13263	не упомянут		0	
-hwph-xml/lib/img_svg/4efbe23723d9ce4b94df85aa148e9005.svg	27533	не упомянут		0	
-hwph-xml/lib/img_svg/4f7540ae891cb4ef093a388c3dc11511.svg	26152	не упомянут		0	
-hwph-xml/lib/img_svg/5590082c7274aba496e901d34fbb79b7.svg	65254	не упомянут		0	
-hwph-xml/lib/img_svg/5cf9af0b9302bf91a29ed5f46dce12f5.svg	22908	не упомянут		0	
-hwph-xml/lib/img_svg/600dac50464ae21a2ee30a5898297a20.svg	114346	не упомянут		0	
-hwph-xml/lib/img_svg/64d6e7ae445b2d47fd57cceeccb6b9d7.svg	9981	не упомянут		0	
-hwph-xml/lib/img_svg/64d9d8c9275749dc9bbc1a85b059a883.svg	33977	не упомянут		0	
-hwph-xml/lib/img_svg/6c25b9b17fc5619f0acac4777063334b.svg	8504	не упомянут		0	
-hwph-xml/lib/img_svg/6c98921ab0c42ca8e0ad12778fb82a51.svg	9262	не упомянут		0	
-hwph-xml/lib/img_svg/6d9eed3f0e0f209a58dbe886f239fb8c.svg	71579	не упомянут		0	
-hwph-xml/lib/img_svg/74a517da5c1b3f6a77b416f404601d73.svg	8318	не упомянут		0	
-hwph-xml/lib/img_svg/814df0c15f0822426cfade9dd36dd2b7.svg	13501	не упомянут		0	
-hwph-xml/lib/img_svg/8ef20cfff2cd3c9f516d35416498db14.svg	324	не упомянут		0	
-hwph-xml/lib/img_svg/8f10b3b90f13090509880e4a98c1e931.svg	15035	не упомянут		0	
-hwph-xml/lib/img_svg/925d2fde6fa124b89c308e258166f871.svg	8106	не упомянут		0	
-hwph-xml/lib/img_svg/a0f4befb7d307d7c33a4aa009526e3df.svg	20234	не упомянут		0	
-hwph-xml/lib/img_svg/a27aafaccbce41c78dbe3047a15cfa21.svg	8101	не упомянут		0	
-hwph-xml/lib/img_svg/ab10a261c6f975236b5b8ffe824d6353.svg	50199	не упомянут		0	
-hwph-xml/lib/img_svg/adf2de9ab1a221cf89ba1a45372cb212.svg	8443	не упомянут		0	
-hwph-xml/lib/img_svg/b34b1bbaaf5e16b6a4b4217f2879f074.svg	8714	не упомянут		0	
-hwph-xml/lib/img_svg/bcf7f0333a95791feca27aca0dcce49f.svg	35348	не упомянут		0	
-hwph-xml/lib/img_svg/c1f356af943d8a44b35ed4266240d57c.svg	8494	не упомянут		0	
-hwph-xml/lib/img_svg/c229b29a7b1f70286d51adf53ac5fdd4.svg	67782	не упомянут		0	
-hwph-xml/lib/img_svg/c39641adca0ce589e3f0f9c59e41cee7.svg	30876	не упомянут		0	
-hwph-xml/lib/img_svg/c3eb29f9e39f054ffb5fc64f0e7f459b.svg	8628	не упомянут		0	
-hwph-xml/lib/img_svg/c545be8bf0ffbf00e167d8b59594dd60.svg	36460	не упомянут		0	
-hwph-xml/lib/img_svg/c94824abad97e028e3715ca9667dfc2e.svg	93847	не упомянут		0	
-hwph-xml/lib/img_svg/d07d8e32462f82a2560174d1cf0666f6.svg	90770	не упомянут		0	
-hwph-xml/lib/img_svg/d1be88ebc4ed87c1a7404f44747d7771.svg	52350	не упомянут		0	
-hwph-xml/lib/img_svg/db13f00775e608d3a69934564a00f06b.svg	8748	не упомянут		0	
-hwph-xml/lib/img_svg/dc76b5a8b7fb9bfaac602ab26ae5533c.svg	13498	не упомянут		0	
-hwph-xml/lib/img_svg/dcbfd8e5c2ff4a99bfc77d1428fd07e5.svg	13164	не упомянут		0	
-hwph-xml/lib/img_svg/dd5455e5b20e64d95eb037169c0a6847.svg	8916	не упомянут		0	
-hwph-xml/lib/img_svg/e0e8dbb45c2985d55d15797efe49f943.svg	72531	не упомянут		0	
-hwph-xml/lib/img_svg/e37a635be447dbe68aa55a0e961d52f2.svg	8344	не упомянут		0	
-hwph-xml/lib/img_svg/e9de1b0e3da26d77f8202ac2742342a7.svg	14200	не упомянут		0	
-hwph-xml/lib/img_svg/ed8373826e2d3895ed57f2eb103f906a.svg	68781	не упомянут		0	
-hwph-xml/lib/img_svg/fa471be349fa0a065baa4f79d2d87c29.svg	73947	не упомянут		0	
-hwph-xml/lib/img_svg/faf7eb36669aa2b4f749b4a7ed9f7e1d.svg	174962	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/AUTHOR-DECISIONS.md	42365	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/C1-provenance.json	135710	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/C1-review.md	296896	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/F1-provenance.json	172890	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/F1-review.md	44438	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/F2-philosophers.json	634523	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/F2-review.md	63338	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H1-add.json	5334	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H1-fix.json	3507	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H1-provenance.json	75938	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H1-review.md	167922	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H1b-provenance.json	370	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H1b-review.md	3771	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H2-provenance.json	121625	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/H2-review.md	395583	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/K1-add.json	6088	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/K1-provenance.json	2800	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/K1-review.md	60469	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/K2-add.json	6575	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/K2-provenance.json	2922	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/K2-review.md	72238	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/L1-review.md	51292	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/N1-concepts-review.md	64397	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/P1-add.json	2593	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/P1-concepts.json	1400	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/P1-fix.json	362	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/P1-provenance.json	1273	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/P1-review.md	6437	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R1-concepts.json	12929	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R1-fix.json	13417	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R1-review.md	40441	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R2-add.json	1449	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R2-fix.json	6652	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R2-provenance.json	3145	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R2-review.md	18417	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R3-concepts.json	5767	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R3-fix.json	5124	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/R3-review.md	20843	не упомянут		0	
-hwph-xml/philosphaira_decisions/hwph/README.md	14391	упомянут, статус не поставлен		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-hwph-xml/saxon/saxon-he-11.7.jar	5218107	не упомянут		0	
-hwph-xml/saxon/xmlresolver-5.3.3-data.jar	1033122	не упомянут		0	
-hwph-xml/saxon/xmlresolver-5.3.3.jar	167889	не упомянут		0	
-hwph-xml/saxon/notices/JAMESCLARK.txt	1571	не упомянут		0	
-hwph-xml/saxon/notices/JLINE2.txt	1779	не упомянут		0	
-hwph-xml/saxon/notices/LICENSE.txt	16859	не упомянут		0	
-hwph-xml/server/HwphServer.java	23019	не упомянут		0	
-hwph-xml/server/hwph-server.jar	14390	не упомянут		0	
-hwph-xml/static/hwph_ui.html	155014	не упомянут		0	
-hwph-xml/static/i18n.js	88332	не упомянут		0	
-hwph-xml/static/page.css	2649	не упомянут		0	
-hwph-xml/static/static_api.js	56185	не упомянут		0	
+hwph-xml/lib/img_svg/0b4d228846759e72b7bda4e775b54107.svg	19475	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/0c3e066b080936688614169abe0bc740.svg	25486	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/0c5de0460051abd8dcc5b1d15a92e735.svg	38578	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/184171a782dda844a1314afd4590aecb.svg	85054	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/18516742c2116ef9204d9eb3883b4d5a.svg	9913	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/19b175687605bda540a001a969ba9484.svg	51350	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/2054707bda0438fb9ac83a36bdfec55c.svg	32515	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/26a0aa08dc36da198b0f08b4e533927f.svg	70240	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/3099eed796d3568e387785ff8b94cf45.svg	8216	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/3146ab3469bda4c28f0adbb4442ad5df.svg	14103	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/3aef73d3d5ff691d540ae96f4a2d8e6b.svg	25913	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/436ac21a2807b75717e50fa1cd4bd349.svg	10123	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/44f44768edf75c7d557222e7eebfe8fa.svg	56925	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/48f379bbd94b5ad0ca2cbe9ce4e2f43c.svg	13263	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/4efbe23723d9ce4b94df85aa148e9005.svg	27533	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/4f7540ae891cb4ef093a388c3dc11511.svg	26152	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/5590082c7274aba496e901d34fbb79b7.svg	65254	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/5cf9af0b9302bf91a29ed5f46dce12f5.svg	22908	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/600dac50464ae21a2ee30a5898297a20.svg	114346	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/64d6e7ae445b2d47fd57cceeccb6b9d7.svg	9981	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/64d9d8c9275749dc9bbc1a85b059a883.svg	33977	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/6c25b9b17fc5619f0acac4777063334b.svg	8504	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/6c98921ab0c42ca8e0ad12778fb82a51.svg	9262	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/6d9eed3f0e0f209a58dbe886f239fb8c.svg	71579	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/74a517da5c1b3f6a77b416f404601d73.svg	8318	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/814df0c15f0822426cfade9dd36dd2b7.svg	13501	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/8ef20cfff2cd3c9f516d35416498db14.svg	324	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/8f10b3b90f13090509880e4a98c1e931.svg	15035	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/925d2fde6fa124b89c308e258166f871.svg	8106	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/a0f4befb7d307d7c33a4aa009526e3df.svg	20234	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/a27aafaccbce41c78dbe3047a15cfa21.svg	8101	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/ab10a261c6f975236b5b8ffe824d6353.svg	50199	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/adf2de9ab1a221cf89ba1a45372cb212.svg	8443	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/b34b1bbaaf5e16b6a4b4217f2879f074.svg	8714	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/bcf7f0333a95791feca27aca0dcce49f.svg	35348	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/c1f356af943d8a44b35ed4266240d57c.svg	8494	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/c229b29a7b1f70286d51adf53ac5fdd4.svg	67782	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/c39641adca0ce589e3f0f9c59e41cee7.svg	30876	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/c3eb29f9e39f054ffb5fc64f0e7f459b.svg	8628	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/c545be8bf0ffbf00e167d8b59594dd60.svg	36460	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/c94824abad97e028e3715ca9667dfc2e.svg	93847	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/d07d8e32462f82a2560174d1cf0666f6.svg	90770	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/d1be88ebc4ed87c1a7404f44747d7771.svg	52350	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/db13f00775e608d3a69934564a00f06b.svg	8748	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/dc76b5a8b7fb9bfaac602ab26ae5533c.svg	13498	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/dcbfd8e5c2ff4a99bfc77d1428fd07e5.svg	13164	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/dd5455e5b20e64d95eb037169c0a6847.svg	8916	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/e0e8dbb45c2985d55d15797efe49f943.svg	72531	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/e37a635be447dbe68aa55a0e961d52f2.svg	8344	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/e9de1b0e3da26d77f8202ac2742342a7.svg	14200	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/ed8373826e2d3895ed57f2eb103f906a.svg	68781	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/fa471be349fa0a065baa4f79d2d87c29.svg	73947	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/lib/img_svg/faf7eb36669aa2b4f749b4a7ed9f7e1d.svg	174962	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/AUTHOR-DECISIONS.md	42365	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/C1-provenance.json	135710	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/C1-review.md	296896	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/F1-provenance.json	172890	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/F1-review.md	44438	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/F2-philosophers.json	634523	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/F2-review.md	63338	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H1-add.json	5334	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H1-fix.json	3507	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H1-provenance.json	75938	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H1-review.md	167922	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H1b-provenance.json	370	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H1b-review.md	3771	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H2-provenance.json	121625	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/H2-review.md	395583	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/K1-add.json	6088	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/K1-provenance.json	2800	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/K1-review.md	60469	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/K2-add.json	6575	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/K2-provenance.json	2922	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/K2-review.md	72238	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/L1-review.md	51292	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/N1-concepts-review.md	64397	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/P1-add.json	2593	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/P1-concepts.json	1400	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/P1-fix.json	362	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/P1-provenance.json	1273	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/P1-review.md	6437	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R1-concepts.json	12929	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R1-fix.json	13417	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R1-review.md	40441	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R2-add.json	1449	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R2-fix.json	6652	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R2-provenance.json	3145	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R2-review.md	18417	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R3-concepts.json	5767	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R3-fix.json	5124	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/R3-review.md	20843	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/philosphaira_decisions/hwph/README.md	14391	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/saxon/saxon-he-11.7.jar	5218107	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/saxon/xmlresolver-5.3.3-data.jar	1033122	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/saxon/xmlresolver-5.3.3.jar	167889	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/saxon/notices/JAMESCLARK.txt	1571	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/saxon/notices/JLINE2.txt	1779	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/saxon/notices/LICENSE.txt	16859	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/server/HwphServer.java	23019	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/server/hwph-server.jar	14390	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/static/hwph_ui.html	155014	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/static/i18n.js	88332	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/static/page.css	2649	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/static/static_api.js	56185	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/static/katex/LICENSE	1107	служебное		0	
 hwph-xml/static/katex/katex.min.css	23335	служебное		0	
 hwph-xml/static/katex/katex.min.js	275414	служебное		0	
@@ -3362,13 +3362,13 @@ hwph-xml/static/katex/fonts/KaTeX_Size4-Regular.woff2	4928	служебное		0
 hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.ttf	27556	служебное		0	
 hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff	16028	служебное		0	
 hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff2	13568	служебное		0	
-hwph-xml/tools/i18n_check.py	5914	не упомянут		0	
-hwph-xml/tools/persons_review.py	7961	не упомянут		0	
-hwph-xml/xq/article.xq	18765	упомянут, статус не поставлен		7	diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/instrumenty/html2txt.py, proekty/instrumenty/hwph_statya.py
-hwph-xml/xq/common.xq	9896	не упомянут		0	
-hwph-xml/xq/global.xq	10205	не упомянут		0	
-hwph-xml/xq/index.xq	11792	не упомянут		0	
-hwph-xml/xq/manifest.xq	3621	не упомянут		0	
+hwph-xml/tools/i18n_check.py	5914	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/tools/persons_review.py	7961	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	7	diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/instrumenty/html2txt.py, proekty/instrumenty/hwph_statya.py
+hwph-xml/xq/common.xq	9896	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/xq/global.xq	10205	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/xq/index.xq	11792	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/xq/manifest.xq	3621	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 lleo_dip/!README	2176	частично	notes/sito-2020.md	0	
 lleo_dip/!intro.sh	119	частично	notes/sito-2020.md	0	
 lleo_dip/!poet.sh	451	частично	notes/sito-2020.md	0	
@@ -3940,7 +3940,7 @@ philosphaira/server/src/db/observations.js	4924	не упомянут		0
 philosphaira/server/src/db/paginate.js	1441	не упомянут		0	
 philosphaira/server/src/db/pool.js	2061	не упомянут		0	
 philosphaira/server/src/db/sessions.js	4243	не упомянут		0	
-philosphaira/server/src/db/tx.js	1600	упомянут, статус не поставлен		4	~diary/2026-10-18-1457.md, ~notes/krumme-sieg.md, ~proekty/hokku/udar.py, ~proekty/proverki/README.md
+philosphaira/server/src/db/tx.js	1600	упомянут, статус не поставлен		5	~diary/2026-10-18-1457.md, ~notes/krumme-sieg.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/proverki/README.md
 philosphaira/server/src/db/users.js	9969	не упомянут		0	
 philosphaira/server/src/db/verifications.js	1388	не упомянут		0	
 philosphaira/server/src/graph/footnotes.js	7593	не упомянут		0	

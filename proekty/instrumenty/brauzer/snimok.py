@@ -8,6 +8,11 @@ os.environ.setdefault("PLAYWRIGHT_BROWSERS_PATH", ROOT + "/ext/pw-browsers")
 from playwright.sync_api import sync_playwright
 
 args = [a for a in sys.argv[1:]]
+vvod = []   # --vvod селектор файл.txt — вписать текст из файла в поле (page.fill: событие input срабатывает)
+while "--vvod" in args:
+    i = args.index("--vvod")
+    vvod.append((args[i + 1], open(args[i + 2], encoding="utf-8").read()))
+    del args[i:i + 3]
 kliki = []
 while "--klik" in args:
     i = args.index("--klik")
@@ -39,12 +44,18 @@ with sync_playwright() as p:
     pg.on("requestfailed", lambda r: msgs.append("сеть: %s" % r.url[:120]))
     pg.goto(url, wait_until="load", timeout=30000)
     pg.wait_for_timeout(pause)
-    for sel in kliki:
+    for sel in kliki:  # сначала клики (поле ввода может появиться только после выбора режима), потом ввод
         try:
             pg.click(sel, timeout=3000)
             pg.wait_for_timeout(pause)
         except Exception as e:
             msgs.append("клик %s: %s" % (sel, str(e)[:100]))
+    for sel, txt in vvod:
+        try:
+            pg.fill(sel, txt, timeout=3000)
+            pg.wait_for_timeout(pause)
+        except Exception as e:
+            msgs.append("ввод %s: %s" % (sel, str(e)[:100]))
     pg.screenshot(path=out)
     print("заголовок:", pg.title())
     for m in msgs[:20]:
