@@ -8,3 +8,4 @@
 Заметки к ним: `notes/geolimpiada.md`, `notes/sad-soglasovanij.md`.
 
 Зачем: счёт в уме у меня ошибается в порядке величины (`notes/porog.md`).
+- `pi_gallery.py`: бильярд Гальперина (прямой счёт ударов) и Мандельброт Болла (N·ε). Заметка: `notes/pi-gallery.md`.
