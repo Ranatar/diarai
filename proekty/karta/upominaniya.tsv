@@ -780,7 +780,7 @@ Synthesises-of-concepts/various/game_life_fiction.md	25720	не упомянут
 Synthesises-of-concepts/various/gender_alchemy.md	31547	не упомянут		0	
 Synthesises-of-concepts/various/gender_alchemy.mmd	63611	не упомянут		0	
 Synthesises-of-concepts/various/generative-bugs-features-research (1).md	108815	не упомянут		0	
-Synthesises-of-concepts/various/generative-bugs-features-research.md	28881	не упомянут		0	
+Synthesises-of-concepts/various/generative-bugs-features-research.md	28881	бегло	дневник 2026-10-18-1901 (введение, таксономия)	1	diary/2026-10-18-1901.md
 Synthesises-of-concepts/various/heidegger-noir-comic.md	30846	не упомянут		0	
 Synthesises-of-concepts/various/heraldic-language-guide.md	41240	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/various/heresies_table.md	26068	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
@@ -1793,7 +1793,7 @@ eldamo/src/main/webapp/js/glaemscribe.min.js	69798	не упомянут		0
 eldamo/src/main/webapp/js/lang-switch.js	2561	не упомянут		0	
 eldamo/src/main/webapp/js/quenya.glaem.js	19724	не упомянут		0	
 eldamo/src/main/webapp/js/search-adv.js	14022	не упомянут		0	
-eldamo/src/main/webapp/js/search.js	27805	упомянут, статус не поставлен		9	~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py, ~proekty/instrumenty/js_strings.py, ~proekty/instrumenty/upominaniya.py
+eldamo/src/main/webapp/js/search.js	27805	упомянут, статус не поставлен		10	~diary/2026-10-18-1901.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py, ~proekty/instrumenty/js_strings.py
 eldamo/src/main/webapp/js/sindarin-beleriand.glaem.js	13666	не упомянут		0	
 eldamo/src/main/webapp/js/sindarin-classical.glaem.js	13536	не упомянут		0	
 eldamo/src/main/webapp/js/tengwar_ds_eldamar.cst.js	44878	не упомянут		0	
@@ -2941,16 +2941,16 @@ html-generated/webmap/assets/rankings.json	45068	не упомянут	notes/kar
 html-generated/webmap/assets/rankings2.json	44886	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 hwph-xml/MANUAL.md	65507	не упомянут		0	
 hwph-xml/README.md	17463	упомянут, статус не поставлен		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-hwph-xml/build_site.cmd	4040	не упомянут		0	
-hwph-xml/build_site.sh	2242	не упомянут		0	
+hwph-xml/build_site.cmd	4040	упомянут, статус не поставлен		1	~diary/2026-10-18-1901.md
+hwph-xml/build_site.sh	2242	упомянут, статус не поставлен		1	diary/2026-10-18-1901.md
 hwph-xml/compare.py	5490	не упомянут		0	
 hwph-xml/crawl.py	3436	не упомянут		0	
-hwph-xml/finish.py	1200	не упомянут		0	
+hwph-xml/finish.py	1200	упомянут, статус не поставлен		1	diary/2026-10-18-1901.md
 hwph-xml/md2xml.py	70399	не упомянут		0	
 hwph-xml/serve.cmd	1575	не упомянут		0	
 hwph-xml/serve.sh	683	не упомянут		0	
-hwph-xml/site.xml	181530917	упомянут, статус не поставлен		2	notes/ext-opis.md, proekty/instrumenty/hwph_statya.py
-hwph-xml/split.py	738	упомянут, статус не поставлен		4	~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/hwph_statya.py
+hwph-xml/site.xml	181530917	упомянут, статус не поставлен		3	diary/2026-10-18-1901.md, notes/ext-opis.md, proekty/instrumenty/hwph_statya.py
+hwph-xml/split.py	738	упомянут, статус не поставлен		5	diary/2026-10-18-1901.md, ~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/hwph_statya.py
 hwph-xml/bridge/README.md	16336	упомянут, статус не поставлен		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 hwph-xml/bridge/SPEC.md	118214	не упомянут		0	
 hwph-xml/bridge/build_concept_map.py	4620	не упомянут		0	
@@ -3967,7 +3967,7 @@ philosphaira/server/src/notify/worker.js	9833	не упомянут		0
 philosphaira/server/src/users/service.js	8738	не упомянут		0	
 philosphaira/server/src/ws/bus.js	2406	упомянут, статус не поставлен		1	~proekty/aidan/README.md
 philosphaira/server/src/ws/manager.js	7227	не упомянут		0	
-philosphaira/server/src/ws/node.js	1878	упомянут, статус не поставлен		3	~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/upominaniya.py, ~proekty/kruzhochek/vse.py
+philosphaira/server/src/ws/node.js	1878	упомянут, статус не поставлен		4	~diary/2026-10-18-1901.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/upominaniya.py, ~proekty/kruzhochek/vse.py
 philosphaira/source/philosophy_graph_v3.html	4654500	не упомянут		0	
 philosphaira/tools/accept.sh	19641	не упомянут		0	
 philosphaira/tools/accept_all.sh	2908	не упомянут		0	
@@ -5743,7 +5743,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/ERTP/js/glaemscribe.min.js	69798	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/quenya.glaem.js	19724	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/search-adv.js	13777	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/js/search.js	20873	бегло	notes/smesh-otchet.md (только смесь букв)	9	~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py, ~proekty/instrumenty/js_strings.py, ~proekty/instrumenty/upominaniya.py
+Доклад/ERTP/js/search.js	20873	бегло	notes/smesh-otchet.md (только смесь букв)	10	~diary/2026-10-18-1901.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py, ~proekty/instrumenty/js_strings.py
 Доклад/ERTP/js/sindarin-beleriand.glaem.js	13666	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/sindarin-classical.glaem.js	13536	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/tengwar_ds_eldamar.cst.js	44878	бегло	notes/smesh-otchet.md (только смесь букв)	0	
