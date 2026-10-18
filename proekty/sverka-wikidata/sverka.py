@@ -153,6 +153,29 @@ print("\n7) Самые сильные пары графа, которых нет
 for p in [p for p in sorted(G, key=lambda p: -Gw[p]) if p not in Wu][:30]:
     print("   %-40s %3d  %s" % (nm(p), Gw[p], dict(G[p].most_common(3))))
 
+# --- ручной разбор пункта 6 (razbor.tsv): какие пропуски — настоящие пробелы графа
+RZ = os.path.join(HERE, "razbor.tsv")
+if os.path.exists(RZ):
+    lab = {}
+    for line in open(RZ, encoding="utf-8"):
+        if line.startswith("#") or not line.strip():
+            continue
+        a, b, m = line.rstrip("\n").split("\t")[:3]
+        lab[(a, b)] = m
+    print("\n6а) Ручной разбор пропусков (по памяти модели, без источников): ",
+          dict(collections.Counter(lab.values())))
+    for nm2, cond in (("общая традиция", same), ("разные традиции", lambda p: not same(p))):
+        c = collections.Counter(m for (a, b), m in lab.items() if cond(frozenset((a, b))))
+        print("   %-16s %s" % (nm2, dict(c)))
+    # пересчёт полноты: выкинуть из Wikidata пропуски, помеченные W и X
+    drop = {frozenset(k) for k, m in lab.items() if m in ("W", "X")}
+    for nm2, cond in (("общая традиция", same), ("разные традиции", lambda p: not same(p))):
+        w = [p for p in Wu if cond(p) and p not in drop]
+        print("   полнота графа без W/X, %-16s %3d из %3d = %5.1f%%"
+              % (nm2, sum(p in G for p in w), len(w), 100 * sum(p in G for p in w) / max(1, len(w))))
+    print("   (оговорка: пойманные графом пары Wikidata не размечались, поэтому")
+    print("    чистка односторонняя и завышает полноту; это верхняя оценка)")
+
 # --- направление: в графе у «прямых» типов источник раньше цели?
 print("\n8) Направление связей между философами (источник родился раньше цели):")
 for t in rtypes:

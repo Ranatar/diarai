@@ -1,0 +1,99 @@
+# Ручной разбор: влияния по Wikidata, которых нет в графе ΦilosΦaira (пункт 6 отчёта).
+# Метки: R — влияние документировано и существенно (пробел графа); W — общее, расплывчатое
+# («все читали Платона»); X — скорее ошибка Wikidata.
+# ВНИМАНИЕ: разбор по памяти модели (2026-10-18), без проверки по источникам.
+# Это суждение того же рода, что и разметка графа, — со всеми её болезнями.
+heraclitus	heidegger	R	лекционные курсы о Гераклите (1943–44), семинар с Финком
+parmenides	spinoza	W
+parmenides	nietzsche	W	глава в «Философии в трагическую эпоху Греции», но не влияние
+socrates	nietzsche	R	«проблема Сократа», противник, через которого Ницше определяется
+socrates	popper	R	сократическое незнание как образец в «Открытом обществе»
+democritus	nietzsche	W	ранние филологические штудии о Демокрите
+plato	hobbes	W
+plato	spinoza	W
+plato	schelling	R	юношеский комментарий к «Тимею»
+plato	bergson	W
+plato	arendt	R	критика платоновского отождествления политики с изготовлением
+aristotle	maimonides	R	«Путеводитель растерянных» построен на Аристотеле
+aristotle	hobbes	R	как противник: «Левиафан», гл. 46
+aristotle	kierkegaard	W	понятие движения (kinesis) в «Повторении»
+aristotle	nietzsche	W
+aristotle	bergson	R	латинская диссертация «Quid Aristoteles de loco senserit»
+aristotle	austin	R	Остин — исследователь «Никомаховой этики», понятие удовольствия
+sextus	nietzsche	W
+plotinus	averroes	W	через «Теологию Аристотеля», косвенно
+plotinus	leibniz	W
+plotinus	bergson	R	курсы о Плотине в Коллеж де Франс
+plotinus	shestov	R	статья «Неистовые речи. О природе экстаза у Плотина»
+plotinus	camus	R	диплом «Христианская метафизика и неоплатонизм»
+augustine	leibniz	W
+al_farabi	maimonides	R	Маймонид прямо рекомендует аль-Фараби
+avicenna	maimonides	R
+avicenna	spinoza	W
+anselm	ockham	W
+maimonides	leibniz	W	Лейбниц конспектировал «Путеводитель»
+aquinas	leibniz	W
+aquinas	heidegger	W	католическая выучка
+duns_scotus	heidegger	R	хабилитация «Учение Дунса Скота о категориях и значении»
+duns_scotus	arendt	R	воля у Скота в «Жизни ума»
+ockham	descartes	W
+cusanus	leibniz	W
+machiavelli	spinoza	R	«acutissimus Machiavellus» в «Политическом трактате»
+machiavelli	nietzsche	W
+machiavelli	arendt	W
+descartes	hegel	W
+descartes	popper	W
+spinoza	schopenhauer	W
+locke	schopenhauer	W
+spinoza	feuerbach	R	Фейербах о Спинозе как «Моисее современных вольнодумцев»
+spinoza	russell	W
+leibniz	nietzsche	W
+leibniz	bergson	W
+leibniz	russell	R	«Критическое изложение философии Лейбница» (1900)
+berkeley	peirce	W	рецензия на издание Беркли (1871)
+berkeley	bergson	W	доклад «Философская интуиция» разбирает Беркли
+montesquieu	arendt	R	принципы правления у Монтескьё в «Истоках тоталитаризма»
+hume	schopenhauer	W
+rousseau	hegel	R
+rousseau	derrida	R	«О грамматологии», вторая часть
+kant	kierkegaard	W
+kant	carnap	R	диссертация «Пространство» в неокантианской рамке
+kant	losev	W
+kant	gadamer	R	«Истина и метод»: критика субъективации эстетики у Канта
+kant	davidson	W
+hegel	derrida	R	«Glas», «Колодец и пирамида»
+schelling	kierkegaard	R	слушал берлинские лекции Шеллинга 1841 г.
+schelling	berdyaev	R	Ungrund через Бёме и Шеллинга
+schelling	habermas	R	диссертация «Абсолют и история» о Шеллинге
+schopenhauer	berdyaev	W
+schopenhauer	popper	W
+mill	dilthey	R	«науки о духе» — перевод миллевых moral sciences
+mill	russell	R	крёстный; «Система логики» как раннее чтение
+kierkegaard	bergson	X	следов не знаю
+kierkegaard	berdyaev	W
+kierkegaard	wittgenstein	R	«величайший мыслитель прошлого века» (Друри)
+kierkegaard	gadamer	W
+kierkegaard	popper	W
+kierkegaard	arendt	W
+marx	merleau_ponty	R	«Гуманизм и террор», «Приключения диалектики»
+marx	derrida	R	«Призраки Маркса»
+brentano	carnap	W
+nietzsche	bachelard	W
+nietzsche	habermas	R	как противник: «Философский дискурс модерна»
+nietzsche	baudrillard	W
+frege	bergson	X	связи не знаю
+freud	habermas	R	«Познание и интерес»: психоанализ как модель
+bergson	losev	W
+bergson	bataille	R	встреча 1920 г., «Смех» как исходный толчок
+husserl	arendt	W
+whitehead	russell	R	соавторы «Principia Mathematica»
+shestov	bataille	R	Шестов вводил Батая в Ницше и Достоевского
+berdyaev	losev	W
+cassirer	foucault	W
+frank	losev	W
+jaspers	foucault	X	связи не знаю
+wittgenstein	davidson	R
+heidegger	lyotard	R	«Хайдеггер и „евреи“»
+wittgenstein	derrida	W
+carnap	davidson	R	статья Дэвидсона о методе экстенсии и интенсии в томе Шилппа о Карнапе
+merleau_ponty	foucault	R	Фуко слушал его лекции
