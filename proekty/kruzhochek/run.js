@@ -31,11 +31,15 @@ const sandbox = {
 // Поэтому код эскиза оборачивается в функцию: его var становятся локальными.
 // Это не песочница; оправдание — эскизы прочитаны (см. шапку). Таймаут — снаружи (timeout).
 void vm; void tmo;
+// Как в браузере: ошибка обрывает скрипт, но уже нарисованное остаётся.
+const err = e => console.error('ошибка в эскизе: ' + String(e).slice(0, 100));
 for (const s of scripts) {
-  new Function('document', 'requestAnimationFrame', 'console', s)(
-    sandbox.document, sandbox.requestAnimationFrame, sandbox.console);
+  try {
+    new Function('document', 'requestAnimationFrame', 'console', s)(
+      sandbox.document, sandbox.requestAnimationFrame, sandbox.console);
+  } catch (e) { err(e); }
 }
-if (!last && frames.length) frames.shift()();
+if (!last && frames.length) { try { frames.shift()(); } catch (e) { err(e); } }
 if (!last) { console.error('нет кадра'); process.exit(2); }
 
 const { width: w, height: h, data } = last;
