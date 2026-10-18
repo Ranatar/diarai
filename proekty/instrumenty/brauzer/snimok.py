@@ -13,6 +13,11 @@ while "--vvod" in args:
     i = args.index("--vvod")
     vvod.append((args[i + 1], open(args[i + 2], encoding="utf-8").read()))
     del args[i:i + 3]
+klavishi = []   # --nazhat селектор Клавиша — нажать клавишу в элементе (End на ползунке = максимум)
+while "--nazhat" in args:
+    i = args.index("--nazhat")
+    klavishi.append((args[i + 1], args[i + 2]))
+    del args[i:i + 3]
 kliki = []
 while "--klik" in args:
     i = args.index("--klik")
@@ -50,6 +55,11 @@ with sync_playwright() as p:
             pg.wait_for_timeout(pause)
         except Exception as e:
             msgs.append("клик %s: %s" % (sel, str(e)[:100]))
+    for sel, key in klavishi:
+        try:
+            pg.press(sel, key, timeout=3000)
+        except Exception as e:
+            msgs.append("клавиша %s: %s" % (sel, str(e)[:100]))
     for sel, txt in vvod:
         try:
             pg.fill(sel, txt, timeout=3000)
