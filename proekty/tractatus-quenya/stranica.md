@@ -14,7 +14,7 @@
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui coiviessë.* | Смерть — не в жизни. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
 | 6.54 | (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) | *Mauya sen, ve mo quetë, hehta i rantala apa retiëⁿ sanna.* | Ему должно, как говорится, оставить лестницу, взойдя на неё. |
-| 7 | Wovon man nicht sprechen kann, darüber muss man schweigen. | *Pa i ulanquetima mauya ven lína.* (автор) | О невозможном-быть-сказанным нам должно молчать. |
+| 7 | Wovon man nicht sprechen kann, darüber muss man schweigen. | *Pa i ulanquetima mauya ven lína.* (автор; *lína-* — ᴹQ., PE23) | О невозможном-быть-сказанным нам должно молчать. |
 | 7′ | — | *I úquétima ná avaquétima.* | Невозможное сказать — не должно быть сказано. |
 
 ## Пять находок по пути
@@ -24,4 +24,4 @@
 4. **Лестница названа по восхождению.** *rantala* < √RATH «взбираться руками и ногами» (NM/363).
 5. **Смерть названа свидетелями.** *fírië* сказали стоявшие у ложа Мириэли: «она выдохнула» (MR/250). «Den Tod erlebt man nicht».
 
-И одно не из квенья: письмо Витгенштейна Энгельману (9.4.1917) о балладе Уланда — невыразимое «невыразимо содержится в высказанном». Это ответ на вопрос автора, почему в квенья «молчать» (*lína-*) так похоже на «петь» (*linda-*).
+И одно не из квенья: письмо Витгенштейна Энгельману (9.4.1917) о балладе Уланда — невыразимое «невыразимо содержится в высказанном». Это ответ на вопрос автора, почему в квенья «молчать» (*lína-*) так похоже на «петь» (во фразе PE23 — *lin-*: *se·linner ar the·línaner*).
