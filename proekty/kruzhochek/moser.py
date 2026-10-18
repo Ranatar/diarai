@@ -22,6 +22,7 @@ from plotnost import density  # noqa
 from otvet import boundary, ok2lin, lin2srgb  # noqa
 
 K = 2.0
+GRADE = 2.0  # см. flow; 1 — равномерные шаги (у зелёного перескок, r до 4,7)
 
 
 def okray(d):
@@ -43,9 +44,31 @@ def density_of(surf, N):
     return th, ph, rho / (rho * sa).sum() * 4 * np.pi
 
 
+def density_fv(surf, N, sub=4):
+    """Как density_of, но ρ клетки = площадь её образа (триангуляция sub×sub) / площадь клетки на сфере.
+    Это средняя по клетке плотность, а не значение в центре."""
+    th, ph, h = grid(N)
+    te = np.linspace(0, np.pi, N * sub + 1)
+    pe = np.linspace(0, 2 * np.pi, 2 * N * sub + 1)
+    T, P = np.meshgrid(te, pe, indexing="ij")
+    d = np.stack([np.sin(T) * np.cos(P), np.sin(T) * np.sin(P), np.cos(T)], -1).reshape(-1, 3)
+    lab = surf(d).reshape(len(te), len(pe), 3)
+    a, b, c, e = lab[:-1, :-1], lab[1:, :-1], lab[:-1, 1:], lab[1:, 1:]
+    ar = 0.5 * np.linalg.norm(np.cross(b - a, c - a), axis=-1) + 0.5 * np.linalg.norm(np.cross(b - e, c - e), axis=-1)
+    dA = ar.reshape(N, sub, 2 * N, sub).sum((1, 3))
+    sa = (np.cos(te[::sub][:-1]) - np.cos(te[::sub][1:]))[:, None] * h  # точная площадь клетки
+    rho = dA / sa
+    return th, ph, rho / (rho * sa).sum() * 4 * np.pi
+
+
+FV = True  # ρ по площадям клеток (density_fv); False — разностями в центрах (было до 07:15 2026-10-18)
+
+
 def fields(N, smooth=0, surf=None):
     if surf is None:
         th, ph, rho, _ = density(N, K)
+    elif FV:
+        th, ph, rho = density_fv(surf, N)
     else:
         th, ph, rho = density_of(surf, N)
     if smooth:
@@ -101,9 +124,11 @@ def flow(p, rho, w, steps):
         v = sample(w, q, N) / r[:, None]
         return v - (v * q).sum(1, keepdims=True) * q  # убрать нормальную составляющую
 
-    dt = 1.0 / steps
+    # Шаги сгущены к t = 1 (t = 1 - (1-s)^GRADE): там ρ_t → ρ, и где ρ мала (у зелёной вершины до 0,01),
+    # скорость ∇u/ρ_t велика. При GRADE = 1 — равномерные шаги.
+    ts = 1 - (1 - np.linspace(0, 1, steps + 1)) ** GRADE
     for k in range(steps):
-        t = k * dt
+        t, dt = ts[k], ts[k + 1] - ts[k]
         k1 = vel(p, t)
         k2 = vel(p + dt / 2 * k1, t + dt / 2)
         k3 = vel(p + dt / 2 * k2, t + dt / 2)
