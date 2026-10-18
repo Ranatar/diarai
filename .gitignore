@@ -8,3 +8,7 @@ __pycache__/
 /proekty/kruzhochek/out/thumbs/
 /proekty/kruzhochek/out/*.ppm
 /proekty/kruzhochek/out/log.txt
+/proekty/kruzhochek/out/*.npy
+/proekty/kruzhochek/out/moser-test*
+/proekty/kruzhochek/out/zoom-*
+/proekty/kruzhochek/out/sravnenie-?.png
