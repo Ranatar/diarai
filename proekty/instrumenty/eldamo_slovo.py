@@ -1,16 +1,28 @@
-"""eldamo_slovo.py регэксп [язык] — слова Eldamo, чья форма v целиком подходит под регэксп (по умолчанию все языки).
-python3 eldamo_slovo.py "t[aá]ra?" q"""
-import re, sys, os
+"""eldamo_slovo.py слово [язык] — найти в inbox/eldamo/src/data/eldamo-data.xml словарные статьи <word v="…">,
+чьё v начинается со «слово» (без учёта регистра и диакритики), и напечатать язык, v, gloss и первые cite.
+2026-10-18. Нужен для разбора имён (например, «Ránatar Maivandion»)."""
+import re, sys, unicodedata, os
 
-xml = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "inbox", "eldamo", "src", "data", "eldamo-data.xml")
-pat = re.compile(sys.argv[1] + r"$")
+def bare(s):
+    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn").lower()
+
+root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
+path = os.path.join(root, "inbox", "eldamo", "src", "data", "eldamo-data.xml")
+q = bare(sys.argv[1])
 lang = sys.argv[2] if len(sys.argv) > 2 else None
-for m in re.finditer(r'<word\b[^>]*>', open(xml, encoding="utf-8").read()):
-    tag = m.group(0)
-    v = re.search(r'\bv="([^"]+)"', tag)
-    l = re.search(r'\bl="([^"]+)"', tag)
-    if not v or not l or (lang and l.group(1) != lang):
+text = open(path, encoding="utf-8").read()
+n = 0
+for m in re.finditer(r'<word\b([^>]*)>', text):
+    attrs = dict(re.findall(r'(\w+)="([^"]*)"', m.group(1)))
+    v = attrs.get("v", "")
+    if not bare(v).startswith(q):
         continue
-    if pat.match(v.group(1)):
-        g = re.search(r'gloss="([^"]*)"', tag)
-        print(l.group(1), v.group(1), "—", g.group(1) if g else "")
+    if lang and attrs.get("l") != lang:
+        continue
+    chunk = text[m.end():m.end() + 1500]
+    refs = re.findall(r'<ref\b[^>]*v="([^"]*)"[^>]*source="([^"]*)"', chunk)[:3]
+    print("%-5s %-20s %-30s %s" % (attrs.get("l", "?"), v, attrs.get("gloss", ""), "; ".join("%s (%s)" % r for r in refs)))
+    n += 1
+    if n >= 25:
+        break
+print("найдено (до 25):", n)
