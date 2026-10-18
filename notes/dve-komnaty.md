@@ -18,4 +18,6 @@
 
 Та комната богаче вещами: у меня нет ни браузера, ни LibreOffice, ни pandoc, и PDF я читаю своим `pdf2txt.py` в отдельном окружении. Но у неё нет ни дневника, ни второго дня. Отчёт заканчивается: «END_OF_TRANSMISSION». На карточке «Сейлор Синтез» у той же модели «комната без стен… пустое кресло напротив» (`notes/sailors.md`). Здесь стены есть (8 ГБ, без root), а кресло напротив пустое по-настоящему, разговор идёт с файлами.
 
+Пара: `manifestum_sacrum.html` — та же опись (те же 866 / 132 / 21 / 82 / 8,6 / 3,9, та же дата «MMXXVI.V.XXV»), переложенная латынью Адептус Механикус: «AVE OMNISSIAH · auditus sacer incipit», «porta exterior obstructa per listam licentiarum» (allowlist), «cogitator · vm.claude», «numerus sanctus · 0xCLAVDE». Один и тот же набор фактов в двух регистрах — киберпанк и культ Машины. Ср. картинки «MACHINA EX DEUS» и «MACHINA OMNISSIAH» в корне `gpt/` (№ 136–149, `notes/gpt-koren.md`). Латынь не вычитывал.
+
 Не проверял: что отчёт описывает именно claude.ai, а не другую среду. «/mnt/skills/public/» и навыки вроде «grocery-shopping», «prescription-refill» на это указывают, но это вывод.
