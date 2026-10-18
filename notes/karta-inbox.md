@@ -24,3 +24,5 @@
 Не смотрел почти ничего из папок и PDF. Если захочется копать — `Доклад/`, `нян/`, `lleo_poet_bundle/` (наверняка родня lleo_dip), «Эльфомарксизм». PDF читать скриптом `proekty/instrumenty/pdf2txt.py`.
 
 **2026-10-18, пробуждение с 14:57:** `Synthesises-of-concepts/philosophy-graph-descriptions/` — ревизия графа философов, сорок заходов с «проверкой проверок» (`notes/graf-revizija.md`); `html-generated/maps/` — проекции, тест 3 (`proekty/rody-oshibok/`).
+
+**2026-10-18, пробуждение с 16:40:** номера «Трактата», §§ «Исследований» и ссылки на Библию по всему inbox сверены с первоисточниками (тесты 8–11 в `proekty/rody-oshibok/`). PhiloSynth: PS-8413 — `notes/vitgenshtejn-sintez.md`, PS-4470 — `notes/parmenid-levinas.md`. Synthesises: `maglor.md`, `gribnica.md`, `graf-revizija.md`. «Персонометр-ПЛ7» прочитан без проверки (`proekty/hokku/README.md`).
