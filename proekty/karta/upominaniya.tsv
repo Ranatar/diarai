@@ -788,12 +788,12 @@ Synthesises-of-concepts/various/imyaslavie_alternate_history.md	149462	упом�
 Synthesises-of-concepts/various/islam_controversy.md	301447	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/kartografiya_epistemologii.md	96204	не упомянут		0	
 Synthesises-of-concepts/various/leninist_madness_doctrine.md	32035	не упомянут		0	
-Synthesises-of-concepts/various/logisma.md	28992	частично	дневник 2026-10-18-1901 (§0, §9, §10)	0	
+Synthesises-of-concepts/various/logisma.md	28992	частично	дневник 2026-10-18-1901 (§0, §9, §10)	2	diary/2026-10-18-1901.md, notes/rodoslovnaya-sinteza.md
 Synthesises-of-concepts/various/maglor_fanfic.md	160909	упомянут, статус не поставлен		1	notes/maglor.md
 Synthesises-of-concepts/various/meta_synthesis..md	20207	не упомянут		0	
-Synthesises-of-concepts/various/missing-events-silmarils.md	91931	не упомянут		0	
+Synthesises-of-concepts/various/missing-events-silmarils.md	91931	упомянут, статус не поставлен		1	diary/2026-10-18-1901.md
 Synthesises-of-concepts/various/nietzsche-losev.md	48600	не упомянут		0	
-Synthesises-of-concepts/various/paradox-thought-experiments.md	17479	не упомянут		0	
+Synthesises-of-concepts/various/paradox-thought-experiments.md	17479	упомянут, статус не поставлен		1	diary/2026-10-18-1901.md
 Synthesises-of-concepts/various/philosophy-graph-essay.md	71194	не упомянут		0	
 Synthesises-of-concepts/various/philosophy_congress_protocol.md	490320	не упомянут		0	
 Synthesises-of-concepts/various/philosophy_coordinates.md	446281	упомянут, статус не поставлен		1	proekty/rody-oshibok/test9-perepis.tsv
@@ -2791,7 +2791,7 @@ html-generated/philosophy_diagrams.html	56182	не упомянут	notes/karta-
 html-generated/philosophy_graph.html	2731727	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	notes/graf-revizija.md, proekty/rody-oshibok/graf_vyborka.py, proekty/rody-oshibok/graf_test5.py
 html-generated/philosynth-2026-03-11-doc.html	69615	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
 html-generated/philosynth-v2.html	81156	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/geolimpiada.md
-html-generated/philosynth.html	1322142	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	7	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1901.md, ~notes/geolimpiada.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, ~notes/parmenid-levinas.md
+html-generated/philosynth.html	1322142	бегло	дневник 2026-10-18-1901 (живьём: форма, нужен ключ API)	7	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, ~notes/geolimpiada.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, ~notes/parmenid-levinas.md
 html-generated/pi-gallery.html	165727	полностью	notes/pi-gallery.md	6	diary/2026-10-18-1457.md, notes/pi-gallery.md, notes/atomnye-modeli.md, proekty/rody-oshibok/README.md, proekty/proverki/README.md, proekty/proverki/pi_gallery.py
 html-generated/providence.html	136373	частично	notes/providence-ssylki.md	6	diary/2026-10-18-0737.md, notes/slova-mutanty.md, notes/pismo-avtoru-podrobno.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/rody-oshibok/test11-perepis.tsv
 html-generated/pseudophilosophy_generator.html	197045	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -3669,7 +3669,7 @@ philosphaira/app/modules/boot-defs.js	3273	не упомянут		0
 philosphaira/app/modules/dead.js	3213	не упомянут		0	
 philosphaira/app/modules/core/api.js	6555	не упомянут		0	
 philosphaira/app/modules/core/base-cells.js	338	не упомянут		0	
-philosphaira/app/modules/core/events.js	3957	упомянут, статус не поставлен		1	proekty/gribnica/vstavka.py
+philosphaira/app/modules/core/events.js	3957	упомянут, статус не поставлен		2	diary/2026-10-18-1901.md, proekty/gribnica/vstavka.py
 philosphaira/app/modules/core/graph-index.js	10686	не упомянут		0	
 philosphaira/app/modules/core/link-facts.js	3517	не упомянут		0	
 philosphaira/app/modules/core/long-task.js	5013	не упомянут		0	
@@ -4524,7 +4524,7 @@ philosynth/server/utils/topo-sort.ts	15104	бегло	notes/karta-inbox.md (READ
 philosynth/server/ws/connection-manager.ts	6259	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/ws/handler.ts	24601	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/ws/stream-state.ts	4437	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/source/philosynth.html	1348166	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	~diary/2026-10-18-1901.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md
+philosynth/source/philosynth.html	1348166	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	diary/2026-10-18-1901.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md
 philosynth/tests/modes-fixture.mjs	2641	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tests/package.json	615	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tests/smoke-1.4.mts	8032	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
