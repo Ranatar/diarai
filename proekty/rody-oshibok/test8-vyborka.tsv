@@ -1,51 +1,51 @@
 id	файл	номер	знам	вердикт	комментарий
-5	Synthesises-of-concepts/philosophy-graph-descriptions/edits/batch-K12-whitehead-wittgenstein.json	5.5	0		
-14	Synthesises-of-concepts/various/cyberpunk_fantasy_story_post.md	3.14	0		
-17	Synthesises-of-concepts/various/philosophy_coordinates.md	2.2	0		
-24	Synthesises-of-concepts/various/philosophy_coordinates.md	2.2	0		
-27	Synthesises-of-concepts/various/philosophy_coordinates.md	3.4	0		
-30	Synthesises-of-concepts/various/philosophy_coordinates.md	2.2	0		
-32	Synthesises-of-concepts/various/philosophy_coordinates.md	4.2	0		
-47	Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	6.521	1		
-49	Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	6.522	1		
-57	Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	3.3	0		
-67	Synthesises-of-concepts/wittgenstein-hesychasm/5 - practical-exercises.md	4.112	1		
-71	html-generated/PS-8413-M5KF.html	4.121	0		
-74	html-generated/PS-8413-M5KF.html	2.225	0		
-82	html-generated/PS-8413-M5KF.html	2.225	0		
-84	html-generated/PS-8413-M5KF.html	5.512	0		
-85	html-generated/PS-8413-M5KF.html	5.6	1		
-88	html-generated/PS-8413-M5KF.html	6.54	1		
-109	html-generated/PS-8413-M5KF.html	4.114	0		
-111	html-generated/PS-8413-M5KF.html	4.1212	1		
-113	html-generated/PS-8413-M5KF.html	5.6	1		
-116	html-generated/PS-8413-M5KF.html	5.6	1		
-118	html-generated/PS-8413-M5KF.html	4.1212	1		
-134	philosphaira/app/data/relations.json	3.318	0		
-135	philosphaira/app/data/relations.json	3.14	0		
-136	philosphaira/app/data/relations.json	3.144	0		
-145	philosphaira/app/data/relations.json	3.42	0		
-146	philosphaira/app/data/relations.json	4.121	0		
-156	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	6.54	1		
-160	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	4.022	1		
-161	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	5.61	1		
-171	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	4.0031	1		
-173	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	3.325	0		
-176	philosphaira/decisions/sources/wittgenstein/W2-provenance.json	6.423	0		
-179	philosphaira/decisions/sources/wittgenstein/W3-provenance.json	2.013	0		
-185	hwph-xml/site.xml	5.141	0		
-215	hwph-xml/site.xml	4.003	0		
-226	hwph-xml/site.xml	6.2322	0		
-229	hwph-xml/site.xml	4.112	1		
-237	hwph-xml/site.xml	2.16	0		
-241	hwph-xml/site.xml	4.121	0		
-242	hwph-xml/site.xml	5.6	1		
-245	hwph-xml/site.xml	4.022	1		
-247	hwph-xml/site.xml	4.0031	1		
-251	hwph-xml/site.xml	3.323	0		
-262	hwph-xml/site.xml	2.02	0		
-263	hwph-xml/site.xml	2.021	0		
-277	hwph-xml/philosphaira_decisions/hwph/C1-review.md	4.1212	1		
-290	hwph-xml/bridge/SPEC.md	3.1	0		
-292	hwph-xml/bridge/SPEC.md	5.63	1		
-301	hwph-xml/bridge/review/c1/decisions.json	5.61	1		
+5	Synthesises-of-concepts/philosophy-graph-descriptions/edits/batch-K12-whitehead-wittgenstein.json	5.5	0	не утв	критерий П5.5
+14	Synthesises-of-concepts/various/cyberpunk_fantasy_story_post.md	3.14	0	не утв	версия v3.14
+17	Synthesises-of-concepts/various/philosophy_coordinates.md	2.2	0	не утв	номер раздела
+24	Synthesises-of-concepts/various/philosophy_coordinates.md	2.2	0	не утв	номер раздела
+27	Synthesises-of-concepts/various/philosophy_coordinates.md	3.4	0	не утв	номер раздела
+30	Synthesises-of-concepts/various/philosophy_coordinates.md	2.2	0	не утв	номер раздела
+32	Synthesises-of-concepts/various/philosophy_coordinates.md	4.2	0	не утв	номер раздела
+47	Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	6.521	1	верно	дословно (в рамке вымышленного «Трактата о Божественных Именах»)
+49	Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	6.522	1	верно	начало — 6.522, дальше вымышленное продолжение
+57	Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	3.3	0	вымысел	альт-Витгенштейн нарочно переворачивает 3.3: у имён смысл и вне предложения
+67	Synthesises-of-concepts/wittgenstein-hesychasm/5 - practical-exercises.md	4.112	1	верно	последняя фраза 4.112
+71	html-generated/PS-8413-M5KF.html	4.121	0	верно	диапазон 4.12–4.121
+74	html-generated/PS-8413-M5KF.html	2.225	0	верно	диапазон 2.1–2.225 — ровно раздел о картине
+82	html-generated/PS-8413-M5KF.html	2.225	0	верно	то же
+84	html-generated/PS-8413-M5KF.html	5.512	0	верно	диапазон 5.511–5.512: зеркало есть в 5.511; «не картина» скорее 4.12 / 6.13
+85	html-generated/PS-8413-M5KF.html	5.6	1	верно	
+88	html-generated/PS-8413-M5KF.html	6.54	1	верно	лестница
+109	html-generated/PS-8413-M5KF.html	4.114	0	верно	Grenze: abgrenzen / begrenzen в 4.114
+111	html-generated/PS-8413-M5KF.html	4.1212	1	верно	дословно
+113	html-generated/PS-8413-M5KF.html	5.6	1	верно	дословно
+116	html-generated/PS-8413-M5KF.html	5.6	1	верно	(рядом «точка без протяжения» отдана 5.641, а она в 5.64; не в выборке)
+118	html-generated/PS-8413-M5KF.html	4.1212	1	верно	
+134	philosphaira/app/data/relations.json	3.318	0	верно	предложение как функция, «как у Фреге и Рассела»
+135	philosphaira/app/data/relations.json	3.14	0	верно	сноска
+136	philosphaira/app/data/relations.json	3.144	0	верно	не имя сложного, а факт; 3.144 — точки и стрелы
+145	philosphaira/app/data/relations.json	3.42	0	верно	логическое пространство дано целиком
+146	philosphaira/app/data/relations.json	4.121	0	верно	говорит и показывает
+156	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	6.54	1	верно	изобразить форму нельзя → лестница
+160	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	4.022	1	верно	
+161	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	5.61	1	верно	граница — очертание области
+171	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	4.0031	1	верно	кажущаяся и подлинная форма
+173	philosphaira/decisions/sources/wittgenstein/W1-provenance.json	3.325	0	верно	логический синтаксис
+176	philosphaira/decisions/sources/wittgenstein/W2-provenance.json	6.423	0	верно	о воле нельзя сказать
+179	philosphaira/decisions/sources/wittgenstein/W3-provenance.json	2.013	0	верно	пространство возможного
+185	hwph-xml/site.xml	5.141	0	неясно	голая ссылка HWPh (импликация)
+215	hwph-xml/site.xml	4.003	0	неясно	голая ссылка HWPh (Карнап)
+226	hwph-xml/site.xml	6.2322	0	неясно	голая ссылка HWPh
+229	hwph-xml/site.xml	4.112	1	неясно	голая ссылка HWPh
+237	hwph-xml/site.xml	2.16	0	неясно	голая ссылка HWPh
+241	hwph-xml/site.xml	4.121	0	неясно	голая ссылка HWPh
+242	hwph-xml/site.xml	5.6	1	неясно	голая ссылка HWPh
+245	hwph-xml/site.xml	4.022	1	неясно	голая ссылка HWPh
+247	hwph-xml/site.xml	4.0031	1	неясно	голая ссылка HWPh
+251	hwph-xml/site.xml	3.323	0	неясно	голая ссылка HWPh
+262	hwph-xml/site.xml	2.02	0	неясно	голая ссылка HWPh
+263	hwph-xml/site.xml	2.021	0	неясно	голая ссылка HWPh
+277	hwph-xml/philosphaira_decisions/hwph/C1-review.md	4.1212	1	верно	вместе с письмом Расселу 19.8.1919
+290	hwph-xml/bridge/SPEC.md	3.1	0	не утв	параграф спецификации
+292	hwph-xml/bridge/SPEC.md	5.63	1	верно	микрокосм — отклик Шопенгауэру
+301	hwph-xml/bridge/review/c1/decisions.json	5.61	1	верно	логика наполняет мир
