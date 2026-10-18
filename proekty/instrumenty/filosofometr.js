@@ -8,11 +8,14 @@ const end = html.indexOf('function updateDeviceState');
 const fn = new Function(html.slice(start, end) + '; return performPhilosophicalAnalysis;')();
 const status = s => s === 0 ? 'ПРИЕМЛЕМО' : s <= 3 ? 'ПОДОЗРИТЕЛЬНО' : s <= 6 ? 'ПСЕВДОФИЛОСОФИЯ' : 'ШАРЛАТАНСТВО';
 // --reiting папка [N] — обойти .md/.txt папки (только < 200 КБ: регулярка «(.+) есть (.+), а…» на больших файлах виснет) и показать N худших по тяжести и баллу
+// --kusok N (последним аргументом) — мерить только первые N слов каждого файла (снять помеху длины)
+let KUSOK = 0; const ki = process.argv.indexOf('--kusok'); if (ki > 0) { KUSOK = +process.argv[ki + 1]; process.argv.splice(ki, 2); }
+const obrez = t => KUSOK ? t.split(/(\s+)/).slice(0, KUSOK * 2).join('') : t;
 if (process.argv[2] === '--reiting') {
   const path = require('path'); const out = [];
   const walk = d => { for (const e of fs.readdirSync(d, {withFileTypes: true})) {
     const p = path.join(d, e.name);
-    if (e.isDirectory()) walk(p); else if (/\.(md|txt)$/.test(e.name) && fs.statSync(p).size < 200000) { const a = fn(fs.readFileSync(p, 'utf8')); out.push([a.severity, a.score, p, a.diagnosis, a.wordCount]); } } };
+    if (e.isDirectory()) walk(p); else if (/\.(md|txt)$/.test(e.name) && fs.statSync(p).size < 200000) { const raw = fs.readFileSync(p, 'utf8'); const a = fn(obrez(raw)); out.push([a.severity, a.score, p, a.diagnosis, raw.split(/\s+/).length]); } } };
   walk(process.argv[3]);
   out.sort((x, y) => y[0] - x[0] || y[1] - x[1]);
   const n = +(process.argv[4] || 10);
