@@ -53,7 +53,11 @@ def main():
         if t >= nxt:
             picks.append((t, l))
             nxt += 0.5
-    allp = [p for _, l in lines for p in l]
+    if "--lesenka" in sys.argv:  # каждый момент ниже предыдущего, как у Марея на полосе
+        step = float(os.environ.get("LESENKA_MM", "0.12"))
+        picks = [(t, [(x, y - i * step) for x, y in l]) for i, (t, l) in enumerate(picks)]
+        lines = [(t, l) for t, l in lines if False] or [(picks[0][0], picks[0][1][:1])]
+    allp = [p for _, l in lines for p in l] + [p for _, l in picks for p in l]
     x0, x1 = min(p[0] for p in allp), max(p[0] for p in allp)
     y0, y1 = min(p[1] for p in allp), max(p[1] for p in allp)
     pad = 0.1
@@ -77,6 +81,20 @@ def main():
                                          picks[-1][0] if picks else 0, sc))
     svg.append("</svg>")
     open(out, "w").write("\n".join(svg))
+    try:  # PNG рядом — чтобы посмотреть самому (PIL есть в системе)
+        from PIL import Image, ImageDraw
+        img = Image.new("RGB", (W, H), (251, 250, 246))
+        d = ImageDraw.Draw(img)
+        d.line([(tx(l[0][0]), ty(l[0][1])) for _, l in lines], fill=(201, 180, 138), width=1)
+        for i, (t, l) in enumerate(picks):
+            a = 0.25 + 0.75 * i / max(1, len(picks) - 1)
+            c = tuple(int(251 - (251 - v) * a) for v in (43, 58, 66))
+            d.line([(tx(x), ty(y)) for x, y in l], fill=c, width=5, joint="curve")
+            hx, hy = tx(l[0][0]), ty(l[0][1])
+            d.ellipse([hx - 3, hy - 3, hx + 3, hy + 3], fill=(170, 60, 50))
+        img.save(out.rsplit(".", 1)[0] + ".png")
+    except ImportError:
+        pass
     hx = [l[0] for _, l in lines]
     print("кадров", len(frames), "узлов", n, "колец", rings, "мышц", m, "нейронов", q)
     print("голова: от (%.3f, %.3f) до (%.3f, %.3f) мм" % (hx[0][0], hx[0][1], hx[-1][0], hx[-1][1]))
