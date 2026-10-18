@@ -32,6 +32,7 @@
         <option value="hsl">двойной конус HSL (как с 2018)</option>
       </select></label>
     <label><input type="checkbox" id="setka" checked> сетка через 30°</label>
+    <label><input type="checkbox" id="bereg"> берега Земли (Natural Earth 110m из <code>maps/data</code>)</label>
     <button id="sbros">белое — на север</button>
     <button id="pirs">белое — в центр</button>
     <div id="info"></div>
@@ -131,9 +132,41 @@ function risuj() {
     for (let L = -180; L <= 180; L += 30) linia(Array.from({ length: 91 }, (_, k) => [L, -90 + 2 * k]));
     for (let F = -60; F <= 60; F += 30) linia(Array.from({ length: 181 }, (_, k) => [-180 + 2 * k, F]));
   }
+  if (document.getElementById('bereg').checked && BEREG) {
+    const r = ramka;
+    cx.strokeStyle = 'rgba(0,0,0,.8)'; cx.lineWidth = 0.9;
+    for (const arc of BEREG) {
+      cx.beginPath(); let prev = null;
+      for (const [L, F] of arc) {
+        const [x, y] = M.project(sel.value, L, F);
+        if (!Number.isFinite(x) || !Number.isFinite(y)) { prev = null; continue; }
+        const X = r.ox + (x - r.x0) * r.s, Y = r.oy + (r.y1 - y) * r.s;
+        if (prev && Math.hypot(X - prev[0], Y - prev[1]) < W / 8) cx.lineTo(X, Y); else cx.moveTo(X, Y);
+        prev = [X, Y];
+      }
+      cx.stroke();
+    }
+  }
   const def = M.PROJECTIONS[sel.value];
   info.textContent = `${sel.value} · ${def.family || ''}\n${def.notes || ''}\nпикселей на карте: ${n}, кадр ${(performance.now() - t0).toFixed(0)} мс`;
 }
+
+// берега: TopoJSON (квантованные дуги с дельта-кодированием) → массивы [λ, φ] в радианах
+let BEREG = null;
+async function zagruzitBerega() {
+  try {
+    const t = await (await fetch('../../../inbox/html-generated/maps/data/world-110m.json')).json();
+    const [sx, sy] = t.transform.scale, [tx, ty] = t.transform.translate, D = Math.PI / 180;
+    const arcs = t.arcs.map(a => { let x = 0, y = 0;
+      return a.map(([dx, dy]) => { x += dx; y += dy; return [(x * sx + tx) * D, (y * sy + ty) * D]; }); });
+    const nuzhnye = new Set();
+    const sobrat = g => { const walk = v => Array.isArray(v) ? v.forEach(walk) : nuzhnye.add(v < 0 ? ~v : v); walk(g.arcs); };
+    t.objects.land.geometries.forEach(sobrat);
+    BEREG = [...nuzhnye].map(i => arcs[i]);
+  } catch (e) { BEREG = null; info.textContent += '\nберега не загрузились: ' + e; }
+}
+zagruzitBerega().then(() => { if (kesh) risuj(); });
+document.getElementById('bereg').onchange = () => risuj();
 
 function smena() { ramka = rama(sel.value); kesh = obratnaya(sel.value); risuj(); }
 sel.onchange = smena; telo.onchange = risuj; setka.onchange = risuj;
