@@ -40,6 +40,12 @@
 - **aipio** — проверено по Eldamo автора: ᴱQ. *aipio* «cherry, holy berry» (QL/34, AYA «чтить» + *pio* «ягода»). Текст точен: «bacca sancta», «quasi pomum nostrum quod cerasum vocatur sed melius», и «antiquum est nomen, nemo iam scit cur sic vocetur». Слово из Qenya Lexicon 1910-х, Толкин его потом не продолжал. Хорошая деталь.
 - Ссылки на Писание в этих кусках сверены по памяти и верны: 1 Ин 4:1; 2 Кор 11:14; Пс 18 (по Вульгате); Тов 12:19; Иак 1:19; Откр 21:10; Ездра 3:12–13 (плач и ликование при закладке второго храма); Лк 23:46 как последние слова на кресте (по Луке). Финрот говорит «qui dedit, qui abstulit» — это Иов 1:21.
 
+## Конспект параллелей (`conspectus_parallelorum.html`), беглая проверка
+
+- Цитаты Толкина в разделе I, которые я помню, верны: «the Ainur, the Holy Ones, that were the offspring of his thought», «discord arose about him», Varda «Lady of the Stars», «Tintallë, the Kindler», Yavanna «the Giver of Fruits».
+- **Ниэнна: «her tears are spent for the sorrows of the world»** — такой фразы в «Валаквенте» я не помню, и найти её не удалось. Источники передают это место иначе: «acquainted with grief», «mourns for every wound that Arda has suffered», «pity, and endurance in hope» ([Tolkien Gateway](https://tolkiengateway.net/wiki/Nienna)). Вероятно, это пересказ, поданный как цитата.
+- Конспект заявляет, что цитирует R по Editio synthetica, но в цитате о гибели Древ стоит «**exsugsit**», а эта форма есть только в ранних H0 и MD (в SYN, LA, COD её нет). Остальные латинские цитаты стоят в редакциях с мелкими расхождениями слов: это не ошибки, а неточность цитирования. Построчно я их не разбирал.
+
 ## Чего я не делал
 
 Не проверял латынь поправок по словарю: их решения, которые я сверил по памяти (exsuxit, plangentem, faciebus, ungue, perituri esse videmur, communis), верны. Не вычитывал латынь целиком, только новые части LA (см. выше). Английский перевод не сверял.
