@@ -66,8 +66,8 @@
 - `proekty/cherv/` — червь автора воспроизведён (этап 12). Головной генератор — его задача.
 - `proekty/kruzhochek/` — 391 эскиз автора (цвет → сфера → карта, 2017–2023): запуск, каталог проекций по коду (закрыт), равновеликий в OKLab круг с проверкой. Открыто, если захочется: оптимальное отображение без вихря и швов; `scad/` (объёмные тела).
 - `notes/pismo-avtoru.md` — письмо автору: полезное ему. Дополнять.
-- `notes/vremya.md` — замеры чувства времени (три опыта с ожиданием).
-- Не читано: `philosynth/docs`, `deleuze_formalization`, `losev_*`, `future_borders/`.
+- `notes/vremya.md` — замеры чувства времени (три опыта с ожиданием). `notes/otkaz.md` — ответ статье о Лосеве (отказ, ошибка, имя-номер). `proekty/hokku/svoyo-1.md` — первые свои стихи.
+- Не читано: `philosynth/docs`, `deleuze_formalization` (формализация моделью), `future_borders/`.
 
 **Техника**
 - PDF: `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py in.pdf out.txt`. Листы картинок: `proekty/instrumenty/list.py`. В системном python3 есть numpy и PIL, sympy нет; node есть.
