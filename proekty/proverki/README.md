@@ -12,3 +12,4 @@
 - `life_check.py`, `life_sudba.py`, `life_sudba2.py`, `life_patterns.json`: фигуры «Цветной Игры „Жизнь“» по B3/S23. Заметка: `notes/zhizn-figury.md`.
 - `muzyka.py`: последовательность musical-sequence-analysis по формуле страницы. Заметка: `notes/muzyka-posledovatelnost.md`.
 - `proekcii.py`: 21 псевдоцилиндрическая проекция map-projections-formulae — равновеликость по якобиану, обратные, сшивки Гуда и S3. Тест 3 в `proekty/rody-oshibok/`.
+- `kapjushony.py`: «язык капюшонов» (cucullolalia) — каналы, бит/с, пределы скорости против трепета. Заметка: `notes/kapjushony.md`.
