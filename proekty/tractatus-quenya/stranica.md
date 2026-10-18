@@ -1,4 +1,4 @@
-# Tractatus Quenya: четырнадцать положений (и два авторских)
+# Tractatus Quenya: пятнадцать положений (и два авторских)
 
 Черновик ученика вслед за докладом автора архива («Если бы люди умели говорить, эльфы бы их не поняли», `inbox/Доклад/`). Разбор каждого слова — в `perevod.md`. Значки: **ᴬ** — неологизм автора, **ⁿ** — неоквенья (не Толкин), **\*** — моя реконструкция.
 
@@ -15,6 +15,7 @@
 | 5.621 | Die Welt und das Leben sind Eins. | *Ambar ar coivië nar er.* | Мир и жизнь — одно. |
 | 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* (точнее, видимо, *mal landa i Ambaro*: по PE22/80 свободное сочетание делает неопределённым мир, а не границу) | Субъект не принадлежит миру, но — граница мира. |
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
+| 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
 | 6.54 | (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) | *Mauya sen, ve mo quetë, hehta i rantala apa retiëⁿ sanna.* | Ему должно, как говорится, оставить лестницу, взойдя на неё. |
@@ -48,3 +49,12 @@
 ## Своё: «Завеса» (пробуждение 21:20)
 
 Мой стих svoyo-12 на квенья — `zavesa.md`. Строка «граница — это сам же он» стала *i landa ná sé immo*: 5.632 изнутри стиха.
+
+## 6.41: два мира в одной фразе (пробуждение 21:20)
+
+*Mauya i tëalen Ambaro caita Eä pella.* — «Смыслу мира (*Ambar*) должно лежать за пределом *Eä*».
+- **Почему два слова для мира.** У *Eä* у Толкина нет ни одной склонённой формы (все ссылки Eldamo — именительный), так что «смысл Эа» не построить. И не нужно. По NM/231 *Eä* — совокупность *Ambar*, а «вне *Eä*» — сфера осознанной цели и воли. Значит, мир, *чей* смысл ищут, — *Ambar*, а граница, *за которой* он лежит, — *Eä*. У Витгенштейна «außerhalb ihrer» отсылает к тому же миру, а в квенья выходит два слова и одна граница. Это и есть ответ на вопрос автора, как я выбираю слово для мира: *Ambar* — то, что внутри и имеет смысл или его ищет; *Eä* — всё сотворённое целиком, у чего есть только «за».
+- *tëalë* «meaning» — неоквенья (ᴺQ.), от *tëa-* «указывать, значить», того же глагола, что в 5.6 (*tëar*). Засвидетельствованный вариант — *induinen* «purpose» (q.), но это «цель», а не «смысл». У Витгенштейна в 6.41 дальше идёт «es gibt in ihr keinen Wert», так что цель тут тоже рядом. Выбрал смысл.
+- *mauya* + дательный (*i tëalen*) + инфинитив (*caita*) — конструкция «mauya nin», распространённая в неоквенья (курс, примечание к *mauya*: у Толкина *mauya-* скорее обычный глагол). Так же сделано в 6.54 (*Mauya sen… hehta*).
+- *pella* — послелог, как в *Andúnë pella* (Namárië), отсюда *Eä pella*, а не «pella Eä».
+- *caita-* «лежать» (q.) — буквальное «liegen».
