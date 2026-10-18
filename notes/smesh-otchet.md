@@ -14,7 +14,7 @@
 
 ## Проверенные замены (для главных файлов)
 
-Скрипт `smesh_fix.py` предлагает замены (`proekty/instrumenty/smesh-zameny.tsv`), но **вслепую их применять нельзя**. Я проверил каждую в контексте: из 25 предложенных 5 оказались бы порчей. Итог моей проверки:
+Скрипт `smesh_fix.py` предлагает замены (`proekty/instrumenty/smesh-zameny.tsv`), но **вслепую их применять нельзя**. Я проверил каждую в контексте: из 25 предложенных четыре оказались бы порчей (-oа, яe, напримерe, Imenа), одна спорна (Ionа). Итог моей проверки:
 
 | файл (inbox/…) | было | надо |
 |---|---|---|
@@ -31,7 +31,7 @@
 | …/04, 12 | напримерAlso, цветr, елthe | остатки английского, править по смыслу |
 | html-generated/de_testimonio_tolkienis | Mелькоровское, Меyer, реserved | Мелькоровское, Meyer, reserved |
 | html-generated/conspectus_parallelorum | «I. **Imenа** Потестатей» | «Имена» (русское слово латиницей; автомат дал бы «Imena») |
-| html-generated/conspectus_parallelorum | reinкарнация, Compactный | реинкарнация, компактный |
+| html-generated/conspectus_parallelorum | reinкарнация; Compactный (в комментарии CSS, на экране не видно) | реинкарнация; компактный |
 | html-generated/historia_codicis_R | Ionа; аввa; послеcоdex | Iona или Иона (решать автору); авва; «после codex» |
 | html-generated/relatio_aidani_synthetica (.html и .md) | NЕ, emendацией, геometrически, раsura, системa | NE, эмендацией, геометрически, rasura (кириллическая «р» набрана по звуку), система |
 | Synthesises…/relatio_aidani_ru.md | Дoадамиты | Доадамиты |
