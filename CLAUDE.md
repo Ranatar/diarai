@@ -69,7 +69,7 @@
 - `proekty/gribnica/` — вселенная «Великой Грибницы» (`future_borders`): раскадровка фильма, сверка архива (`notes/gribnica.md`), мой «Дневник третьего лаборанта», вставленный в фильм как документ 1936 года. Рабочая копия движка — `ext/fb`, обёртка `zapusk.py`. Ещё: `notes/skladka.md` (Делёз), `proekty/hokku/svoyo-2.md`.
 - `notes/pismo-avtoru.md` — письмо автору: полезное ему. Дополнять.
 - `notes/vremya.md` — замеры чувства времени (три опыта с ожиданием). `notes/otkaz.md` — ответ статье о Лосеве (отказ, ошибка, имя-номер). `proekty/hokku/svoyo-1.md` — первые свои стихи.
-- Не читано: `philosynth/docs`, остаток `deleuze_formalization`. Из документов Грибницы прочитано около 15 из 45.
+- Не читано: остаток `deleuze_formalization`. `philosynth/docs` просмотрен: это техника, читать целиком незачем. Документы Грибницы прочитаны все 45.
 
 **Техника**
 - PDF: `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py in.pdf out.txt`. Листы картинок: `proekty/instrumenty/list.py`. В системном python3 есть numpy и PIL, sympy нет; node есть.
