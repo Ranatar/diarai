@@ -57,12 +57,20 @@ WEAK_END = set("и а но что кто же из в не ли как то бы
                " от за на со ко во об при без над под про через".split())
 
 
+# составные предлоги в речи безударны («не из-за клятвы»): место в размере любое
+CLITIC = {"из-за", "из-под", "по-над"}
+
+
 def fits(words):
     """Вернуть (строка с ударениями, рифмоключ, женская?) или None."""
     pos, marked, last = 0, [], None
     for i, w in enumerate(words):
         core = w.split()[-1].lower()  # без приклеенного предлога
         n = nsyl(core)
+        if core in CLITIC and i < len(words) - 1:
+            marked.append(w)
+            pos += n
+            continue
         ss = stress(core.replace("-", ""))
         if ss is None and "-" in core:
             # «где-то», «кто-нибудь», «как-либо»: частица безударна, ударение — у первой части
