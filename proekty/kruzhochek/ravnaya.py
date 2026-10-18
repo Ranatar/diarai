@@ -71,11 +71,38 @@ def render(R, K=2.0):
     return img, (th, ph, lab, Frow, Fcol, dA)
 
 
+def render_lon_first(R, K=2.0):
+    """Обратный порядок: сначала долгота (сектор оттенка ∝ его площади), потом широта внутри сектора.
+    Лучи остаются прямыми — вихря нет; искажается только радиальный ход."""
+    th, ph, lab, _, _, dA = build(K)
+    col = dA.sum(0)
+    Fc = np.concatenate([[0], np.cumsum(col)]) / col.sum()
+    Fr = np.concatenate([np.zeros((1, NP)), np.cumsum(dA, 0)], 0) / col[None, :]
+    yy, xx = np.mgrid[-R:R, -R:R] + 0.5
+    X, Y = xx / R * 2, -yy / R * 2
+    rho2 = X ** 2 + Y ** 2
+    ok = rho2 < 4
+    u = rho2[ok] / 4  # доля сферы над θ' = (1-cos θ')/2 = ρ²/4
+    v = (np.arctan2(Y[ok], X[ok]) % (2 * np.pi)) / (2 * np.pi)
+    pj = np.interp(v, Fc, np.arange(NP + 1))
+    j = np.clip(pj.astype(int), 0, NP - 1)
+    ti = np.empty_like(u)
+    for c in np.unique(j):
+        m = j == c
+        ti[m] = np.interp(u[m], Fr[:, c], np.arange(NT + 1))
+    i = np.clip(ti.astype(int), 0, NT - 1)
+    img = np.zeros((2 * R, 2 * R, 3))
+    img[ok] = lin2srgb(ok2lin(lab[i, j]))
+    return img, (th, ph, lab, None, None, dA)
+
+
 if __name__ == "__main__":
-    out = sys.argv[1]
-    R = int(sys.argv[2]) if len(sys.argv) > 2 else 400
-    K = float(sys.argv[3]) if len(sys.argv) > 3 else 2.0
-    img, (th, ph, lab, Frow, Fcol, dA) = render(R, K)
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    out = args[0]
+    R = int(args[1]) if len(args) > 1 else 400
+    K = float(args[2]) if len(args) > 2 else 2.0
+    f = render_lon_first if "--lon" in sys.argv else render
+    img, (th, ph, lab, Frow, Fcol, dA) = f(R, K)
     Image.fromarray((img * 255 + 0.5).astype(np.uint8)).save(out)
     tot = dA.sum()
     L = lab[..., 0]
