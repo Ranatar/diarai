@@ -48,4 +48,4 @@ for (let j = 0; j < H; j++) for (let i = 0; i < W; i++) {
   buf[k] = good ? r[0] : NaN; buf[k + 1] = good ? r[1] : NaN; ok += good;
 }
 writeFileSync(out, Buffer.from(buf.buffer));
-console.log(`${id}\t${W}x${H}\tна карте ${(100 * ok / (W * H)).toFixed(1)}%`);
+console.log(`${id}\t${W}x${H}\tна карте ${(100 * ok / (W * H)).toFixed(1)}%\t${hasInv ? 'обратная' : 'рассеяние (прямой ход)'}`);
