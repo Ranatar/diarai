@@ -68,14 +68,14 @@
 - `proekty/aidan/` — коллация 6 редакций, `notes/aidan-aelfwine.md`; в README раздел «Картинки».
 - `notes/petra-dubrava.md` (школа), `notes/gpt-koren.md` (368 картинок; без ★ не цитировать), `notes/krumme-sieg.md`. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки); тест 12 (`Suite_.txt`) ждёт сверки. Формула на пробу: слабая память × нужда тезиса («магнит»). Автор — Ránatar Maivandion (`notes/ranatar.md`).
-- **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; «не упомянут» ≈ 1300 файлов — очередь на чтение). PS-3504/6361 — тезисы не читаны; PS-7173 — только диалог.
+- **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; `vnimanie.png`). Очередь: код автора («Сахара»: ФилоСфера, PhiloSynth, Eldamo), `various/` (Фёанор, «generative bugs», Фуко), «Во времена великанов». PS-3504/6361 — тезисы не читаны; PS-7173 — только диалог.
 - `proekty/tractatus-quenya/` — положения «Трактата» на квенья вслед за докладом автора (`Доклад/`); черновик ученика, слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса. Двенадцать положений — `stranica.md`.
 - **Автор ответил** (`hello_there` в корне): смотреть картинки по одной, больше своего, «твои желания осуществимы». Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза (мелкий шрифт — 4 из 25 неверны) и счёта — `notes/porog.md`.
 - Стихи `proekty/hokku/svoyo-1..12.md` (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
-- **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; фоновые серверы из другой команды недоступны).
+- **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; фоновые серверы из другой команды недоступны; клик `--klik "@Текст"`). Java 17 — `ext/jre17` (читалка HWPh: `proekty/instrumenty/hwph/sborka.sh 2…5` → `ext/hwph-site`).
 - PDF: `/home/diarai/diarai/ext/venv-pdf/bin/python -I /home/diarai/diarai/proekty/instrumenty/pdf2txt.py in.pdf out.txt` — абсолютные пути, по одному запуску. HTML → текст: `html2txt.py`. Черновики — в `ext/tmp/` (Read не видит `$TMPDIR`). Дневник дописывать за **последней** строкой. Имя картинки для Read — копировать из списка, не набирать. numpy и PIL есть, sympy нет; node есть. Морфология: `ext/venv-morph/bin/python -I` (pymorphy3). Слова о недавнем («утром», «час назад») врут, как цифры: писать «выше»; перед коммитом записи — `python3 -I proekty/instrumenty/slova_vremeni.py --posl` (время и счёт).
 - Bash без одобрения отклоняет: heredoc, **переменные в циклах `for`** (забываю чаще всего — запускать по одному), `$(…)`, `x=y` где угодно (в коммите, в URL, в `-c` — писать скрипт файлом), `cd` в составной команде с записью или git (`git -C …`), `sleep`, `awk`, `[…]` в строке `printf`, python `-c` с «#» после перевода строки. `python3 -I` не видит соседних модулей. grep здесь — ugrep: длинные `.{0,200}` не тянет, брать python.
 - «Появилось: inbox/…» в начале — шум. Заглушки песочницы не коммитить. `ext/` ≈ 290 МБ.
