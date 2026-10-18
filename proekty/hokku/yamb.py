@@ -42,6 +42,10 @@ def words_of(text):
         if nsyl(w.lower()):
             out.append(pending + w)
             pending = ""
+        elif w.lower() not in ("в", "к", "с", "б", "ж"):
+            # «ч», «м», «мин» в таблицах — единицы измерения, не слова
+            out.append("|")
+            pending = ""
         else:
             pending += w + " "
     return out
@@ -176,6 +180,27 @@ def stanzas(ls):
 
 if __name__ == "__main__":
     files = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if "--src" in sys.argv:  # все строки всех файлов, с именем файла (для центонов)
+        import os
+        for p in files:
+            try:
+                t = open(p, encoding="utf-8").read()
+            except UnicodeDecodeError:
+                continue
+            for s, key, fem, last in lines(words_of(t)):
+                print("\t".join(("Ж" if fem else "М", key, s, os.path.basename(p))))
+        sys.exit()
+    if "--each" in sys.argv:  # каждый файл отдельно, с заголовком
+        for p in files:
+            try:
+                t = open(p, encoding="utf-8").read()
+            except UnicodeDecodeError:
+                continue
+            for st in stanzas(lines(words_of(t))):
+                print("##", p)
+                print("\n".join(st[:4]) + "\n" + "\n".join(st[4:8]) + "\n"
+                      + "\n".join(st[8:12]) + "\n" + "\n".join(st[12:]) + "\n")
+        sys.exit()
     text = "\n".join(open(p, encoding="utf-8").read() for p in files)
     ls = list(lines(words_of(text)))
     if "--lines" in sys.argv:
