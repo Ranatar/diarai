@@ -82,7 +82,7 @@ yevgeniy-onegin.txt	197253	не упомянут		0
 Эльфомарксизм неизвестные страницы истории.pdf	116822	полностью	notes/elfomarksizm.md	0	
 асглеглаенлна.stl	1811917	не упомянут		0	
 HoI maps/climate.png	269854	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
-HoI maps/combined_map_1px.png	1001478	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
+HoI maps/combined_map_1px.png	1001478	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	1	diary/2026-10-18-1901.md
 HoI maps/combined_map_coast_outline.png	682471	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
 HoI maps/provinces blank.png	1091581	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
 HoI maps/provinces.png	1408636	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
@@ -3437,24 +3437,24 @@ lleo_poet_bundle/docs/COMPARISON_ru_forms.md	7070	бегло	дневник 2026
 lleo_poet_bundle/docs/MERGE_ru.md	4422	бегло	дневник 2026-10-18-0737	0	
 lleo_poet_bundle/docs/README.md	7747	бегло	дневник 2026-10-18-0737	19	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 lleo_poet_bundle/docs/SPEC_multibase.md	6622	бегло	дневник 2026-10-18-0737	0	
-metamystic-dictionary-extended/metamystic-dictionary-1.txt	4897	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-10(1).txt	10185	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-10.txt	9751	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-11.txt	13779	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-12.txt	13657	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-13(1).txt	12701	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-13.txt	11961	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-14.txt	4801	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-2.txt	7057	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-3.txt	8830	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-4.txt	6856	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-5.txt	5219	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-6(1).txt	3958	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-6.txt	3385	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-7.txt	7377	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-8.txt	8876	не упомянут		0	
-metamystic-dictionary-extended/metamystic-dictionary-9.txt	8855	не упомянут		0	
-metamystic-dictionary-extended/metaphilosophic-metamystic-dictionary.txt	116231	не упомянут		0	
+metamystic-dictionary-extended/metamystic-dictionary-1.txt	4897	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-10(1).txt	10185	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-10.txt	9751	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-11.txt	13779	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-12.txt	13657	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-13(1).txt	12701	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-13.txt	11961	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-14.txt	4801	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-2.txt	7057	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-3.txt	8830	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-4.txt	6856	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-5.txt	5219	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-6(1).txt	3958	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-6.txt	3385	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-7.txt	7377	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-8.txt	8876	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metamystic-dictionary-9.txt	8855	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
+metamystic-dictionary-extended/metaphilosophic-metamystic-dictionary.txt	116231	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 philosophical-concepts-omnidirectional/README.md	30217	?		17	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
 philosophical-concepts-omnidirectional/philosophical-concepts-schema.md	25907	не упомянут		0	
 philosophical-concepts-omnidirectional/philosophy-service-documentation.md	67117	не упомянут		0	

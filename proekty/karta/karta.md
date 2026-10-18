@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1455, служебное — 1441, не упомянут — 1309, бегло — 987, полностью — 795, ? — 206, нет — 2.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1455, служебное — 1441, не упомянут — 1291, бегло — 1005, полностью — 795, ? — 206, нет — 2.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -88,7 +88,7 @@
 | `Циолковский танка.txt` | 1 | 7 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md` |
 | `Эльфомарксизм неизвестные страницы истории.pdf` | 1 | 114 КБ | полностью | 0 | notes/elfomarksizm.md |  |
 | `асглеглаенлна.stl` | 1 | 2 МБ | не упомянут | 0 |  |  |
-| `HoI maps/` | 7 | 8 МБ | полностью | 0 | дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py) |  |
+| `HoI maps/` | 7 | 8 МБ | полностью | 1 | дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py) | `diary/2026-10-18-1901.md` |
 | `Synthesises-of-concepts/elven-conspiracy` | 2 | 84 КБ | ? | 2 |  | `notes/nevidimaja-ruka.md` |
 | `Synthesises-of-concepts/hegel-pythagoras` | 5 | 58 КБ | не упомянут | 0 |  |  |
 | `Synthesises-of-concepts/heidegger-deleuze` | 15 | 200 КБ | не упомянут 14, ? 1 | 1 |  | `notes/gpt-koren.md` |
@@ -114,7 +114,7 @@
 | `hwph-xml/` | 430 | 286 МБ | служебное 240, не упомянут 182, ? 8 | 6 |  | `diary/2026-10-18-0737.md`, `diary/2026-10-18-0408.md` |
 | `lleo_dip/` | 54 | 1 МБ | частично | 16 | notes/sito-2020.md | `notes/sito-2020.md`, `notes/karta-inbox.md` |
 | `lleo_poet_bundle/` | 14 | 46 МБ | бегло | 5 | дневник 2026-10-18-0737 | `diary/2026-10-18-0737.md`, `diary/2026-10-18-0408.md` |
-| `metamystic-dictionary-extended/` | 18 | 252 КБ | не упомянут | 0 |  |  |
+| `metamystic-dictionary-extended/` | 18 | 252 КБ | бегло | 0 | дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py) |  |
 | `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | не упомянут 175, ? 6 | 3 |  | `notes/ranatar.md`, `notes/karta-inbox.md` |
 | `philosphaira/` | 403 | 19 МБ | не упомянут 354, ? 41, служебное 8 | 22 |  | `notes/gpt-koren.md`, `proekty/sverka-wikidata/sverka.py` |
 | `philosynth/` | 599 | 21 МБ | бегло | 18 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `diary/2026-10-18-0737.md` |
