@@ -43,8 +43,11 @@ if os.path.exists(sp):
             continue
         parts = line.rstrip("\n").split("\t")
         parts += [""] * (3 - len(parts))
-        status.append((parts[0], parts[1], parts[2]))
-status.sort(key=lambda s: -len(s[0]))
+        status.append((parts[0], parts[1], parts[2], len(status)))
+# длиннее префикс — точнее; при равной длине побеждает строка ниже (дописанная позже уточняет прежнюю).
+# Прежде побеждала верхняя, и «нет» у «Великанов» заслоняло дописанное «частично» (пробуждение 19:01).
+status.sort(key=lambda s: (-len(s[0]), -s[3]))
+status = [s[:3] for s in status]
 
 def stat_of(rel):
     if any(part in SLUZH for part in rel.split("/")):
