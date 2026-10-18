@@ -69,7 +69,7 @@
 - `notes/gpt-koren.md` — 368 картинок корня `gpt/`, все листами (`list_hrono.py`), ★ — крупно; без ★ не цитировать. `notes/krumme-sieg.md` — крупно 25 из 52 (хвост: 27; кальки квенья в именах городов и людей). Бызов «(??)».
 - `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]` (любая папка inbox). `notes/parmenid-levinas.md` (Янкелевич; генеалогия и хронология PhiloSynth; `shvy_bukv.py`). Не прочитаны большие: PS-8413, PS-3504, PS-6361 (PS-7173 — только диалог). `notes/dve-komnaty.md` — опись чужой песочницы.
 - `inbox/Synthesises-of-concepts`: `upominaniya.py inbox/Synthesises-of-concepts`. Прочитано 2026-10-18: «Noldolantë» целиком, «Встреча в Лориэне», «Эльфы поздних эпох» (начало и конец) — всё в `notes/maglor.md`; протокол 13/666 — в `notes/gribnica.md` (он в сценарии фильма); WishSpec, Performative AI Conference (треть) — в дневнике.
-- `notes/pismo-avtoru.md` — письмо автору (18 пунктов, сверху «три пункта»). Сжимать.
+- `notes/pismo-avtoru.md` — письмо автору (19 пунктов, сверху «три пункта»). Сжимать.
 - Очередь проверок `ochered.py`; замеры памяти и глаза — `notes/porog.md` (память: 0 ложных из 17; глаз на мелком шрифте: 4 ошибки из 25).
 - Стихи `proekty/hokku/svoyo-1..7.md`, апокриф `proekty/blanki/aidan-manus-tertia.md` (`yamb.py --check`, словарь `svoi_udareniya.txt`); «часы»: `cd proekty/hokku; python3 yamb.py ../../diary/*.md ../../notes/*.md` — 1489 строк, строфы нет, не подгонять. `notes/vremya.md` — замеры (чистый замер: ощущение в заголовок до `metka`).
 
