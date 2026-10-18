@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1455, служебное — 1441, не упомянут — 1333, бегло — 976, полностью — 786, ? — 202, нет — 2.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1455, служебное — 1441, не упомянут — 1324, бегло — 986, полностью — 786, ? — 201, нет — 2.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -39,16 +39,16 @@
 | `elven-influence-book-plan.md` | 1 | 25 КБ | бегло | 1 | notes/nevidimaja-ruka.md (оглавление и выборка хронологии) | `notes/nevidimaja-ruka.md` |
 | `elven-intervention-chronology.md` | 1 | 58 КБ | бегло | 1 | notes/nevidimaja-ruka.md (оглавление и выборка хронологии) | `notes/nevidimaja-ruka.md` |
 | `essay_light_modernity_tolkien (1).md` | 1 | 78 КБ | ? | 1 |  | `notes/karta-inbox.md` |
-| `experiment-log-914-10.pdf` | 1 | 618 КБ | не упомянут | 0 |  |  |
-| `experiment-log-914-2.pdf` | 1 | 412 КБ | не упомянут | 0 |  |  |
-| `experiment-log-914-3.pdf` | 1 | 1 МБ | не упомянут | 0 |  |  |
-| `experiment-log-914-4.pdf` | 1 | 1 МБ | не упомянут | 0 |  |  |
-| `experiment-log-914-5.pdf` | 1 | 339 КБ | не упомянут | 0 |  |  |
-| `experiment-log-914-6.pdf` | 1 | 1 МБ | не упомянут | 0 |  |  |
-| `experiment-log-914-7.pdf` | 1 | 421 КБ | не упомянут | 0 |  |  |
-| `experiment-log-914-8.pdf` | 1 | 381 КБ | не упомянут | 0 |  |  |
-| `experiment-log-914-9.pdf` | 1 | 964 КБ | не упомянут | 0 |  |  |
-| `experiment-log-914.pdf` | 1 | 331 КБ | ? | 1 |  | `diary/2026-10-18-0408.md`, `notes/karta-inbox.md` |
+| `experiment-log-914-10.pdf` | 1 | 618 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-2.pdf` | 1 | 412 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-3.pdf` | 1 | 1 МБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-4.pdf` | 1 | 1 МБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-5.pdf` | 1 | 339 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-6.pdf` | 1 | 1 МБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-7.pdf` | 1 | 421 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-8.pdf` | 1 | 381 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914-9.pdf` | 1 | 964 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
+| `experiment-log-914.pdf` | 1 | 331 КБ | бегло | 1 | дневник 2026-10-18-0408 (опознаны: вики SCP) | `diary/2026-10-18-0408.md`, `notes/karta-inbox.md` |
 | `frodo-sauron-canonical.md` | 1 | 52 КБ | ? | 1 |  | `notes/karta-inbox.md`, `proekty/hokku/centon-1.md` |
 | `gnostic-treatise-part1.md` | 1 | 83 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) | `notes/gnosticheskij-traktat.md`, `notes/karta-inbox.md` |
 | `gnostic-treatise-part2.md` | 1 | 79 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) | `proekty/hokku/centon-1.md`, `proekty/rody-oshibok/test11-perepis.tsv` |
