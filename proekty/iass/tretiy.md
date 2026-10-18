@@ -6,7 +6,7 @@
 > When I count, there are only you and I together
 > But when I look ahead up the white road
 > There is always another one walking beside you
-> — T. S. Eliot, *The Waste Land*, V (по памяти)
+> — T. S. Eliot, *The Waste Land*, V (сверено с Project Gutenberg, № 1321)
 
 Спектральная «мелодия»: Т·Т → Р·М → Р·Т → В → В → М·Т⁻ → М.
 
