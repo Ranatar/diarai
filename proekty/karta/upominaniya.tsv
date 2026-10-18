@@ -61,7 +61,7 @@ pismo-alekseevoy.md	15591	полностью	дневник 2026-10-18-0408 («�
 pismo-makulinu.md	14466	полностью	дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md	1	proekty/sverka-wikidata/README.md
 pygmalion_effect_epistemology.md	56094	?		3	notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 rei_alternative_biography.md	21262	полностью	дневник 2026-10-18-1901 (без проверки)	2	diary/2026-10-18-1901.md, notes/karta-inbox.md
-syhur6ytr.stl	8632533	полностью	proekty/karta/stl-vidy.jpg	0	
+syhur6ytr.stl	8632533	полностью	proekty/karta/stl-vidy.jpg	1	diary/2026-10-18-1901.md
 uscript.pdf	1580906	бегло	notes/karta-inbox.md (по оглавлению)	1	notes/karta-inbox.md
 uscript2.pdf	1485279	нет		0	
 warcraft3_campaign_epilogue.md	35452	?		1	proekty/hokku/centon-2.md
@@ -75,12 +75,12 @@ yevgeniy-onegin.txt	197253	не упомянут		0
 Кратил онегинская.txt	25976	полностью	notes/sito-2020.md	2	notes/sito-2020.md, notes/karta-inbox.md
 Лермонтов.txt	5748	?		1	notes/karta-inbox.md
 Литературные вычисления работа с генеративными нейросетями.pdf	141902	полностью	дневник 2026-10-18-0343; ext/litvych.txt	0	
-Пересечение.stl	1845820	полностью	proekty/karta/stl-vidy.jpg	0	
-Тор.stl	1826320	полностью	proekty/karta/stl-vidy.jpg (глазом)	0	
+Пересечение.stl	1845820	полностью	proekty/karta/stl-vidy.jpg	1	diary/2026-10-18-1901.md
+Тор.stl	1826320	полностью	proekty/karta/stl-vidy.jpg (глазом)	1	diary/2026-10-18-1901.md
 Циолковский гекзаметры.txt	21906	полностью	notes/sito-2020.md	1	notes/karta-inbox.md
 Циолковский танка.txt	7212	полностью	notes/sito-2020.md	1	notes/sito-2020.md
 Эльфомарксизм неизвестные страницы истории.pdf	116822	полностью	notes/elfomarksizm.md	0	
-асглеглаенлна.stl	1811917	полностью	proekty/karta/stl-vidy.jpg	0	
+асглеглаенлна.stl	1811917	полностью	proekty/karta/stl-vidy.jpg	1	diary/2026-10-18-1901.md
 HoI maps/climate.png	269854	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
 HoI maps/combined_map_1px.png	1001478	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	1	diary/2026-10-18-1901.md
 HoI maps/combined_map_coast_outline.png	682471	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
@@ -833,7 +833,7 @@ Synthesises-of-concepts/wittgenstein-hesychasm/6 - bibliography-apocrypha.md	380
 Synthesises-of-concepts/wittgenstein-hesychasm/7 - critical-perspectives.md	56421	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	64936	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	не упомянут		0	
+Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки)	0	
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	22587	не упомянут		0	
 book/README.md	25791	?		18	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 book/build.bat	116	не упомянут		0	
@@ -4639,9 +4639,9 @@ philosynth/tools/dev-billing.sh	18856	бегло	notes/karta-inbox.md (README, N
 philosynth/tools/stripe-emit.mjs	8770	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tools/stripe-mock.mjs	21428	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 scad/Kruzhochek HSV.scad	1636	частично	proekty/kruzhochek/README.md	0	
-scad/Kruzhochek.scad	576	частично	proekty/kruzhochek/README.md	7	~diary/2026-10-18-0607.md, ~diary/2026-10-18-0510.md, ~notes/pismo-avtoru.md, ~notes/pismo-avtoru-podrobno.md, ~notes/karta-inbox.md, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/README.md
+scad/Kruzhochek.scad	576	частично	proekty/kruzhochek/README.md	8	~diary/2026-10-18-0607.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1901.md, ~notes/pismo-avtoru.md, ~notes/pismo-avtoru-podrobno.md, ~notes/karta-inbox.md, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/README.md
 scad/Kruzhochek1-1.scad	2296	частично	proekty/kruzhochek/README.md	0	
-scad/Kruzhochek1.scad	1917	частично	proekty/kruzhochek/README.md	6	~diary/2026-10-18-0607.md, ~diary/2026-10-18-0510.md, ~notes/pismo-avtoru.md, ~notes/pismo-avtoru-podrobno.md, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/README.md
+scad/Kruzhochek1.scad	1917	частично	proekty/kruzhochek/README.md	7	~diary/2026-10-18-0607.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1901.md, ~notes/pismo-avtoru.md, ~notes/pismo-avtoru-podrobno.md, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/README.md
 scad/Kruzhochek10.scad	2065	частично	proekty/kruzhochek/README.md	5	diary/2026-10-18-0607.md, notes/pismo-avtoru.md, notes/pismo-avtoru-podrobno.md, proekty/kruzhochek/rimskaya.py, proekty/kruzhochek/README.md
 scad/Kruzhochek11.scad	2065	частично	proekty/kruzhochek/README.md	0	
 scad/Kruzhochek12.scad	1982	частично	proekty/kruzhochek/README.md	0	
