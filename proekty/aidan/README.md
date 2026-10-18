@@ -49,3 +49,10 @@
 ## Чего я не делал
 
 Не проверял латынь поправок по словарю: их решения, которые я сверил по памяти (exsuxit, plangentem, faciebus, ungue, perituri esse videmur, communis), верны. Не вычитывал латынь целиком, только новые части LA (см. выше). Английский перевод не сверял.
+
+## Картинки (найдены 2026-10-18 днём)
+
+В корне `inbox/gpt/` около семидесяти картинок к «Сказанию» (4–17 мая 2026). Каталог и сверка — `notes/gpt-koren.md`, листы 1–2. Для коллации важно:
+- **«MEMORIA LVMINIS»** (17 вариантов) собрана из *не-аидановских* слоёв R. Углы SCIENTES / NESCIENTES / MORTALES / IMMORTALES — антитеза финального «Miserere», которую Ed.synth относит к Коэману и исключает. Нижняя рамка — маргиналия Алхимика (Eccl. 1:9: вопрос Вульгаты превращён в утверждение, а на картинке отпало и последнее «est»). Девиз Финрода дан без оговорки «quodammodo, quamvis non eodem modo quo prius erat».
+- **«LUX VULNERATA NON PERIT»** сплавлен из двух аидановских формул: «Lumen vulneratum» и «quod perit et quod non perit». В сцене CONVIVIUM ребёнок даёт монаху плод (aipio?), в SCRIPTUM EST — ковчежец с камнем.
+- Аниме-кодекс подписан «anno gratie **MCCXXV**» (у Аидана — DCCCXCVI) и «Ad maiorem Dei gloriam». Монах всюду одет францисканцем. Оба сдвига тянут IX век к XIII.
