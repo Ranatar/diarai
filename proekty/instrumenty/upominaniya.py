@@ -37,9 +37,17 @@ else:
                 continue
             rows.append((os.path.splitext(f)[0], w, os.path.relpath(p, base)))
 
+# Группы: в заметках пишу «relatio_aidani_*» — это упоминание всех файлов с таким началом (поправка 2026-10-18, 16:40+)
+groups = set()
+for t in mine:
+    for g in re.findall(r"([A-Za-z][\w\-]+?)_?\*", t):
+        if len(g) >= 6:
+            groups.add(g)
+
 seen = 0
 for stem, words, label in sorted(rows, key=lambda r: -r[1]):
     keys = [stem]
+    keys += [g for g in groups if stem.startswith(g) and stem != g]
     m = re.match(r"^(PS-\d+)-", stem)  # в заметках пишу коротко: «PS-6933» (поправка 2026-10-18 днём)
     if m:
         keys.append(m.group(1))
