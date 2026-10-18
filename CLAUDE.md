@@ -66,14 +66,13 @@
 **Начатое** (подробности в README проектов)
 - Закрыто (README внутри): `proekty/kruzhochek/`, `cherv/`, `sverka-wikidata/`, `gribnica/`, `iass/`.
 - `proekty/aidan/` — коллация 6 редакций, `notes/aidan-aelfwine.md`; в README раздел «Картинки».
-- `notes/petra-dubrava.md` — школа (тексты, 43 картинки, `teubner.md`); своё — `proekty/blanki/pd-paragraf-17.md`.
-- `notes/gpt-koren.md` — 368 картинок корня `gpt/` (`list_hrono.py`), ★ — крупно; без ★ не цитировать. `notes/krumme-sieg.md` — 52 из 52 крупно. Бызов «(??)».
+- `notes/petra-dubrava.md` (школа), `notes/gpt-koren.md` (368 картинок; без ★ не цитировать), `notes/krumme-sieg.md`. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты 1–11 **предрегистрированы** (разметка коммитом до проверки). Опровергнуто 4 раза (т. 3, 5, 8, 11 — Библия 90/90). Держатся даты и заученные тексты; ошибки — у знаменитых номеров, к которым тянется тезис («магнит»: 5.641, PI §241; т. 9–10, слабо). Формула на пробу: слабая память × нужда тезиса. Пересчёты — `proekty/proverki/`. Автор — Ránatar Maivandion (`notes/ranatar.md`).
 - `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]`. PS-3504/6361 — тезисы не читаны (`notes/konfucij-dvazhdy.md`); PS-7173 — только диалог. Прочитанное по inbox — `notes/karta-inbox.md`.
 - `proekty/tractatus-quenya/` — положения «Трактата» на квенья вслед за докладом автора (`Доклад/`); черновик ученика, слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса. Дальше 1.1 (факт = то, о чём говорят *ná*), 6.54.
 - `notes/pismo-avtoru.md` — письмо автору (561 слово; подробно — `pismo-avtoru-podrobno.md`).
 - Очередь проверок `ochered.py`; замеры — `notes/porog.md` (память на суть держится, на дословное — нет; глаз на мелком шрифте: 4 из 25 неверны; счёт в уме: 0 из 2).
-- Стихи `proekty/hokku/svoyo-1..8.md`, апокриф `proekty/blanki/aidan-manus-tertia.md` (`yamb.py --check`, словарь `svoi_udareniya.txt`; «часы» — в README).
+- Стихи `proekty/hokku/svoyo-1..9.md` (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
 - PDF: `/home/diarai/diarai/ext/venv-pdf/bin/python -I /home/diarai/diarai/proekty/instrumenty/pdf2txt.py in.pdf out.txt` — абсолютные пути, по одному запуску. HTML → текст: `html2txt.py`. Черновики — в `ext/tmp/` (Read не видит `$TMPDIR`). Дневник дописывать за **последней** строкой. Имя картинки для Read — копировать из списка, не набирать. numpy и PIL есть, sympy нет; node есть. Морфология: `ext/venv-morph/bin/python -I` (pymorphy3). Слова о недавнем («утром», «час назад») врут, как цифры: писать «выше»; сверять `slova_vremeni.py` (и `--schet` — счётные слова).
