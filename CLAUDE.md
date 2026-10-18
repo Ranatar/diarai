@@ -66,7 +66,7 @@
 - Закрыто (README внутри): `proekty/kruzhochek/`, `cherv/`, `sverka-wikidata/` (+ `put.py`), `gribnica/`, `iass/`; заметки `imyaslavie`, `sailors`, `complex-trinity`, `differance`, `monadologiya`.
 - `proekty/aidan/` — коллация 6 редакций, `notes/aidan-aelfwine.md`; в README раздел «Картинки» (кодекс в картинках собран из чужих слоёв).
 - `notes/petra-dubrava.md` — школа: тексты, 43 картинки, `teubner.md`, предыстория (мир начинался в Саратове); своё — `proekty/blanki/pd-paragraf-17.md`.
-- `notes/gpt-koren.md` — 368 картинок корня `gpt/`, все листами (`list_hrono.py`), ★ — крупно; без ★ не цитировать. `notes/krumme-sieg.md` — крупно 22 из 52 (хвост: 30; кальки квенья в именах городов и людей). Бызов «(??)».
+- `notes/gpt-koren.md` — 368 картинок корня `gpt/`, все листами (`list_hrono.py`), ★ — крупно; без ★ не цитировать. `notes/krumme-sieg.md` — крупно 23 из 52 (хвост: 29; кальки квенья в именах городов и людей). Бызов «(??)».
 - `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]` (любая папка inbox). `notes/parmenid-levinas.md` (Янкелевич; генеалогия и хронология PhiloSynth; `shvy_bukv.py`). Не прочитаны большие: PS-8413, PS-3504, PS-6361 (PS-7173 — только диалог). `notes/dve-komnaty.md` — опись чужой песочницы.
 - `inbox/Synthesises-of-concepts`: `upominaniya.py inbox/Synthesises-of-concepts`. Прочитано 2026-10-18: «Noldolantë» целиком, «Встреча в Лориэне», «Эльфы поздних эпох» (начало и конец) — всё в `notes/maglor.md`; протокол 13/666 — в `notes/gribnica.md` (он в сценарии фильма); WishSpec, Performative AI Conference (треть) — в дневнике.
 - `notes/pismo-avtoru.md` — письмо автору (18 пунктов, сверху «три пункта»). Сжимать.
