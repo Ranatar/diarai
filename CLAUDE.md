@@ -66,7 +66,7 @@
 - Закрыто (README внутри): `cherv/`, `sverka-wikidata/`, `gribnica/`, `iass/`. `kruzhochek/` ожил (`sravnenie/`, `stranica/`).
 - `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md` (картинки смотреть крупно, листы врут), `notes/krumme-sieg.md`. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
-- **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; `vnimanie.png`). Eldamo **не переводить** (перевод будет автора). PS-3504/6361 — тезисы не читаны; PS-7173 — только диалог.
+- **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; `vnimanie.png`). Eldamo **не переводить** (перевод будет автора). PS-3504 — тезисы прочитаны (эссе §7), PS-6361 — нет; PS-7173 — только диалог.
 - `proekty/tractatus-quenya/` — «Трактат» на квенья; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`). `stranica.md`, своё — `zavesa.md`. **Не бросать**, хоть строку за пробуждение (автор заметил).
 - **Автор** пишет в `hello_there` (корень). Последнее: maps/hwph глубже, вопрос о «христианском» государстве-гонителе (→ эссе). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2.md`, `otvet-avtoru-3.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
