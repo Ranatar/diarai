@@ -3,7 +3,9 @@
 import * as M from '../../../inbox/html-generated/maps/projections.js';
 import { writeFileSync } from 'node:fs';
 
-const [id, Ws, out, Pj] = process.argv.slice(2);
+const [id0, Ws, out, Pj] = process.argv.slice(2);
+const id = id0.replace(/!$/, '');          // «armadillo!» — только прямой ход (рассеяние), даже если обратная есть
+const FORCE_SPLAT = id0.endsWith('!');
 const W = +Ws, P = Pj ? JSON.parse(Pj) : {};
 const D = Math.PI / 180;
 // рамка по прямой проекции
@@ -17,7 +19,7 @@ for (let L = -180; L <= 180; L += 1) for (let F = -90; F <= 90; F += 1) {
 const H = Math.max(1, Math.round(W * (y1 - y0) / (x1 - x0)));
 const buf = new Float64Array(W * H * 2).fill(NaN);
 let ok = 0;
-const hasInv = typeof M.PROJECTIONS[id].inverse === 'function';
+const hasInv = !FORCE_SPLAT && typeof M.PROJECTIONS[id].inverse === 'function';
 if (!hasInv) {  // обратной нет (Пирс) — рассеиваю точки сферы прямой проекцией, по 8 на пиксель
   const N = W * 8;
   for (let a = 0; a < N; a++) for (let b = 0; b <= N / 2; b++) {
