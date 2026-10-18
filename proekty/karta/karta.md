@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1665, служебное — 1441, бегло — 1194, не упомянут — 947, полностью — 807, упомянут, статус не поставлен — 140, нет — 1.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1664, служебное — 1441, бегло — 1194, не упомянут — 947, полностью — 808, упомянут, статус не поставлен — 140, нет — 1.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -22,7 +22,7 @@
 | `Tsiolkovskiy_tanka.txt` | 1 | 7 КБ | полностью | 1 | notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан) | `notes/sito-2020.md`, `proekty/proverki/sito_2020c.py` |
 | `Tsiolkovskiy_texty.txt` | 1 | 4 МБ | бегло | 1 | notes/sito-2020.md (корпус программы) | `notes/sito-2020.md`, `proekty/proverki/sito_2020c.py` |
 | `Vinya maitaren.txt` | 1 | 1 КБ | полностью | 1 | notes/vinya-maitaren.md | `diary/2026-10-18-1640.md`, `diary/2026-10-18-1457.md` |
-| `Vo_vremena_velikanov_kniga_ed_hardcover.pdf` | 1 | 47 МБ | частично | 0 | дневник 2026-10-18-1901 (стр. 1–100, без проверки) |  |
+| `Vo_vremena_velikanov_kniga_ed_hardcover.pdf` | 1 | 47 МБ | полностью | 0 | дневник 2026-10-18-1901 (стр. 1–128, без проверки) |  |
 | `ai_philosophy_crisis(1).md` | 1 | 78 КБ | частично | 1 | notes/spor-so-slepym-demiurgom.md | `notes/spor-so-slepym-demiurgom.md`, `notes/karta-inbox.md` |
 | `apeiron-article.pdf` | 1 | 207 КБ | полностью | 1 | notes/porog.md; дневник 2026-10-18-0408 | `diary/2026-10-18-0408.md`, `notes/porog.md` |
 | `cadia_stands_humoresques.md` | 1 | 20 КБ | упомянут, статус не поставлен | 1 |  | `notes/karta-inbox.md` |
