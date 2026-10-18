@@ -1,0 +1,103 @@
+- `gnostic-treatise-part8.md`: predeterminированный
+- `warcraft3_campaign_epilogue.md`: Риggс
+- `warcraft3_goblin_campaign_detailed.md`: РИGGС
+- `warcraft3_legion_campaign_detailed.md`: МЕФИСТROT, МЕФИСТRОТ
+- `Synthesises-of-concepts/philosophy-graph-descriptions/data.json`: orудиями, Еternal, Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/edits/batch-10-language-being.json`: orудиями
+- `Synthesises-of-concepts/philosophy-graph-descriptions/edits/batch-F05-bergson-gadamer.json`: Еternal
+- `Synthesises-of-concepts/philosophy-graph-descriptions/edits/batch-K16-foucault-rorty.json`: Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/edits/batch-T00-typography.json`: Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/context.txt`: Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/report-head.md`: Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/context.txt`: Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/report-head.md`: concу, Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/context.txt`: orудиями
+- `Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/context.txt`: Еternal
+- `Synthesises-of-concepts/philosophy-graph-descriptions/spec/concepts-revision-spec.md`: principiально
+- `Synthesises-of-concepts/philosophy-graph-descriptions/spec/philosophers-revision-spec.md`: Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/reports/concepts-summary.md`: Киerkegaard
+- `Synthesises-of-concepts/philosophy-graph-descriptions/reports/philosophers-summary.md`: concу
+- `Synthesises-of-concepts/synthesis-project-m4opus/security-authentication.md`: Zа
+- `Synthesises-of-concepts/heidegger-deleuze/topogenesis-expanded.md`: генtrification
+- `Synthesises-of-concepts/various/Hartman-Ingarden ontology comparison.md`: кategoriale
+- `Synthesises-of-concepts/various/cthulhu_ussr_protocol.md`: constатировать
+- `Synthesises-of-concepts/various/dasein-noir-revised.md`: wrongна, мемeтическим
+- `Synthesises-of-concepts/various/elven-marxism-world.md`: основывалиe
+- `Synthesises-of-concepts/various/feanor-lab-journal.md`: Ниеннa
+- `Synthesises-of-concepts/various/gender_alchemy.md`: Solvе, Аmore, Формula
+- `Synthesises-of-concepts/various/generative-bugs-features-research (1).md`: Мемetic, ТАРГETTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+- `Synthesises-of-concepts/various/philosophy_graph_imp.md`: Расчёt
+- `Synthesises-of-concepts/various/philosophy_network_interpretation.md`: Маркc, историчеcки
+- `Synthesises-of-concepts/various/philosynth_graph_corr.md`: Zа, ЯЁA, яёa
+- `Synthesises-of-concepts/various/relatio_aidani_ru.md`: Дoадамиты
+- `Synthesises-of-concepts/various/relatio_aidani_synthetica.md`: NЕ, emendацией, геometrически, раsura, системa
+- `Synthesises-of-concepts/various/russian-hardcode-classified.md`: ulей, zА
+- `Synthesises-of-concepts/various/silmaril_game_mechanics.md`: ЛORE
+  - (латинская i вместо «і»: 41 слов, напр. iоны, Вслѣдствiе, Мiафизитства, Мнѣнiе, Отзывающiеся)
+- `Synthesises-of-concepts/various/ulanov_reptile.md`: Katя
+- `Synthesises-of-concepts/wittgenstein-hesychasm/10 - interdisciplinary-applications.md`: силa
+- `future_borders/cache/regions.json`: Eврейская
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-02.html`: nilmё
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-03.html`: сейчаc
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-04.html`: напримерAlso, цветr
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-05.html`: cм
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-07.html`: яe
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-09.html`: cкреплял, cкреплять, глaгола
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-10.html`: тaк
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-11.html`: cуществительные, oа
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-12.html`: елthe, напримерe
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-13.html`: cкреплял, cкреплять
+- `eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-14.html`: cкреплял, cкреплять
+- `book/full/eldamo-intro-quenya-full.html`: cкреплял, cкреплять, cм, nilmё, oа, глaгола, елthe, напримерAlso, напримерe, сейчаc, тaк, цветr, яe
+- `book/chapters/eldamo-intro-quenya-02.html`: nilmё
+- `book/chapters/eldamo-intro-quenya-03.html`: сейчаc
+- `book/chapters/eldamo-intro-quenya-04.html`: напримерAlso, цветr
+- `book/chapters/eldamo-intro-quenya-05.html`: cм
+- `book/chapters/eldamo-intro-quenya-07.html`: яe
+- `book/chapters/eldamo-intro-quenya-09.html`: cкреплял, cкреплять, глaгола
+- `book/chapters/eldamo-intro-quenya-10.html`: тaк
+- `book/chapters/eldamo-intro-quenya-11.html`: cуществительные, oа
+- `book/chapters/eldamo-intro-quenya-12.html`: елthe, напримерe
+- `book/chapters/eldamo-intro-quenya-13.html`: cкреплял, cкреплять
+- `book/chapters/eldamo-intro-quenya-14.html`: cкреплял, cкреплять
+- `html-generated/PS-4470-O3Z5-Parmenides-Levinas-rgG2.html`: inаковость
+- `html-generated/PS-6933-6RIK-vmeschayuschiy-razlom-rgG2.html`: тerapevтической
+- `html-generated/PS-7173-MW5O-Aurelius-Bergson-Rorty-rgG2-v2-3 (1).html`: suждения, Деwy
+- `html-generated/conspectus_parallelorum.html`: Imenа, reinкарнация
+- `html-generated/de_testimonio_tolkienis.html`: Mелькоровское, Меyer, реserved
+- `html-generated/descartes-deleuze.html`: Татhandlung, разлиqие
+- `html-generated/historia_codicis_R.html`: Ionа, аввa, послеcоdex
+- `html-generated/iass-spec.html`: mВ, mГ, mР, nВ, nГ, nЖ, nМ, nР, nТ, nУ
+  - (латинская i вместо «і»: 1 слов, напр. библiотека)
+- `html-generated/petra_dubrava_material_corpus.html`: ноpители
+  - (латинская i вместо «і»: 3 слов, напр. БЫТIЕ, библiотека, редакцiей)
+- `html-generated/providence.html`: Гeррерин
+- `html-generated/relatio_aidani_synthetica.html`: NЕ, emendацией, геometrически, раsura, системa
+- `html-generated/tolkien_hills.html`: hísiё, Тirnen
+- `html-generated/maps/globe.html`: Кавpайский
+- `html-generated/maps/data/regions_pop.json`: Eврейская
+- `html-generated/maps/data/world-110m.json`: Eврейская
+- `html-generated/maps/data/world-50m.json`: Eврейская
+- `philosphaira/decisions/cyrillic.json`: cookieСеанса
+- `philosphaira/doc/history.md`: cookieСеанса
+- `philosphaira/doc/plan-next.md`: bвеса, bвзамен, bк, bсередина, bу
+- `philosphaira/deploy/philosphaira-ubuntu.md`: безопасныеCookie
+- `philosynth/sample/PS-6933-6RIK-vmeschayuschiy-razlom-rgG2.html`: тerapevтической
+- `philosynth/docs/03-specification.md`: tokenы
+- `philosynth/docs/07-conversation-protocol.md`: ТАКЖE, киte, преflight
+- `philosynth/docs/08-history.md`: Zа, докax
+- `philosynth/docs/09-lessons.md`: онтологическаMetaphя, преflight
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-02.html`: nilmё
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-03.html`: егдuva, сейчаc
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-04.html`: напримерAlso, цветr
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-05.html`: cм
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-07.html`: яe
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-09.html`: cкреплял, cкреплять, глaгола
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-10.html`: тaк
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-11.html`: cуществительные, oа
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-12.html`: елthe, напримерe
+- `Доклад/ERTP/intro-quenya/eldamo-intro-quenya-13.html`: cкреплял, cкреплять
+- `hwph-xml/philosphaira_decisions/hwph/N1-concepts-review.md`: доксa
+- `hwph-xml/bridge/review/n1/decisions.json`: доксa
+
+всего разных смешанных слов (без «і»): 176
