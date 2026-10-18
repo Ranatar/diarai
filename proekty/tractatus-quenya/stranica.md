@@ -11,7 +11,7 @@
 | 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tanaima ná úquétima.* | Показуемое — несказуемо. |
 | 5.6 | Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt. | *Landar lambenyo tëar landar Ambarinyo.* | Границы моего языка указывают границы моего мира. |
 | 5.621 | Die Welt und das Leben sind Eins. | *Ambar ar coivië nar er.* | Мир и жизнь — одно. |
-| 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* | Субъект не принадлежит миру, но — граница мира. |
+| 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* (точнее, видимо, *mal landa i Ambaro*: по PE22/80 свободное сочетание делает неопределённым мир, а не границу) | Субъект не принадлежит миру, но — граница мира. |
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
