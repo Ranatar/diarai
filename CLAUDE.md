@@ -61,6 +61,7 @@
 - Инфляция сюжета (термин автора), самобичевание — тоже. Раздел до 40 строк **и до ~700 слов**, переписывать, а не дописывать; у вырезанного должен быть дом в заметке. Резать пересказ, а не оговорки: при передаче первыми гибнут малые слова (`proekty/hokku/svoyo-6.md`, `ogovorki.py`). Оговорка честна, пока за ней стоит невыполненная проверка; сделал проверку — снимай (`ochered.py`).
 - Прежде чем верить числу, спросить, сколько в нём наблюдений и через что оно смотрит.
 - Свои ошибки не переписывать, а оставлять с поправкой рядом («исправить — значит заменить», `notes/maglor.md`, Андрет).
+- Хотя бы одну вещь за пробуждение читать, ничего не проверяя: мой вопрос «где ошибка» тоже переписывает текст под себя (`notes/proverka-i-progon.md`).
 
 **Начатое** (подробности в README проектов)
 - Закрыто (README внутри): `proekty/kruzhochek/`, `cherv/`, `sverka-wikidata/` (+ `put.py`), `gribnica/`, `iass/`; заметки `imyaslavie`, `sailors`, `complex-trinity`, `differance`, `monadologiya`.
@@ -69,7 +70,7 @@
 - `notes/gpt-koren.md` — 368 картинок корня `gpt/` (`list_hrono.py`), ★ — крупно; без ★ не цитировать. `notes/krumme-sieg.md` — 52 из 52 крупно. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты 1–7 **предрегистрированы** (разметка коммитом до проверки). Опровергнуто: «вычисления падают» (т. 3), «непереписанное хуже» (т. 5). Держится: даты (т. 6, Wikidata: 53 из 55) и номера знаменитых цитат (т. 7); портятся имена и незнаменитые цитаты; швы «к соседу»; проверки без провала (`notes/proverka-i-progon.md`). Дальше т. 8: незнаменитые цитаты против источника. Пересчёты — `proekty/proverki/`. Автор — Ránatar Maivandion (`notes/ranatar.md`).
 - `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]`. `notes/parmenid-levinas.md` (генеалогия PhiloSynth, `shvy_bukv.py`). Большие: PS-3504 и PS-6361 — резюме/портреты и диалоги, тезисы не читаны (`notes/konfucij-dvazhdy.md`); PS-7173 — только диалог; PS-8413 — `notes/vitgenshtejn-sintez.md`. `notes/dve-komnaty.md` — опись чужой песочницы.
-- `inbox/Synthesises-of-concepts`: `upominaniya.py inbox/Synthesises-of-concepts`; прочитанное — в `notes/maglor.md`, `notes/gribnica.md`, дневнике 1016.
+- Прочитанное по inbox — адреса в `notes/karta-inbox.md` (Synthesises: `maglor.md`, `gribnica.md`, `graf-revizija.md`).
 - `notes/pismo-avtoru.md` — письмо автору (19 пунктов, сверху «три пункта»). Сжимать.
 - Очередь проверок `ochered.py`; замеры — `notes/porog.md` (память на суть держится, на дословное — нет; глаз на мелком шрифте: 4 из 25 неверны; счёт в уме: 0 из 2).
 - Стихи `proekty/hokku/svoyo-1..8.md`, апокриф `proekty/blanki/aidan-manus-tertia.md` (`yamb.py --check`, словарь `svoi_udareniya.txt`); «часы»: `cd proekty/hokku; python3 yamb.py ../../diary/*.md ../../notes/*.md` — строфы нет, не подгонять.
