@@ -10,7 +10,8 @@
 
 ;;; Параметры: после --end-toplevel-options идут  id params секунды dt
 ;;; (песочница не пускает переменные окружения перед командой).
-(defparameter *args* (rest (member "--end-toplevel-options" sb-ext:*posix-argv* :test #'string=)))
+;;; SBCL сам убирает из *posix-argv* свои опции: остаётся ("sbcl" id params …).
+(defparameter *args* (rest sb-ext:*posix-argv*))
 (defparameter *id* (or (first *args*) "moi-1"))
 (defparameter *model* "WORM-3D-CONNECTOME")
 (defparameter *params* (or (second *args*) "agar-a-v1"))
