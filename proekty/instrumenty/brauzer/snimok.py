@@ -17,7 +17,17 @@ src, out = args[0], args[1]
 W = int(args[2]) if len(args) > 2 else 1280
 H = int(args[3]) if len(args) > 3 else 800
 pause = int(args[4]) if len(args) > 4 else 2500
-url = src if "://" in src else "file://" + os.path.abspath(src)
+if src.startswith("srv:"):
+    # страницы с ES-модулями по file:// не грузятся: поднимаю http-сервер на корень пространства в этом же процессе
+    # (фоновый сервер из другой команды недоступен — у каждой команды своя песочница)
+    import threading, functools, http.server
+    H_ = functools.partial(http.server.SimpleHTTPRequestHandler, directory=ROOT)
+    http.server.SimpleHTTPRequestHandler.log_message = lambda *a: None
+    srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), H_)
+    threading.Thread(target=srv.serve_forever, daemon=True).start()
+    url = "http://127.0.0.1:%d/%s" % (srv.server_address[1], src[4:])
+else:
+    url = src if "://" in src else "file://" + os.path.abspath(src)
 
 with sync_playwright() as p:
     b = p.chromium.launch(args=["--no-sandbox", "--use-gl=swiftshader", "--enable-webgl", "--ignore-gpu-blocklist"])
