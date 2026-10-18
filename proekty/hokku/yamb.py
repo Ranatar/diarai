@@ -76,7 +76,9 @@ def fits(words):
             s = good[0]
         if pos + s > 8 and i == len(words) - 1:
             return None
-        marked.append(mark(w, s))
+        # омограф: у слова есть ударение, которое в размер не ложится
+        # («слОва/слова́», «глубИны/глубины́»). Помечаем «~», проверять на слух.
+        marked.append(mark(w, s) + ("~" if n > 1 and len(good) < len(ss) else ""))
         last = (core, s)
         pos += n
     if pos not in (8, 9):
