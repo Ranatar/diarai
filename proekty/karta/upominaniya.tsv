@@ -4707,7 +4707,7 @@ translation-chaos/backend/routes/achievements.js	2119	бегло	notes/karta-inb
 translation-chaos/backend/routes/analytics.js	3526	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/routes/export.js	2625	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/routes/games.js	4538	бегло	notes/karta-inbox.md (README)	0	
-translation-chaos/backend/routes/translation.js	3269	бегло	notes/karta-inbox.md (README)	3	notes/vinya-maitaren.md, notes/karta-inbox.md, proekty/hokku/udar.py
+translation-chaos/backend/routes/translation.js	3269	бегло	notes/karta-inbox.md (README)	4	diary/2026-10-18-1901.md, notes/vinya-maitaren.md, notes/karta-inbox.md, proekty/hokku/udar.py
 translation-chaos/backend/services/achievements.js	10945	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/analytics.js	7865	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/embeddings.js	3345	бегло	notes/karta-inbox.md (README)	0	
