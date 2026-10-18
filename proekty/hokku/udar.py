@@ -5,6 +5,7 @@
   ext/stressrnn/exception_dictionary.txt — из StressRNN (Зализняк), «+» после гласной
   ext/espeak/ru_listx             — espeak-ng, «слово $N», N — номер ударного слога
   ext/classic-ai/words_accent.json.bz2 — бейзлайн Сбера, {слово: номер слога}
+  inbox/lleo_poet_bundle/bases/base_ru.txt — база автора, «СЛОВО|N», запасной источник
 
 Откуда брать (raw.githubusercontent.com, ветка master):
   Badestrand/russian-dictionary/{nouns,verbs,adjectives,others}.csv
@@ -102,6 +103,18 @@ def _build():
     if os.path.exists(p):
         for w, s in json.load(bz2.open(p, "rt", encoding="utf-8")).items():
             add(w, {int(s)})
+    # 5. база lleo_poet из inbox (Koziev + WikiPron + генератор по Зализняку).
+    #    Только как запасной: при расхождениях мои источники чаще правы
+    #    (сверка 2026-10-18: совпадение 98,8%, в спорных словах база ошибается
+    #    чаще — «берушами|3», «шакьямуни|1»), но в ней есть «буду», «нами», «обе».
+    p = os.path.join(ROOT, "inbox", "lleo_poet_bundle", "bases", "base_ru.txt")
+    if os.path.exists(p):
+        for line in open(p, encoding="utf-8"):
+            head = line.split("←")[0].strip()
+            if "|" in head and not head.startswith("#"):
+                w, n = head.split("|", 1)
+                if n.isdigit():
+                    add(w.lower(), {int(n)})
     with open(CACHE, "w", encoding="utf-8") as f:
         for w in sorted(d):
             f.write(w + "\t" + ",".join(map(str, sorted(d[w]))) + "\n")
