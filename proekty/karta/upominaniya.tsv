@@ -1,7 +1,7 @@
 # файл inbox	байт	статус	где разобрано	упоминаний	мои файлы (до 8; ~ — слабое, по имени папки)
 1794_Samuel_Dunn_Wall_Map_of_the_World_in_Hemispheres_-_Geographicus_-_World2-dunn-1794.jpg	9350888	полностью	дневник 2026-10-18-1901 (глазом; проекция — по делениям экватора)	0	
 Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf	85524	полностью	дневник 2026-10-18-0408 («Эллины и эльфы»)	0	
-GORAN2.TXT	47952	бегло	дневник 2026-10-18-1901 (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866)	0	
+GORAN2.TXT	47952	бегло	дневник 2026-10-18-1901 (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866)	1	diary/2026-10-18-1901.md
 Khaydegger_chastushki.txt	3505	полностью	notes/sito-2020.md	2	notes/sito-2020.md, proekty/proverki/sito_2020d.py
 Khaydegger_khokku.txt	9244	полностью	notes/sito-2020.md	4	notes/sito-2020.md, proekty/hokku/hokku.py, proekty/hokku/README.md, proekty/proverki/sito_2020d.py
 Khaydegger_sinkveyn.txt	12356	полностью	notes/sito-2020.md	2	notes/sito-2020.md, proekty/proverki/sito_2020d.py
@@ -81,13 +81,13 @@ yevgeniy-onegin.txt	197253	не упомянут		0
 Циолковский танка.txt	7212	полностью	notes/sito-2020.md	1	notes/sito-2020.md
 Эльфомарксизм неизвестные страницы истории.pdf	116822	полностью	notes/elfomarksizm.md	0	
 асглеглаенлна.stl	1811917	не упомянут		0	
-HoI maps/climate.png	269854	не упомянут		0	
-HoI maps/combined_map_1px.png	1001478	не упомянут		0	
-HoI maps/combined_map_coast_outline.png	682471	не упомянут		0	
-HoI maps/provinces blank.png	1091581	не упомянут		0	
-HoI maps/provinces.png	1408636	не упомянут		0	
-HoI maps/rivers.png	319911	не упомянут		0	
-HoI maps/terrain.png	3347435	не упомянут		0	
+HoI maps/climate.png	269854	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
+HoI maps/combined_map_1px.png	1001478	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
+HoI maps/combined_map_coast_outline.png	682471	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
+HoI maps/provinces blank.png	1091581	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
+HoI maps/provinces.png	1408636	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
+HoI maps/rivers.png	319911	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
+HoI maps/terrain.png	3347435	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)	0	
 Synthesises-of-concepts/elven-conspiracy/elven-influence-book-plan.md	26144	?		1	notes/nevidimaja-ruka.md
 Synthesises-of-concepts/elven-conspiracy/elven-intervention-chronology.md	60074	?		1	notes/nevidimaja-ruka.md
 Synthesises-of-concepts/hegel-pythagoras/cosmological-music-diagram.mmd	10556	не упомянут		0	
