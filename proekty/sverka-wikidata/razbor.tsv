@@ -3,8 +3,8 @@
 # («все читали Платона»); X — скорее ошибка Wikidata.
 # ВНИМАНИЕ: разбор по памяти модели (2026-10-18), без проверки по источникам.
 # Это суждение того же рода, что и разметка графа, — со всеми её болезнями.
-# Проверка поиском (2026-10-18, 20 из 42 R): само влияние подтвердилось во всех 20.
-# Из 18 конкретных деталей (названия, цитаты) подтвердились 15 (две с поправками в словах), не подтвердились 3:
+# Проверка поиском (2026-10-18, 24 из 42 R): влияние подтвердилось в 23, в одном частично (Шеллинг→Бердяев: канал — Бёме).
+# Из 21 конкретной детали (названия, цитаты) подтвердились 18 (две с поправками в словах), не подтвердились 3:
 # статья Остина, «Моисей вольнодумцев» у Фейербаха, «Шестов вводил
 # Батая в Ницше». «Не подтвердилось» ≠ «ложно»: «Неистовые речи» англ. поиск не нашёл, а русский нашёл сразу.
 heraclitus	heidegger	R	лекционные курсы о Гераклите (1943–44), семинар с Финком
@@ -56,7 +56,7 @@ leibniz	bergson	W
 leibniz	russell	R	«Критическое изложение философии Лейбница» (1900)
 berkeley	peirce	W	рецензия на издание Беркли (1871)
 berkeley	bergson	W	доклад «Философская интуиция» разбирает Беркли
-montesquieu	arendt	R	принципы правления у Монтескьё в «Истоках тоталитаризма»
+montesquieu	arendt	R	принципы правления у Монтескьё в «Истоках тоталитаризма» (подтв.: гл. «Ideology and Terror», террор — сущность, идеология — принцип; Iakovou, Existenz 15.2)
 hume	schopenhauer	W
 rousseau	hegel	R
 rousseau	derrida	R	«О грамматологии», вторая часть
@@ -65,9 +65,9 @@ kant	carnap	R	диссертация «Пространство» в неока�
 kant	losev	W
 kant	gadamer	R	«Истина и метод»: критика субъективации эстетики у Канта
 kant	davidson	W
-hegel	derrida	R	«Glas», «Колодец и пирамида»
+hegel	derrida	R	«Glas», «Колодец и пирамида» (подтв.: «Le puits et la pyramide. Introduction à la sémiologie de Hegel»; Mistral 2024)
 schelling	kierkegaard	R	слушал берлинские лекции Шеллинга 1841 г.
-schelling	berdyaev	R	Ungrund через Бёме и Шеллинга
+schelling	berdyaev	R	Ungrund через Бёме и Шеллинга — ЧАСТИЧНО: Ungrund от Бёме подтв. (Bodea, Open Theology 2019), роль именно Шеллинга НЕ подтв.
 schelling	habermas	R	диссертация «Абсолют и история» о Шеллинге (подтв.: Бонн 1954, «Das Absolute und die Geschichte. Von der Zwiespältigkeit in Schellings Denken»)
 schopenhauer	berdyaev	W
 schopenhauer	popper	W
@@ -97,7 +97,7 @@ cassirer	foucault	W
 frank	losev	W
 jaspers	foucault	X	связи не знаю
 wittgenstein	davidson	R
-heidegger	lyotard	R	«Хайдеггер и „евреи“»
+heidegger	lyotard	R	«Хайдеггер и „евреи“» (подтв.: Galilée 1988)
 wittgenstein	derrida	W
 carnap	davidson	R	статья Дэвидсона о методе экстенсии и интенсии в томе Шилппа о Карнапе (подтв.: Schilpp 1963, с. 311–350)
 merleau_ponty	foucault	R	Фуко слушал его лекции (подтв.: SEP «Foucault»)
