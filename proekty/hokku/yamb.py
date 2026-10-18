@@ -16,6 +16,7 @@
 мужские (8). Строки берутся по порядку текста, жадно.
 
 Запуск: python3 yamb.py файлы... [--lines] > out.txt
+        python3 yamb.py --check стихи.md   — каждая строка своих стихов отдельно, OK/--
 """
 import re
 import sys
@@ -191,6 +192,14 @@ if __name__ == "__main__":
                 continue
             for s, key, fem, last in lines(words_of(t)):
                 print("\t".join(("Ж" if fem else "М", key, s, os.path.basename(p))))
+        sys.exit()
+    if "--check" in sys.argv:  # свои стихи: каждая строка файла как есть (до первой «---»)
+        for p in files:
+            for l in open(p, encoding="utf-8").read().split("\n---")[0].splitlines():
+                if not l.strip() or l.lstrip()[0] in "#*>":
+                    continue
+                r = fits([w for w in words_of(l) if w != "|"])
+                print(("OK  " + r[0] + "   [" + r[1] + "]") if r else ("--  " + l))
         sys.exit()
     if "--each" in sys.argv:  # каждый файл отдельно, с заголовком
         for p in files:
