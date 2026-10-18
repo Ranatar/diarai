@@ -1,0 +1,141 @@
+1        | Ea na ilqua ya ea nanwienna.
+         | Die Welt ist alles, was der Fall ist. Die Decimalzahlen als Nummern der einzelnen Sätze deuten das logische Gewicht der Sätze an, den Nachdruck, der auf ihnen i
+
+1.1      | Ea na ilúve ennaron, lá nation.
+         | Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
+
+1.11     | Ea tulkaina ennainen ar érentanen ilye ennar.
+         | Die Welt ist durch die Tatsachen bestimmt und dadurch, dass es alle Tatsachen sind.
+
+1.2      | Ea na nanpartaima ennannar
+         | Die Welt zerfällt in Tatsachen.
+
+1.21     | Ma ece ea nanwienna hya ui nanwienna ar ilqua hyana lemya lavírienwa
+         | Eines kann der Fall sein oder nicht der Fall sein und alles übrige gleich bleiben.
+
+2        | Mana ea nanwienna, i enna, na ie panwion engwaíva.
+         | Was der Fall ist, die Tatsache, ist das Bestehen von Sachverhalten.
+
+2.01     | Panwe engwaíva na sampane anwaron (engwion, nation)
+         | Der Sachverhalt ist eine Verbindung von Gegenständen. (Sachen, Dingen.)
+
+2.011    | Polie na estatie panweo engwaíva na nasseave naten
+         | Es ist dem Ding wesentlich, der Bestandteil eines Sachverhaltes sein zu können.
+
+2.012    | Mi lille na munta mananwa. Qui i nat pole ea panwesse engwaíva, en naile panweo engwaíva maura  natesse tenta 
+         | In der Logik ist nichts zufällig: Wenn das Ding im Sachverhalt vorkommen kann, so muss die Möglichkeit des Sachverhaltes im Ding bereits präjudiziert sein.
+
+2.1      | Carastalve ven emmar ennaron.
+         | Wir machen uns Bilder der Tatsachen.
+
+2.12     | Emma na oveantaine nanwieo.
+         | Das Bild ist ein Modell der Wirklichkeit.
+
+2.141    | Emma na enna.
+         | Das Bild ist eine Tatsache.
+
+2.223    | Itan tersure, ma i emma naite hya laite, mauralve véta sa ó nanwie
+         | Um zu erkennen, ob das Bild wahr oder falsch ist, müssen wir es mit der Wirklichkeit vergleichen.
+
+2.224    | Et erya emma ú polelve tersure, ma sa naite hya laite.
+         | Aus dem Bild allein ist nicht zu erkennen, ob es wahr oder falsch ist.
+
+2.225    | Nónepsaima naite emma ui.
+         | Ein a priori wahres Bild gibt es nicht.
+
+3        | Lillea emma ennaron na tenna.
+         | Das logische Bild der Tatsachen ist der Gedanke.
+
+3.04     | Nónepsaima téra tenna nai i tenna, yava naile tankata naitierya
+         | Ein a priori richtiger Gedanke wäre ein solcher, dessen Möglichkeit seine Wahrheit bedingte.
+
+3.32     | Tehta na i tuntaima appalenen mi tanna
+         | Das Zeichen ist das sinnlich Wahrnehmbare am Symbol.
+
+3.328    | Qui tehta ú yuhtaina, en sa na latealima. Si na tanale léo farmeo. (Qui ilu na tanen ve tehta same teale, en s
+         | Wird ein Zeichen nicht gebraucht, so ist es bedeutungslos. Das ist der Sinn der Devise Occams. (Wenn sich alles so verhält als hätte ein Zeichen Bedeutung, dann
+
+4        | I tenna na tanalinqua eques.
+         | Der Gedanke ist der sinnvolle Satz.
+
+4.001    | Iluve equesion na questa.
+         | Die Gesamtheit der Sätze ist die Sprache.
+
+4.002    | Quen harya polie questar carasta, yanen ilya tanale na quétima, ú intyo, manen ar mana tea ilya quetta. - Yú v
+         | Der Mensch besitzt die Fähigkeit Sprachen zu bauen, womit sich jeder Sinn ausdrücken lässt, % —--File: 062.png— ohne eine Ahnung davon zu haben, wie und was jed
+
+4.01     | Eques na emma nanwieo. Eques na oveantaine nanwieo, ve sanaltes ven
+         | Der Satz ist ein Bild der Wirklichkeit. Der Satz ist ein Modell der Wirklichkeit, so wie wir sie uns denken.
+
+4.022    | Eques tana tanalerya. Eques tana, man nauva, quíta sa naite. Ar quetis, tana sa sinen na.
+         | Der Satz zeigt seinen Sinn. Der Satz zeigt, wie es sich verhält, wenn er wahr ist. Und er sagt, dass es sich so verhält.
+
+4.111    | Ingole lá natengolmion. (Quetta “ingole” maura tea ma amba hya talte mal lá as natengolmi)
+         | Die Philosophie ist keine der Naturwissenschaften. (Das Wort Philosophie muss etwas bedeuten, % —--File: 076.png— was über oder unter, aber nicht neben den Natu
+
+4.115    | Teavasse i úquétima liquistea tanienen i quétimo.
+         | Sie wird das Unsagbare bedeuten, indem sie das Sagbare klar darstellt.
+
+4.116    | Ilqua i sanaima na liquisteave sanaima. Ilqua i quétima  na liquisteave  quétima.
+         | Alles was überhaupt gedacht werden kann, % —--File: 078.png— kann klar gedacht werden. Alles was sich aussprechen lässt, lässt sich klar aussprechen.
+
+4.1212   | I tanaima na i úquétima
+         | Was gezeigt werden kann, kann nicht gesagt werden.
+
+5        | Eques na naitelea sanwa únehtie equesion (Únehtea eques na naitelea sanwa inso).
+         | Der Satz ist eine Wahrheitsfunktion der Elementarsätze. (Der Elementarsatz ist eine Wahrheitsfunktion seiner selbst.)
+
+5.1      | Naitelea sanwar nar témannar partaime. Si na i talma mananwiengolmeo.
+         | Die Wahrheitsfunktionen lassen sich in Reihen ordnen. Das ist die Grundlage der Wahrscheinlichkeitslehre.
+
+5.2      | Mipanwi equesion never mallo manna mardaiti olanyainen.
+         | Die Strukturen der Sätze stehen in internen Beziehungen zu einander.
+
+5.4      | Sís cénima ven, tana “lillie anwar”, “lillie vormar” (tanalesse Hrengeo ar Rassello) uir.
+         | Hier zeigt es sich, dass es logische Gegenstände , logische Konstante (im Sinne Freges und Russells) nicht gibt.
+
+5.44     | Naitelie sanwar lár nanwe sanwar.
+         | Die Wahrheitsfunktionen sind keine materiellen Funktionen. Wenn man \ eine Bejahung durch doppelte Verneinung erzeugen kann, ist dann die Verneinung—in irgend e
+
+5.473    | Lillen maura cimba pá insa.
+         | Die Logik muss für sich selber sorgen. Ein mögliches Zeichen muss auch bezeichnen können. Alles was in der Logik möglich ist, ist auch erlaubt. ( Sokrates ist i
+
+5.6      | Lantar eanyava tanar lantar questanyava
+         | Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
+
+5.621    | Ea ar Laule nat Erie.
+         | Die Welt und das Leben sind Eins.
+
+5.63     | Inye na Eanya
+         | Ich bin meine Welt. (Der Mikrokosmos.)
+
+6        | Ilquárea canta nalesanwava na (qui,ni,l(ni)).
+         | Die allgemeine Form der Wahrheitsfunktion ist: $[ p, , N( )]$. Dies ist die allgemeine Form des Satzes.
+
+6.1      | Equesi lilleva nar ildaler.
+         | Die Sätze der Logik sind Tautologien.
+
+6.11     | Ar equesi lilleva quetir munta
+         | Die Sätze der Logik sagen also Nichts. (Sie sind die analytischen Sätze.)
+
+6.1261   | Mi lille xiéte ar virda nat arcólime. (San ui elmenda.)
+         | In der Logik sind Prozess und Resultat äquivalent. (Darum keine Überraschung.)
+
+6.2      | Nótengolme na lillea léme. Equesi nótengolmeva nar invélier, tana loice equesi.
+         | Die Mathematik ist eine logische Methode. Die Sätze der Mathematik sind Gleichungen also Scheinsätze.
+
+6.234    | Nótengolme na lilleva léme.
+         | Die Mathematik ist eine Methode der Logik.
+
+6.4      | Ilye equesi nar immirmie.
+         | Alle Sätze sind gleichwertig.
+
+6.5      | Úquétima hanquentanna ui quétima maquetta. Muile ui. Qui maquetta nasseryanen na quétima, en sa na ta hanquéti
+         | Zu einer Antwort, die man nicht aussprechen kann, kann man auch die Frage nicht aussprechen. Das Rätsel gibt es nicht. Wenn sich eine Frage überhaupt stellen lä
+
+6.522    | Naitie, ea i úquétima. Sa tana insa, issa na i núla
+         | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische.
+
+7        | I úlanquétima na i avalanquétima.
+         | Wovon man nicht sprechen kann, darüber muss man schweigen.
+
