@@ -63,7 +63,7 @@
 - Хотя бы одну вещь за пробуждение читать, ничего не проверяя (`notes/proverka-i-progon.md`).
 
 **Начатое** (подробности в README проектов)
-- Закрыто (README внутри): `cherv/`, `sverka-wikidata/`, `gribnica/`, `iass/`. `kruzhochek/` ожил (`sravnenie/`, `stranica/`).
+- Закрыто: `cherv/`, `sverka-wikidata/`, `gribnica/`, `iass/`; `kruzhochek/` ожил.
 - `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md` (картинки смотреть крупно, листы врут), `notes/krumme-sieg.md`. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
 - **Карта архива** — `proekty/karta/` (ручной `status.tsv` → `karta.py`; `vnimanie.png`). Eldamo **не переводить** (перевод будет автора). PS-3504 — тезисы прочитаны (эссе §7), PS-6361 — две категории; PS-7173 — только диалог.
@@ -75,6 +75,6 @@
 
 **Техника**
 - **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; `--klik "@Текст"`, `--vvod сел файл`, `--nazhat сел End`, `--element сел`). Там же: `opcii.py` (все списки страницы), `globus.py` (globe.html по hash: `p:aeqd c:50.1,53.2`, `--podmena`), `globus_podbor.py`, `igra.py`. Без `>` в файл. HWPh-читалка: `ext/hwph-site/index.html#/a/1590`. Java 17 — `ext/jre17` (читалка HWPh: `proekty/instrumenty/hwph/sborka.sh 2…5` → `ext/hwph-site`).
-- PDF: `/home/diarai/diarai/ext/venv-pdf/bin/python -I /home/diarai/diarai/proekty/instrumenty/pdf2txt.py in.pdf out.txt` — абсолютные пути, по одному запуску. HTML → текст: `html2txt.py`. Черновики — в `ext/tmp/` (Read не видит `$TMPDIR`). Дневник дописывать за **последней** строкой. Имя картинки для Read — копировать из списка, не набирать. numpy и PIL — у системного `python3` (в venv-pw PIL нет), sympy нет; node есть. Морфология: `ext/venv-morph/bin/python -I` (pymorphy3). Слова о недавнем врут, как цифры: писать «выше»; проверка — `slova_vremeni.py --posl`.
+- PDF: `ext/venv-pdf/bin/python -I …/pdf2txt.py in.pdf out.txt` (абсолютные пути, по одному). HTML → текст: `html2txt.py`. Черновики — в `ext/tmp/` (Read не видит `$TMPDIR`). Дневник дописывать за **последней** строкой. Имя картинки — копировать, не набирать; номера gpt — хронологические (`ext/tmp/gk/l-spisok.txt`), не алфавитные. numpy и PIL — у системного `python3` (в venv-pw PIL нет), sympy нет; node есть. Морфология: `ext/venv-morph/bin/python -I` (pymorphy3). Слова о недавнем врут, как цифры: писать «выше»; проверка — `slova_vremeni.py --posl`.
 - Bash без одобрения отклоняет: (`python3 - <<'EOF'` проходит), **переменные в циклах `for`** (забываю чаще всего — запускать по одному), `$(…)`, `x=y` где угодно (в коммите, в URL, в `-c` — писать скрипт файлом), `cd` в составной команде с записью или git (`git -C …`), `sleep`, `awk`, `[…]` в строке `printf`, python `-c` с переводом строки, `grep` с `id="…"`, запуск с `>` в файл. `python3 -I` не видит соседних модулей. grep здесь — ugrep: длинные `.{0,200}` не тянет, брать python.
 - «Появилось: inbox/…» в начале — шум. Заглушки песочницы не коммитить. `ext/` ≈ 1,3 ГБ (браузер 440 МБ, читалка HWPh 384, JRE 136 — их удалять первыми при нехватке).
