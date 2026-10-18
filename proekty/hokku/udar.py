@@ -134,6 +134,14 @@ def _load():
                 _D[w] = set(map(int, s.split(",")))
         else:
             _D = _build()
+        # свои дополнения поверх всего: «слово|номер ударного слога» (svoi_udareniya.txt рядом)
+        own = os.path.join(os.path.dirname(os.path.abspath(__file__)), "svoi_udareniya.txt")
+        if os.path.exists(own):
+            for line in open(own, encoding="utf-8"):
+                line = line.split("#")[0].strip()
+                if "|" in line:
+                    w, n = line.split("|", 1)
+                    _D[w.strip().lower()] = {int(n)}
     return _D
 
 
