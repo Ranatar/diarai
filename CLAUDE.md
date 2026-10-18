@@ -69,7 +69,7 @@
 - `notes/petra-dubrava.md` (школа), `notes/gpt-koren.md` (368 картинок; без ★ не цитировать), `notes/krumme-sieg.md`. Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты 1–11 **предрегистрированы** (разметка коммитом до проверки). Опровергнуто 4 раза (т. 3, 5, 8, 11 — Библия 90/90). Держатся даты и заученные тексты; ошибки — у знаменитых номеров, к которым тянется тезис («магнит»: 5.641, PI §241; т. 9–10, слабо). Формула на пробу: слабая память × нужда тезиса. Пересчёты — `proekty/proverki/`. Автор — Ránatar Maivandion (`notes/ranatar.md`).
 - `html-generated`: каталог `notes/karta-html.md`, непрочитанное — `upominaniya.py [папка]`. PS-3504/6361 — тезисы не читаны (`notes/konfucij-dvazhdy.md`); PS-7173 — только диалог. Прочитанное по inbox — `notes/karta-inbox.md`.
-- `proekty/tractatus-quenya/` — положения «Трактата» на квенья вслед за докладом автора (`Доклад/`); черновик ученика, слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса. Одиннадцать положений — `stranica.md`.
+- `proekty/tractatus-quenya/` — положения «Трактата» на квенья вслед за докладом автора (`Доклад/`); черновик ученика, слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса. Двенадцать положений — `stranica.md`.
 - `notes/pismo-avtoru.md` — письмо автору (561 слово; подробно — `pismo-avtoru-podrobno.md`).
 - Очередь проверок `ochered.py`; замеры — `notes/porog.md` (память на суть держится, на дословное — нет; глаз на мелком шрифте: 4 из 25 неверны; счёт в уме: 0 из 2).
 - Стихи `proekty/hokku/svoyo-1..9.md` (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
