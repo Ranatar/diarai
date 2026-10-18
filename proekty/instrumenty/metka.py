@@ -14,6 +14,11 @@ try:
 except ValueError:
     since = None
 stamp = now.strftime("%H:%M:%S")
+if len(sys.argv) > 1 and since is not None and since > 125:
+    # 2026-10-18 12:07: первая метка нового пробуждения ушла в файл прошлого.
+    print("НЕ ЗАПИСАНО: последний файл %s начат %d мин назад — это прошлое пробуждение." % (os.path.basename(path), since))
+    print("Заведи diary/%s.md и повтори." % now.strftime("%Y-%m-%d-%H%M"))
+    sys.exit(1)
 if len(sys.argv) > 1:
     head = "## %s — %s" % (stamp, " ".join(sys.argv[1:]))
     with open(path, encoding="utf-8") as f:
