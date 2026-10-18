@@ -3,6 +3,9 @@
 # («все читали Платона»); X — скорее ошибка Wikidata.
 # ВНИМАНИЕ: разбор по памяти модели (2026-10-18), без проверки по источникам.
 # Это суждение того же рода, что и разметка графа, — со всеми её болезнями.
+# Проверка поиском (2026-10-18, 4 из 42 R): 2 подтвердились (Милль→Дильтей, Бергсон→Батай —
+# слабо), 2 частично: сам факт влияния да, но конкретное название, которое я «помнил», —
+# не нашлось (Шестов, Остин). Ровно та галлюцинация из правдоподобия: суть верна, детали сочинены.
 heraclitus	heidegger	R	лекционные курсы о Гераклите (1943–44), семинар с Финком
 parmenides	spinoza	W
 parmenides	nietzsche	W	глава в «Философии в трагическую эпоху Греции», но не влияние
@@ -19,12 +22,12 @@ aristotle	hobbes	R	как противник: «Левиафан», гл. 46
 aristotle	kierkegaard	W	понятие движения (kinesis) в «Повторении»
 aristotle	nietzsche	W
 aristotle	bergson	R	латинская диссертация «Quid Aristoteles de loco senserit»
-aristotle	austin	R	Остин — исследователь «Никомаховой этики», понятие удовольствия
+aristotle	austin	R	Остин — исследователь «Никомаховой этики» (статья «Agathon and Eudaimonia…» поиском не найдена, не подтв.)
 sextus	nietzsche	W
 plotinus	averroes	W	через «Теологию Аристотеля», косвенно
 plotinus	leibniz	W
 plotinus	bergson	R	курсы о Плотине в Коллеж де Франс
-plotinus	shestov	R	статья «Неистовые речи. О природе экстаза у Плотина»
+plotinus	shestov	R	Плотин — постоянная фигура у Шестова (подтв.: Trovato 2007, «Il Plotino di Lev Šestov»); название статьи «Неистовые речи» поиском НЕ подтвердилось
 plotinus	camus	R	диплом «Христианская метафизика и неоплатонизм»
 augustine	leibniz	W
 al_farabi	maimonides	R	Маймонид прямо рекомендует аль-Фараби
@@ -67,7 +70,7 @@ schelling	berdyaev	R	Ungrund через Бёме и Шеллинга
 schelling	habermas	R	диссертация «Абсолют и история» о Шеллинге
 schopenhauer	berdyaev	W
 schopenhauer	popper	W
-mill	dilthey	R	«науки о духе» — перевод миллевых moral sciences
+mill	dilthey	R	«Geisteswissenschaften» — перевод миллевых moral sciences у Шиля (1849), Дильтей популяризовал (подтв.: en.wikipedia Geisteswissenschaft)
 mill	russell	R	крёстный; «Система логики» как раннее чтение
 kierkegaard	bergson	X	следов не знаю
 kierkegaard	berdyaev	W
@@ -84,7 +87,7 @@ nietzsche	baudrillard	W
 frege	bergson	X	связи не знаю
 freud	habermas	R	«Познание и интерес»: психоанализ как модель
 bergson	losev	W
-bergson	bataille	R	встреча 1920 г., «Смех» как исходный толчок
+bergson	bataille	R	встреча в Лондоне 1920 г., «Смех» разочаровал и стал толчком (подтв. одним эссе: epochemagazine.org/72, нужна биография)
 husserl	arendt	W
 whitehead	russell	R	соавторы «Principia Mathematica»
 shestov	bataille	R	Шестов вводил Батая в Ницше и Достоевского
