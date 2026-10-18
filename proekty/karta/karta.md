@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1665, служебное — 1441, бегло — 1194, не упомянут — 949, полностью — 807, упомянут, статус не поставлен — 138, нет — 1.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6195. Статусы: частично — 1665, служебное — 1441, бегло — 1194, не упомянут — 947, полностью — 807, упомянут, статус не поставлен — 140, нет — 1.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -22,7 +22,7 @@
 | `Tsiolkovskiy_tanka.txt` | 1 | 7 КБ | полностью | 1 | notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан) | `notes/sito-2020.md`, `proekty/proverki/sito_2020c.py` |
 | `Tsiolkovskiy_texty.txt` | 1 | 4 МБ | бегло | 1 | notes/sito-2020.md (корпус программы) | `notes/sito-2020.md`, `proekty/proverki/sito_2020c.py` |
 | `Vinya maitaren.txt` | 1 | 1 КБ | полностью | 1 | notes/vinya-maitaren.md | `diary/2026-10-18-1640.md`, `diary/2026-10-18-1457.md` |
-| `Vo_vremena_velikanov_kniga_ed_hardcover.pdf` | 1 | 47 МБ | частично | 0 | дневник 2026-10-18-1901 (стр. 1–40, без проверки) |  |
+| `Vo_vremena_velikanov_kniga_ed_hardcover.pdf` | 1 | 47 МБ | частично | 0 | дневник 2026-10-18-1901 (стр. 1–60, без проверки) |  |
 | `ai_philosophy_crisis(1).md` | 1 | 78 КБ | частично | 1 | notes/spor-so-slepym-demiurgom.md | `notes/spor-so-slepym-demiurgom.md`, `notes/karta-inbox.md` |
 | `apeiron-article.pdf` | 1 | 207 КБ | полностью | 1 | notes/porog.md; дневник 2026-10-18-0408 | `diary/2026-10-18-0408.md`, `notes/porog.md` |
 | `cadia_stands_humoresques.md` | 1 | 20 КБ | упомянут, статус не поставлен | 1 |  | `notes/karta-inbox.md` |
@@ -96,10 +96,10 @@
 | `Synthesises-of-concepts/synthesis-project` | 24 | 876 КБ | не упомянут 23, упомянут, статус не поставлен 1 | 1 |  | `diary/2026-10-18-1901.md` |
 | `Synthesises-of-concepts/synthesis-project-m4opus` | 18 | 475 КБ | не упомянут | 0 |  |  |
 | `Synthesises-of-concepts/synthesises` | 9 | 32 КБ | не упомянут | 0 |  |  |
-| `Synthesises-of-concepts/various` | 80 | 7 МБ | не упомянут 40, упомянут, статус не поставлен 32, бегло 4, полностью 2, частично 2 | 37 | дневник 2026-10-18-1901 (§0, §9, §10); дневник 2026-10-18-1901 (§1); дневник 2026-10-18-1901 (без проверки); дневник 2026-10-18-1901 (введение, таксономия); дневник 2026-10-18-1901 (начало); дневник 2026-10-18-1901 (оглавление, §1–3); дневник 2026-10-18-1901 (против комментария автора в cycle-comm-styled); тот же текст, что html (дневник 2026-10-18-1640) | `diary/2026-10-18-1901.md`, `notes/gpt-koren.md` |
+| `Synthesises-of-concepts/various` | 80 | 7 МБ | не упомянут 39, упомянут, статус не поставлен 33, бегло 4, полностью 2, частично 2 | 38 | дневник 2026-10-18-1901 (§0, §9, §10); дневник 2026-10-18-1901 (§1); дневник 2026-10-18-1901 (без проверки); дневник 2026-10-18-1901 (введение, таксономия); дневник 2026-10-18-1901 (начало); дневник 2026-10-18-1901 (оглавление, §1–3); дневник 2026-10-18-1901 (против комментария автора в cycle-comm-styled); тот же текст, что html (дневник 2026-10-18-1640) | `notes/gpt-koren.md`, `diary/2026-10-18-1901.md` |
 | `Synthesises-of-concepts/wittgenstein-hesychasm` | 14 | 715 КБ | не упомянут 13, полностью 1 | 1 | дневник 2026-10-18-1901 (без проверки) | `diary/2026-10-18-1901.md` |
 | `book/` | 70 | 23 МБ | не упомянут 59, упомянут, статус не поставлен 9, служебное 2 | 5 |  | `notes/ranatar.md`, `diary/2026-10-18-1457.md` |
-| `complex_beauty/` | 272 | 149 МБ | бегло | 0 | notes/karta-inbox.md (листом) |  |
+| `complex_beauty/` | 272 | 149 МБ | бегло | 0 | notes/karta-inbox.md (листом) | `notes/gpt-koren.md` |
 | `eldamo/` | 716 | 133 МБ | служебное 366, не упомянут 328, упомянут, статус не поставлен 19, полностью 1, бегло 1, частично 1 | 17 | proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску); proekty/karta/eldamo_ru.py (заполненность); дневник 2026-10-18-1901 | `notes/ranatar.md`, `diary/2026-10-18-1901.md` |
 | `future_borders/` | 123 | 212 МБ | частично 75, служебное 48 | 7 | notes/gribnica.md; proekty/gribnica/ | `proekty/gribnica/README.md`, `diary/2026-10-18-0737.md` |
 | `gpt/` | 369 | 1 ГБ | частично | 9 | notes/gpt-koren.md (корень: листами по 40, отдельно — почти нет) | `notes/gpt-koren.md`, `proekty/instrumenty/list_hrono.py` |
@@ -107,7 +107,7 @@
 | `gpt/SAILORS` | 212 | 616 МБ | полностью | 2 | notes/sailors.md (листами; крупно — две) | `notes/imyaslavie.md`, `notes/karta-inbox.md` |
 | `gpt/ИМЯСЛАВНАЯ РОССИЯ` | 15 | 44 МБ | полностью | 0 | notes/imyaslavie.md |  |
 | `gpt/ПЕТРА-ДУБРАВСКАЯ ШКОЛА` | 43 | 118 МБ | полностью | 0 | notes/petra-dubrava.md |  |
-| `html-generated/` | 125 | 25 МБ | не упомянут 56, полностью 30, упомянут, статус не поставлен 19, частично 15, бегло 5 | 63 | notes/aidan-aelfwine.md; notes/aidan-sosud.md; notes/atomnye-modeli.md; notes/complex-trinity.md; notes/differance.md; notes/dve-komnaty.md; notes/geolimpiada.md; notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний); notes/konfucij-dvazhdy.md (тезисы не читаны); notes/kontinuum.md; notes/kvenya-holmy.md; notes/monadologiya.md; notes/muzyka-posledovatelnost.md; notes/odinnadcat-m.md; notes/otvet-gegel.md; notes/parmenid-levinas.md; notes/petra-dubrava.md; notes/pi-gallery.md; notes/providence-ssylki.md; notes/sad-soglasovanij.md; notes/vinilograf.md; notes/vitgenshtejn-sintez.md; notes/zhizn-figury.md (фигуры); proekty/aidan/; proekty/blanki/; proekty/hokku/README.md (без проверки); proekty/iass/; proekty/instrumenty/brauzer/snimki/kaleidoscope.png; дневник 2026-10-18-0842 (без проверки); дневник 2026-10-18-1640 (16:57, без проверки); дневник 2026-10-18-1640 (без проверки); дневник 2026-10-18-1807, 1901 (живьём); дневник 2026-10-18-1901 (браузером + строки из кода); дневник 2026-10-18-1901 (браузером); дневник 2026-10-18-1901 (живьём: форма, нужен ключ API); раздел CLAUDE.md: «только диалог» | `notes/slova-mutanty.md`, `notes/karta-inbox.md` |
+| `html-generated/` | 125 | 25 МБ | не упомянут 55, полностью 30, упомянут, статус не поставлен 20, частично 15, бегло 5 | 64 | notes/aidan-aelfwine.md; notes/aidan-sosud.md; notes/atomnye-modeli.md; notes/complex-trinity.md; notes/differance.md; notes/dve-komnaty.md; notes/geolimpiada.md; notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний); notes/konfucij-dvazhdy.md (тезисы не читаны); notes/kontinuum.md; notes/kvenya-holmy.md; notes/monadologiya.md; notes/muzyka-posledovatelnost.md; notes/odinnadcat-m.md; notes/otvet-gegel.md; notes/parmenid-levinas.md; notes/petra-dubrava.md; notes/pi-gallery.md; notes/providence-ssylki.md; notes/sad-soglasovanij.md; notes/vinilograf.md; notes/vitgenshtejn-sintez.md; notes/zhizn-figury.md (фигуры); proekty/aidan/; proekty/blanki/; proekty/hokku/README.md (без проверки); proekty/iass/; proekty/instrumenty/brauzer/snimki/kaleidoscope.png; дневник 2026-10-18-0842 (без проверки); дневник 2026-10-18-1640 (16:57, без проверки); дневник 2026-10-18-1640 (без проверки); дневник 2026-10-18-1807, 1901 (живьём); дневник 2026-10-18-1901 (браузером + строки из кода); дневник 2026-10-18-1901 (браузером); дневник 2026-10-18-1901 (живьём: форма, нужен ключ API); раздел CLAUDE.md: «только диалог» | `notes/gpt-koren.md`, `notes/slova-mutanty.md` |
 | `html-generated/maps` | 72 | 18 МБ | служебное 59, частично 13 | 4 | proekty/rody-oshibok/ (тест 3: формулы проекций) | `proekty/rody-oshibok/README.md`, `proekty/proverki/proekcii.py` |
 | `html-generated/waves` | 11 | 2 МБ | частично | 1 | дневник 2026-10-18-1901 (браузером: комната Токарского) | `diary/2026-10-18-1901.md`, `notes/zhivoe-i-kod.md` |
 | `html-generated/webmap` | 24 | 7 МБ | не упомянут 20, упомянут, статус не поставлен 4 | 4 | notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний) | `diary/2026-10-18-1901.md`, `diary/2026-10-18-0737.md` |
@@ -120,7 +120,7 @@
 | `philosynth/` | 599 | 21 МБ | бегло | 17 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `notes/rodoslovnaya-sinteza.md` |
 | `scad/` | 60 | 127 КБ | частично | 3 | proekty/kruzhochek/README.md | `proekty/kruzhochek/README.md`, `diary/2026-10-18-0510.md` |
 | `translation-chaos/` | 26 | 185 КБ | бегло | 3 | notes/karta-inbox.md (README) | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |
-| `wormlisp/` | 920 | 15 МБ | служебное 684, частично 236 | 27 | proekty/cherv/README.md (запущен; код — выборочно) | `proekty/cherv/README.md`, `diary/2026-10-18-0408.md` |
+| `wormlisp/` | 920 | 15 МБ | служебное 684, частично 236 | 29 | proekty/cherv/README.md (запущен; код — выборочно) | `proekty/cherv/README.md`, `diary/2026-10-18-0408.md` |
 | `Доклад/` | 10 | 9 МБ | не упомянут 6, полностью 3, частично 1 | 3 | proekty/tractatus-quenya/perevod.md; proekty/tractatus-quenya/perevod.md (справочник: §§ по поиску); дневник 2026-10-18-0510; proekty/tractatus-quenya/; дневник 2026-10-18-1640 | `diary/2026-10-18-1640.md`, `proekty/tractatus-quenya/perevod.md` |
 | `Доклад/Atanquesta_files` | 2 | 184 КБ | не упомянут | 0 |  |  |
 | `Доклад/ERTP` | 92 | 11 МБ | бегло 58, служебное 34 | 5 | notes/smesh-otchet.md (только смесь букв) | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |

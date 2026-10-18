@@ -15,7 +15,7 @@ Tsiolkovskiy_oneginskaya.txt	5617	полностью	notes/sito-2020.md (сти�
 Tsiolkovskiy_tanka.txt	7212	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Tsiolkovskiy_texty.txt	3859494	бегло	notes/sito-2020.md (корпус программы)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Vinya maitaren.txt	1433	полностью	notes/vinya-maitaren.md	5	diary/2026-10-18-1640.md, diary/2026-10-18-1457.md, notes/vinya-maitaren.md, notes/karta-inbox.md, proekty/instrumenty/eldamo_spisok.py
-Vo_vremena_velikanov_kniga_ed_hardcover.pdf	49577666	частично	дневник 2026-10-18-1901 (стр. 1–40, без проверки)	0	
+Vo_vremena_velikanov_kniga_ed_hardcover.pdf	49577666	частично	дневник 2026-10-18-1901 (стр. 1–60, без проверки)	0	
 ai_philosophy_crisis(1).md	80299	частично	notes/spor-so-slepym-demiurgom.md	3	notes/spor-so-slepym-demiurgom.md, notes/karta-inbox.md, proekty/rody-oshibok/test11-perepis.tsv
 apeiron-article.pdf	212204	полностью	notes/porog.md; дневник 2026-10-18-0408	4	diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, proekty/sverka-wikidata/README.md
 cadia_stands_humoresques.md	20104	упомянут, статус не поставлен		1	notes/karta-inbox.md
@@ -767,7 +767,7 @@ Synthesises-of-concepts/various/dasein-noir-revised.md	38385	не упомяну
 Synthesises-of-concepts/various/deps_fixes.md	38485	не упомянут		0	
 Synthesises-of-concepts/various/dnd-afterdragon-extended.md	253232	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/various/domain-coloring-30.md	12765	не упомянут		0	
-Synthesises-of-concepts/various/domain-coloring.md	47211	не упомянут		0	
+Synthesises-of-concepts/various/domain-coloring.md	47211	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/various/elven-marxism-world-ext.md	192124	упомянут, статус не поставлен		1	notes/nevidimaja-ruka.md
 Synthesises-of-concepts/various/elven-marxism-world.md	134004	упомянут, статус не поставлен		1	notes/nevidimaja-ruka.md
 Synthesises-of-concepts/various/elves_of_later_ages.md	62698	упомянут, статус не поставлен		1	notes/maglor.md
@@ -1076,7 +1076,7 @@ complex_beauty/image(6).gif	954762	бегло	notes/karta-inbox.md (листом
 complex_beauty/image(7).gif	954820	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/image(8).gif	1301430	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/image(9).gif	1301573	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/index.png	80540	бегло	notes/karta-inbox.md (листом)	0	
+complex_beauty/index.png	80540	бегло	notes/karta-inbox.md (листом)	1	~notes/gpt-koren.md
 complex_beauty/index1.png	86559	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/indвеерке.png	858253	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/iqedjki3I84.jpg	86109	бегло	notes/karta-inbox.md (листом)	0	
@@ -1173,7 +1173,7 @@ complex_beauty/загруженное (63).png	282436	бегло	notes/karta-inb
 complex_beauty/загруженное (64).png	219436	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/загруженное (65).png	163743	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/нгангро.png	456863	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/рл.png	1668384	бегло	notes/karta-inbox.md (листом)	0	
+complex_beauty/рл.png	1668384	бегло	notes/karta-inbox.md (листом)	1	~notes/gpt-koren.md
 complex_beauty/рмлбрм.png	62079	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/рплро.png	1044652	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/уну5у.png	1379000	бегло	notes/karta-inbox.md (листом)	0	
@@ -2731,9 +2731,9 @@ html-generated/anthropological-garden__.html	337078	полностью	notes/sad
 html-generated/anthropological-garden__ext.html	372510	полностью	notes/sad-soglasovanij.md	0	
 html-generated/astronomican_game.html	389302	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/atomic-models-history.html	137522	полностью	notes/atomnye-modeli.md	1	notes/atomnye-modeli.md
-html-generated/canada_geese_drones.html	60057	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	diary/2026-10-18-1640.md, proekty/hokku/svoyo-10.md
+html-generated/canada_geese_drones.html	60057	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	diary/2026-10-18-1640.md, notes/gpt-koren.md, proekty/hokku/svoyo-10.md
 html-generated/chuvstvennost-continuuma.html	45985	полностью	notes/kontinuum.md	2	notes/slova-mutanty.md, notes/kontinuum.md
-html-generated/clockwork3d.html	93303	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/clockwork3d.html	93303	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/gpt-koren.md
 html-generated/codex_no_wbr_test.html	497763	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/complex-aesthetics-page-v3.html	101720	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/complex-atlas.html	499693	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -2825,7 +2825,7 @@ html-generated/stratified_monadology_full.html	114133	частично	notes/mon
 html-generated/stratified_monadology_revised.html	182828	частично	notes/monadologiya.md	1	proekty/rody-oshibok/test10-perepis.tsv
 html-generated/synaisthematic.html	619837	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/slova-mutanty.md
 html-generated/synesthematix.html	433404	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/tolkien_hills.html	198575	полностью	notes/kvenya-holmy.md	3	notes/vinya-maitaren.md, notes/kvenya-holmy.md, notes/karta-inbox.md
+html-generated/tolkien_hills.html	198575	полностью	notes/kvenya-holmy.md	4	notes/vinya-maitaren.md, notes/gpt-koren.md, notes/kvenya-holmy.md, notes/karta-inbox.md
 html-generated/turing-patterns.html	182026	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	proekty/kruzhochek/README.md
 html-generated/vector-field-visualization.html	32289	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/vinilograf.html	116441	частично	notes/vinilograf.md	4	diary/2026-10-18-1457.md, notes/vinilograf.md, notes/ranatar.md, proekty/rody-oshibok/README.md
@@ -3645,7 +3645,7 @@ philosphaira/app/_probe-rig.js	15166	не упомянут		0
 philosphaira/app/actions_map.json	61236	не упомянут		0	
 philosphaira/app/boot.js	15005	не упомянут		0	
 philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	9	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/kruzhochek/rimskaya.py, ~proekty/kruzhochek/zelyonyi-obl.py
-philosphaira/app/main.js	5554	упомянут, статус не поставлен		8	~diary/2026-10-18-1457.md, ~diary/2026-10-18-1807.md, ~proekty/hokku/hokku.py, ~proekty/hokku/yamb.py, ~proekty/cherv/hronofoto.py, ~proekty/instrumenty/sverka_paragrafov.py, ~proekty/instrumenty/trinity_dc.py, ~proekty/kruzhochek/rimskaya.py
+philosphaira/app/main.js	5554	упомянут, статус не поставлен		9	~diary/2026-10-18-1457.md, ~diary/2026-10-18-1807.md, ~notes/gpt-koren.md, ~proekty/hokku/hokku.py, ~proekty/hokku/yamb.py, ~proekty/cherv/hronofoto.py, ~proekty/instrumenty/sverka_paragrafov.py, ~proekty/instrumenty/trinity_dc.py
 philosphaira/app/namespaces.json	3505	не упомянут		0	
 philosphaira/app/css/01-base.css	18657	не упомянут		0	
 philosphaira/app/css/02-legend.css	2002	не упомянут		0	
@@ -3946,7 +3946,7 @@ philosphaira/server/src/db/verifications.js	1388	не упомянут		0
 philosphaira/server/src/graph/footnotes.js	7593	не упомянут		0	
 philosphaira/server/src/graph/impact.js	6261	не упомянут		0	
 philosphaira/server/src/graph/layout.js	9157	не упомянут		0	
-philosphaira/server/src/graph/read.js	4018	упомянут, статус не поставлен		4	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/graf_test5.py
+philosphaira/server/src/graph/read.js	4018	упомянут, статус не поставлен		5	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/graf_test5.py
 philosphaira/server/src/graph/relayout-service.js	5829	не упомянут		0	
 philosphaira/server/src/graph/schema.js	8253	не упомянут		0	
 philosphaira/server/src/graph/text-rules.js	4490	не упомянут		0	
@@ -4813,7 +4813,7 @@ wormlisp/src/core/model.lisp	7770	частично	proekty/cherv/README.md (за
 wormlisp/src/core/package.lisp	1828	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/core/project.lisp	1631	частично	proekty/cherv/README.md (запущен; код — выборочно)	15	diary/2026-10-18-1640.md, notes/ext-opis.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, notes/vitgenshtejn-sintez.md, notes/pismo-avtoru-podrobno.md, notes/rodoslovnaya-sinteza.md, proekty/rody-oshibok/pu_razbor.py
 wormlisp/src/core/types.lisp	2081	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/sverka-wikidata/sverka.py
-wormlisp/src/dsl/component.lisp	9278	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
+wormlisp/src/dsl/component.lisp	9278	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	notes/gpt-koren.md
 wormlisp/src/dsl/conditions.lisp	5428	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/families.lisp	10714	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/interpret.lisp	40748	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/rody-oshibok/test9-perepis.tsv
@@ -4823,10 +4823,10 @@ wormlisp/src/dsl/package.lisp	2440	частично	proekty/cherv/README.md (з�
 wormlisp/src/dsl/primitives.lisp	2049	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/io/frames.lisp	12050	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/hronofoto.py
 wormlisp/src/io/package.lisp	1493	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/kruzhochek/out/log.txt
-wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	16	~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-1901.md, ~diary/2026-10-18-0408.md, ~notes/krumme-sieg.md, ~notes/pismo-avtoru-podrobno.md, ~notes/otvet-avtoru-2.md
+wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	17	~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-1901.md, ~diary/2026-10-18-0408.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/pismo-avtoru-podrobno.md
 wormlisp/src/ir/derivative.lisp	5033	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~diary/2026-10-18-0510.md
-wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	8	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/krumme-sieg.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/graf_test5.py, ~proekty/rody-oshibok/README.md
+wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	9	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/graf_test5.py
 wormlisp/src/ir/package.lisp	1728	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/primitives.lisp	6250	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/params/catalog.lisp	15836	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4923,7 +4923,7 @@ wormlisp/tests/runtime-repl.lisp	6628	частично	proekty/cherv/README.md (
 wormlisp/tests/runtime.lisp	21157	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/server.lisp	4390	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/solver-models.lisp	8676	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/tests/solver.lisp	24806	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
+wormlisp/tests/solver.lisp	24806	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	notes/gpt-koren.md
 wormlisp/tests/structure.lisp	3118	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/suite.lisp	559	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/topology.lisp	8250	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	notes/karta-inbox.md, notes/otvet-gegel.md
