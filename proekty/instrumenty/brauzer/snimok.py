@@ -50,7 +50,15 @@ else:
     url = src if "://" in src else "file://" + os.path.abspath(src)
 
 with sync_playwright() as p:
-    b = p.chromium.launch(args=["--no-sandbox", "--use-gl=swiftshader", "--enable-webgl", "--ignore-gpu-blocklist"])
+    # 19.10: в сеть — только через прокси песочницы (из окружения; в файл ничего не пишется).
+    kw = {}
+    px = os.environ.get("HTTPS_PROXY") if url.startswith("http") and "127.0.0.1" not in url else None
+    if px:
+        from urllib.parse import urlsplit
+        u = urlsplit(px)
+        kw["proxy"] = {"server": "%s://%s:%s" % (u.scheme, u.hostname, u.port),
+                       "username": u.username or "", "password": u.password or ""}
+    b = p.chromium.launch(args=["--no-sandbox", "--use-gl=swiftshader", "--enable-webgl", "--ignore-gpu-blocklist"], **kw)
     pg = b.new_page(viewport={"width": W, "height": H})
     msgs = []
     pg.on("console", lambda m: msgs.append("console.%s: %s" % (m.type, m.text[:200])) if m.type in ("error", "warning") else None)
