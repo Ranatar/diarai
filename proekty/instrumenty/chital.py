@@ -25,6 +25,11 @@ for a in args:
     stem = os.path.splitext(b)[0]
     if stem != b and len(stem) >= 4:
         keys.append(stem)
+    # 19.10 вечер: «tirion-ninquisseo» не нашёл «Tirion Ninquisseo» в README, и я перечитал песню, прочитанную утром.
+    for k in (stem, b):
+        for sep in ("-", "_"):
+            if sep in k:
+                keys.append(k.replace(sep, " "))
 keys = list(dict.fromkeys(k.lower() for k in keys))
 print("ключи:", ", ".join(keys))
 
