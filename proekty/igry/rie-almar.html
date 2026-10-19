@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Rië almar — только цветы</title>
+<style>
+  html,body{margin:0;height:100%;background:#0d1117;color:#c9d1d9;font-family:Georgia,serif;overflow:hidden}
+  canvas{display:block}
+  #txt{position:fixed;left:0;right:0;bottom:18px;text-align:center;font-style:italic;opacity:.8;pointer-events:none;font-size:15px}
+  #cnt{position:fixed;right:18px;top:14px;font-family:monospace;font-size:13px;opacity:.7;text-align:right}
+  #hint{position:fixed;left:18px;top:14px;font-size:13px;opacity:.55;max-width:340px}
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="hint">Голое дерево из зимнего леса. Води над ним курсором (или пальцем): где взгляд, там оно цветёт.</div>
+<div id="cnt"></div>
+<div id="txt">Equétië nér: vá, vá, mernenyë rië almar.</div>
+<script>
+// Третий, 19.10.2026. На стихотворение, присланное автором.
+// Цветок держится, пока на него смотрят; без взгляда вянет и завязывает яблоко.
+// Яблоки считаются. Цветы — нет: они есть только сейчас.
+const cv = document.getElementById('c'), cx = cv.getContext('2d');
+let W, H;
+function resize(){ W = cv.width = innerWidth; H = cv.height = innerHeight; build(); }
+addEventListener('resize', resize);
+
+let seed = 19102026;
+function rnd(){ seed = (seed * 1103515245 + 12345) & 0x7fffffff; return seed / 0x7fffffff; }
+
+let branches = [], tips = [];
+function build(){
+  seed = 19102026; branches = []; tips = [];
+  const base = {x: W/2, y: H*0.92};
+  grow(base.x, base.y, -Math.PI/2, H*0.2, 9, 0);
+  buds = tips.map(t => ({x:t.x, y:t.y, bloom:0, look:0, fruit:null, hue: rnd()}));
+}
+function grow(x, y, a, len, w, depth){
+  const x2 = x + Math.cos(a)*len, y2 = y + Math.sin(a)*len;
+  branches.push({x, y, x2, y2, w});
+  if (depth > 7 || len < 8){ tips.push({x:x2, y:y2}); return; }
+  const n = depth < 2 ? 2 : (rnd() < 0.3 ? 3 : 2);
+  for (let i = 0; i < n; i++){
+    const da = (i - (n-1)/2) * (0.45 + rnd()*0.35) + (rnd()-0.5)*0.25;
+    grow(x2, y2, a + da, len*(0.68 + rnd()*0.12), w*0.68, depth+1);
+  }
+  if (depth > 3 && rnd() < 0.5) tips.push({x:x2, y:y2});
+}
+
+let buds = [], mouse = {x:-999, y:-999, on:false}, apples = 0, fallen = [];
+addEventListener('mousemove', e => { mouse.x = e.clientX; mouse.y = e.clientY; mouse.on = true; });
+addEventListener('mouseleave', () => mouse.on = false);
+addEventListener('touchmove', e => { const t = e.touches[0]; mouse.x = t.clientX; mouse.y = t.clientY; mouse.on = true; }, {passive:true});
+addEventListener('touchend', () => mouse.on = false);
+
+let last = performance.now();
+function step(now){
+  const dt = Math.min(0.05, (now - last)/1000); last = now;
+  const R = Math.min(W, H) * 0.13;
+  for (const b of buds){
+    if (b.fruit) {           // яблоко зреет и иногда падает
+      b.fruit.ripe = Math.min(1, b.fruit.ripe + dt*0.25);
+      if (b.fruit.ripe >= 1 && Math.random() < dt*0.03){ fallen.push({x:b.x, y:b.y, vy:0, hue:b.hue}); b.fruit = null; }
+      continue;
+    }
+    const d = Math.hypot(b.x - mouse.x, b.y - mouse.y);
+    const seen = mouse.on && d < R;
+    if (seen){ b.bloom = Math.min(1, b.bloom + dt*1.6); b.look = 0; }
+    else if (b.bloom > 0){
+      b.look += dt;
+      if (b.look > 2.5) b.bloom = Math.max(0, b.bloom - dt*0.5);
+      if (b.bloom === 0 && b.look > 2.5){ b.fruit = {ripe:0}; apples++; b.look = 0; }
+    }
+  }
+  for (const f of fallen){ f.vy += 600*dt; f.y += f.vy*dt; if (f.y > H*0.93){ f.y = H*0.93; f.vy = 0; } }
+}
+
+function draw(){
+  cx.fillStyle = '#0d1117'; cx.fillRect(0, 0, W, H);
+  // земля
+  cx.fillStyle = '#161b22'; cx.fillRect(0, H*0.93, W, H*0.07);
+  cx.strokeStyle = '#3b3027'; cx.lineCap = 'round';
+  for (const b of branches){ cx.lineWidth = b.w; cx.beginPath(); cx.moveTo(b.x, b.y); cx.lineTo(b.x2, b.y2); cx.stroke(); }
+  let flowers = 0;
+  for (const b of buds){
+    if (b.fruit){
+      const r = 3 + 4*b.fruit.ripe;
+      cx.fillStyle = b.hue < 0.5 ? `hsl(${8 + 10*b.hue},70%,${35+15*b.fruit.ripe}%)` : `hsl(${42 + 8*b.hue},75%,${35+18*b.fruit.ripe}%)`;
+      cx.beginPath(); cx.arc(b.x, b.y + r, r, 0, 7); cx.fill();
+    } else if (b.bloom > 0){
+      flowers++;
+      const r = 1.5 + 4*b.bloom;
+      cx.globalAlpha = 0.2 + 0.55*b.bloom;
+      cx.fillStyle = `hsl(${210 + 20*b.hue},40%,${85 + 10*b.bloom}%)`;
+      for (let k = 0; k < 5; k++){
+        const a = k*1.2566 + b.hue*6;
+        cx.beginPath(); cx.arc(b.x + Math.cos(a)*r*0.6, b.y + Math.sin(a)*r*0.6, r*0.45, 0, 7); cx.fill();
+      }
+      cx.globalAlpha = 1;
+    }
+  }
+  for (const f of fallen){
+    cx.fillStyle = f.hue < 0.5 ? 'hsl(10,65%,42%)' : 'hsl(45,70%,45%)';
+    cx.beginPath(); cx.arc(f.x, f.y - 6, 6, 0, 7); cx.fill();
+  }
+  document.getElementById('cnt').textContent = 'orvar (яблоки): ' + apples + '\nalmar: —';
+  document.getElementById('cnt').style.whiteSpace = 'pre';
+}
+function loop(now){ step(now); draw(); requestAnimationFrame(loop); }
+resize(); requestAnimationFrame(loop);
+// для проверки снимком: ?demo — положить взгляд в середину кроны
+if (location.search.includes('demo')){
+  mouse = {x: W/2 + 40, y: H*0.35, on: true};
+  for (const b of buds){
+    const d = Math.hypot(b.x - mouse.x, b.y - mouse.y);
+    if (d < Math.min(W,H)*0.13) b.bloom = 1;
+    else if (b.x < W/2 - 150 && b.y > H*0.35 && Math.random() < 0.15){ b.fruit = {ripe: 1}; apples++; }
+  }
+}
+</script>
+</body>
+</html>
