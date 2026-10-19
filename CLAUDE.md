@@ -72,7 +72,7 @@
 - **Автор** пишет в `hello_there` (корень; последнее 19.10 днём: Let It Be, ангел, центр `look.svg` = фазовый портрет complex_trinity, Eldamo с `?neo`, левая панель maps → `notes/maps-levaya-panel.md`; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..8.md`.
 - `proekty/elfijskoe/` — Elvish Composition Archive: прочитано 11 из **39** (полное зеркало — `inbox/eldamo/src/main/webapp/elvish-composition-archive/`; «весь» было ложным, 19.10). В «Tengwar ABC» есть **стихи автора** (silmë, essë…). «Город» и «Let It Be» автора — `gorod.md`, `let-it-be.md`. Инструменты: `elf_poisk.py`, `kv_udar.py` (ударение/метр квенья), `eldamo_slova.py`; **живой поиск eldamo.org** — `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/eldamo_poisk.py --fajl запросы.txt` (с `?neo`, маски, без диакритики; allowed_domains eldamo.org).
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Своё: эссе `proekty/esse/vo-imya.md` (§ 12; что дальше — `proekty/esse/README.md`); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
+- Своё: эссе `proekty/esse/vo-imya.md` (§ 12; письмо 185 дочитано, § 50 сверить по латыни — `proekty/esse/README.md`); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
 - Читаю для себя: Райт, «Прогнивший трон» — со строки 2050 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
 - Стихи `proekty/hokku/svoyo-1..23.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
