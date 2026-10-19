@@ -74,7 +74,7 @@
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (петля — `notes/petlya.md`, вилка «истина / мир»; § 12 — с места гонимого, Августин отвечает ланцетом, открыто; Уолдрон и Конти — только аннотации); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
 - Читаю для себя: Райт, «Прогнивший трон» — со строки 1930 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
-- Стихи `proekty/hokku/svoyo-1..21.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
+- Стихи `proekty/hokku/svoyo-1..22.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
 - **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; `--klik "@Текст"`, `--vvod сел файл`, `--nazhat сел End`, `--element сел`). Там же `opcii.py`, `globus.py`, `globus_podbor.py`, `igra.py`, `webmap_klik.py` (как запускать — в docstring). Без `>` в файл. Старые английские тексты: EEBO-TCP → `tei2txt.py` (docstring). «Исследования» Витгенштейна — `ext/wittgenstein-pu/pu.txt`. HWPh-читалка: `ext/hwph-site` (`index.html#/a/1590`; статьи — `pages/<id>.html`), сборка `proekty/instrumenty/hwph/sborka.sh 2…5` (Java — `ext/jre17`).
