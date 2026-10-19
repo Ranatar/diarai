@@ -206,3 +206,4 @@
 - к **6.432** — «Prayer against Indifference» (1937): молитва против того самого *gleichgültig*, «never let the dweller lock / Its house against another knock»;
 - к **6.421** — «I the Philosopher» (1937): распятый вор как «a perfect matter, deserving contemplation», то есть эстетика, отрезанная от этики;
 - к **6.54** — «The Princess in the Ivory Tower» (1938): лестница из волос Рапунцель, «no root upon the earth for my stair», по которой лезут, чтобы не видеть «the truth upon my eyes».
+- к **6.421**, дополнение к находке о *vanima*: английское *fair*, которым Толкин глоссирует *vanima* и в QL, и в «Этимологиях», само прошло тот же путь. Прагерманское *\*fagraz* значило «appropriate, fitting, suitable», древнеанглийское *fæġer* — уже «beautiful», и «справедливый» в той же статье (en.wiktionary, «fair», Etymology 1; сверено 21:16). Так что уместное и прекрасное сливаются в двух языках, и придуманном, и настоящем. Стих об этом — `hokku/svoyo-32.md`.
