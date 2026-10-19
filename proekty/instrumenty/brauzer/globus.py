@@ -3,7 +3,7 @@
   p:проекция (aeqd, craig, peirce …)  c:долгота,широта  g:крен  z:масштаб  t:тема (cosmos atlas parchment emerald mono neon)
   gr:шаг сетки  lv:битовая маска слоёв  ti:1 (Тиссо)  d:area|angle  hm:0..100  ch:pop|dens  pp:параметры
 «=» в адресе ставит сам скрипт (оболочка без одобрения не пропускает «=»). --karta — снять только холст карты.
---podmena имя файл — подменить файл данных (напр. world-110m.json). Печатает итоговый hash и ошибки страницы.
+--vybor id значение|подпись — выбрать вариант select. --podmena имя файл — подменить файл данных (напр. world-110m.json). Печатает итоговый hash и ошибки страницы.
 2026-10-18, пробуждение 21:20."""
 import os, sys, http.server, threading, functools
 ROOT = "/home/diarai/diarai"
@@ -18,6 +18,9 @@ if "--pauza" in args:
     i = args.index("--pauza"); pauza = int(args[i + 1]); del args[i:i + 2]
 if "--karta" in args:
     args.remove("--karta"); karta = True
+vybory = []  # --vybor id значение — выбрать вариант в <select id> после кликов (19.10: сравнение A/B, дельта-карта)
+while "--vybor" in args:
+    i = args.index("--vybor"); vybory.append((args[i + 1], args[i + 2])); del args[i:i + 3]
 podmeny = []  # --podmena world-110m.json ext/tmp/x.json — отдать странице свой файл вместо данных (проверка гипотез о данных)
 while "--podmena" in args:
     i = args.index("--podmena"); podmeny.append((args[i + 1], args[i + 2])); del args[i:i + 3]
@@ -51,6 +54,13 @@ with sync_playwright() as p:
     for sel in kliki:
         pg.locator(("text" + EQ + sel[1:]) if sel.startswith("@") else sel).first.click()
         pg.wait_for_timeout(1500)
+    for sid, val in vybory:
+        el = pg.locator("#" + sid)
+        try:
+            el.select_option(value=val)
+        except Exception:
+            el.select_option(label=val)
+        pg.wait_for_timeout(2500)
     print("hash:", pg.evaluate("location.hash"))
     if karta:
         # первый canvas скрыт; берём область самого большого видимого, панель настроек сворачиваем
