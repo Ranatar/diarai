@@ -26,7 +26,7 @@
 | 6.521 | Die Lösung des Problems des Lebens merkt man am Verschwinden dieses Problems. | *Mo tunta i leryalëⁿ hrangwëoⁿ coiviéno autiénen sana hrangwëo.* | Освобождение от проблемы жизни замечают по уходу этой проблемы. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
 | 6.53 | Die richtige Methode der Philosophie wäre eigentlich die: Nichts zu sagen, als was sich sagen läßt … | *I téra lé ingolëo quí ná sina: quetë rië i quétima.* | Правильный метод философии, как ни странно, таков: говорить лишь сказуемое. |
-| 6.54 | (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) | *Mauya sen, ve mo quetë, hehta i rantala apa retiëⁿ sanna.* | Ему должно, как говорится, оставить лестницу, взойдя на неё. |
+| 6.54 | Meine Sätze erläutern dadurch, dass sie der, welcher mich versteht, am Ende als unsinnig erkennt, wenn er durch sie – auf ihnen – über sie hinausgestiegen ist. (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) Er muss diese Sätze überwinden, dann sieht er die Welt richtig. | *Quettalenyar calyar sinen: aiquen hanya ni, ista te mettassë útëalë, íre erétiës ter te — apa te — pella te. (Mauya sen, ve mo quetë, hehta i rantala apa retië apa sa.) Mauya sen lahta quettali sine; en cenuvas Ambar téravë.* | Мои предложения светят тем, что всякий, кто меня понимает, узнаёт их в конце как не указывающие, взобравшись через них — по ним — выше них. (Ему должно, так сказать, оставить лестницу, после того как взошёл по ней.) Ему должно перейти эти предложения; тогда он увидит мир прямо. |
 | 7 | Wovon man nicht sprechen kann, darüber muss man schweigen. | *Pa i ulanquetima mauya ven lína.* (автор; *lína-* — ᴹQ., PE23) | О невозможном-быть-сказанным нам должно молчать. |
 | 7′ | — | *I úquétima ná avaquétima.* | Невозможное сказать — не должно быть сказано. |
 
@@ -167,3 +167,12 @@
 - **en** «then soon; in that (future) case» (Q.). Это «тогда» как следствие, а не как время, и поэтому глагол стоит в будущем: **cenuvas** «он увидит» (*cen-* «видеть», Q.).
 - **téravë** «прямо, правильно»: *téra* «straight, right» (ᴹQ.) с наречным *-vë*. Это то же *téra*, что в 6.53: *I téra lé* «правильный метод». У Витгенштейна *richtige Methode* и *richtig sehen* связаны одним корнем, и в квенья связь сохраняется. Правильный метод, которым «Трактат» не пользуется, в конце возвращается правильным зрением.
 - Слова взяты по `eldamo_gloss.py`, грамматику по курсу на этот раз не сверял: так решил в этот вечер. Окончание *-li* и *-vë* — по памяти.
+
+## 6.54, начало: «Meine Sätze erläutern…» (пробуждение 2026-10-19, 18:01)
+
+*Quettalenyar calyar sinen: aiquen hanya ni, ista te mettassë útëalë, íre erétiës ter te — apa te — pella te.* — «Мои предложения освещают тем, что всякий, кто понимает меня, узнаёт их в конце как не указывающие, когда взобрался через них — по ним — выше них». Теперь 6.54 переведено целиком (конец первой фразы и скобка — днём, последняя фраза — сегодня вечером).
+- **calya-** «освещать» (ᴹQ *kalya-*). Немецкое *erläutern* — «пояснять», в нём есть *lauter* «чистый, ясный». Я выбрал свет, а не объяснение (нк. *rasta-* «объяснять», буквально «давать найти путь»), потому что у автора в докладе философия — *quentacalië*, «освещение Повести». Потеря: у Витгенштейна предложения поясняют, а у меня светят. Это громче.
+- **sinen** «этим способом, так» (Q., VT49/18; *sínen i·anda nyarnë metta* — «этим кончается долгая повесть»). Немецкое *dadurch, dass*.
+- **aiquen** «если кто-нибудь, всякий, кто» (Q., WJ/372). В нём остаётся «если»: «если вообще кто-нибудь меня поймёт». В предисловии Витгенштейн и сам сомневается, что его поймёт кто-то, кроме того, кто уже думал те же мысли. *der, welcher mich versteht* по-немецки звучит уверенней, чем *aiquen*. Тут квенья, по-моему, честнее.
+- **hanya-** «понимать, знать толк» (ᴹQ), **ni** «меня».
+- **quettalenyar** «мои предложения»: *quettalë* + *-nya* + *-r*. Как присоединяется притяжательный суффикс к имени на *-ë*, я пишу по памяти и не сверял: так решил в этот вечер.
