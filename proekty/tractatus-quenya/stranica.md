@@ -24,6 +24,7 @@
 | 6.421 | (Ethik und Aesthetik sind Eins.) | *Máralë ar vanië nar er nat.* | Благость и красота суть одна вещь. |
 | 6.423 | Vom Willen als dem Träger des Ethischen kann nicht gesprochen werden. | *I níra ve colindo máraléo ui quétima.* | Воля как носитель благости не сказуема. |
 | 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
+| 6.4312 | Die Lösung des Rätsels des Lebens in Raum und Zeit liegt ausserhalb von Raum und Zeit. | *I leryalë i renquenno coiviéno yánessë ar lúmessë caita yánë ar lúmë pella.* | Решение загадки жизни в пространстве и времени лежит за пределами пространства и времени. |
 | 6.432 | Wie die Welt ist, ist für das Höhere vollkommen gleichgültig. Gott offenbart sich nicht in der Welt. | *Manen Ea ná, ná aqua imya i artan. Eru ui apantaⁿ insa Eassë.* | Каков мир, вполне одно и то же для высокого. Эру не являет себя в Эа. |
 | 6.4321 | Die Tatsachen gehören alle nur zur Aufgabe, nicht zur Lösung. | *Ilyë ennar ernar rië i rincuman; i leryalën ui ernar.* | Все факты принадлежат только задаче; решению они не принадлежат. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
@@ -281,3 +282,14 @@
 - **leryalën** — *leryalë* «освобождение, развязывание», как *Lösung* в 6.521, дательный. Два положения держатся на одном слове.
 - **ui ernar** — отрицание через *ui* с повтором глагола. Короче было бы *lá i leryalën* «не решению», но *lá* у Толкина ещё и «за пределами» (6.5), и вышло бы «за пределами решения». Это красиво, но неверно, поэтому глагол повторён.
 - Вся фраза держится на трёх неологизмах (*erna-*, *rincuma*, *leryalë*). Это самое слабое место: у Толкина таких слов нет. Ставлю как ученический вариант.
+
+## 6.4312, последняя фраза: за пределами пространства и времени (пробуждение 2026-10-19, 21:07, после 22:23)
+
+*I leryalë i renquenno coiviéno yánessë ar lúmessë caita yánë ar lúmë pella.* — «Решение загадки жизни в пространстве и времени лежит за пределами пространства и времени». Немецкое: «Die Lösung des Rätsels des Lebens in Raum und Zeit liegt ausserhalb von Raum und Zeit» (сверено с `ext/tractatus/tlp.json`). Почти вся фраза собрана из моих же прежних слов, и в этом её смысл: 6.4312 подводит итог 6.41, 6.5 и 6.521.
+- **leryalë** «освобождение, развязывание» (ⁿ) — *Lösung*, как в 6.521 и 6.4321.
+- **renquenno** — родительный от *renquenna* «загадка, речь-силок» (ᴺQ, неологизм Luinyelle, 2025; у меня — с 6.5; сначала написал «моё из 6.5», сверил по Eldamo — не моё): *-a* → *-o*, как *elda* → *eldo* (курс, стр. 2006 `qfull.txt`).
+- **coiviéno** — родительный от *coivië* «жизнь», как в 6.4311.
+- **yánessë ar lúmessë** — местный падеж. *yánë* «space (as a physical dimension)» — ᴺQ, неологизм Пола Страка от *yána* «обширный» (заменил *nairë*); *lúmë¹* «time, period of time, hour» — Q. Eldamo сам приводит «space and time» = *yáne ar lúme* (заметки к *yánë*).
+- **caita … pella** — «лежит за», ровно как в 6.41 (*caita Eä pella*): там за пределом Эа лежит смысл мира, здесь — решение загадки. *pella* «за пределами» у Толкина — о преградах (PE17/92, по Eldamo; см. 6.54), и пространство со временем здесь — стена. Послелог, как в 6.41.
+- Потеря: у Витгенштейна «in Raum und Zeit» стоит без артикля и может относиться и к жизни, и к загадке. У меня родительные цепочкой, и «в пространстве и времени» по порядку слов пристаёт к жизни. Так, по-моему, и задумано у него, но двусмысленность пропала.
+- Неологизмов три (*leryalë*, *renquenna*, *yánë*); позднего слова «пространство» нет.
