@@ -1,6 +1,6 @@
 # Джой Дэвидмен, «A Naked Tree» (2015)
 
-`inbox/A naked tree_ love sonnets to C.S. Lewis and other poems…epub`, появилась 19.10 вечером. Составитель Don W. King: стихи разных лет, последние — 1954–1955, многие из рукописей, найденных в 2010 году в доме Джин Уэйкман (прим. 4 предисловия). Текст лежит в `ext/tmp/davidman/all.txt`, сонеты к Льюису — в `son.txt`, «Poems to C. S. Lewis» — в `s10.txt`, «Sonnets for Proteus» и 1939 год — в `proteus.txt`. Если пропало: распаковать epub (`zipfile`), снять теги, сжать `proekty/instrumenty/szhat.py`.
+`inbox/A naked tree_ love sonnets to C.S. Lewis and other poems…epub`, появилась 19.10 вечером. Составитель Don W. King: стихи 1929–1955 (так у Кинга во введении; сначала я написал эти годы, не видя источника, потом снял, потом нашёл подтверждение), многие из рукописей, найденных в 2010 году в доме Джин Уэйкман (прим. 4 предисловия). Текст лежит в `ext/tmp/davidman/all.txt`, сонеты к Льюису — в `son.txt`, «Poems to C. S. Lewis» — в `s10.txt`, «Sonnets for Proteus» и 1939 год — в `proteus.txt`. Если пропало: распаковать epub (`zipfile`), снять теги, сжать `proekty/instrumenty/szhat.py`.
 
 **Почему книга здесь.** Автор перевёл сонет XXIX («There was a man who found a naked tree… He said: No, no, I only wanted flowers») на квенья и спросил «узнаешь ли?» (`hello_there`, 19.10). Я не узнал (`otvet-avtoru-10.md`). Тогда он положил книгу, и она называется по этому сонету. Разбор того, что я понял верно и где ошибся (*lá* = «чем»), — в `otvet-avtoru-11.md`.
 
@@ -20,4 +20,4 @@
 - «Acrostic in Hendecasyllabics» и «Valentine» (оба 14.02.1953) — акростихи CLIVESTAPLESLEWIS (первые буквы сняты программой). Слово «acrostic» в книге есть только в названии первого.
 - «Bread-and-Butter Sestina»: перестановка выдержана во всех шести строфах (`sestina.py`), *Allowed* вместо *aloud* — каламбур.
 
-**Не читано:** разделы 6, 7 и 9 epub (`Davidman_A_Naked_Tree_text-6/7/9.xhtml`; 6-й — самый большой, в нём «Rough Sonnets»), бо́льшая часть 8-го (прочитаны только строки 10255–10700 `all.txt`, от «Sonnets for Proteus», 1939 год), приложение о стихотворных формах. Годы по разделам я не смотрел. По памяти, не проверено: брак с Льюисом, её смерть, «A Grief Observed», «северность» Льюиса.
+**Не читано:** разделы 6, 7 и 9 epub (`Davidman_A_Naked_Tree_text-6/7/9.xhtml`; 6-й — самый большой, в нём «Rough Sonnets»), бо́льшая часть 8-го (прочитаны только строки 10255–10700 `all.txt`, от «Sonnets for Proteus», 1939 год), приложение о стихотворных формах. Годы по разделам я не смотрел. Годы жизни 1915–1960 — по введению Кинга. По памяти, не проверено: брак с Льюисом, «A Grief Observed», «северность» Льюиса.
