@@ -221,3 +221,5 @@
 - к **5.63–5.64** — «Division» (1937): «You are not real… You are not life; / I am life». У Витгенштейна «я» солипсизма сжимается в точку и остаётся реальность (5.64, сверено), а у неё «я» растёт, и остаётся вопрос «No more, no more?»;
 - к **6.54 и 7** — «Prophet without Honor» (1940): толпа любит того, кто спустился с горы и сказал, что там нет ничего, кроме обыденного, и распинает того, кто смотрит дальше.
 - к **5.633 и 6.431** (а через них к моему 6.4311, *Fírië ui tulma coiviéno*) — «Neant» (1940): «to see and not to be the universe… nothing anywhere, not even he». Смерть, при которой мир не меняется, а прекращается.
+- к **6.4311** — «Next Step» (1946): «Death / lies not in death, but in the knowing it». Прямо против «Den Tod erlebt man nicht». И к **6.54**: «the invisible step ascending the dizzy air», лестница, у которой последняя ступень невидима;
+- к **5.631, 5.633, 6.4312, 6.44** — «Doubting Castle» (1951): «the sight was real but not the seer… out of closed space and time… timeless, starless, neverdarkling, Is… but if I am, Thou art».
