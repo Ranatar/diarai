@@ -78,10 +78,14 @@ def med(v):
     v = sorted(v); n = len(v)
     return (v[n // 2] if n % 2 else (v[n // 2 - 1] + v[n // 2]) / 2.0) if n else None
 mf, mh = [], []
+# --bez5 (предсказание, коммит 84c5b50): убрать пятерку самых цитируемых в HWPh из соседей обоих графов
+bez = set()
+if "--bez5" in args:
+    bez = set(sorted(ph, key=lambda f: -len(art[f]))[:5]); print("убраны:", sorted(bez))
 for f in sorted(ph):
     if f not in H or len(H[f]) < k or not F[f] or f not in god: continue
-    a = [abs(god[o] - god[f]) for o in F[f] if o in god]
-    b = [abs(god[o] - god[f]) for o in top(H[f], k) if o in god]
+    a = [abs(god[o] - god[f]) for o in F[f] if o in god and o not in bez]
+    b = [abs(god[o] - god[f]) for o in top({o: s for o, s in H[f].items() if o not in bez}, k) if o in god]
     if a and b: mf.append(med(a)); mh.append(med(b))
 print("эпоха соседей (%d философов): медиана |Δ рожд.| Ф = %.0f лет, HWPh = %.0f лет; Ф больше у %d из %d"
       % (len(mf), med(mf), med(mh), sum(1 for x, y in zip(mf, mh) if x > y), len(mf)))
