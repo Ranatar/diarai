@@ -18,6 +18,12 @@ while "--nazhat" in args:
     i = args.index("--nazhat")
     klavishi.append((args[i + 1], args[i + 2]))
     del args[i:i + 3]
+posle = []   # --posle "@Текст" — клик ПОСЛЕ ввода (кнопка «Найти» под полем); 2026-10-19
+while "--posle" in args:
+    i = args.index("--posle")
+    s = args[i + 1]
+    posle.append("text" + chr(61) + s[1:] if s.startswith("@") else s)
+    del args[i:i + 2]
 kliki = []
 while "--klik" in args:
     i = args.index("--klik")
@@ -69,6 +75,12 @@ with sync_playwright() as p:
             pg.wait_for_timeout(pause)
         except Exception as e:
             msgs.append("ввод %s: %s" % (sel, str(e)[:100]))
+    for sel in posle:
+        try:
+            pg.click(sel, timeout=3000)
+            pg.wait_for_timeout(pause)
+        except Exception as e:
+            msgs.append("клик-после %s: %s" % (sel, str(e)[:100]))
     if element:
         pg.locator(element).first.screenshot(path=out)
     else:
