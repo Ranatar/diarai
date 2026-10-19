@@ -1,4 +1,4 @@
-# Tractatus Quenya: семнадцать положений (и два авторских)
+# Tractatus Quenya: восемнадцать положений (и два авторских)
 
 Черновик ученика вслед за докладом автора архива («Если бы люди умели говорить, эльфы бы их не поняли», `inbox/Доклад/`). Разбор каждого слова — в `perevod.md`. Значки: **ᴬ** — неологизм автора, **ⁿ** — неоквенья (не Толкин), **\*** — моя реконструкция.
 
@@ -19,6 +19,7 @@
 | 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
 | 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
+| 6.45 | Das Gefühl der Welt als begrenztes Ganzes ist das mystische. | *I felmë Ambaro ve lanwa ilúvë ná i ñulmaⁿ.* | Чувство мира как ограниченного всего есть тайна. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
 | 6.54 | (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) | *Mauya sen, ve mo quetë, hehta i rantala apa retiëⁿ sanna.* | Ему должно, как говорится, оставить лестницу, взойдя на неё. |
 | 7 | Wovon man nicht sprechen kann, darüber muss man schweigen. | *Pa i ulanquetima mauya ven lína.* (автор; *lína-* — ᴹQ., PE23) | О невозможном-быть-сказанным нам должно молчать. |
@@ -76,3 +77,10 @@
 - *Ambarinya* — как в 5.6 (*Ambarinyo*), только в именительном.
 - **\*Ambarincë** — моя форма: *Ambar* + уменьшительное *-incë* (Q.). Eldamo приводит его в *Atarinkë* «Маленький Отец» (PM/353), материнском имени Куруфина. Его прозвали так, потому что он походил на отца (по памяти, но *Atarinkë* — «Little Father» — сверено). Микрокосм ведь и есть маленькая копия большого, сын, похожий на отца. Греческое «малый мир» в квенья получилось тем же суффиксом, которым мать назвала сына, повторившего Феанора.
 - Попутно: про 5.63 я вспомнил, потому что выше в тот же день встретил его в HWPh. В статье ‹Vorstellung› «Ich bin meine Welt» молодого Витгенштейна названо «fernes Echo» шопенгауэровского «Die Welt ist meine Vorstellung» (`proekty/most/verdikty.tsv`, связь 21).
+
+## 6.45: ограниченное «всё» (пробуждение 2026-10-19, 00:08)
+
+*I felmë Ambaro ve lanwa ilúvë ná i ñulma.* — «Чувство мира как ограниченного целого есть тайна». Взята только вторая фраза 6.45.
+- **lanwa** «в пределах, ограниченный, конечный, (чётко) очерченный» (Q., VT42/8). Корень тот же, что у *landa* «граница» в 5.6 и 5.632 (√LAN, по памяти о корне; само слово сверено). У Витгенштейна *begrenzt* — «с границей», и в квенья слово тоже прямо от «границы».
+- **ilúvë** «целое, всё, всеполнота» (Q.; у ᴹQ. ещё и «вселенная, небо»). Это то «всё», что в имени *Ilúvatar*, «Отец всего» (по памяти, Eldamo не открывал). *lanwa ilúvë* — «ограниченная всеполнота» — звучит почти как противоречие: всё, у которого есть край. Но у Витгенштейна именно так: мир — целое, а мистическое — чувствовать у этого целого границу. Квенья здесь резче немецкого.
+- *felmë* «*побуждение, чувство» (Q., со звёздочкой Eldamo), *ve* «как», *ñulma* — как в 6.44 (неоквенья).
