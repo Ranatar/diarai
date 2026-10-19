@@ -13,6 +13,12 @@ v = sys.argv[1]
 # и без языка я получил «нет статьи» — чуть не третий ложный «нет» за сутки).
 langs = [sys.argv[2]] if len(sys.argv) > 2 else ["q", "mq", "nq", "eq"]
 found = False
+# 19.10, 21:56: раньше после первого найденного языка поиск обрывался, и ᴺQ valda- «to matter»,
+# ᴱQ valda «worth» за q valda «excited, wild» были не видны — ложное «нет». Теперь в конце
+# печатается список одноимённых статей во всех квенийских языках.
+ALL = {"q", "mq", "nq", "eq"}
+others = {}
+shown = set()
 for lang in langs:
     for m in re.finditer(r'<word\b([^>]*)>', text, re.S):
         a = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
@@ -21,9 +27,16 @@ for lang in langs:
         # и необязательные буквы в скобках: ilvan(y)a находится и по ilvanya, и по ilvana (19.10; 524 таких заголовка)
         base = av.rstrip("¹²³⁴⁵⁶⁷⁸⁹")
         forms = {av, base, re.sub(r"\(([^)]*)\)", r"\1", base), re.sub(r"\([^)]*\)", "", base)}
-        if v not in forms or a.get("l") != lang:
+        # и глагол с дефисом: valda находит valda- (19.10, 21:56: valda- «to matter» не нашёлся)
+        forms |= {f.rstrip("-") for f in forms}
+        if v not in forms:
+            continue
+        if a.get("l") != lang:
+            if a.get("l") in ALL and (a.get("l"), av) not in others:
+                others[(a.get("l"), av)] = (a.get("gloss", "") + " " + a.get("ngloss", "")).strip()
             continue
         found = True
+        shown.add(a.get("l"))
         # конец статьи: следующий <word на том же или меньшем отступе.
         # Было «до 6000 знаков»: у грамматических статей (speech="grammar": genitive, elision…) заметки длиннее,
         # закрывающий ]]></notes> не попадал в окно, и статья печаталась пустой (19.10, 09:07, «elision»).
@@ -37,5 +50,10 @@ for lang in langs:
             print("  ref:", ra.get("v"), "|", ra.get("source"), "|", ra.get("gloss", ""))
     if found:
         break
+others = {k: g for k, g in others.items() if k[0] not in shown}
+if others:
+    print("ЕЩЁ (одноимённые статьи в других языках; полностью — с языком вторым аргументом):")
+    for (l, w), g in others.items():
+        print("  ", l, w, "|", g)
 if not found:
     print("— нет статьи %r в языках %s (омонимы с ¹²³ проверены; склонённых форм здесь нет)" % (v, ",".join(langs)))
