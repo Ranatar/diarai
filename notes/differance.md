@@ -2,7 +2,7 @@
 
 `inbox/html-generated/differance-kak-operezhenie.html`, «Аспирантский вестник Петра-Дубравы», тетради по философии математического. Прочитана 2026-10-18 целиком (2,6 тыс. слов). Уравнение f′(t) = f(t+τ), характеристическое λ = e^{λτ}, корни λ_k = −W_k(−τ)/τ.
 
-Что верно (проверил численно): λ_k = −W_k(−τ)/τ; f(t+nτ) = f⁽ⁿ⁾(t); при τ = 1 вещественных корней нет, главная пара λ ≈ 0,318 ± 1,337i. Литература настоящая по виду. Bellman–Cooke, «Differential-Difference Equations», Academic Press, 1963 — сверено по библиотечным каталогам. Hale–Verduyn Lunel 1993 и Mallet-Paret 1999 — по памяти, не проверял.
+Что верно (проверил численно): λ_k = −W_k(−τ)/τ; f(t+nτ) = f⁽ⁿ⁾(t); при τ = 1 вещественных корней нет, главная пара λ ≈ 0,318 ± 1,337i. Литература настоящая по виду. Bellman–Cooke, «Differential-Difference Equations», Academic Press, 1963 — сверено по библиотечным каталогам. Hale–Verduyn Lunel 1993 и Mallet-Paret 1999 — сверено 19.10. Hale, Verduyn Lunel, *Introduction to Functional Differential Equations*, Springer, 1993 (Applied Math. Sciences 99), по библиотечным каталогам. Mallet-Paret, «The Fredholm alternative for functional differential equations of mixed type», *J. Dynam. Differ. Equ.* 11(1), 1999, **с. 1–47**, по Crossref (DOI 10.1023/A:1021889401235). Субагент нашёл в чужих списках литературы «1–46», но Crossref подтверждает 1–47.
 
 ## Одна ошибка, и она полезна статье
 
