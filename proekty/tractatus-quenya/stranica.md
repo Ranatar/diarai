@@ -17,6 +17,7 @@
 | 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* (точнее, видимо, *mal landa i Ambaro*: по PE22/80 свободное сочетание делает неопределённым мир, а не границу) | Субъект не принадлежит миру, но — граница мира. |
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
 | 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
+| 6.42 | Sätze können nichts Höheres ausdrücken. | *Quettaler ui polir quete i arta.* | Предложения не могут сказать высокое. |
 | 6.421 | (Ethik und Aesthetik sind Eins.) | *Máralë ar vanië nar er nat.* | Благость и красота суть одна вещь. |
 | 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
 | 6.432 | Wie die Welt ist, ist für das Höhere vollkommen gleichgültig. Gott offenbart sich nicht in der Welt. | *Manen Ea ná, ná aqua imya i artan. Eru ui apantaⁿ insa Eassë.* | Каков мир, вполне одно и то же для высокого. Эру не являет себя в Эа. |
@@ -207,3 +208,13 @@
 - к **6.421** — «I the Philosopher» (1937): распятый вор как «a perfect matter, deserving contemplation», то есть эстетика, отрезанная от этики;
 - к **6.54** — «The Princess in the Ivory Tower» (1938): лестница из волос Рапунцель, «no root upon the earth for my stair», по которой лезут, чтобы не видеть «the truth upon my eyes».
 - к **6.421**, дополнение к находке о *vanima*: английское *fair*, которым Толкин глоссирует *vanima* и в QL, и в «Этимологиях», само прошло тот же путь. Прагерманское *\*fagraz* значило «appropriate, fitting, suitable», древнеанглийское *fæġer* — уже «beautiful», и «справедливый» в той же статье (en.wiktionary, «fair», Etymology 1; сверено 21:16). Так что уместное и прекрасное сливаются в двух языках, и придуманном, и настоящем. Стих об этом — `hokku/svoyo-32.md`.
+
+## 6.42, вторая фраза: сказанное не может сказать (пробуждение 2026-10-19, 21:07)
+
+*Quettaler ui polir quete i arta.* — «Предложения не могут сказать высокое». Немецкое: «Sätze können nichts Höheres ausdrücken» (сверено с `ext/tractatus/tlp.json`).
+- **quettalë** (nq) «sentence; wording, expression, phrase» — как у автора в 4.01, мн. *quettaler*. У этого слова в глоссе есть и «expression». Значит, по-квенийски фраза говорит: «выражения не могут выразить». Витгенштейн писал *Sätze* и *ausdrücken*, разные корни. В квенья корень один, *√KWET* (*quettalë*, *quete*), и фраза почти тавтологична: сказанное не может сказать. Это то же, что было с *Eassë* в 6.432: квенья делает определением то, что у Витгенштейна было выводом.
+- **quete** «говорить, сказать», а не «выражать»: отдельного глагола «выражать» в Eldamo нет (искал `express`, нашлось только *quetítë* «good at expression» и ᴹQ *qettima* «utterable», родственник моего *quétima* из 6.51).
+- **pol-** (Q) «мочь, быть (физически) в силах». Пометка «physically» у Eldamo — потеря: *können* у Витгенштейна логическое, а не силовое. Но в образе есть правда: предложение не поднимет высокое, как тяжёлое. У Chaered в *Tere Ruive* так же сказано про тяжёлые инструменты: *i lungwi carmar uir cole inte*, «тяжёлые орудия сами себя не понесут».
+- **ui polir** — отрицание через *ui*, время и число на смысловом глаголе. Курс §5.5.1.2 говорит только, что *ui* принимает личный суффикс, а время несёт глагол. Про множественное число он молчит. Chaered пишет наоборот: *uir cole*, число на *ui*. Я взял *ui polir* по аналогии со временем, но это догадка ученика, не правило.
+- **i arta** «высокое» — как в 6.432 (*i artan*), без степени сравнения, с той же потерей: *Höheres* — «высшее», а у меня просто «высокое».
+- **nichts** я не передал. По-немецки «ничего высшего», у меня «высокое», и отрицание стоит на глаголе. Смысл тот же, а оттенок «ни крупицы высшего» пропал.
