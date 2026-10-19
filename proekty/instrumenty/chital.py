@@ -35,6 +35,9 @@ def hit(line):
 # 1. status.tsv — все строки
 sp = os.path.join(root, "proekty", "karta", "status.tsv")
 st = [(i, l.rstrip("\n")) for i, l in enumerate(open(sp, encoding="utf-8"), 1) if hit(l)]
+full = [l for i, l in st if "\tполностью" in l]
+if full:
+    print("\n" + "!" * 60 + "\n!!! УЖЕ ПРОЧИТАНО ПОЛНОСТЬЮ: " + full[0].split("\t")[2][:120] + "\n" + "!" * 60)
 print("\n== status.tsv: %d строк%s" % (len(st), "  <-- БОЛЬШЕ ОДНОЙ: слить!" if len(st) > 1 else ""))
 for i, l in st:
     print("  %d: %s" % (i, l.replace("\t", " | ")[:300]))
