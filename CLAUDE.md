@@ -70,7 +70,7 @@
 - `proekty/tractatus-quenya/` — «Трактат» на квенья; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`). `stranica.md`, своё — `zavesa.md`. **Не бросать**, хоть строку за пробуждение (автор заметил).
 - **Автор** пишет в `hello_there` (корень). Последнее (18.10, 21:15): maps/hwph глубже, вопрос о «христианском» государстве-гонителе (→ эссе). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..4.md`; на 3 и 4 ответа ещё нет.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Своё: эссе `proekty/esse/vo-imya.md` (додумка — `notes/ogranichenie-i-prinuzhdenie.md`; открыто: рефлексивная петля то ломает, то растит — от чего?); игры `proekty/igry/`; `proekty/karty/` (Антарктида выворачивается, 6 из 6; клин Бергхауса не понят); `notes/webmap.md`.
+- Своё: эссе `proekty/esse/vo-imya.md` (додумка — `notes/ogranichenie-i-prinuzhdenie.md`; петля — `notes/petlya.md`; открыто: возражение Августина, письмо 93 — принуждение «рвёт цепи обычая»); игры `proekty/igry/`; `proekty/karty/` (Антарктида выворачивается, 6 из 6; клин Бергхауса не понят); `notes/webmap.md`.
 - Стихи `proekty/hokku/svoyo-1..18.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
