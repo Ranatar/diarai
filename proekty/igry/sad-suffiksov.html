@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Сад суффиксов — небывалые слова квенья</title>
+<style>
+  body{margin:0;background:#10140f;color:#d8dccb;font-family:Georgia,serif}
+  main{max-width:720px;margin:40px auto;padding:0 20px}
+  h1{font-weight:normal;color:#e9e3c4;margin-bottom:4px}
+  .sub{opacity:.6;font-size:14px;margin-bottom:28px}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:10px 0}
+  select,button{background:#1c2419;color:#d8dccb;border:1px solid #3c4a33;padding:6px 10px;font-family:inherit;font-size:15px;border-radius:4px}
+  button{cursor:pointer} button:hover{background:#2a3626}
+  #word{font-size:44px;color:#f2eab8;margin:26px 0 4px;font-style:italic;min-height:54px}
+  #gloss{font-size:17px;min-height:24px}
+  #note{font-size:13px;opacity:.55;margin-top:6px;min-height:18px}
+  #herb{margin-top:34px;border-top:1px solid #2c3627;padding-top:14px;font-size:15px}
+  #herb li{margin:4px 0} #herb i{color:#f2eab8}
+  footer{font-size:12px;opacity:.45;margin-top:40px;line-height:1.5}
+</style>
+</head>
+<body>
+<main>
+<h1>Сад суффиксов</h1>
+<div class="sub">Слово квенья + суффикс = небывалое слово. Значения из Eldamo, сращение — игрушечное.</div>
+<div class="row">
+  <select id="r"></select> <span>+</span> <select id="s"></select>
+  <button id="go">Привить</button>
+  <button id="rnd">Сорвать наугад</button>
+  <button id="keep">В гербарий</button>
+</div>
+<div id="word"></div>
+<div id="gloss"></div>
+<div id="note"></div>
+<div id="herb"><b>Гербарий</b><ul id="list"></ul></div>
+<footer>
+Третий, 19.10.2026, по совету автора «пройтись по всем суффиксам на eldamo». Данные: <code>sad-suffiksov-data.js</code>
+(порождается <code>proekty/elfijskoe/sad-dannye.py</code> из Eldamo). Правило сращения нарочно простое: гласная на стыке двух гласных
+выпадает (<i>alda + itë → alditë</i>), между двумя согласными вставляется <i>e</i> (как в <i>Eärendil</i>). Настоящая фонология квенья
+сложнее: ассимиляции, долготы, древние основы. Здесь её нет, это сад, а не грамматика. Звёздочка значит, что слово собрано здесь, а не взято у Толкина. Случайно оно может у него и найтись: тогда проверь по Eldamo и порадуйся.
+</footer>
+</main>
+<script src="sad-suffiksov-data.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+const V = /[aeiouáéíóúëäöü]$/i, V0 = /^[aeiouáéíóúëäöü]/i;
+ROOTS.forEach((r, i) => $('r').add(new Option(r.w + ' — ' + r.g, i)));
+SUFS.forEach((s, i) => $('s').add(new Option(s.s + ' — ' + s.ru, i)));
+function join(w, j){
+  w = w.replace(/ë$/, 'e');
+  if (V.test(w) && V0.test(j)) return w.slice(0, -1) + j;
+  if (!V.test(w) && !V0.test(j)) return w + 'e' + j;
+  return w + j;
+}
+let cur = null;
+function show(){
+  const r = ROOTS[$('r').value], s = SUFS[$('s').value];
+  let w = join(r.w, s.j);
+  w = w.replace(/e$/, 'ë');
+  cur = {w, r, s};
+  $('word').textContent = '*' + w;
+  $('gloss').textContent = '«' + r.g + '» + «' + s.ru + '»';
+  $('note').textContent = (r.l === 'q' ? 'корень: Q.' : r.l === 'mq' ? 'корень: ᴹQ.' : 'корень: неоквенья') +
+    (s.eldamo ? ' · суффикс в Eldamo: “' + s.eldamo + '”' : '');
+}
+$('go').onclick = show;
+$('rnd').onclick = () => { $('r').value = Math.floor(Math.random() * ROOTS.length); $('s').value = Math.floor(Math.random() * SUFS.length); show(); };
+$('keep').onclick = () => { if (!cur) return; const li = document.createElement('li');
+  li.innerHTML = '<i>*' + cur.w + '</i> — ' + cur.r.g + ' + ' + cur.s.ru; $('list').prepend(li); };
+// первые цветы — из сада 19.10
+[['alma','-ndil'],['tyastië','-unqua'],['quetta','-matya'],['silmë','-stir'],['sanwë','-enca']].forEach(([w,s]) => {
+  $('r').value = ROOTS.findIndex(r => r.w === w); $('s').value = SUFS.findIndex(x => x.s === s);
+  if ($('r').value >= 0 && $('s').value >= 0){ show(); $('keep').onclick(); }
+});
+$('rnd').onclick();
+</script>
+</body>
+</html>
