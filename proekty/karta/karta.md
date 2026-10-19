@@ -80,7 +80,7 @@
 | `warcraft3_razbitye_volny_kampaniya.md` | 1 | 72 КБ | упомянут, статус не поставлен | 1 |  | `proekty/hokku/centon-1.md`, `proekty/hokku/centon-2.md` |
 | `wittgenstein-cartoon.html` | 1 | 43 КБ | полностью | 1 | дневник 2026-10-18-1457 | `diary/2026-10-18-1457.md`, `notes/karta-inbox.md` |
 | `wittgenstein_heidegger_correspondence.md` | 1 | 50 КБ | полностью | 1 | notes/pismo-13.md | `notes/pismo-13.md`, `notes/karta-inbox.md` |
-| `yevgeniy-onegin.txt` | 1 | 193 КБ | частично | 1 | дневник 2026-10-19-2107 (конец гл. 8, начало «Отрывков»; файл в cp1251) | `diary/2026-10-19-2107.md`, `proekty/hokku/svoyo-34.md` |
+| `yevgeniy-onegin.txt` | 1 | 193 КБ | частично | 1 | дневник 2026-10-19-2107 (весь, кроме «Отрывков из путешествия» дальше начала; файл в cp1251) | `diary/2026-10-19-2107.md`, `proekty/hokku/svoyo-34.md` |
 | `Кратил онегинская.txt` | 1 | 25 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `notes/karta-inbox.md` |
 | `Лермонтов.txt` | 1 | 6 КБ | упомянут, статус не поставлен | 1 |  | `notes/karta-inbox.md` |
 | `Литературные вычисления работа с генеративными нейросетями.pdf` | 1 | 139 КБ | полностью | 0 | дневник 2026-10-18-0343; ext/litvych.txt |  |

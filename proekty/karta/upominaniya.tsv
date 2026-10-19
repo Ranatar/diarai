@@ -73,7 +73,7 @@ warcraft3_new_races.md	113330	упомянут, статус не поставл
 warcraft3_razbitye_volny_kampaniya.md	73399	упомянут, статус не поставлен		2	proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
 wittgenstein-cartoon.html	44025	полностью	дневник 2026-10-18-1457	2	diary/2026-10-18-1457.md, notes/karta-inbox.md
 wittgenstein_heidegger_correspondence.md	51179	полностью	notes/pismo-13.md	3	notes/pismo-13.md, notes/karta-inbox.md, proekty/hokku/centon-1.md
-yevgeniy-onegin.txt	197253	частично	дневник 2026-10-19-2107 (конец гл. 8, начало «Отрывков»; файл в cp1251)	2	diary/2026-10-19-2107.md, proekty/hokku/svoyo-34.md
+yevgeniy-onegin.txt	197253	частично	дневник 2026-10-19-2107 (весь, кроме «Отрывков из путешествия» дальше начала; файл в cp1251)	2	diary/2026-10-19-2107.md, proekty/hokku/svoyo-34.md
 Кратил онегинская.txt	25976	полностью	notes/sito-2020.md	2	notes/sito-2020.md, notes/karta-inbox.md
 Лермонтов.txt	5748	упомянут, статус не поставлен		1	notes/karta-inbox.md
 Литературные вычисления работа с генеративными нейросетями.pdf	141902	полностью	дневник 2026-10-18-0343; ext/litvych.txt	0	
@@ -1553,7 +1553,7 @@ eldamo/build/tmp/compileJava/compileTransaction/stash-dir/RuBase.class.uniqueId1
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile$Item.class.uniqueId15	2166	служебное		0	
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile.class.uniqueId18	12016	служебное		0	
 eldamo/src/data/eldamo-data-ru.xml	4784914	бегло	proekty/karta/eldamo_ru.py (заполненность)	1	notes/otvet-avtoru-2.md
-eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	17	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/tractatus-quenya/perevod.md
+eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	18	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/elfijskoe/README.md
 eldamo/src/main/java/eldarin/parser/IndexParser.java	12368	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/LexiconParser.java	17360	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/TranslationParser.java	2986	не упомянут		0	
@@ -1635,7 +1635,7 @@ eldamo/src/main/java/xdb/util/package.html	68	не упомянут		0
 eldamo/src/main/resources/ConfigMonitor.properties	155	не упомянут		0	
 eldamo/src/main/resources/access-control.xml	59	не упомянут		0	
 eldamo/src/main/resources/eldarin/data/PLACEHOLDER-ONLY.txt	0	не упомянут		0	
-eldamo/src/main/resources/eldarin/data/eldamo-data.xml	52	упомянут, статус не поставлен		17	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/tractatus-quenya/perevod.md
+eldamo/src/main/resources/eldarin/data/eldamo-data.xml	52	упомянут, статус не поставлен		18	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/elfijskoe/README.md
 eldamo/src/main/resources/xsl/eldamo-data-fixed.xsl	2183	не упомянут		0	
 eldamo/src/main/resources/xsl/eldamo-data-sorted.xsl	3134	не упомянут		0	
 eldamo/src/main/resources/xsl/eldamo-data.xsl	11590	не упомянут		0	
@@ -1693,7 +1693,7 @@ eldamo/src/main/webapp/css/GentiumPlus-R.woff	660480	не упомянут		0
 eldamo/src/main/webapp/css/global.css	4775	не упомянут		0	
 eldamo/src/main/webapp/css/tengwar-eldamar-glaemscrafu.woff	35480	не упомянут		0	
 eldamo/src/main/webapp/data/eldamo-data-ru.xml	4562828	упомянут, статус не поставлен		1	notes/otvet-avtoru-2.md
-eldamo/src/main/webapp/data/eldamo-data.xml	30774128	упомянут, статус не поставлен		17	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/tractatus-quenya/perevod.md
+eldamo/src/main/webapp/data/eldamo-data.xml	30774128	упомянут, статус не поставлен		18	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/elfijskoe/README.md
 eldamo/src/main/webapp/elvish-composition-archive/elvish-composition-archive.zip	1766561	упомянут, статус не поставлен		9	~diary/2026-10-19-1207.md, ~diary/2026-10-19-0607.md, ~notes/otvet-avtoru-8.md, ~notes/otvet-avtoru-6.md, ~proekty/hokku/perevod-esse.md, ~proekty/elfijskoe/feanor.md, ~proekty/elfijskoe/korko.md, ~proekty/elfijskoe/README.md
 eldamo/src/main/webapp/elvish-composition-archive/index.html	9668	упомянут, статус не поставлен		8	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/tehnika.md, notes/gpt-koren.md, notes/ranatar.md, proekty/most/README.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/elvish-composition-archive/almariel/i-carma-tecindova.html	1872	упомянут, статус не поставлен		1	proekty/elfijskoe/eca-status.tsv
@@ -3688,7 +3688,7 @@ philosphaira/app/modules/data/commit-draft.js	1968	не упомянут		0
 philosphaira/app/modules/data/load.js	526	упомянут, статус не поставлен		15	~proekty/hokku/udar.py, ~proekty/cherv/hronofoto.py, ~proekty/sverka-wikidata/sverka.py, ~proekty/sverka-wikidata/put.py, ~proekty/sverka-wikidata/skachat.py, ~proekty/karty/bez_antarktidy.py, ~proekty/karty/tolko_yuzhnaya_amerika.py, ~proekty/most/sosedi.py
 philosphaira/app/modules/data/mutate.js	4710	упомянут, статус не поставлен		1	~diary/2026-10-18-1457.md
 philosphaira/app/modules/data/remote.js	10493	не упомянут		0	
-philosphaira/app/modules/data/save.js	3306	упомянут, статус не поставлен		3	~diary/2026-10-19-1207.md, ~proekty/cherv/hronofoto.py, ~proekty/lleo/korpus-tretij.txt
+philosphaira/app/modules/data/save.js	3306	упомянут, статус не поставлен		4	~diary/2026-10-19-1207.md, ~proekty/cherv/hronofoto.py, ~proekty/elfijskoe/README.md, ~proekty/lleo/korpus-tretij.txt
 philosphaira/app/modules/filters/beyond-filter.js	837	не упомянут		0	
 philosphaira/app/modules/filters/chains.js	12485	не упомянут		0	
 philosphaira/app/modules/filters/filters.js	23155	не упомянут		0	
