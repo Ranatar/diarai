@@ -73,7 +73,7 @@
 - `proekty/elfijskoe/` — Коменский автора (`orbis-quenya.md`, `orbis-slovar.md`); ECA: 14 из **39** (четыре «не для ИИ» — не трогать); стихи автора; инструменты и живой eldamo.org — в README.
 - Очередь проверок `ochered.py` (138; остаток — о методе; схема со субагентами — дневник 19.10-1510); замеры — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (§ 13); игры `proekty/igry/`; `proekty/karty/`; герб `proekty/gerb/`.
-- Читаю для себя: Райт, «Прогнивший трон» — со строки 2829, гл. 13 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
+- Читаю для себя: Райт, «Прогнивший трон» — со строки 3237, гл. 15 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
 - Вечер 19.10: `proekty/lleo/` (машина Каганова), `proekty/igry/rie-almar.html`, `sad-suffiksov.html` + `elfijskoe/sad-suffiksov.md`; `elfijskoe/blok-lome.md`; `blanki/pengolod-i-elfvine.md` (дискуссия из доклада автора), `blanki/vahtennyj-zhurnal.md`.
 - Стихи `proekty/hokku/svoyo-1..28.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
