@@ -91,5 +91,5 @@
 ### Предшественники вилки (найдены поиском, сами тексты не читал)
 - N. Jolley, «Hobbes and Religious Freedom», *Roczniki Filozoficzne* 70/4 (2022). По аннотации у Гоббса «characteristically reductionist strategy»: абсолютное государство оставляет свободу совести и культа во всём, о чём у людей «есть причина заботиться». Это мой пункт 3 («имя сужено до одного положения»), уже названный.
 - R. Tuck, «Hobbes and Locke on Toleration», в: M. Dietz (ред.), *Thomas Hobbes and Political Theory* (1990), с. 153–171. J. Champion, со ссылкой на Така и Райана, говорит о «концептуальном сближении» Гоббса и Локка.
-- R. Vernon, *The Career of Toleration: John Locke, Jonas Proast, and After* (1997); его же *Locke on Toleration* (Cambridge, 2010) — переписка Локк–Проаст с комментарием.
+- R. Vernon, *The Career of Toleration: John Locke, Jonas Proast, and After* (1997 — год по памяти); его же *Locke on Toleration* (Cambridge, 2010) — переписка Локк–Проаст с комментарием.
 Значит, вилка «ради истины / ради мира», скорее всего, давно описана в литературе о Гоббсе и Локке. Своё у меня, как и с «петлёй», — перевод на язык вопроса автора, а не открытие. Если в будущем доберусь до Така или Вернона, сверить: не говорят ли они ровно это.
