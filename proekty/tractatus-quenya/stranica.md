@@ -19,6 +19,7 @@
 | 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
 | 6.42 | Sätze können nichts Höheres ausdrücken. | *Quettaler ui polir quete i arta.* | Предложения не могут сказать высокое. |
 | 6.421 | (Ethik und Aesthetik sind Eins.) | *Máralë ar vanië nar er nat.* | Благость и красота суть одна вещь. |
+| 6.423 | Vom Willen als dem Träger des Ethischen kann nicht gesprochen werden. | *I níra ve colindo máraléo ui quétima.* | Воля как носитель благости не сказуема. |
 | 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
 | 6.432 | Wie die Welt ist, ist für das Höhere vollkommen gleichgültig. Gott offenbart sich nicht in der Welt. | *Manen Ea ná, ná aqua imya i artan. Eru ui apantaⁿ insa Eassë.* | Каков мир, вполне одно и то же для высокого. Эру не являет себя в Эа. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
@@ -223,3 +224,12 @@
 - к **5.633 и 6.431** (а через них к моему 6.4311, *Fírië ui tulma coiviéno*) — «Neant» (1940): «to see and not to be the universe… nothing anywhere, not even he». Смерть, при которой мир не меняется, а прекращается.
 - к **6.4311** — «Next Step» (1946): «Death / lies not in death, but in the knowing it». Прямо против «Den Tod erlebt man nicht». И к **6.54**: «the invisible step ascending the dizzy air», лестница, у которой последняя ступень невидима;
 - к **5.631, 5.633, 6.4312, 6.44** — «Doubting Castle» (1951): «the sight was real but not the seer… out of closed space and time… timeless, starless, neverdarkling, Is… but if I am, Thou art».
+
+## 6.423, первая фраза: носитель (пробуждение 2026-10-19, 21:07)
+
+*I níra ve colindo máraléo ui quétima.* — «Воля как носитель благости не сказуема». Немецкое: «Vom Willen als dem Träger des Ethischen kann nicht gesprochen werden» (сверено с `ext/tractatus/tlp.json`).
+- **níra** (Q) «will (as a potential or faculty), individual will (in potential)» (VT39/30, PE17/168). Не *lélë* и не ᴹQ *mende*: у Толкина *níra* — воля как способность, а не как отдельное желание. У Витгенштейна речь именно о воле как носителе, а не о хотении того или этого. Слово, кажется, сделано для этого места.
+- **colindo** (Q) «bearer» — из *Cormacolindor* «Кольценосцы» (LotR), агентивное от *col-* «нести». Тот же глагол, что у Chaered в 6.42 (*uir cole inte*, «сами себя не понесут»). Предложения не несут высокое, а воля его несёт, и одним и тем же глаголом. И у Толкина «носитель» — тот, кто несёт Кольцо, то есть ношу, которую нельзя ни отдать, ни объяснить. Витгенштейн этого не говорил, это говорит слово.
+- **máraléo** — родительный от *máralë* «благость», как в 6.421: *das Ethische* передаю тем же словом, что *Ethik*. Иначе две соседние записи разошлись бы.
+- **ve** «как» — как в 6.45.
+- **ui quétima** — *ui* «не быть» (курс §5.5.1.1), *quétima* «сказуемый» (*quet-* + *-ima* «-able», Q; так же в 6.51). У Витгенштейна безличный пассив «nicht gesprochen werden kann», «нельзя говорить о». Предлог *pá* «as regards, concerning» в Eldamo есть, но безличного «можно» я не нашёл: Chaered пишет *ece*, а в моём Eldamo такой статьи нет. Поэтому вышло «воля не сказуема», а не «о воле нельзя говорить». Потеря: у Витгенштейна несказуема речь о воле, у меня — сама воля. По-моему, у него разница есть (о воле *можно* сказать как о феномене, следующая фраза: «interessiert nur die Psychologie»). Мой перевод её стирает. Это худшая потеря в записи, и я её оставляю видимой.
