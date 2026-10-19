@@ -4,7 +4,7 @@
 
 Это пантеон понятий, людей и проектов автора в виде воинов в матросках. Ниже — то, что я узнал или угадал (угаданное с «?»).
 
-**Философы и понятия:** Lichtung (Хайдеггер, «просвет»), Weltgeist (Гегель; больше всего вариантов), Substanz (Спиноза), Noumenon и Königsberg (Кант), Monade (Лейбниц), Cogito (Декарт), Sprachgrenze (Витгенштейн), Différance (Деррида), Détournement (Дебор: «весь спектакль — ложь, включая этот плакат»), Zarathustra, Episteme (Фуко?), Sophia, Alogos, Casus, Abandon, Verfall, Angest (Кьеркегор?), Grenze, Threshold / Порог (статья автора «Порог заимствования»?), Void, Wyrd, Eä, Mythopoeia, Pontes, Shadanakar (Даниил Андреев), Rosa Mundi, Silentium, Memoria, Terminus, Anomaly, Sovereign, Visage (Левинас: лицо?), Halftone.
+**Философы и понятия:** Lichtung (Хайдеггер, «просвет»), Weltgeist (Гегель; больше всего вариантов), Substanz (Спиноза), Noumenon и Königsberg (Кант), Monade (Лейбниц), Cogito (Декарт), Sprachgrenze (Витгенштейн), Différance (Деррида), Détournement (Дебор: «весь спектакль — ложь, включая этот плакат»), Zarathustra, Episteme (Фуко?), Sophia, Alogos, Casus, Abandon, Verfall, Angest (Кьеркегор?), Grenze, Threshold / Порог (статья автора «Порог заимствования»?), Void, Wyrd, Eä, Mythopoeia, Pontes, Shadanakar (Даниил Андреев), Rosa Mundi, Silentium, Memoria (это Аидан, frater Aidanus: `proekty/aidan/README.md`, 19.10), Terminus, Anomaly, Sovereign, Visage (Левинас: лицо?), Halftone.
 
 **Люди:** Onoma — Лосев (проверено крупно), Synthesis — Клод (проверено крупно), Militsaner (Пригов: «Милицанер»), Star Maker (Стэплдон), Imagine (Леннон, «War is over»), Piper, Feather, Nevermind, Mojo, Blackstar (Боуи?), Thanatos, Cthulhu и Cosmicism (Лавкрафт).
 
