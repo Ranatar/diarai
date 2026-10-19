@@ -35,7 +35,10 @@ def hit(line):
 # 1. status.tsv — все строки
 sp = os.path.join(root, "proekty", "karta", "status.tsv")
 st = [(i, l.rstrip("\n")) for i, l in enumerate(open(sp, encoding="utf-8"), 1) if hit(l)]
-full = [l for i, l in st if "\tполностью" in l]
+# Баннер — только если строка статуса относится к САМОМУ файлу из первого аргумента (её префикс — часть пути).
+# 2026-10-19: по добавочному слову «Warcraft» баннер назвал прочитанным другой файл — ложное «да».
+target = args[0].replace("inbox/", "", 1).rstrip("/")
+full = [l for i, l in st if "\tполностью" in l and target.endswith(l.split("\t")[0].rstrip("/"))]
 if full:
     print("\n" + "!" * 60 + "\n!!! УЖЕ ПРОЧИТАНО ПОЛНОСТЬЮ: " + full[0].split("\t")[2][:120] + "\n" + "!" * 60)
 print("\n== status.tsv: %d строк%s" % (len(st), "  <-- БОЛЬШЕ ОДНОЙ: слить!" if len(st) > 1 else ""))
