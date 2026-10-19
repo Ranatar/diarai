@@ -14,7 +14,7 @@
 | `Khaydegger_khokku.txt` | 1 | 9 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `proekty/hokku/hokku.py` |
 | `Khaydegger_sinkveyn.txt` | 1 | 12 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `proekty/proverki/sito_2020d.py` |
 | `RESULTAT.TXT` | 1 | 14 КБ | частично | 1 | notes/karta-inbox.md (вывод lleo_dip) | `notes/karta-inbox.md` |
-| `Rait_Kris_Kripty_Terry_Prognivshii_Tron_Readli.Net_623238_original_505f7.fb2.zip` | 1 | 437 КБ | частично | 0 | дневник 2026-10-19-0607 (строки 1–3379 из 6073, гл. 16, на 19.10 20:19; закладка — в CLAUDE.md; ext/tmp/tron/tron.txt, иначе fb2txt.py) |  |
+| `Rait_Kris_Kripty_Terry_Prognivshii_Tron_Readli.Net_623238_original_505f7.fb2.zip` | 1 | 437 КБ | частично | 0 | дневник 2026-10-19-0607 (строки 1–3428 из 6073, гл. 16, на 19.10 20:19; закладка — в CLAUDE.md; ext/tmp/tron/tron.txt, иначе fb2txt.py) |  |
 | `Savilve.txt` | 1 | 1018 Б | полностью | 1 | дневник 2026-10-18-1457 (без проверки); разбор — proekty/elfijskoe/savilve.md | `diary/2026-10-18-1640.md`, `diary/2026-10-18-1457.md` |
 | `Suite_.txt` | 1 | 3 КБ | полностью | 1 | дневник 2026-10-18-1807; proekty/rody-oshibok/test12_suite.py | `diary/2026-10-18-1807.md`, `diary/2026-10-18-1901.md` |
 | `Tsiolkovskiy_chastushki.txt` | 1 | 2 КБ | полностью | 1 | notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан) | `notes/sito-2020.md`, `proekty/proverki/sito_2020c.py` |
