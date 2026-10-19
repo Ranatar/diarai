@@ -18,7 +18,7 @@ for m in re.finditer(r'<word\b[^>]*?\bl="([a-z]+)"[^>]*?\bv="([^"]+)"[^>]*?>', o
     if l not in LANG:
         continue
     g = re.search(r'gloss="([^"]*)"', m.group(0))
-    lex[v.lower()].append((LANG[l], g.group(1) if g else ""))
+    lex[v.lower().rstrip("¹²³⁴⁵⁶⁷⁸⁹")].append((LANG[l], g.group(1) if g else ""))  # омонимы lá³ → lá (2026-10-19)
 
 
 def strip(s):

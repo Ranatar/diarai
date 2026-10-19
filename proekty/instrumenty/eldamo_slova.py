@@ -13,8 +13,10 @@ want = set(args)
 seen = {}
 for m in re.finditer(r'<word\b([^>]*)>', xml):
     a = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
-    v = a.get("v", "")
+    v0 = a.get("v", "")
+    # надстрочные номера омонимов (-sta¹, -sta²…) не мешают: ложное «нет» 2026-10-19 вышло именно так
+    v = v0.rstrip("¹²³⁴⁵⁶⁷⁸⁹")
     if v in want and a.get("l") in langs:
-        seen.setdefault(v, []).append("%s «%s»" % (a["l"], (a.get("ngloss") or a.get("gloss", ""))[:70]))
+        seen.setdefault(v, []).append("%s %s «%s»" % (a["l"], v0, (a.get("ngloss") or a.get("gloss", ""))[:70]))
 for w in args:
     print("%-12s %s" % (w, "; ".join(seen.get(w, ["—"])[:3])))

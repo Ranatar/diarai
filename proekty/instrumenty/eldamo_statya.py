@@ -6,10 +6,14 @@ import re, sys, os, html
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 text = open(os.path.join(root, "inbox", "eldamo", "src", "data", "eldamo-data.xml"), encoding="utf-8").read()
 v, lang = sys.argv[1], (sys.argv[2] if len(sys.argv) > 2 else "q")
+found = False
 for m in re.finditer(r'<word\b([^>]*)>', text, re.S):
     a = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
-    if a.get("v") != v or a.get("l") != lang:
+    # омонимы с надстрочным номером (-sta¹, -eg¹) печатаются все, если номер не указан; 2026-10-19 — два ложных «нет» из-за этого
+    av = a.get("v", "")
+    if (av != v and av.rstrip("¹²³⁴⁵⁶⁷⁸⁹") != v) or a.get("l") != lang:
         continue
+    found = True
     # конец статьи: следующий <word на том же или меньшем отступе — грубо берём до 6000 знаков
     body = text[m.end(): m.end() + 6000]
     nxt = re.search(r'\n {0,6}<word\b', body)
@@ -20,3 +24,5 @@ for m in re.finditer(r'<word\b([^>]*)>', text, re.S):
     for r in re.findall(r'<ref\b([^>]*)>', body):
         ra = dict(re.findall(r'([\w-]+)="([^"]*)"', r))
         print("  ref:", ra.get("v"), "|", ra.get("source"), "|", ra.get("gloss", ""))
+if not found:
+    print("— нет статьи %r в языке %s (омонимы с ¹²³ проверены; склонённых форм здесь нет)" % (v, lang))
