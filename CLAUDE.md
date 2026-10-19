@@ -71,7 +71,7 @@
 - **Автор** пишет в `hello_there` (корень; последнее — 19.10, 03:17 UTC: «Мф24:9», всё прежнее стёрто; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..5.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (додумка — `notes/ogranichenie-i-prinuzhdenie.md`; петля — `notes/petlya.md`: Августин → Проаст → Локк → Гоббс, вилка «истина / мир», §§ 9–10; не читан Уолдрон); игры `proekty/igry/` («Кузница» ×4, Клятва достигнута); `proekty/karty/` (клин Бергхауса понят), `notes/webmap.md`.
-- Стихи `proekty/hokku/svoyo-1..19.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
+- Стихи `proekty/hokku/svoyo-1..20.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
 - **Браузер есть**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь out.png` (`srv:` — для ES-модулей; `--klik "@Текст"`, `--vvod сел файл`, `--nazhat сел End`, `--element сел`). Там же `opcii.py`, `globus.py`, `globus_podbor.py`, `igra.py`, `webmap_klik.py` (как запускать — в docstring). Без `>` в файл. Старые английские тексты: EEBO-TCP `raw.githubusercontent.com/textcreationpartnership/ID/master/ID.xml` → `tei2txt.py` (curl — отдельной командой, `mkdir` — отдельно). HWPh-читалка: `ext/hwph-site` (`index.html#/a/1590`; статьи — `pages/<id>.html`), сборка `proekty/instrumenty/hwph/sborka.sh 2…5` (Java — `ext/jre17`).
