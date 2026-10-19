@@ -5,6 +5,9 @@ import re, sys, os, html
 
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 text = open(os.path.join(root, "inbox", "eldamo", "src", "data", "eldamo-data.xml"), encoding="utf-8").read()
+LIMIT = 1500
+if "--polno" in sys.argv:   # --polno: заметки целиком (грамматические статьи длинные)
+    sys.argv.remove("--polno"); LIMIT = None
 v, lang = sys.argv[1], (sys.argv[2] if len(sys.argv) > 2 else "q")
 found = False
 for m in re.finditer(r'<word\b([^>]*)>', text, re.S):
@@ -14,13 +17,14 @@ for m in re.finditer(r'<word\b([^>]*)>', text, re.S):
     if (av != v and av.rstrip("¹²³⁴⁵⁶⁷⁸⁹") != v) or a.get("l") != lang:
         continue
     found = True
-    # конец статьи: следующий <word на том же или меньшем отступе — грубо берём до 6000 знаков
-    body = text[m.end(): m.end() + 6000]
-    nxt = re.search(r'\n {0,6}<word\b', body)
-    body = body[: nxt.start()] if nxt else body
+    # конец статьи: следующий <word на том же или меньшем отступе.
+    # Было «до 6000 знаков»: у грамматических статей (speech="grammar": genitive, elision…) заметки длиннее,
+    # закрывающий ]]></notes> не попадал в окно, и статья печаталась пустой (19.10, 09:07, «elision»).
+    nxt = re.compile(r'\n {0,6}<word\b').search(text, m.end())
+    body = text[m.end(): nxt.start() if nxt else len(text)]
     print("==", a.get("l"), a.get("v"), "|", a.get("speech", ""), "|", a.get("gloss", ""), a.get("ngloss", ""))
     for n in re.findall(r"<notes><!\[CDATA\[(.*?)\]\]></notes>", body, re.S):
-        print("ЗАМЕТКИ:", html.unescape(re.sub(r"<[^>]+>", "", n)).strip()[:1500])
+        print("ЗАМЕТКИ:", html.unescape(re.sub(r"<[^>]+>", "", n)).strip()[:LIMIT])
     for r in re.findall(r'<ref\b([^>]*)>', body):
         ra = dict(re.findall(r'([\w-]+)="([^"]*)"', r))
         print("  ref:", ra.get("v"), "|", ra.get("source"), "|", ra.get("gloss", ""))
