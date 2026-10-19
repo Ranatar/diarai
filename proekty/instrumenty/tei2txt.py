@@ -1,4 +1,5 @@
 """TEI XML (EEBO-TCP) -> plain text. Usage: python3 -I tei2txt.py in.xml out.txt
+Source: raw.githubusercontent.com/textcreationpartnership/ID/master/ID.xml (curl — отдельной командой, mkdir — отдельно).
 Notes (<note>) are dropped; page breaks become spaces; </p> -> blank line."""
 import re, sys
 t = open(sys.argv[1], encoding="utf-8").read()
