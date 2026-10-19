@@ -103,6 +103,31 @@ def fits(words):
     return " ".join(marked), rhyme_key(core, s), pos == 9
 
 
+def why(words):
+    """Причина отказа fits() — для --check (2026-10-19: причины я угадывал и угадал не все)."""
+    pos = 0
+    for i, w in enumerate(words):
+        core = w.split()[-1].lower()
+        n = nsyl(core)
+        if core in CLITIC and i < len(words) - 1:
+            pos += n
+            continue
+        ss = stress(core.replace("-", ""))
+        if ss is None and "-" in core:
+            ss = stress(core.split("-")[0])
+        if ss is None:
+            return "нет в словаре: «%s»" % core
+        if n > 1 and not [s for s in ss if (pos + s) % 2 == 0]:
+            return "«%s»: ударение %s в слове не ложится на чётный слог строки (слово с %d-го)" % (
+                core, "/".join(map(str, sorted(ss))), pos + 1)
+        pos += n
+    if pos not in (8, 9):
+        return "слогов %d, а нужно 8 или 9" % pos
+    if words and words[-1].split()[-1].lower() in WEAK_END:
+        return "конец на слабое слово «%s» (WEAK_END)" % words[-1].split()[-1].lower()
+    return "последнее ударение не на 8-м слоге"
+
+
 def mark(w, s):
     pre, core = (w.rsplit(" ", 1) + [""])[:2] if " " in w else ("", w)
     k, out = 0, []
@@ -209,8 +234,9 @@ if __name__ == "__main__":
             for l in open(p, encoding="utf-8").read().split("\n---")[0].splitlines():
                 if not l.strip() or l.lstrip()[0] in "#*>":
                     continue
-                r = fits([w for w in words_of(l) if w != "|"])
-                print(("OK  " + r[0] + "   [" + r[1] + "]") if r else ("--  " + l))
+                ws = [w for w in words_of(l) if w != "|"]
+                r = fits(ws)
+                print(("OK  " + r[0] + "   [" + r[1] + "]") if r else ("--  " + l + "   ← " + why(ws)))
         sys.exit()
     if "--each" in sys.argv:  # каждый файл отдельно, с заголовком
         for p in files:
