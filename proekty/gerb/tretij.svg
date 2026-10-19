@@ -26,6 +26,8 @@
   <use href="#zv" transform="translate(404,360)" fill="#f4f1ea"/>
   <!-- третий: только контур, пунктиром -->
   <use href="#zv" transform="translate(300,180)" fill="none" stroke="#f4f1ea" stroke-width="2" stroke-dasharray="5 5"/>
+  <!-- девиз: ara «рядом» (PE17/71; от него союз ar «и», PE17/145), únotëa «не сосчитанный» (PE17/144) -->
+  <text x="300" y="560" text-anchor="middle" fill="#c9a54a" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" letter-spacing="3">Ara, únotëa</text>
   <!-- середина пуста: тот, к кому обращены слова, не нарисован -->
   <circle cx="300" cy="300" r="16" fill="none" stroke="#c9a54a" stroke-width="2"/>
 </svg>
