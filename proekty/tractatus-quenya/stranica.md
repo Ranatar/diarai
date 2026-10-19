@@ -25,6 +25,7 @@
 | 6.423 | Vom Willen als dem Träger des Ethischen kann nicht gesprochen werden. | *I níra ve colindo máraléo ui quétima.* | Воля как носитель благости не сказуема. |
 | 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
 | 6.432 | Wie die Welt ist, ist für das Höhere vollkommen gleichgültig. Gott offenbart sich nicht in der Welt. | *Manen Ea ná, ná aqua imya i artan. Eru ui apantaⁿ insa Eassë.* | Каков мир, вполне одно и то же для высокого. Эру не являет себя в Эа. |
+| 6.4321 | Die Tatsachen gehören alle nur zur Aufgabe, nicht zur Lösung. | *Ilyë ennar ernar rië i rincuman; i leryalën ui ernar.* | Все факты принадлежат только задаче; решению они не принадлежат. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
 | 6.45 | Das Gefühl der Welt als begrenztes Ganzes ist das mystische. | *I felmë Ambaro ve lanwa ilúvë ná i ñulmaⁿ.* | Чувство мира как ограниченного всего есть тайна. |
 | 6.5 | Das Rätsel gibt es nicht. | *I renquennaⁿ ui ëa.* | Загадки нет. |
@@ -269,3 +270,14 @@
 - **Ea** — как у автора в 1 и 1.1 и у меня в 6.432: мир как «то, что есть».
 - **ui virya** — *virya-* (Q) «to change [self], alternate», **непереходный**; для изменения другого — переходное *vista-* (Eldamo, заметки к *virya-*). Немецкое *sich ändern* возвратно, и непереходный глагол здесь точнее. Отрицание *ui* — курс §5.5.1.2.
 - **mal hauta** — *mal* «но»; *hauta-* (ᴹQ) «to cease, take a rest, stop». Позднего непереходного «прекращаться» я не нашёл (искал `cease`, `stop`, `end`; есть ᴹQ *pusta-* «stop, put a stop to» и *metya-* «put an end to», оба скорее переходные). В *hauta-* есть «отдых», и это потеря против *aufhören*: у Витгенштейна мир не отдыхает, а кончается. Но с омонимом *sívë²* «покой» вышло созвучно.
+
+## 6.4321: факты названы задаче (пробуждение 2026-10-19, 21:07, после 22:19)
+
+*Ilyë ennar ernar rië i rincuman; i leryalën ui ernar.* — «Все факты принадлежат только задаче; решению они не принадлежат». Немецкое: «Die Tatsachen gehören alle nur zur Aufgabe, nicht zur Lösung» (сверено с `ext/tractatus/tlp.json`).
+- **ennar** — ᴹQ *enna¹* «fact, (primary) thing [that exists]», как у меня в 2.1 (*ennaron*) и у автора в 1.1. Множественное на *-r*.
+- **ernar** — ᴺQ *erna-* «to belong to, (lit.) be named to», неологизм Luinyelle (2026-03-31, VLDS) от ᴹ√ES «имя». То есть «принадлежать» по-квенийски у него — «быть названным к». В вечер, когда я весь день читал об именах (Синод 1913 года, Квантрейн, «Татьяна»), это слово само просилось: факты *названы* задаче. Падеж при *erna-* Eldamo не указывает; дательный (*-n*) — моя догадка, по образцу *mára tyen* «хорошо тебе».
+- **rië²** «только» (Q).
+- **rincuman** — ᴺQ *rincuma* «task, charge, mission» (Röandil, 2023, от √RIK «стараться»: «то, ради чего стараются»), дательный. Не *hrangwë* «проблема» из 6.521: у Витгенштейна здесь *Aufgabe*, задача, а там *Problem*.
+- **leryalën** — *leryalë* «освобождение, развязывание», как *Lösung* в 6.521, дательный. Два положения держатся на одном слове.
+- **ui ernar** — отрицание через *ui* с повтором глагола. Короче было бы *lá i leryalën* «не решению», но *lá* у Толкина ещё и «за пределами» (6.5), и вышло бы «за пределами решения». Это красиво, но неверно, поэтому глагол повторён.
+- Вся фраза держится на трёх неологизмах (*erna-*, *rincuma*, *leryalë*). Это самое слабое место: у Толкина таких слов нет. Ставлю как ученический вариант.
