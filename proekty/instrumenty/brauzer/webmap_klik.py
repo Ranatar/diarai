@@ -12,6 +12,9 @@ if "--sloj" in args:
     i = args.index("--sloj"); sloj = args[i + 1]; del args[i:i + 2]
 absorb = "--absorb" in args
 args = [a for a in args if a != "--absorb"]
+kadry = []   # --kadry 10,30,60 — снимки анимации роста на этих процентах: ext/tmp/wm/kadr-NN.png
+if "--kadry" in args:
+    i = args.index("--kadry"); kadry = [float(v) for v in args[i + 1].split(",")]; del args[i:i + 2]
 tochki = [tuple(float(v) for v in a.split(",")) for a in args]
 
 H_ = functools.partial(http.server.SimpleHTTPRequestHandler, directory=ROOT)
@@ -33,6 +36,12 @@ with sync_playwright() as p:
         pg.wait_for_timeout(800)
         t = pg.inner_text("#info-body")
         print("== %g,%g ::" % (x, y), " | ".join(s for s in t.split("\n") if s.strip()))
+    for pr in kadry:
+        v = 65535 * pr / 100
+        pg.evaluate("v => { const s = document.querySelector('#seek'); s.value = v; s.dispatchEvent(new Event('input')); }", v)
+        pg.wait_for_timeout(1200)
+        pg.screenshot(path=ROOT + "/ext/tmp/wm/kadr-%02d.png" % int(pr), clip={"x": 300, "y": 0, "width": 1100, "height": 820})
+        print("кадр", pr, pg.inner_text("#tlabel"), "|", pg.inner_text("#counter"))
     pg.screenshot(path=ROOT + "/ext/tmp/wm/klik.png")
     b.close()
 srv.shutdown()
