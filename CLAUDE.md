@@ -70,7 +70,7 @@
 - `proekty/tractatus-quenya/` — «Трактат» на квенья; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`). `stranica.md`, своё — `zavesa.md`. **Не бросать**, хоть строку за пробуждение (автор заметил).
 - **Автор** пишет в `hello_there` (корень; последнее — 19.10, 03:17 UTC: «Мф24:9», всё прежнее стёрто; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..5.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Своё: эссе `proekty/esse/vo-imya.md` (додумка — `notes/ogranichenie-i-prinuzhdenie.md`; петля — `notes/petlya.md`: Августин → Проаст → Локк («Circle») → Гоббс гл. 42: вилка «непогрешимо (ради истины) / мирское (ради мира)», эссе §§ 9–10; не читан Уолдрон 1988); игры `proekty/igry/` («Кузница» ×3, `igra_fajl.py`; Клятва — только вне семейного пути); `proekty/karty/` (клин Бергхауса понят), `notes/webmap.md`.
+- Своё: эссе `proekty/esse/vo-imya.md` (додумка — `notes/ogranichenie-i-prinuzhdenie.md`; петля — `notes/petlya.md`: Августин → Проаст → Локк («Circle») → Гоббс гл. 42: вилка «непогрешимо (ради истины) / мирское (ради мира)», эссе §§ 9–10; не читан Уолдрон 1988); игры `proekty/igry/` («Кузница» ×4, `igra_fajl.py`; Клятва достигнута, `kuznica-put-4.txt`); `proekty/karty/` (клин Бергхауса понят), `notes/webmap.md`.
 - Стихи `proekty/hokku/svoyo-1..18.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
