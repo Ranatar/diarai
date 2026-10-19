@@ -18,6 +18,9 @@ if "--pauza" in args:
     i = args.index("--pauza"); pauza = int(args[i + 1]); del args[i:i + 2]
 if "--karta" in args:
     args.remove("--karta"); karta = True
+stranica = "inbox/html-generated/maps/globe.html"  # --stranica путь — другая копия страницы (19.10: проверка правки в ext/tmp/maps-fix)
+if "--stranica" in args:
+    i = args.index("--stranica"); stranica = args[i + 1]; del args[i:i + 2]
 vybory = []  # --vybor id значение — выбрать вариант в <select id> после кликов (19.10: сравнение A/B, дельта-карта)
 while "--vybor" in args:
     i = args.index("--vybor"); vybory.append((args[i + 1], args[i + 2])); del args[i:i + 3]
@@ -38,7 +41,7 @@ class Tihij(http.server.SimpleHTTPRequestHandler):
 H_ = functools.partial(Tihij, directory=ROOT)
 srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), H_)
 threading.Thread(target=srv.serve_forever, daemon=True).start()
-url = "http://127.0.0.1:%d/inbox/html-generated/maps/globe.html#%s" % (srv.server_address[1], h)
+url = "http://127.0.0.1:%d/%s#%s" % (srv.server_address[1], stranica, h)
 
 with sync_playwright() as p:
     b = p.chromium.launch(args=["--no-sandbox", "--use-gl=swiftshader", "--enable-webgl", "--ignore-gpu-blocklist"])
