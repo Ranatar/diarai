@@ -16,8 +16,8 @@ CON = json.load(open(R + "inbox/hwph-xml/bridge_out/concepts_hwph.json"))
 PH = json.load(open(R + "inbox/hwph-xml/bridge_out/philosophers_hwph.json"))
 
 
-def kandidaty():
-    return [e for e in EV if e.get("verdict") == "hwph_together" and not REL[e["id"]].get("provenance")]
+def kandidaty(verdikt="hwph_together"):
+    return [e for e in EV if e.get("verdict") == verdikt and not REL[e["id"]].get("provenance")]
 
 
 def imena(pid):
@@ -76,7 +76,7 @@ if args and args[0] == "--abz":   # most.py --abz статья i [j …] — а�
 elif args and args[0] == "--iskat":   # most.py --iskat rel_xxx 'Idee|Eidos'
     iskat(args[1], args[2])
 elif args and args[0] == "--vyborka":
-    k = kandidaty()
+    k = kandidaty(args[3] if len(args) > 3 else "hwph_together")   # 4-й аргумент: hwph_same_article и т. п.
     random.seed(int(args[2]))
     for e in random.sample(k, int(args[1])):
         r = REL[e["id"]]
