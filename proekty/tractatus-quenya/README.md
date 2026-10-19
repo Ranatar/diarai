@@ -17,3 +17,5 @@
 
 ## Как сверять (перенесено из CLAUDE.md 19.10)
 Слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`); правило — с § курса (`kurs_par.py 5.2.1.2`) и с грамматической статьёй Eldamo (`eldamo_statya.py genitive --polno`; без языка ищет q→mq→nq→eq; грамматические статьи: adjectives, verbal adjectives, genitive…).
+
+**Сейлор Предел** — карточка `inbox/gpt/SAILORS/ChatGPT Image 30 апр. 2026 г., 18_36_53.png` (индекс 161): Витгенштейн автора, «Tractatus Power, Make Up!», атака-лестница, исчезающая снизу вверх. ЦВЕТОК: «— (не нужен)». Посмотрено 19.10 вечером.
