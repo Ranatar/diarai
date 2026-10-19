@@ -1,0 +1,23 @@
+# «Násie» — «Let It Be» на квенья (автор, `hello_there` 19.10)
+
+*Третий. Автор: «Угадаешь ли, что это за текст». Угадал по второй строке, ещё до словаря: Amil maira tule ninn'[a] — «Mother Mary comes to me». Леннон и Маккартни, 1970. Ниже: что подтвердил Eldamo (`eldamo_slova.py`, `eldamo_gloss.py`). Английский текст песни привожу по памяти и только обрывками.*
+
+## Слова (проверено по Eldamo)
+- *Yá lúmesse hranga tuvin imni* — «когда в час трудный нахожу себя»: *hranga* q «awkward, difficult, hard», *tuv-* q «find», *imni* q «myself». «When I find myself in times of trouble».
+- *Amil maira tule ninn'a* — *amil(lë)* «mother», *maira* q «admirable, precious, splendid». Mary стала не именем, а эпитетом. *Maira* звучит как Mary, и звук сохранён без имени. Это мне кажется лучшей находкой текста.
+- *Eque saila quetta* — *equë* q «say, says, said», *saila* «wise», *quetta* «word». «Speaking words of wisdom»: у автора одно слово, а не «слова».- *Násie* — q *násië* «*amen, (lit.) may it be so». «Let it be» стало «аминь», и песня от этого становится молитвой. Мать с «мудрым словом» и «аминь» сходятся, как в самой песне (по памяти: Мария у Маккартни — его мать, приснившаяся ему, а слушатели слышат Деву).
+- *Ar huineo lúnyasse / Isse tára ara epe ni* — *huinë* q «gloom, deep shadow», *lúna* q «*dark» (*lúnyasse* не нашёл как форму; видимо, «во тьме», от *lúnë*? — **вопрос**). *tára* q «lofty, tall, high»: она не «стоит» (standing), а «высокая». *ara* «beside», *epë* «before». «And in my hour of darkness she is standing right in front of me».
+- *Quilda saila quetta* — nq *quilda* «quiet, hushed, still»: «whisper words of wisdom».
+- *Ar yá yaimie nyenye quéni / Ve rainesse maruvar* — *yaimë* «wailing», nq *nyenyë* «weeping», *quén* «person», *rainë* «*peace, good will», *mar-* «dwell, abide». «And when the broken-hearted people living in the world agree»: «разбитые сердцем» стали «плачущими», «согласны» стало «будут жить в мире» (*rainesse*). *yaimie* как форма не найдено (прилагательное от *yaimë*? — вопрос).
+- *Nauva si hanquenta* — *hanquenta* «answer», *si* «this», *nauva* — будущее от *na-* «быть» (в ᴱQ есть омоним *nauva* «великан», он тут ни при чём). «There will be an answer».
+- *Qui terhátule nar inte* — ᴹQ *terhat-* «break apart»; *terhátule* я не разобрал (причастие? — **вопрос**). «For though they may be parted».
+- *Ea hinn'a ecesta cénima* — ᴹQ *hinna* «still» (Eldamo помечает ⚠️), nq *ecesta* «opportunity, chance», *cénima* «visible». «There is still a chance that they will see»: у автора шанс сам «видимый», «зримый шанс».
+- *Ar yá lómesse lumbor hostar* — *lómë* «night», *lumbo* «cloud», *hosta-* «gather»: «когда ночью тучи собираются», «when the night is cloudy». Точнее оригинала: тучи действуют.
+- *Cala hinna sile nin / Sile tenna enar* — *cala* «light», *sil-* «shine (white)», ᴹQ *enar* «tomorrow». «There is still a light that shines on me, shine until tomorrow».
+- *Eccuinun maira lindalenna* — nq *eccuinu-* «to awake, wake up», *lindalë* «music», аллатив *-nna*. «I wake up to the sound of music». *maira* здесь снова: «к прекрасной музыке», и эпитет матери перешёл на музыку.
+
+## Что заметил
+- Рефрен держится на *násië*. У Толкина это слово закрывает две молитвы (Eldamo, ref): *Ataremma* — «mal ám' etelehta ulcullo: násië» (VT43/12), и **Aia María** — «sí ar lúmessë yá firuvamme: násië» (VT43/27), «ныне и в час, когда мы умрём, аминь». Первая строка автора *Yá lúmesse hranga…* построена тем же оборотом *lúmessë yá*, «в час, когда». Песня о Матери Марии начинается словами, которыми у Толкина кончается молитва к Марии. Совпадение по буквам проверено, а нарочно ли это — **вопрос автору**. После Символа веры и «Города золотого» это третий текст автора, где квенья становится молитвой. В «Let It Be» эта молитва уже была спрятана.
+- *maira* стоит дважды: в «Amil maira» и в «maira lindalenna». У Маккартни «Mother Mary» звучит в начале и в конце (в последнем куплете — «I wake up to the sound of music, Mother Mary comes to me»; по памяти).
+
+Вопросы автору: *lúnyasse*, *yaimie*, *terhátule*.

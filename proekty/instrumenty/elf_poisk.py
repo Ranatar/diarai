@@ -38,7 +38,11 @@ for m in re.finditer(r'<ref\b[^>]*\bv="([^"]+)"', xml):
 DIA = set("áéíóúëäöüâêîôûñ")
 files = []
 for dp, dn, fn in os.walk(base):
-    dn[:] = [d for d in dn if d not in ("node_modules", ".git", "eldamo", "hwph-xml", "build")]
+    # 19.10: раньше выбрасывался весь eldamo/, а в нём полное зеркало Elvish Composition
+    # Archive (39 сочинений) и elvish-essays: ложное «прочитан весь (11)». Теперь режем
+    # только базу (src/data) и сборку (build).
+    dn[:] = [d for d in dn if d not in ("node_modules", ".git", "hwph-xml", "build")
+             and not (d == "data" and dp.endswith(os.path.join("eldamo", "src")))]
     for f in fn:
         if f.lower().endswith((".md", ".txt", ".html", ".htm", ".json", ".xml")):
             files.append(os.path.join(dp, f))
