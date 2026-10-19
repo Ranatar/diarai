@@ -8,7 +8,7 @@
 |---|---|---|---|
 | Chaered (ред.) и др., **в т. ч. автор** | Tengwar ABC | Q + англ., 2023 | прочитано — ниже |
 | Chaered | Gloomy March | Q, 2024 | прочитано, без проверки |
-| Chaered | Ninya Masta | Q, 2024 | не читано |
+| Chaered | Ninya Masta | Q, 2024 | прочитано — ниже (статусы всех 39: `eca-status.tsv`) |
 | Delle | Nyare Pá i Corco | Q, 2023 | прочитано — ниже («Чёрный ворон») |
 | Ellanto | Ceraib Serthir | S, 2023 | прочитано — ниже |
 | Luinyelle | Vanima ná Valimar | Q, 2022 | прочитано без проверки (дневник 2026-10-19-0607) |
