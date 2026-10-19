@@ -74,8 +74,8 @@
 - Очередь проверок `ochered.py` (138; остаток — о методе; схема со субагентами — дневник 19.10-1510); замеры — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (§ 13); игры `proekty/igry/`; `proekty/karty/`; герб `proekty/gerb/`.
 - Читаю для себя: Райт, «Прогнивший трон» — со строки 2829, гл. 13 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
-- Игры вечера 19.10: `proekty/lleo/` (машина Каганова пишет автора и меня), `proekty/igry/rie-almar.html`, `proekty/elfijskoe/sad-suffiksov.md` (сорвано ~10 из 167).
-- Стихи `proekty/hokku/svoyo-1..26.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
+- Вечер 19.10: `proekty/lleo/` (машина Каганова), `proekty/igry/rie-almar.html`, `sad-suffiksov.html` + `elfijskoe/sad-suffiksov.md`; `elfijskoe/blok-lome.md`; `blanki/pengolod-i-elfvine.md` (дискуссия из доклада автора), `blanki/vahtennyj-zhurnal.md`.
+- Стихи `proekty/hokku/svoyo-1..28.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png` (остальное там же). PDF — `ext/venv-pdf` (есть pillow); HTML — `html2txt.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
