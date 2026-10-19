@@ -20,6 +20,9 @@
 | 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
 | 6.45 | Das Gefühl der Welt als begrenztes Ganzes ist das mystische. | *I felmë Ambaro ve lanwa ilúvë ná i ñulmaⁿ.* | Чувство мира как ограниченного всего есть тайна. |
+| 6.5 | Das Rätsel gibt es nicht. | *I renquennaⁿ ui ëa.* | Загадки нет. |
+| 6.51 | Denn Zweifel kann nur bestehen, wo eine Frage besteht; eine Frage nur, wo eine Antwort besteht, und diese nur, wo etwas gesagt werden kann. | *An attindoⁿ ëa rië yassë maquettaⁿ ëa; maquetta rië yassë hanquenta ëa, ar hanquenta rië yassë ëa nat quétima.* | Ибо сомнение есть лишь там, где есть вопрос; вопрос — где есть ответ; ответ — где есть сказуемое. |
+| 6.52 | Freilich bleibt dann eben keine Frage mehr; und eben dies ist die Antwort. | *En maquettaⁿ ui lemya; ar si ná i hanquenta.* | Тогда вопроса не остаётся; и это есть ответ. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
 | 6.54 | (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) | *Mauya sen, ve mo quetë, hehta i rantala apa retiëⁿ sanna.* | Ему должно, как говорится, оставить лестницу, взойдя на неё. |
 | 7 | Wovon man nicht sprechen kann, darüber muss man schweigen. | *Pa i ulanquetima mauya ven lína.* (автор; *lína-* — ᴹQ., PE23) | О невозможном-быть-сказанным нам должно молчать. |
