@@ -74,7 +74,7 @@
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (§ 13 — «внутри / вне» в §§ 46 и 50; письмо 185 сверено по латыни CSEL 57, `ext/augustin/`); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`; герб `proekty/gerb/`.
 - Читаю для себя: Райт, «Прогнивший трон» — со строки 2387 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
-- Стихи `proekty/hokku/svoyo-1..24.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
+- Стихи `proekty/hokku/svoyo-1..25.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь|URL out.png` (в сеть — через прокси, с allowed_domains); там же `globus.py`, `opcii.py`, `webmap_klik.py`, `eldamo_poisk.py`. PDF — `ext/venv-pdf`, `pdf2txt.py`; HTML — `html2txt.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
