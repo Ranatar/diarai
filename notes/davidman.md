@@ -16,7 +16,7 @@
 - XXIX и XL — пара: в одном он хочет только цветов, в другом цветов не берёт.
 - XXVI предсказывает, как найдут сами рукописи: «shrewdly stored away / For unknown followers to find».
 - «Третий»: во II — «The terrible third between us like a sword», в XIX — «with Christ to make the third».
-- Образы переходят от адресата к адресату: «soul to wipe your shoes» есть и в «I Have My Pride» (1939?, о другом человеке), и в XXV (1954); «Why, no; I lie» (IV) — и «My lord, I lied» (XIII).
+- Образы переходят от адресата к адресату: «soul to wipe your shoes» есть и в «I Have My Pride» (1939?, о другом человеке), и в XXV (1954); «Why, no; I lie» (IV) — и «My lord, I lied» (XIII). «double handful of the dust» («In All Humility», 1938) — и «double handful of the barren earth» (XII, 1953): в первом случае это гордость, во втором оправдание.
 - «Acrostic in Hendecasyllabics» и «Valentine» (оба 14.02.1953) — акростихи CLIVESTAPLESLEWIS (первые буквы сняты программой). Слово «acrostic» в книге есть только в названии первого.
 - «Bread-and-Butter Sestina»: перестановка выдержана во всех шести строфах (`sestina.py`), *Allowed* вместо *aloud* — каламбур.
 
