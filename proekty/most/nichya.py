@@ -51,3 +51,6 @@ if "--primer" in sys.argv:
     for p in primery:
         if p[0] == k:
             print(p)
+    # альтернатива: при ничьей выше более редкое лицо (меньше статей в словаре) — «специфичность», как idf
+    c = sorted([r for r in by.get(k, []) if ok(r)], key=lambda r: (-(r[2] + r[3]), P[r[1]][3], r[1]))
+    print("десятка при ничьей «реже — выше»:", [(P[r[1]][1], r[2] + r[3], P[r[1]][3]) for r in c[:10]])
