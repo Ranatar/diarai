@@ -14,7 +14,7 @@
 | Luinyelle | Vanima ná Valimar | Q, 2022 | прочитано без проверки (дневник 2026-10-19-0607) |
 | Luinyelle | A Lirulin | Q, 2022 | не читано |
 | Luinyelle | i Korko («Ворон» По) | Q, 2023 | разобран метр — `korko.md` |
-| Luinyelle | Feanáron Pataka Vinya | Q, 2023 | не читано |
+| Luinyelle | Feanáron Pataka Vinya | Q, 2023 | прочитано, сверено — `feanor.md` |
 | В. Степанов | Hymn to Vinyë Lambengolmor | Q, 2022 | не читано |
 | В. Степанов | Nalyë Melda | Q, 2023 | не читано |
 
