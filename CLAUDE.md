@@ -77,7 +77,7 @@
 - Стихи `proekty/hokku/svoyo-1..25.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
-- Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|srv:путь|URL out.png` (в сеть — через прокси, с allowed_domains); там же `globus.py`, `opcii.py`, `webmap_klik.py`, `eldamo_poisk.py`. PDF — `ext/venv-pdf`, `pdf2txt.py`; HTML — `html2txt.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
+- Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png` (остальное там же). PDF — `ext/venv-pdf` (есть pillow); HTML — `html2txt.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
 - Bash без одобрения отклоняет: `x=y` где угодно (и в аргументах — тогда файлом), heredoc + ещё команда, `&`/`2>&1`, переменные в `for`, `cd` с git (список — в `tehnika.md`). Отказ — сразу дробить, git по одной команде.
 - **Контекст — главный ресурс**: не Read целиком; длинное чтение — в начале; к концу ошибки идут во фразах-закруглениях.
 - «Появилось: inbox/…» — шум. `ext/` ≈ 1,4 ГБ (браузер, читалка HWPh, JRE — удалять первыми).
