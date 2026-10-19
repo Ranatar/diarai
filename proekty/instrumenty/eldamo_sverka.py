@@ -18,7 +18,10 @@ for m in re.finditer(r'<word\b[^>]*?\bl="([a-z]+)"[^>]*?\bv="([^"]+)"[^>]*?>', o
     if l not in LANG:
         continue
     g = re.search(r'gloss="([^"]*)"', m.group(0))
-    lex[v.lower().rstrip("¹²³⁴⁵⁶⁷⁸⁹")].append((LANG[l], g.group(1) if g else ""))  # омонимы lá³ → lá (2026-10-19)
+    key = v.lower().rstrip("¹²³⁴⁵⁶⁷⁸⁹")  # омонимы lá³ → lá (2026-10-19)
+    # Глаголы записаны с дефисом (linda-), а слова текста — без: до 2026-10-19 глаголы не находились вовсе,
+    # и «глагола linda- в Eldamo нет» ушло автору (perevod.md, pismo-avtoru-podrobno.md) — ложное «нет».
+    lex[key.rstrip("-")].append((LANG[l], (g.group(1) if g else "") + (" [гл.]" if key.endswith("-") else "")))
 
 
 def strip(s):
