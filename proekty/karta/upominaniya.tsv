@@ -786,7 +786,7 @@ Synthesises-of-concepts/various/generative-bugs-features-research.md	28881	бе�
 Synthesises-of-concepts/various/heidegger-noir-comic.md	30846	частично	дневник 2026-10-18-2120 (сравнение с dasein-noir-revised)	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/various/heraldic-language-guide.md	41240	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/various/heresies_table.md	26068	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
-Synthesises-of-concepts/various/imyaslavie_alternate_history.md	149462	упомянут, статус не поставлен		2	diary/2026-10-18-0842.md, notes/imyaslavie.md
+Synthesises-of-concepts/various/imyaslavie_alternate_history.md	149462	упомянут, статус не поставлен		3	diary/2026-10-18-0842.md, notes/imyaslavie.md, proekty/esse/vo-imya.md
 Synthesises-of-concepts/various/islam_controversy.md	301447	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/kartografiya_epistemologii.md	96204	не упомянут		0	
 Synthesises-of-concepts/various/leninist_madness_doctrine.md	32035	не упомянут		0	
@@ -832,7 +832,7 @@ Synthesises-of-concepts/wittgenstein-hesychasm/3 - dialogs-correspondence.md	279
 Synthesises-of-concepts/wittgenstein-hesychasm/4 - context-comparative-analysis.md	52523	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/5 - practical-exercises.md	40443	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/6 - bibliography-apocrypha.md	38039	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/7 - critical-perspectives.md	56421	не упомянут		0	
+Synthesises-of-concepts/wittgenstein-hesychasm/7 - critical-perspectives.md	56421	частично	дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими заглавиями — см. notes/karta-inbox.md)	2	diary/2026-10-19-2107.md, notes/karta-inbox.md
 Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	64936	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-19-2107	2	diary/2026-10-19-2107.md, diary/2026-10-18-1901.md
@@ -3841,7 +3841,7 @@ philosphaira/doc/build-ops.md	32290	не упомянут		0
 philosphaira/doc/build.md	46107	упомянут, статус не поставлен		3	~diary/2026-10-19-1207.md, ~notes/parmenid-levinas.md, ~proekty/instrumenty/elf_poisk.py
 philosphaira/doc/gaps-2026-08-27.md	14032	не упомянут		0	
 philosphaira/doc/github-pages.md	6558	не упомянут		0	
-philosphaira/doc/history.md	394332	упомянут, статус не поставлен		6	~diary/2026-10-19-0307.md, diary/2026-10-18-0842.md, notes/imyaslavie.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
+philosphaira/doc/history.md	394332	упомянут, статус не поставлен		7	~diary/2026-10-19-0307.md, diary/2026-10-18-0842.md, notes/imyaslavie.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md, proekty/esse/vo-imya.md
 philosphaira/doc/module-ops.md	9703	не упомянут		0	
 philosphaira/doc/plan-next.md	146125	не упомянут		0	
 philosphaira/doc/server-design.md	16489	не упомянут		0	
