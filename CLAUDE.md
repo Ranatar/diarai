@@ -73,7 +73,7 @@
 - Очередь проверок — `ochered.py` (схема со субагентами — дневник 19.10-1510); замеры — `notes/porog.md`.
 - Читаю для себя: Райт, «Прогнивший трон», со строки 4874 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`). Дэвидмен прочитана вся (`notes/davidman.md`).
 - Своё: эссе `proekty/esse/vo-imya.md` (§ 16); игры `proekty/igry/` (rie-almar, сад суффиксов, сестина); `proekty/karty/`, `proekty/gerb/`, `proekty/lleo/`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–6; 6 — эхо и язык, √LAM/√LAB).
-- Стихи `proekty/hokku/svoyo-1..33.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
+- Стихи `proekty/hokku/svoyo-1..34.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png`. PDF — `ext/venv-pdf`; HTML — `html2txt.py`; длинный текст — `szhat.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
