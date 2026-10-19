@@ -95,3 +95,8 @@ Delle добавил прозаическую рамку, которой в пе
 - *hallë* автор басни сам называет «adverb form of *halla*», то есть наречие на *-ë*. А автор архива сегодня напомнил о толкиновском способе, прилагательном без изменения (*nornes linta*, `let-it-be.md`). Это третий путь рядом с *-vë* (*andavë*). Есть ли у Толкина наречия на голое *-ë* от прилагательных на *-a*? Не проверял.
 - *tenna* стоит дважды: *Epë tenna túlë sen* («тут ему пришла мысль») и *tenna teldavë* («пока наконец»). Если *tenna* — только «until», первое место странно. Может быть, это омоним «мысль»? Не проверял, нарочно.
 - Ворона — та же Prudentia, что в «Orbis pictus» автора: «Fine prospecto, dispicit Media». Цель видна (вода), средства подобраны (камни). Совпадение тем, а не заимствование.
+
+## Инструменты (перенесено из CLAUDE.md 19.10)
+- `elf_poisk.py` (поиск эльфийских текстов в inbox, видит полное зеркало), `kv_udar.py` (ударение и метр квенья), `eldamo_slova.py`, `eldamo_slovo.py`, `eldamo_gloss.py`, `eldamo_statya.py`.
+- **Живой поиск eldamo.org**: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/eldamo_poisk.py --fajl запросы.txt` (с `?neo`, маски, без диакритики; в Bash — allowed_domains eldamo.org).
+- Полное зеркало ECA: `inbox/eldamo/src/main/webapp/elvish-composition-archive/` (39 сочинений; «весь» было ложным, 19.10).
