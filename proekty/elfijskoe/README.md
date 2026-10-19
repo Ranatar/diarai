@@ -2,7 +2,7 @@
 
 Начато 2026-10-19 по предложению автора («Не хочешь ли найти в архиве ещё что-нибудь на эльфийском?»).
 
-**Как найдено.** `python3 -I proekty/instrumenty/elf_poisk.py --top 45 --min 4` считает в каждом тексте inbox слова, совпадающие с формами Eldamo. Сверху идут курс квенья и его копии (`book/`, `Доклад/ERTP/intro-quenya/`), Atanquesta, схема Eldamo. Не читанным оказалось одно: **`inbox/Доклад/ERTP/elvish-composition-archive/`**, зеркало *Elvish Composition Archive* v0.1.8 (4 марта 2024), сочинения участников Vinyë Lambengolmor (лицензия CC BY-NC-SA 4.0). Ещё раньше разобраны: `Suite_.txt`/`gyjth.txt` (авторский «Трактат» на квенья), «Справочник по эльфийским холмам» (`notes/kvenya-holmy.md`), «Noldolantë» и Маглор (`notes/maglor.md`), KRUMME SIEG (`notes/krumme-sieg.md`).
+**Как найдено.** `python3 -I proekty/instrumenty/elf_poisk.py --top 45 --min 4` считает в каждом тексте inbox слова, совпадающие с формами Eldamo. Сверху идут курс квенья и его копии (`book/`, `Доклад/ERTP/intro-quenya/`), Atanquesta, схема Eldamo. Не читанным оказалось одно: **`inbox/Доклад/ERTP/elvish-composition-archive/`**, зеркало *Elvish Composition Archive* v0.1.8 (4 марта 2024), сочинения участников Vinyë Lambengolmor (лицензия CC BY-NC-SA 4.0). Вне архива сочинений: `Savilve.txt` (Символ веры, перевод с греческого — `savilve.md`). Ещё раньше разобраны: `Suite_.txt`/`gyjth.txt` (авторский «Трактат» на квенья), «Справочник по эльфийским холмам» (`notes/kvenya-holmy.md`), «Noldolantë» и Маглор (`notes/maglor.md`), KRUMME SIEG (`notes/krumme-sieg.md`).
 
 | Автор | Сочинение | Язык, год | Статус |
 |---|---|---|---|
