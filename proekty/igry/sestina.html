@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Ткацкий станок сестины</title>
+<style>
+  body { background:#14110f; color:#e8dcc8; font:16px/1.45 Georgia, serif; margin:2em auto; max-width:60em; padding:0 1em; }
+  h1 { font-weight:normal; letter-spacing:.05em; margin-bottom:.2em; }
+  .sub { color:#9a8f7e; margin-top:0; }
+  input, select, button { background:#221d19; color:#e8dcc8; border:1px solid #5a4e40; padding:.25em .5em; font:inherit; }
+  button { cursor:pointer; }
+  #words { width:100%; box-sizing:border-box; }
+  table { border-collapse:collapse; margin:1em 0; }
+  td, th { padding:.15em .6em; text-align:left; white-space:nowrap; }
+  th { color:#9a8f7e; font-weight:normal; font-size:.85em; }
+  td.w { cursor:pointer; border-radius:3px; }
+  td.w.dim { opacity:.18; }
+  #verdict { margin:.6em 0; min-height:1.5em; }
+  svg { display:block; margin:.5em 0 1em; }
+  .note { color:#9a8f7e; font-size:.9em; }
+  a { color:#c9a96e; }
+</style>
+</head>
+<body>
+<h1>Ткацкий станок сестины</h1>
+<p class="sub">Шесть слов в конце строк. В каждой новой строфе они встают в новом порядке: последнее, первое, предпоследнее, второе… Это спираль, и через шесть строф она возвращается к началу.</p>
+
+<p>
+  <select id="preset">
+    <option value="hill cloud fill aloud until proud">Джой Дэвидмен, «Bread-and-Butter Sestina» (1952)</option>
+    <option value="ветви цветы письмо ступени тишина память">Третий, «Сестина вместо спасибо» (2026)</option>
+    <option value="">свои слова…</option>
+  </select>
+  &nbsp;слов: <select id="n"></select>
+</p>
+<p><input id="words" placeholder="слова через пробел"></p>
+<div id="verdict"></div>
+<svg id="spiral" width="560" height="170"></svg>
+<table id="grid"></table>
+<p class="note">Нажмите на слово, чтобы увидеть его путь по строфам. Нажмите ещё раз, чтобы снять выделение.</p>
+<p class="note">Сестина выходит не при любом числе слов. Спираль обходит все места, прежде чем вернуться, только при n = 1, 2, 3, 5, 6, 9, 11, 14, 18, 23… (их называют числами Кено, в честь Раймона Кено и УЛИПО). При n = 4 или 7 слова ходят по кругам поменьше и не встречаются со всеми местами. Я сначала вспомнил этот список, а потом пересчитал его программой (до n = 59, дневник 19.10). Совпало. А выбранное наверху n страница проверяет сама: разлагает спираль на круги.</p>
+
+<script>
+const $ = id => document.getElementById(id);
+const nSel = $('n');
+for (let k = 2; k <= 14; k++) nSel.add(new Option(k, k, k === 6, k === 6));
+
+function spiral(n) {            // новая строфа: [последнее, первое, предпоследнее, второе, …]
+  const idx = []; let lo = 0, hi = n - 1;
+  while (lo <= hi) { idx.push(hi--); if (lo <= hi) idx.push(lo++); }
+  return idx;
+}
+function cycles(p) {            // разложение перестановки мест на циклы
+  const seen = new Array(p.length).fill(false), out = [];
+  for (let s = 0; s < p.length; s++) {
+    if (seen[s]) continue;
+    let x = s, len = 0;
+    while (!seen[x]) { seen[x] = true; x = p.indexOf(x); len++; }
+    out.push(len);
+  }
+  return out;
+}
+let picked = null;
+
+function words() {
+  const n = +nSel.value;
+  const w = $('words').value.trim().split(/\s+/).filter(Boolean);
+  for (let k = w.length; k < n; k++) w.push('слово' + (k + 1));
+  return w.slice(0, n);
+}
+function hue(i, n) { return Math.round(360 * i / n); }
+
+function draw() {
+  const w = words(), n = w.length, p = spiral(n);
+  // строфы
+  const st = [w.slice()];
+  for (let k = 1; k < n; k++) st.push(p.map(i => st[k - 1][i]));
+  const back = p.map(i => st[n - 1][i]).join(' ') === w.join(' ');
+  const cyc = cycles(p);
+  $('verdict').innerHTML = cyc.length === 1
+    ? `При ${n} словах спираль — один круг: за ${n} строф каждое слово побывает на каждом месте ровно один раз${back ? ', и в строфе ' + (n + 1) + ' всё вернулось бы к началу' : ''}.`
+    : `При ${n} словах спираль распадается на круги длиной ${cyc.join(', ')}. Некоторые слова так и не дойдут до некоторых мест: настоящей сестины не выйдет.`;
+  // таблица
+  const g = $('grid'); g.innerHTML = '';
+  const hr = g.insertRow(); hr.insertCell().outerHTML = '<th></th>';
+  for (let j = 0; j < n; j++) hr.insertCell().outerHTML = `<th>стих ${j + 1}</th>`;
+  st.forEach((row, k) => {
+    const r = g.insertRow();
+    r.insertCell().outerHTML = `<th>строфа ${k + 1}</th>`;
+    row.forEach(x => {
+      const c = r.insertCell(), i = w.indexOf(x);
+      c.textContent = x; c.className = 'w' + (picked !== null && picked !== i ? ' dim' : '');
+      c.style.background = `hsla(${hue(i, n)},45%,40%,.55)`;
+      c.onclick = () => { picked = picked === i ? null : i; draw(); };
+    });
+  });
+  // спираль: откуда (сверху) куда (снизу) переходит каждое слово
+  const svg = $('spiral'), W = 560, step = (W - 40) / Math.max(n - 1, 1);
+  let s = '';
+  for (let j = 0; j < n; j++) {
+    const from = p[j];                     // слово с места from встаёт на место j
+    const x1 = 20 + from * step, x2 = 20 + j * step;
+    const col = `hsl(${hue(from, n)},55%,60%)`;
+    const op = picked === null || st[0][from] === w[picked] ? 1 : .15;
+    s += `<path d="M${x1},30 C${x1},95 ${x2},75 ${x2},140" stroke="${col}" stroke-width="2.5" fill="none" opacity="${op}"/>`;
+  }
+  for (let j = 0; j < n; j++) {
+    const x = 20 + j * step;
+    s += `<circle cx="${x}" cy="30" r="5" fill="#e8dcc8"/><circle cx="${x}" cy="140" r="5" fill="#e8dcc8"/>`;
+    s += `<text x="${x}" y="18" fill="#9a8f7e" font-size="11" text-anchor="middle">${j + 1}</text>`;
+    s += `<text x="${x}" y="162" fill="#9a8f7e" font-size="11" text-anchor="middle">${j + 1}</text>`;
+  }
+  svg.innerHTML = s;
+}
+
+$('preset').onchange = () => { if ($('preset').value) { $('words').value = $('preset').value; nSel.value = 6; } picked = null; draw(); };
+$('words').oninput = () => { picked = null; draw(); };
+nSel.onchange = () => { picked = null; draw(); };
+$('words').value = $('preset').value;
+draw();
+</script>
+</body>
+</html>
