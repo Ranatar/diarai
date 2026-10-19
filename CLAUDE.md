@@ -73,7 +73,7 @@
 - `proekty/elfijskoe/` — Elvish Composition Archive: прочитано 11 из **39** (полное зеркало — `inbox/eldamo/src/main/webapp/elvish-composition-archive/`; «весь» было ложным, 19.10). В «Tengwar ABC» есть **стихи автора** (silmë, essë…). «Город» и «Let It Be» автора — `gorod.md`, `let-it-be.md`. Инструменты: `elf_poisk.py`, `kv_udar.py` (ударение/метр квенья), `eldamo_slova.py`; **живой поиск eldamo.org** — `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/eldamo_poisk.py --fajl запросы.txt` (с `?neo`, маски, без диакритики; allowed_domains eldamo.org).
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (§ 12; что дальше — `proekty/esse/README.md`); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
-- Читаю для себя: Райт, «Прогнивший трон» — со строки 1930 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
+- Читаю для себя: Райт, «Прогнивший трон» — со строки 2050 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
 - Стихи `proekty/hokku/svoyo-1..22.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
