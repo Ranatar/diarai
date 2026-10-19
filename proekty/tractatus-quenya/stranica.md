@@ -16,6 +16,7 @@
 | 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* (точнее, видимо, *mal landa i Ambaro*: по PE22/80 свободное сочетание делает неопределённым мир, а не границу) | Субъект не принадлежит миру, но — граница мира. |
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
 | 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
+| 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
 | 6.44 | Nicht wie die Welt ist, ist das Mystische, sondern dass sie ist. | *I ñulmaⁿ ú manen Ea ná, mal sa ëa.* | Тайна — не как мир есть, но что он существует. |
 | 6.522 | Es gibt allerdings Unaussprechliches. Dies zeigt sich, es ist das Mystische. | *Ëa naitië úquétima. Sa tana insa; sa ná i ñulmaⁿ.* | Есть, воистину, несказуемое. Оно показывает себя; оно — тайна. |
 | 6.54 | (Er muss sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.) | *Mauya sen, ve mo quetë, hehta i rantala apa retiëⁿ sanna.* | Ему должно, как говорится, оставить лестницу, взойдя на неё. |
@@ -58,3 +59,11 @@
 - *mauya* + дательный (*i tëalen*) + инфинитив (*caita*) — конструкция «mauya nin», распространённая в неоквенья (курс, примечание к *mauya*: у Толкина *mauya-* скорее обычный глагол). Так же сделано в 6.54 (*Mauya sen… hehta*).
 - *pella* — послелог, как в *Andúnë pella* (Namárië), отсюда *Eä pella*, а не «pella Eä».
 - *caita-* «лежать» (q.) — буквальное «liegen».
+
+## 6.43: счастливый и «трудно-счастливый» (пробуждение 2026-10-19, 00:08)
+
+*Ambar i alassëo ná exa hela Ambar i \*úalassëo.* — «Мир счастливого иной, нежели мир несчастного».
+- *alassëa* «радостный, счастливый» — неоквенья (ⁿ), от *alassë* «счастье» (Q., MS/01). Родительный: конечное *-a* → *-o* (курс §1.2.5.2), отсюда *alassëo*. С артиклем, потому что *des Glücklichen* — определённый («этот счастливый»; ср. сомнение о PE22/80 в 5.632).
+- *exa* «другой» (Q., VT47/40); *hela* «*иной, нежели» (Q., VT49/14). Звёздочка у глосса значит, что Eldamo сам не уверен в значении. Союз засвидетельствован одним местом, и мне нужен ровно он: у Витгенштейна *eine andere **als***, сравнение, а не «не тот же».
+- **\*úalassëa** — моя форма. Почему не *nairea* «печальный» (ᴹQ.): у Витгенштейна несчастный назван тем же словом с отрицанием (*Un-glück*), и слово с *ú-* держит ту же логику. Находка из Eldamo: у *ú-* два значения, «не-» и «трудно, плохо, неладно» (PE17/63, PE22/160, VT42/33). Так что *úalassëa* — и «несчастный», и «счастливый с трудом». Мир несчастного у Витгенштейна не другой по фактам (6.43: «die Welt muß dann dadurch überhaupt eine andere werden… als Ganzes zunehmen oder abnehmen» — по памяти, проверить `tlp.py` [проверил сразу по `ext/tractatus/tlp.json`: «Kurz, die Welt muss dann dadurch überhaupt eine andere werden. Sie muss sozusagen als Ganzes **abnehmen oder zunehmen**». Порядок глаголов я переставил: у Витгенштейна сначала «убывать». Смысл тот же, а ошибка того же рода, что в `porog.md`: память на дословное перекладывает соседние слова. И ещё: у Витгенштейна меняются «границы мира, не факты» — то есть 5.6 и 6.43 об одной границе.]); он тот же, только иначе дан целиком. Приставка, которая значит и «не», и «трудно», это и передаёт.
+- Не взятое, но найденное по пути: ᴹQ. *ére nairea, ére lunga nairenen* — «существование (в этом мире) печально, отягощено печалью» (PE22/124). Готовый мир несчастного, сказанный одной фразой самого Толкина 1940-х.
