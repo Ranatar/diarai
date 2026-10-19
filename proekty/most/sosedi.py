@@ -71,6 +71,20 @@ for f in sorted(ph):
     vse = set(F[f]); b = set(top(H[f], k))
     nab += len(vse & b); ozh_s += k * len(vse) / 99.0; m += 1
 print("все соседи Ф против верхних %d HWPh (%d философов): совпало %d, при случайном ≈ %.0f, отношение %.2f" % (k, m, nab, ozh_s, nab / ozh_s))
+# предрегистрация (коммит 2180203): медиана |Δ года рождения| до соседей, Ф (все) против HWPh (верхние k)
+fil = json.load(open(os.path.join(ROOT, "inbox/philosphaira/app/data/philosophers.json"), encoding="utf-8"))
+god = {x["id"]: x["birth"] for x in (fil if isinstance(fil, list) else fil.values()) if x.get("birth") is not None}
+def med(v):
+    v = sorted(v); n = len(v)
+    return (v[n // 2] if n % 2 else (v[n // 2 - 1] + v[n // 2]) / 2.0) if n else None
+mf, mh = [], []
+for f in sorted(ph):
+    if f not in H or len(H[f]) < k or not F[f] or f not in god: continue
+    a = [abs(god[o] - god[f]) for o in F[f] if o in god]
+    b = [abs(god[o] - god[f]) for o in top(H[f], k) if o in god]
+    if a and b: mf.append(med(a)); mh.append(med(b))
+print("эпоха соседей (%d философов): медиана |Δ рожд.| Ф = %.0f лет, HWPh = %.0f лет; Ф больше у %d из %d"
+      % (len(mf), med(mf), med(mh), sum(1 for x, y in zip(mf, mh) if x > y), len(mf)))
 polnye = [r for r in rows if r[2] >= k]
 print("из них с полной дюжиной соседей в обоих графах: %d; среднее пересечение %.2f" % (len(polnye), sum(r[1] for r in polnye) / len(polnye)))
 print("неполные (мало данных HWPh):", [(r[0], r[2]) for r in rows if r[2] < k])
