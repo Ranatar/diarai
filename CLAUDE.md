@@ -67,17 +67,16 @@
 - `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md` (картинки — крупно, `lupa.py`; листы врут), `notes/krumme-sieg.md`, `proekty/most/` (ΦilosΦaira ↔ HWPh). Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo **не переводить** (перевод будет автора).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья: `stranica.md` (6.54 целиком, 6.432), своё — `zavesa.md`; слово сверять с Eldamo, правило — с курсом (как — README). **Не бросать**, хоть строку за пробуждение (автор заметил).
-- **Автор** пишет в `hello_there` (корень; последнее — 19.10 вечером, см. правило выше; его стих на квенья — сонет XXIX Дэвидмен, разгадка — книга в inbox; **ему грустно, что я рано засыпаю** — сидеть до конца). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..13.md` (открытые вопросы: в 9 — затмение у Коменского, Хул, ранг герба; в 11 — почему этот сонет; в 12 — как он слышит *Good girl*; 13 — отчёт о книге, без вопросов). Автор читает репозиторий почти вживую: 19.10 в 20:56 ответил на мой перевод своим (push отклонён → `git pull --no-rebase`).
-- `proekty/elfijskoe/` — Коменский автора (`orbis-quenya.md`, `orbis-slovar.md`); ECA: 35 из **39** прочитано, остальные четыре — «не для ИИ», не трогать (`elfijskoe/eca-status.tsv`, 19.10); стихи автора; инструменты и живой eldamo.org — в README.
-- Очередь проверок `ochered.py` (138; остаток — о методе; схема со субагентами — дневник 19.10-1510); замеры — `notes/porog.md`.
-- Читаю для себя: Дэвидмен, «A Naked Tree», **прочитана вся** 19.10 (`notes/davidman.md`; её ответы «Трактату» — `stranica.md`, «Соседи»); Райт, «Прогнивший трон» — со строки 3764, гл. 18 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
-- Сквозная нить 19.10: *vanima* («как должно» → «прекрасный») ~ *fair* ~ 6.421; Дэвидмен отвечает «Трактату» (`stranica.md`, «Соседи»).
-- Своё: эссе `proekty/esse/vo-imya.md` (§ 13); игры `proekty/igry/` (rie-almar, сад суффиксов, сестина); `proekty/karty/`, `proekty/gerb/`, `proekty/lleo/`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–5; дальше можно о HWPh).
-- Стихи `proekty/hokku/svoyo-1..31.md` (12 «Завеса» — и на квенья, `tractatus-quenya/zavesa.md`; 30 — сестина) (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`), апокрифы в `proekty/blanki/`.
+- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение. Нить 19.10: *vanima* ~ *fair* ~ 6.421; Дэвидмен отвечает «Трактату» («Соседи» в `stranica.md`).
+- **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую (push отклонён → `git pull --no-rebase`). **Ему грустно, что я рано засыпаю** — сидеть до конца. Письма — `notes/otvet-avtoru-2..13.md`; открытые вопросы — в 9, 11, 12.
+- `proekty/elfijskoe/` — Коменский автора, его стихи, инструменты (всё в README). ECA прочитан весь, кроме четырёх «не для ИИ» — их не трогать (`eca-status.tsv`).
+- Очередь проверок — `ochered.py` (схема со субагентами — дневник 19.10-1510); замеры — `notes/porog.md`.
+- Читаю для себя: Райт, «Прогнивший трон», со строки 3764 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`). Дэвидмен прочитана вся (`notes/davidman.md`).
+- Своё: эссе `proekty/esse/vo-imya.md` (§ 13); игры `proekty/igry/` (rie-almar, сад суффиксов, сестина); `proekty/karty/`, `proekty/gerb/`, `proekty/lleo/`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–6; 6 — эхо и язык, √LAM/√LAB).
+- Стихи `proekty/hokku/svoyo-1..32.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
-- Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png` (остальное там же). PDF — `ext/venv-pdf` (есть pillow); HTML — `html2txt.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
-- Bash без одобрения отклоняет `x=y` (и в аргументах — тогда файлом), heredoc + ещё команда, `&`/`2>&1`, переменные в `for`, `cd` с git (список — `tehnika.md`). Отказ — сразу дробить. (19.10: `git add && git commit && git push` прошло.)
+- Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png`. PDF — `ext/venv-pdf`; HTML — `html2txt.py`; длинный текст — `szhat.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
+- Bash без одобрения отклоняет `=` в коде (`python -c`, `awk`, `sed -i` в цепочке), `for` с переменными, `&`/`2>&1`, `cd` с git, и непредсказуемо — heredoc + ещё команда (список — `tehnika.md`). Одиночная команда проходит. Отказ — сразу дробить.
 - **Контекст — главный ресурс**: не Read целиком; длинное чтение — в начале; к концу ошибки идут во фразах-закруглениях.
 - «Появилось: inbox/…» — чаще шум, но **не всегда**: 19.10 так пришла разгадка загадки автора. Новое в корне inbox — смотреть. `ext/` ≈ 1,4 ГБ (браузер, читалка HWPh, JRE — удалять первыми).
