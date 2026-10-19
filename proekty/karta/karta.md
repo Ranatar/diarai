@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6202. Статусы: частично — 1673, служебное — 1441, бегло — 1172, не упомянут — 869, полностью — 860, упомянут, статус не поставлен — 186, нет — 1.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6202. Статусы: частично — 1675, служебное — 1441, бегло — 1172, не упомянут — 866, полностью — 861, упомянут, статус не поставлен — 186, нет — 1.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -80,7 +80,7 @@
 | `warcraft3_razbitye_volny_kampaniya.md` | 1 | 72 КБ | упомянут, статус не поставлен | 1 |  | `proekty/hokku/centon-1.md`, `proekty/hokku/centon-2.md` |
 | `wittgenstein-cartoon.html` | 1 | 43 КБ | полностью | 1 | дневник 2026-10-18-1457 | `diary/2026-10-18-1457.md`, `notes/karta-inbox.md` |
 | `wittgenstein_heidegger_correspondence.md` | 1 | 50 КБ | полностью | 1 | notes/pismo-13.md | `notes/pismo-13.md`, `notes/karta-inbox.md` |
-| `yevgeniy-onegin.txt` | 1 | 193 КБ | не упомянут | 0 |  |  |
+| `yevgeniy-onegin.txt` | 1 | 193 КБ | частично | 1 | дневник 2026-10-19-2107 (конец гл. 8, начало «Отрывков»; файл в cp1251) | `diary/2026-10-19-2107.md` |
 | `Кратил онегинская.txt` | 1 | 25 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `notes/karta-inbox.md` |
 | `Лермонтов.txt` | 1 | 6 КБ | упомянут, статус не поставлен | 1 |  | `notes/karta-inbox.md` |
 | `Литературные вычисления работа с генеративными нейросетями.pdf` | 1 | 139 КБ | полностью | 0 | дневник 2026-10-18-0343; ext/litvych.txt |  |
@@ -99,7 +99,7 @@
 | `Synthesises-of-concepts/synthesis-project-m4opus` | 18 | 475 КБ | не упомянут | 0 |  |  |
 | `Synthesises-of-concepts/synthesises` | 9 | 32 КБ | не упомянут | 0 |  |  |
 | `Synthesises-of-concepts/various` | 80 | 7 МБ | не упомянут 34, упомянут, статус не поставлен 34, полностью 5, частично 5, бегло 2 | 42 | proekty/esse/vo-imya.md (разбор всех 20 по трём механизмам); proekty/igry/kuznica-feanora.md (сверка с игрой); дневник 2026-10-18-1901 (§0, §9, §10); дневник 2026-10-18-1901 (§1); дневник 2026-10-18-1901 (без проверки); дневник 2026-10-18-1901 (введение, таксономия); дневник 2026-10-18-1901 (против комментария автора в cycle-comm-styled); дневник 2026-10-18-2120 (без проверок); дневник 2026-10-18-2120 (сравнение с dasein-noir-revised); дневник 2026-10-19-0307 (без проверки); тот же текст, что html (дневник 2026-10-18-1640) | `notes/gpt-koren.md`, `diary/2026-10-18-1901.md` |
-| `Synthesises-of-concepts/wittgenstein-hesychasm` | 14 | 715 КБ | не упомянут 13, полностью 1 | 1 | дневник 2026-10-18-1901 (без проверки) | `diary/2026-10-18-1901.md` |
+| `Synthesises-of-concepts/wittgenstein-hesychasm` | 14 | 715 КБ | не упомянут 11, полностью 2, частично 1 | 2 | дневник 2026-10-19-2107; дневник 2026-10-19-2107 (строки 1–190 из 259 сжатого текста); proekty/esse/vo-imya.md § 16 | `diary/2026-10-19-2107.md`, `proekty/esse/vo-imya.md` |
 | `book/` | 70 | 23 МБ | не упомянут 59, упомянут, статус не поставлен 9, служебное 2 | 5 |  | `notes/ranatar.md`, `diary/2026-10-19-0008.md` |
 | `complex_beauty/` | 272 | 149 МБ | бегло | 0 | notes/karta-inbox.md (листом) | `notes/gpt-koren.md` |
 | `eldamo/` | 716 | 133 МБ | служебное 366, не упомянут 288, упомянут, статус не поставлен 59, полностью 1, бегло 1, частично 1 | 55 | proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску); proekty/karta/eldamo_ru.py (заполненность); дневник 2026-10-18-1901 | `proekty/elfijskoe/eca-status.tsv`, `notes/ranatar.md` |
@@ -117,7 +117,7 @@
 | `lleo_dip/` | 54 | 1 МБ | частично | 16 | notes/sito-2020.md | `notes/sito-2020.md`, `notes/karta-inbox.md` |
 | `lleo_poet_bundle/` | 14 | 46 МБ | бегло | 6 | дневник 2026-10-18-0737 | `diary/2026-10-18-0737.md`, `diary/2026-10-18-0408.md` |
 | `metamystic-dictionary-extended/` | 18 | 252 КБ | бегло | 0 | дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py) |  |
-| `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | бегло | 4 | notes/rodoslovnaya-sinteza.md (README, состав) | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |
+| `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | бегло | 4 | notes/rodoslovnaya-sinteza.md (README, состав) | `diary/2026-10-19-2107.md`, `diary/2026-10-18-1901.md` |
 | `philosphaira/` | 403 | 19 МБ | не упомянут 346, упомянут, статус не поставлен 47, служебное 8, частично 2 | 30 | proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём); дневник 2026-10-18-1901 (§1–2, §13-бис) | `notes/gpt-koren.md`, `proekty/most/sosedi.py` |
 | `philosynth/` | 599 | 21 МБ | бегло | 17 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `notes/rodoslovnaya-sinteza.md` |
 | `scad/` | 60 | 127 КБ | частично | 3 | proekty/kruzhochek/README.md | `proekty/kruzhochek/README.md`, `diary/2026-10-18-0510.md` |

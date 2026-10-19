@@ -73,7 +73,7 @@ warcraft3_new_races.md	113330	упомянут, статус не поставл
 warcraft3_razbitye_volny_kampaniya.md	73399	упомянут, статус не поставлен		2	proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
 wittgenstein-cartoon.html	44025	полностью	дневник 2026-10-18-1457	2	diary/2026-10-18-1457.md, notes/karta-inbox.md
 wittgenstein_heidegger_correspondence.md	51179	полностью	notes/pismo-13.md	3	notes/pismo-13.md, notes/karta-inbox.md, proekty/hokku/centon-1.md
-yevgeniy-onegin.txt	197253	не упомянут		0	
+yevgeniy-onegin.txt	197253	частично	дневник 2026-10-19-2107 (конец гл. 8, начало «Отрывков»; файл в cp1251)	1	diary/2026-10-19-2107.md
 Кратил онегинская.txt	25976	полностью	notes/sito-2020.md	2	notes/sito-2020.md, notes/karta-inbox.md
 Лермонтов.txt	5748	упомянут, статус не поставлен		1	notes/karta-inbox.md
 Литературные вычисления работа с генеративными нейросетями.pdf	141902	полностью	дневник 2026-10-18-0343; ext/litvych.txt	0	
@@ -825,17 +825,17 @@ Synthesises-of-concepts/various/vladenie_i_raspredelenie_istiny.md	22840	не у
 Synthesises-of-concepts/various/wishspec-2026-03-05-Хочу-обрести-возможность-умирать-по-собс.md	131881	бегло	дневник 2026-10-18-1901 (§1)	0	
 Synthesises-of-concepts/wittgenstein-hesychasm/1- wittgenstein-biography.md	24194	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/10 - interdisciplinary-applications.md	69731	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/11 - literary-elements.md	77226	не упомянут		0	
+Synthesises-of-concepts/wittgenstein-hesychasm/11 - literary-elements.md	77226	частично	дневник 2026-10-19-2107 (строки 1–190 из 259 сжатого текста); proekty/esse/vo-imya.md § 16	2	diary/2026-10-19-2107.md, proekty/esse/vo-imya.md
 Synthesises-of-concepts/wittgenstein-hesychasm/12 - contemporary-scholarship.md	81376	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	96454	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/3 - dialogs-correspondence.md	27923	не упомянут		0	
+Synthesises-of-concepts/wittgenstein-hesychasm/3 - dialogs-correspondence.md	27923	полностью	дневник 2026-10-19-2107	0	
 Synthesises-of-concepts/wittgenstein-hesychasm/4 - context-comparative-analysis.md	52523	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/5 - practical-exercises.md	40443	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/6 - bibliography-apocrypha.md	38039	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/7 - critical-perspectives.md	56421	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	64936	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки)	1	diary/2026-10-18-1901.md
+Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-19-2107	2	diary/2026-10-19-2107.md, diary/2026-10-18-1901.md
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	22587	не упомянут		0	
 book/README.md	25791	упомянут, статус не поставлен		34	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 book/build.bat	116	не упомянут		0	
@@ -3576,9 +3576,9 @@ philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/v
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	39	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, notes/imyaslavie.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	41	diary/2026-10-18-1457.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	3	proekty/most/sosedi.py, proekty/most/nichya.py, proekty/most/README.md
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	37	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, notes/imyaslavie.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	39	diary/2026-10-18-1457.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/api-tests/api-test-template.js	15864	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/clients/service-client-template.js	13642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
@@ -3660,7 +3660,7 @@ philosphaira/app/css/08-stats-results.css	14974	не упомянут		0
 philosphaira/app/css/09-tension.css	5959	не упомянут		0	
 philosphaira/app/css/10-forms.css	16654	не упомянут		0	
 philosphaira/app/css/11-multiuser.css	12339	не упомянут		0	
-philosphaira/app/data/concepts.json	957366	упомянут, статус не поставлен		39	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, notes/imyaslavie.md
+philosphaira/app/data/concepts.json	957366	упомянут, статус не поставлен		41	diary/2026-10-18-1457.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 philosphaira/app/data/nodePositions.json	36219	не упомянут		0	
 philosphaira/app/data/philosophers.json	463934	упомянут, статус не поставлен		4	proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/most/sosedi.py, ~proekty/most/most.py
 philosphaira/app/data/relationTypes.json	3108	упомянут, статус не поставлен		1	proekty/sverka-wikidata/sverka.py
@@ -3948,7 +3948,7 @@ philosphaira/server/src/db/verifications.js	1388	не упомянут		0
 philosphaira/server/src/graph/footnotes.js	7593	не упомянут		0	
 philosphaira/server/src/graph/impact.js	6261	не упомянут		0	
 philosphaira/server/src/graph/layout.js	9157	не упомянут		0	
-philosphaira/server/src/graph/read.js	4018	упомянут, статус не поставлен		9	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~proekty/most/sosedi.py, ~proekty/most/most.py, ~proekty/most/nichya.py, ~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/graf_test5.py
+philosphaira/server/src/graph/read.js	4018	упомянут, статус не поставлен		10	~diary/2026-10-19-2107.md, ~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~proekty/most/sosedi.py, ~proekty/most/most.py, ~proekty/most/nichya.py, ~proekty/rody-oshibok/graf_vyborka.py
 philosphaira/server/src/graph/relayout-service.js	5829	не упомянут		0	
 philosphaira/server/src/graph/schema.js	8253	не упомянут		0	
 philosphaira/server/src/graph/text-rules.js	4490	не упомянут		0	
@@ -4828,7 +4828,7 @@ wormlisp/src/io/package.lisp	1493	частично	proekty/cherv/README.md (за
 wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	32	~diary/2026-10-19-1207.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-19-0607.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-1901.md, ~diary/2026-10-18-0408.md
 wormlisp/src/ir/derivative.lisp	5033	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	8	~diary/2026-10-18-0510.md, ~proekty/lleo/poet.py, ~proekty/lleo/korpus-tretij.txt, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/eldamo_poisk.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
-wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	17	~diary/2026-10-19-0607.md, ~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md, ~proekty/sverka-wikidata/put.py
+wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	18	~diary/2026-10-19-2107.md, ~diary/2026-10-19-0607.md, ~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md
 wormlisp/src/ir/package.lisp	1728	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/primitives.lisp	6250	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/params/catalog.lisp	15836	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
