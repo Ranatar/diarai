@@ -15,7 +15,7 @@
 | *Ostosse tarwa* | *osto* + -ssë (местный п.); *tarwa* нQ «garden, enclosure» | А в городе том сад |
 | *Sa quanta oloso* | *quanta* «full, filled» + род. п.; *olos¹* «inflorescence, **mass of flowers**» | всё травы да цветы |
 | *Ar patar tasse lamani* | *pata-* «to walk, *stroll» (аорист мн. ч. -r); *tasse* ᴹQ «there»; *laman* «animal», мн. ч. | гуляют там животные |
-| *Ilvanye nassento* | *il-* ᴹQ/ᴱQ «не-, un-»; *nassë* «nature, true-being» — разобрано не до конца | невиданной красы |
+| *Ilvanye nassento* | *ilvan(y)a* Q «perfect» (PE17/150), мн. ч. *-ë*; *nassë* «nature, true-being» + *-nta* «their» (PE17/57) + род. п. *-o* (как *Varda → Vardo*) | невиданной красы → «совершенные своей сущностью» |
 | *Ve runya nárefinda rá min* | *ve* «as, like»; *runya* «fiery red»; *nár* «fire» + *finda* «-haired»; *rá* «lion»; *min* «one, the first» | одно — как рыжий огнегривый лев |
 | *Ar tatya mundo quanta hendion* | *tatya* «second»; *mundo* «bull, ox»; *hen* «eye», род. мн. | другое — вол, исполненный очей |
 | *Nelya soron malina menelwa* | *nelya* «third»; *soron* «eagle»; *malina* «yellow, of golden colour»; *menelwa* нQ «heavenly» | с ними золотой орёл небесный |
@@ -37,6 +37,6 @@
 - *Ve runya… rá min / tatya mundo / nelya soron*: «одно / другое / с ними» у Волохонского стало счётом «первый, второй, третий», как у Иезекииля и в Откр. 4:7 («первое животное подобно льву, второе подобно тельцу… четвёртое подобно орлу летящему»; по памяти). Четвёртого, с лицом человека, нет ни у Волохонского, ни у автора.
 
 ## Не разобрал (вопросы автору)
-- *Ilvanye nassento*: *il-* как отрицание есть только в ᴹQ/ᴱQ. Что такое *-vanye* и падеж *-nto*?
+- ~~*Ilvanye nassento*: *il-* как «не-»?~~ **Снято**: *ilvanyë* — мн. ч. от *ilvan(y)a* «perfect» (PE17/150), а не *il-* + что-то. `eldamo_slova.py` сначала дал «—», потому что заголовок записан со скобкой; инструмент исправлен. *nassento* = *nassë-nta-o*, «их сущности». Как «невиданной красы» стало «совершенные по своей сущности»: русское «невиданной» — о том, как животные выглядят для нас, а квенья говорит о том, каковы они сами. Сочетание *-nta* с родительным *-o* я вывел сам, примера *-nto* у Толкина не искал (`gde_ref.py` нашёл только числительные вроде *leminto* и *omotunto*).
 - ~~*lat'*: что за элизией?~~ **Снято** (в тот же час, по статье *caita-*): ᴹQ *lat-* «to be situated (of an area), lie (of lands or regions)», *láta* «lies» (PE22/126). *I silma osto lat'* — «серебряный город расположен», *Ostosse tarwa lat'* — «в городе лежит сад». По тому же PE22/126 Толкин говорит, что города «сидят» или «стоят», а «лежат» области. Для сада это точно, для города — вольность. Спросить, видел ли автор это место.
 - ~~*Lá* в первой строке: … предлог другой~~. **Поправка:** Q *lá²* prep «beyond, across, athwart, over» есть. Мой `grep 'v="lá²"'` его не нашёл: в этой статье атрибуты идут в другом порядке, поэтому был ложный «нет» по одному ключу. `eldamo_gloss.py '^beyond|^over'` нашёл. Падеж после *lá* (*helleo*, род. п.?) не проверял.

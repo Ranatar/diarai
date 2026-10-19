@@ -16,7 +16,12 @@ for m in re.finditer(r'<word\b([^>]*)>', xml):
     v0 = a.get("v", "")
     # надстрочные номера омонимов (-sta¹, -sta²…) не мешают: ложное «нет» 2026-10-19 вышло именно так
     v = v0.rstrip("¹²³⁴⁵⁶⁷⁸⁹")
-    if v in want and a.get("l") in langs:
-        seen.setdefault(v, []).append("%s %s «%s»" % (a["l"], v0, (a.get("ngloss") or a.get("gloss", ""))[:70]))
+    # необязательные буквы в скобках: ilvan(y)a — это и ilvana, и ilvanya (19.10, 09:07: «—» на ilvanya, а статья есть)
+    forms = {v}
+    if "(" in v:
+        forms = {re.sub(r"\(([^)]*)\)", r"\1", v), re.sub(r"\([^)]*\)", "", v)}
+    if a.get("l") in langs:
+        for f in forms & want:
+            seen.setdefault(f, []).append("%s %s «%s»" % (a["l"], v0, (a.get("ngloss") or a.get("gloss", ""))[:70]))
 for w in args:
     print("%-12s %s" % (w, "; ".join(seen.get(w, ["—"])[:3])))

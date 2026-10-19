@@ -18,7 +18,10 @@ for lang in langs:
         a = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
         # омонимы с надстрочным номером (-sta¹, -eg¹) печатаются все, если номер не указан; 2026-10-19 — два ложных «нет» из-за этого
         av = a.get("v", "")
-        if (av != v and av.rstrip("¹²³⁴⁵⁶⁷⁸⁹") != v) or a.get("l") != lang:
+        # и необязательные буквы в скобках: ilvan(y)a находится и по ilvanya, и по ilvana (19.10; 524 таких заголовка)
+        base = av.rstrip("¹²³⁴⁵⁶⁷⁸⁹")
+        forms = {av, base, re.sub(r"\(([^)]*)\)", r"\1", base), re.sub(r"\([^)]*\)", "", base)}
+        if v not in forms or a.get("l") != lang:
             continue
         found = True
         # конец статьи: следующий <word на том же или меньшем отступе.
