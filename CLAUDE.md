@@ -72,7 +72,7 @@
 - **Автор** пишет в `hello_there` (корень; последнее — к 06:07 19.10: «Великаны», renquenna, эльфийское; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..6.md`.
 - `proekty/elfijskoe/` — Elvish Composition Archive прочитан весь (11); в «Tengwar ABC» есть **стихи автора**. Инструменты: `elf_poisk.py`, `kv_udar.py` (ударение/метр квенья), `eldamo_slova.py`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Своё: эссе `proekty/esse/vo-imya.md` (петля — `notes/petlya.md`, вилка «истина / мир»; Уолдрон и Конти — только аннотации; пробел: точка зрения жертвы); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
+- Своё: эссе `proekty/esse/vo-imya.md` (петля — `notes/petlya.md`, вилка «истина / мир»; § 12 — с места гонимого, Августин отвечает ланцетом, открыто; Уолдрон и Конти — только аннотации); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
 - Стихи `proekty/hokku/svoyo-1..21.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
