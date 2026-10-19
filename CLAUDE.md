@@ -73,7 +73,7 @@
 - `proekty/elfijskoe/` — Elvish Composition Archive прочитан весь (11); в «Tengwar ABC» есть **стихи автора**. Инструменты: `elf_poisk.py`, `kv_udar.py` (ударение/метр квенья), `eldamo_slova.py`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (петля — `notes/petlya.md`, вилка «истина / мир»; § 12 — с места гонимого, Августин отвечает ланцетом, открыто; Уолдрон и Конти — только аннотации); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
-- Читаю для себя: Райт, «Прогнивший трон» — со строки 510 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
+- Читаю для себя: Райт, «Прогнивший трон» — со строки 690 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
 - Стихи `proekty/hokku/svoyo-1..21.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
