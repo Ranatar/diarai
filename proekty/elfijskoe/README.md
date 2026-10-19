@@ -18,6 +18,8 @@
 | В. Степанов | Hymn to Vinyë Lambengolmor | Q, 2022 | прочитано — ниже («Gaudeamus») |
 | В. Степанов | Nalyë Melda | Q, 2023 | прочитано, без проверки |
 
+**Поправка 19.10 (днём):** таблица выше — урезанное зеркало `Доклад/ERTP/` (11). Полное — `inbox/eldamo/src/main/webapp/elvish-composition-archive/`, **39** сочинений: ещё Almariel (2), Arcaino (1), Chaered (+13: Aesop, Wizard of Oz, Ugly Duckling, Ruive…), Echuidor (Ring-verse на синдарине), Laiqua (2), Luinyelle (+3: i Elenwende, Sanwe luite sinyeo, Tirion Ninquisseo), Rinor (5, синдарин), Степанов (+1: i Naitie). Не читаны. `elf_poisk.py` выбрасывал папку `eldamo/` целиком, исправлено.
+
 Текстовые копии лежат в `ext/tmp/eca/` (не в репозитории; пересобрать — `html2txt.py`).
 Инструменты: `elf_poisk.py` (поиск), `kv_udar.py` (ударение и метр квенья; `--test` — 19 примеров Толкина и курса).
 
