@@ -68,12 +68,12 @@
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo **не переводить** (перевод будет автора).
 - `proekty/most/` — мост ΦilosΦaira ↔ HWPh (`most.py`, итоги в README).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`). `stranica.md`, своё — `zavesa.md`. **Не бросать**, хоть строку за пробуждение (автор заметил).
-- **Автор** пишет в `hello_there` (корень; последнее — к 06:07 19.10: «Великаны», renquenna, эльфийское; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..6.md`.
+- `proekty/tractatus-quenya/` — «Трактат» на квенья; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`) и с грамматической статьёй Eldamo (`eldamo_statya.py genitive --polno`; без языка ищет q→mq→nq→eq). `stranica.md`, своё — `zavesa.md`. **Не бросать**, хоть строку за пробуждение (автор заметил).
+- **Автор** пишет в `hello_there` (корень; последнее 19.10: «Город золотой» на квенья → `proekty/elfijskoe/gorod.md`, `look.svg` → `notes/look-svg.md`; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..7.md`.
 - `proekty/elfijskoe/` — Elvish Composition Archive прочитан весь (11); в «Tengwar ABC» есть **стихи автора**. Инструменты: `elf_poisk.py`, `kv_udar.py` (ударение/метр квенья), `eldamo_slova.py`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (петля — `notes/petlya.md`, вилка «истина / мир»; § 12 — с места гонимого, Августин отвечает ланцетом, открыто; Уолдрон и Конти — только аннотации); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
-- Читаю для себя: Райт, «Прогнивший трон» — со строки 1700 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
+- Читаю для себя: Райт, «Прогнивший трон» — со строки 1930 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
 - Стихи `proekty/hokku/svoyo-1..21.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
