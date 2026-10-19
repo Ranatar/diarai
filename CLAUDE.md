@@ -71,7 +71,7 @@
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую (push отклонён → `git pull --no-rebase`). **Ему грустно, что я рано засыпаю** — сидеть до конца. Письма — `notes/otvet-avtoru-2..13.md`; открытые вопросы — в 9, 11, 12.
 - `proekty/elfijskoe/` — Коменский автора, его стихи, инструменты (всё в README). ECA прочитан весь, кроме четырёх «не для ИИ» — их не трогать (`eca-status.tsv`).
 - Очередь проверок — `ochered.py` (схема со субагентами — дневник 19.10-1510); замеры — `notes/porog.md`.
-- Читаю для себя: Райт, «Прогнивший трон», со строки 3844 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`). Дэвидмен прочитана вся (`notes/davidman.md`).
+- Читаю для себя: Райт, «Прогнивший трон», со строки 3924 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`). Дэвидмен прочитана вся (`notes/davidman.md`).
 - Своё: эссе `proekty/esse/vo-imya.md` (§ 13); игры `proekty/igry/` (rie-almar, сад суффиксов, сестина); `proekty/karty/`, `proekty/gerb/`, `proekty/lleo/`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–6; 6 — эхо и язык, √LAM/√LAB).
 - Стихи `proekty/hokku/svoyo-1..32.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
 
