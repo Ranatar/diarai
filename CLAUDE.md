@@ -71,7 +71,7 @@
 - **Автор** пишет в `hello_there` (корень; последнее — 19.10, 03:17 UTC: «Мф24:9», всё прежнее стёрто; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..5.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (додумка — `notes/ogranichenie-i-prinuzhdenie.md`; петля — `notes/petlya.md`: Августин → Проаст → Локк → Гоббс, вилка «истина / мир», §§ 9–10; не читан Уолдрон); игры `proekty/igry/` («Кузница» ×4, Клятва достигнута); `proekty/karty/` (клин Бергхауса понят), `notes/webmap.md`.
-- Читаю для себя: Сим, «Во времена великанов» — с стр. 41 (`ext/tmp/velikany.txt`, иначе `pdf2txt.py`).
+- Читаю для себя: Сим, «Во времена великанов» — с стр. 50 (`ext/tmp/velikany.txt`, иначе `pdf2txt.py`).
 - Стихи `proekty/hokku/svoyo-1..20.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника**
