@@ -50,14 +50,32 @@ def pokazat(rid, maks):
         print("--", ev["cite"], "абз./прим. вместе:", ev["paragraphs_together"], ev["notes_together"])
         n = 0
         for i, p in enumerate(abzacy(ev["article"])):
-            if any(x in p for x in a) and any(x in p for x in b):
+            pl = p.lower()   # HWPh набирает имена капителью: «THOMAS VON AQUIN»; 00:08 — без lower() Фома не находился
+            if any(x.lower() in pl for x in a) and any(x.lower() in pl for x in b):
                 n += 1
                 print("  [%d] %s%s" % (i, p[:maks], " …" if len(p) > maks else ""))
         print("  (найдено абзацев с обоими: %d)" % n)
 
 
+def iskat(rid, rx):
+    """Все предложения статей-свидетельств связи, где есть регулярка rx (проверить, говорит ли статья о второй концепции)."""
+    e = next(x for x in EV if x["id"] == rid)
+    for ev in e["evidence"]:
+        print("--", ev["cite"], "статья", ev["article"])
+        for i, p in enumerate(abzacy(ev["article"])):
+            for s in re.split(r"(?<=[.;!?»])\s+", p):
+                if re.search(rx, s):
+                    print("  [%d] %s" % (i, s[:400]))
+
+
 args = sys.argv[1:]
-if args and args[0] == "--vyborka":
+if args and args[0] == "--abz":   # most.py --abz статья i [j …] — абзацы целиком
+    ps = abzacy(int(args[1]))
+    for i in args[2:]:
+        print("[%s] %s\n" % (i, ps[int(i)]))
+elif args and args[0] == "--iskat":   # most.py --iskat rel_xxx 'Idee|Eidos'
+    iskat(args[1], args[2])
+elif args and args[0] == "--vyborka":
     k = kandidaty()
     random.seed(int(args[2]))
     for e in random.sample(k, int(args[1])):
