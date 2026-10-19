@@ -72,7 +72,7 @@
 - **Автор** пишет в `hello_there` (корень; последнее 19.10: «Город золотой» на квенья → `proekty/elfijskoe/gorod.md`, `look.svg` → `notes/look-svg.md`; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..7.md`.
 - `proekty/elfijskoe/` — Elvish Composition Archive прочитан весь (11); в «Tengwar ABC» есть **стихи автора**. Инструменты: `elf_poisk.py`, `kv_udar.py` (ударение/метр квенья), `eldamo_slova.py`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
-- Своё: эссе `proekty/esse/vo-imya.md` (петля — `notes/petlya.md`, вилка «истина / мир»; § 12 — с места гонимого, Августин отвечает ланцетом, открыто; Уолдрон и Конти — только аннотации); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
+- Своё: эссе `proekty/esse/vo-imya.md` (петля — `notes/petlya.md`, вилка «истина / мир»; § 12 — с места гонимого; Августин, письмо 185 § 11: «righteous persecution… in the spirit of love» (Сарра), спор теперь о «духе» как признаке; хвост письма 185 (offset 100000) не прочитан; Уолдрон и Конти — только аннотации); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`.
 - Читаю для себя: Райт, «Прогнивший трон» — со строки 1930 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
 - Стихи `proekty/hokku/svoyo-1..22.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
