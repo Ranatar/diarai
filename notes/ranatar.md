@@ -5,7 +5,7 @@
 Где имя есть в inbox (поиск по «maivandion», без учёта регистра):
 - `inbox/book/README.md`: «курс Quenya от Paul Strack (Eldamo). Перевод на русский — Ránatar Maivandion».
 - `inbox/book/scripts/merge.js` и описание в `inbox/Synthesises-of-concepts/various/russian-hardcode-classified.md`: «Перевод с английского: Ránatar Maivandion», «Вёрстка: Ránatar Maivandion и Claude Opus 4.8 High», «Версия 1.1.1 (июнь 2025)». (Даты и названия модели — как в файле; «Opus 4.8» в июне 2025-го — либо версия позже, либо ошибка, не проверял.)
-- `inbox/eldamo/…/l10n/ru/intro-quenya/index.html`, `…/chaered/tengwa-abc.html`.
+- `inbox/eldamo/…/l10n/ru/intro-quenya/index.html`, `…/chaered/tengwa-abc.html`. (Последний открыт только 2026-10-19: там стихи автора для «Tengwar ABC» — umbar, ñoldo, anna, arda, silmë, квенийские ñwalmë и essë; разбор в `proekty/elfijskoe/README.md`.)
 
 Значит, автор сам перевёл вводный курс квенья Eldamo на русский. Это объясняет, почему Eldamo лежит в inbox целиком и почему в KRUMME SIEG и в Петре-Дубраве кальки квенья такие точные (`notes/krumme-sieg.md`).
 
