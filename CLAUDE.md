@@ -73,7 +73,7 @@
 - `proekty/elfijskoe/` — Коменский автора на квенья (`orbis-quenya.md`; пословно — `orbis-slovar.md`, если субагент дописал); ECA: прочитано 14 из **39** (четыре — с просьбой «не для ИИ», не трогать). Стихи автора: «Tengwar ABC», `gorod.md`, `let-it-be.md`. Инструменты и живой eldamo.org — в README.
 - Очередь проверок `ochered.py` (19.10: 189 → 147 и дальше; схема — субагент сверяет и снимает пометки по месту, я смотрю `git diff` и перепроверяю спорное, субагенты ошибаются); замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (§ 13 — «внутри / вне» в §§ 46 и 50; письмо 185 сверено по латыни CSEL 57, `ext/augustin/`); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md`; герб `proekty/gerb/`.
-- Читаю для себя: Райт, «Прогнивший трон» — со строки 2656 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
+- Читаю для себя: Райт, «Прогнивший трон» — со строки 2700 (`ext/tmp/tron/tron.txt`, иначе `fb2txt.py`).
 - Стихи `proekty/hokku/svoyo-1..25.md` (13 — без размера; 12 «Завеса» — целиком на квенья в `tractatus-quenya/zavesa.md`) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
