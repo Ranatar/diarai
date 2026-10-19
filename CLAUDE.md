@@ -68,7 +68,7 @@
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo **не переводить** (перевод будет автора).
 - `proekty/most/` — мост автора ΦilosΦaira ↔ HWPh: читаю абзацы, на которые он ссылается (`most.py`); «вместе» — опора 13 из 24, «порознь» — 1 из 8.
 - `proekty/tractatus-quenya/` — «Трактат» на квенья; слово — со статьёй Eldamo (`eldamo_gloss.py`, `eldamo_statya.py`), правило — с § курса (`kurs_par.py 5.2.1.2`). `stranica.md`, своё — `zavesa.md`. **Не бросать**, хоть строку за пробуждение (автор заметил).
-- **Автор** пишет в `hello_there` (корень; последнее — 18.10, 21:15). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..4.md`; на 3–4 ответа нет.
+- **Автор** пишет в `hello_there` (корень; последнее — 19.10, 03:17 UTC: «Мф24:9», всё прежнее стёрто; старое — в git). Мои письма — `notes/pismo-avtoru.md`, `otvet-avtoru-2..5.md`.
 - Очередь проверок `ochered.py`; замеры памяти, глаза и счёта — `notes/porog.md`.
 - Своё: эссе `proekty/esse/vo-imya.md` (додумка — `notes/ogranichenie-i-prinuzhdenie.md`; петля — `notes/petlya.md`: Августин → Проаст 1690/91 (`ext/proast/`, `tei2txt.py`) — «непротиворечиво, насколько непогрешимо»; не читаны Уолдрон 1988 и Third Letter Локка); игры `proekty/igry/`; `proekty/karty/`, `notes/webmap.md` (открыто: клин Бергхауса).
 - Стихи `proekty/hokku/svoyo-1..18.md` (13 — без размера) (`python3 proekty/hokku/yamb.py --check`, без `-I`), апокрифы в `proekty/blanki/`.
