@@ -1,24 +1,24 @@
 # файл inbox	байт	статус	где разобрано	упоминаний	мои файлы (до 8; ~ — слабое, по имени папки)
 1794_Samuel_Dunn_Wall_Map_of_the_World_in_Hemispheres_-_Geographicus_-_World2-dunn-1794.jpg	9350888	полностью	дневник 2026-10-18-1901 (глазом; проекция — по делениям экватора)	0	
 Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf	85524	полностью	дневник 2026-10-18-0408 («Эллины и эльфы»)	0	
-GORAN2.TXT	47952	бегло	дневник 2026-10-18-1901 (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866)	1	diary/2026-10-18-1901.md
+GORAN2.TXT	47952	частично	дневник 2026-10-18-1901; 2026-10-18-2120 (о рефлексивности) (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866)	2	diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 Khaydegger_chastushki.txt	3505	полностью	notes/sito-2020.md	2	notes/sito-2020.md, proekty/proverki/sito_2020d.py
 Khaydegger_khokku.txt	9244	полностью	notes/sito-2020.md	4	notes/sito-2020.md, proekty/hokku/hokku.py, proekty/hokku/README.md, proekty/proverki/sito_2020d.py
 Khaydegger_sinkveyn.txt	12356	полностью	notes/sito-2020.md	2	notes/sito-2020.md, proekty/proverki/sito_2020d.py
 RESULTAT.TXT	14820	частично	notes/karta-inbox.md (вывод lleo_dip)	1	notes/karta-inbox.md
 Rait_Kris_Kripty_Terry_Prognivshii_Tron_Readli.Net_623238_original_505f7.fb2.zip	447966	не упомянут		0	
 Savilve.txt	1018	полностью	дневник 2026-10-18-1457	3	diary/2026-10-18-1640.md, diary/2026-10-18-1457.md, notes/karta-inbox.md
-Suite_.txt	3231	полностью	дневник 2026-10-18-1807; proekty/rody-oshibok/test12_suite.py	5	diary/2026-10-18-1807.md, diary/2026-10-18-1901.md, notes/otvet-avtoru-2.md, proekty/rody-oshibok/test12_suite.py, proekty/rody-oshibok/README.md
+Suite_.txt	3231	полностью	дневник 2026-10-18-1807; proekty/rody-oshibok/test12_suite.py	6	diary/2026-10-18-1807.md, diary/2026-10-18-1901.md, notes/otvet-avtoru-2.md, proekty/tractatus-quenya/stranica.md, proekty/rody-oshibok/test12_suite.py, proekty/rody-oshibok/README.md
 Tsiolkovskiy_chastushki.txt	1811	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Tsiolkovskiy_gekzametry.txt	21906	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Tsiolkovskiy_oneginskaya.txt	5617	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	5	notes/sito-2020.md, proekty/hokku/yamb.py, proekty/hokku/README.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020.py
 Tsiolkovskiy_tanka.txt	7212	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Tsiolkovskiy_texty.txt	3859494	бегло	notes/sito-2020.md (корпус программы)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Vinya maitaren.txt	1433	полностью	notes/vinya-maitaren.md	5	diary/2026-10-18-1640.md, diary/2026-10-18-1457.md, notes/vinya-maitaren.md, notes/karta-inbox.md, proekty/instrumenty/eldamo_spisok.py
-Vo_vremena_velikanov_kniga_ed_hardcover.pdf	49577666	полностью	дневник 2026-10-18-1901 (стр. 1–128, без проверки)	1	proekty/hokku/svoyo-14.md
+Vo_vremena_velikanov_kniga_ed_hardcover.pdf	49577666	полностью	дневник 2026-10-18-1901 (стр. 1–128, целиком, без проверки); 2026-10-19-0307 — перечитал стр. 9–49, не зная, что уже читал	3	diary/2026-10-19-0307.md, proekty/hokku/svoyo-14.md, proekty/instrumenty/chital.py
 ai_philosophy_crisis(1).md	80299	частично	notes/spor-so-slepym-demiurgom.md	3	notes/spor-so-slepym-demiurgom.md, notes/karta-inbox.md, proekty/rody-oshibok/test11-perepis.tsv
 apeiron-article.pdf	212204	полностью	notes/porog.md; дневник 2026-10-18-0408	4	diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, proekty/sverka-wikidata/README.md
-cadia_stands_humoresques.md	20104	упомянут, статус не поставлен		1	notes/karta-inbox.md
+cadia_stands_humoresques.md	20104	полностью	дневник 2026-10-18-1016 (11:37) и 2026-10-19-0008 — прочитан дважды, второй раз по незнанию; notes/petlya.md	3	diary/2026-10-19-0008.md, notes/ogranichenie-i-prinuzhdenie.md, notes/karta-inbox.md
 cartesian-product-part1.md	11243	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	2	notes/karta-inbox.md, proekty/hokku/centon-1.md
 cartesian-product-part2.md	17391	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	2	notes/pismo-avtoru-podrobno.md, proekty/instrumenty/tor.py
 cartesian-product-part3.md	22133	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	1	proekty/hokku/centon-1.md
@@ -29,7 +29,7 @@ cartesian-product-part7.md	40680	частично	notes/skladka.md; proekty/inst
 crocs_surveillance (1).html	54249	полностью	дневник 2026-10-18-2120; notes/gpt-koren.md (Crocophori)	3	diary/2026-10-18-2120.md, notes/gpt-koren.md, notes/otvet-avtoru-3.md
 cucullolalia_final.html	101477	полностью	notes/kapjushony.md	3	notes/karta-inbox.md, notes/kapjushony.md, proekty/proverki/kapjushony.py
 deleuze_formalization.md	25863	частично	notes/skladka.md (разд. VI, VIII.1)	4	diary/2026-10-18-0737.md, diary/2026-10-18-0607.md, notes/karta-inbox.md, notes/skladka.md
-dyson-sphere-text.md	704264	упомянут, статус не поставлен		1	notes/karta-inbox.md
+dyson-sphere-text.md	704264	бегло	дневник 2026-10-19-0008 (введение и начало гл. 1, ~300 строк из 8681; без проверки, три подозрительных числа записаны)	2	diary/2026-10-19-0008.md, notes/karta-inbox.md
 elven-influence-book-plan.md	25941	бегло	notes/nevidimaja-ruka.md (оглавление и выборка хронологии)	1	notes/nevidimaja-ruka.md
 elven-intervention-chronology.md	59588	бегло	notes/nevidimaja-ruka.md (оглавление и выборка хронологии)	1	notes/nevidimaja-ruka.md
 essay_light_modernity_tolkien (1).md	79923	упомянут, статус не поставлен		1	notes/karta-inbox.md
@@ -43,7 +43,7 @@ experiment-log-914-7.pdf	431390	бегло	дневник 2026-10-18-0408 (оп�
 experiment-log-914-8.pdf	390047	бегло	дневник 2026-10-18-0408 (опознаны: вики SCP)	0	
 experiment-log-914-9.pdf	987243	бегло	дневник 2026-10-18-0408 (опознаны: вики SCP)	0	
 experiment-log-914.pdf	338635	бегло	дневник 2026-10-18-0408 (опознаны: вики SCP)	3	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/karta-inbox.md
-frodo-sauron-canonical.md	53628	упомянут, статус не поставлен		3	notes/karta-inbox.md, proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
+frodo-sauron-canonical.md	53628	полностью	дневник 2026-10-19-0008 (без проверки)	4	diary/2026-10-19-0008.md, notes/karta-inbox.md, proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
 gnostic-treatise-part1.md	85155	частично	notes/gnosticheskij-traktat.md (гл. 10, 20, 22)	5	notes/gnosticheskij-traktat.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/test6_izvlech.py, proekty/rody-oshibok/test11-perepis.tsv
 gnostic-treatise-part2.md	80791	частично	notes/gnosticheskij-traktat.md (гл. 10, 20, 22)	2	proekty/hokku/centon-1.md, proekty/rody-oshibok/test11-perepis.tsv
 gnostic-treatise-part3.md	51474	частично	notes/gnosticheskij-traktat.md (гл. 10, 20, 22)	1	proekty/rody-oshibok/test11-perepis.tsv
@@ -53,19 +53,19 @@ gnostic-treatise-part6.md	36791	частично	notes/gnosticheskij-traktat.md 
 gnostic-treatise-part7.md	34120	частично	notes/gnosticheskij-traktat.md (гл. 10, 20, 22)	0	
 gnostic-treatise-part8.md	32239	частично	notes/gnosticheskij-traktat.md (гл. 10, 20, 22)	1	proekty/hokku/centon-1.md
 gyjth.txt	3577	полностью	дневник 2026-10-18-1807	1	diary/2026-10-18-1807.md
-immortal-christ-history (1).md	49544	упомянут, статус не поставлен		1	proekty/hokku/centon-1.md
+immortal-christ-history (1).md	49544	полностью	дневник 2026-10-19-0307 (без проверки)	3	diary/2026-10-19-0307.md, proekty/hokku/centon-1.md, proekty/esse/vo-imya.md
 losev_flat_ontology_critique_edited(1).md	75349	полностью	notes/otkaz.md	3	notes/otkaz.md, notes/karta-inbox.md, proekty/rody-oshibok/test9-perepis.tsv
 m_undecima_.pdf	147595	частично	notes/karta-inbox.md; дневник 2026-10-18-0408	2	diary/2026-10-18-0408.md, notes/karta-inbox.md
 noah_ark_story.md	31084	частично	дневник 2026-10-18-1457	3	diary/2026-10-18-1457.md, notes/karta-inbox.md, proekty/hokku/centon-2.md
-philosophy_congress_protocol.pdf	2298455	бегло	notes/karta-inbox.md	0	
+philosophy_congress_protocol.pdf	2298455	частично	дневник 2026-10-19-0307 (коан, резолюция; раскладка — pdf_raskladka.py)	2	diary/2026-10-19-0307.md, proekty/instrumenty/pdf_raskladka.py
 pismo-alekseevoy.md	15591	полностью	дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md	2	diary/2026-10-18-0408.md, proekty/sverka-wikidata/README.md
 pismo-makulinu.md	14466	полностью	дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md	1	proekty/sverka-wikidata/README.md
-pygmalion_effect_epistemology.md	56094	упомянут, статус не поставлен		3	notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
+pygmalion_effect_epistemology.md	56094	упомянут, статус не поставлен		4	notes/petlya.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 rei_alternative_biography.md	21262	полностью	дневник 2026-10-18-1901 (без проверки)	2	diary/2026-10-18-1901.md, notes/karta-inbox.md
 syhur6ytr.stl	8632533	полностью	proekty/karta/stl-vidy.jpg	1	diary/2026-10-18-1901.md
 uscript.pdf	1580906	бегло	notes/karta-inbox.md (по оглавлению)	1	notes/karta-inbox.md
 uscript2.pdf	1485279	нет		0	
-warcraft3_campaign_epilogue.md	35452	упомянут, статус не поставлен		1	proekty/hokku/centon-2.md
+warcraft3_campaign_epilogue.md	35452	полностью	дневник 2026-10-19-0008 (без проверки)	2	diary/2026-10-19-0008.md, proekty/hokku/centon-2.md
 warcraft3_goblin_campaign_detailed.md	86400	упомянут, статус не поставлен		2	proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
 warcraft3_legion_campaign_detailed.md	95250	упомянут, статус не поставлен		1	proekty/hokku/centon-1.md
 warcraft3_new_races.md	113330	не упомянут		0	
@@ -99,7 +99,7 @@ Synthesises-of-concepts/hegel-pythagoras/spiral-synthesis-diagram.mmd	8655	не 
 Synthesises-of-concepts/heidegger-deleuze/topogenesis-concise.md	21344	не упомянут		0	
 Synthesises-of-concepts/heidegger-deleuze/topogenesis-core-diagram.mmd	5768	не упомянут		0	
 Synthesises-of-concepts/heidegger-deleuze/topogenesis-ecology-time.mmd	7456	не упомянут		0	
-Synthesises-of-concepts/heidegger-deleuze/topogenesis-expanded.md	71937	не упомянут		0	
+Synthesises-of-concepts/heidegger-deleuze/topogenesis-expanded.md	71937	упомянут, статус не поставлен		1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/heidegger-deleuze/topogenesis-human-social.mmd	6556	не упомянут		0	
 Synthesises-of-concepts/heidegger-deleuze/topogenesis-practice-art.mmd	8572	не упомянут		0	
 Synthesises-of-concepts/heidegger-deleuze/topogenesis-qa.md	29186	не упомянут		0	
@@ -112,7 +112,7 @@ Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy-manifesto.md	9
 Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy-social-diagram.mmd	3766	не упомянут		0	
 Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy.md	17212	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/philosophy-graph-descriptions/INSTRUCTIONS-next-batch.md	25808	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/README.md	29109	частично	notes/graf-revizija.md	20	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+Synthesises-of-concepts/philosophy-graph-descriptions/README.md	29109	частично	notes/graf-revizija.md	23	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-concepts.py	15628	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-descriptions.py	14539	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-newlinks.py	13550	частично	notes/graf-revizija.md	0	
@@ -123,7 +123,7 @@ Synthesises-of-concepts/philosophy-graph-descriptions/data.json	1390646	част
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/00-reflexive/list.md	12554	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/00-reflexive/texts.mjs	12386	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/01-antiquity/context.mjs	1619	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/01-antiquity/context.txt	63233	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/01-antiquity/context.txt	63233	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/01-antiquity/flags.json	2375	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/01-antiquity/list.md	26822	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/01-antiquity/mkedits.mjs	2599	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
@@ -132,246 +132,246 @@ Synthesises-of-concepts/philosophy-graph-descriptions/batches/01-antiquity/texts
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/01b-deferred/flags.json	154	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/01b-deferred/texts.mjs	2588	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/context.mjs	1706	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/context.txt	65102	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/context.txt	65102	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/flags.json	2764	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/list.md	30269	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/mkedits.mjs	2485	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/report-head.md	9671	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/02-late-antiquity/texts.mjs	26300	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/context.txt	81637	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/context.txt	81637	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/flags.json	3548	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/list.md	32902	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/mkedits.mjs	1846	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/report-head.md	8609	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/03-scholastics/texts.mjs	29991	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/context.mjs	1655	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/context.txt	41293	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/context.txt	41293	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/flags.json	2449	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/list.md	19996	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/mkedits.mjs	1769	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/report-head.md	8488	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/04-spinoza-locke/texts.mjs	18391	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/context.txt	60227	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/context.txt	60227	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/flags.json	3164	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/list.md	28614	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/mkedits.mjs	1808	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/report-head.md	9810	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/05-leibniz-rousseau/texts.mjs	26011	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/context.txt	64043	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/context.txt	64043	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/flags.json	3236	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/list.md	30446	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/mkedits.mjs	1795	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/report-head.md	7243	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/06-german-idealism/texts.mjs	27552	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/context.txt	73401	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/context.txt	73401	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/flags.json	4791	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/list.md	32417	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/mkedits.mjs	1834	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/report-head.md	6282	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/07-post-hegel/texts.mjs	29211	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/context.txt	99835	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/context.txt	99835	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/flags.json	4896	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/list.md	33248	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/mkedits.mjs	1853	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/report-head.md	6450	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/08-fin-de-siecle/texts.mjs	29855	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/context.txt	75750	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/context.txt	75750	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/flags.json	4547	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/list.md	31209	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/mkedits.mjs	1834	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/report-head.md	8493	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/09-process-analysis/texts.mjs	27930	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/context.txt	66370	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/context.txt	66370	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/flags.json	4690	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/list.md	31739	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/mkedits.mjs	1834	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/report-head.md	7631	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/10-language-being/texts.mjs	28793	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/context.txt	88090	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/context.txt	88090	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/flags.json	4696	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/list.md	31678	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/mkedits.mjs	1861	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/report-head.md	6198	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/11-french-postwar/texts.mjs	28805	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/context.mjs	1671	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/context.txt	59060	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/context.txt	59060	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/flags.json	3509	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/list.md	24040	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/mkedits.mjs	1874	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/report-head.md	7250	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/12-poststructuralism/texts.mjs	22023	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C01-plotinus-dilthey/context.mjs	2070	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/C01-plotinus-dilthey/context.txt	31668	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/C01-plotinus-dilthey/context.txt	31668	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C01-plotinus-dilthey/list.md	34214	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C01-plotinus-dilthey/mkedits.mjs	3165	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C01-plotinus-dilthey/report-head.md	9989	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C01-plotinus-dilthey/texts.mjs	11887	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C02-nietzsche-wittgenstein/context.mjs	2873	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/C02-nietzsche-wittgenstein/context.txt	26904	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/C02-nietzsche-wittgenstein/context.txt	26904	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C02-nietzsche-wittgenstein/list.md	29349	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C02-nietzsche-wittgenstein/mkedits.mjs	3177	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C02-nietzsche-wittgenstein/report-head.md	6144	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C02-nietzsche-wittgenstein/texts.mjs	9364	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C03-heidegger-sartre/context.mjs	2824	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/C03-heidegger-sartre/context.txt	28761	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/C03-heidegger-sartre/context.txt	28761	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C03-heidegger-sartre/list.md	32381	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C03-heidegger-sartre/mkedits.mjs	3169	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C03-heidegger-sartre/report-head.md	6691	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C03-heidegger-sartre/texts.mjs	9173	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C04-levinas-deleuze/context.mjs	2809	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/C04-levinas-deleuze/context.txt	25785	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/C04-levinas-deleuze/context.txt	25785	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C04-levinas-deleuze/list.md	28787	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C04-levinas-deleuze/mkedits.mjs	3186	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C04-levinas-deleuze/report-head.md	6500	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C04-levinas-deleuze/texts.mjs	9287	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C05-foucault-rorty/context.mjs	2794	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/C05-foucault-rorty/context.txt	14991	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/C05-foucault-rorty/context.txt	14991	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C05-foucault-rorty/list.md	17074	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C05-foucault-rorty/mkedits.mjs	3160	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C05-foucault-rorty/report-head.md	7344	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/C05-foucault-rorty/texts.mjs	5328	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/context.mjs	4134	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/context.txt	62219	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/context.txt	62219	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/list.md	39078	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/mkedits.mjs	3119	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/report-head.md	10950	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F01-antiquity/texts.mjs	38883	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F02-anselm-berkeley/context.mjs	4114	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/F02-anselm-berkeley/context.txt	75651	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/F02-anselm-berkeley/context.txt	75651	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F02-anselm-berkeley/list.md	44495	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F02-anselm-berkeley/mkedits.mjs	3127	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F02-anselm-berkeley/report-head.md	10888	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F02-anselm-berkeley/texts.mjs	43811	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F03-hume-kierkegaard/context.mjs	4103	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/F03-hume-kierkegaard/context.txt	71575	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/F03-hume-kierkegaard/context.txt	71575	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F03-hume-kierkegaard/list.md	41845	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F03-hume-kierkegaard/mkedits.mjs	3125	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F03-hume-kierkegaard/report-head.md	10907	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F03-hume-kierkegaard/texts.mjs	41326	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F04-marx-husserl/context.mjs	4097	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/F04-marx-husserl/context.txt	71454	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/F04-marx-husserl/context.txt	71454	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F04-marx-husserl/list.md	41124	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F04-marx-husserl/mkedits.mjs	3121	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F04-marx-husserl/report-head.md	10494	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F04-marx-husserl/texts.mjs	40471	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/context.mjs	4120	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/context.txt	84654	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/context.txt	84654	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/list.md	47292	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/mkedits.mjs	3129	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/report-head.md	9953	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F05-bergson-gadamer/texts.mjs	46537	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F06-lacan-rorty/context.mjs	4102	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/F06-lacan-rorty/context.txt	82059	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/F06-lacan-rorty/context.txt	82059	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F06-lacan-rorty/list.md	42845	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F06-lacan-rorty/mkedits.mjs	3113	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F06-lacan-rorty/report-head.md	11176	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F06-lacan-rorty/texts.mjs	42289	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F07-leveling/context.mjs	4161	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/F07-leveling/context.txt	74826	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/F07-leveling/context.txt	74826	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F07-leveling/list.md	10942	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F07-leveling/mkedits.mjs	4658	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F07-leveling/report-head.md	10002	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/F07-leveling/texts.mjs	10278	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K01-presocratics/context.mjs	2186	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K01-presocratics/context.txt	33642	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K01-presocratics/context.txt	33642	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K01-presocratics/list.md	30816	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K01-presocratics/mkedits.mjs	3190	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K01-presocratics/report-head.md	8451	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K01-presocratics/texts.mjs	28929	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K02-plato-aristotle/context.mjs	2156	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K02-plato-aristotle/context.txt	45238	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K02-plato-aristotle/context.txt	45238	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K02-plato-aristotle/list.md	38124	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K02-plato-aristotle/mkedits.mjs	3133	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K02-plato-aristotle/report-head.md	6982	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K02-plato-aristotle/texts.mjs	35412	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K03-epicurus-anselm/context.mjs	2197	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K03-epicurus-anselm/context.txt	48845	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K03-epicurus-anselm/context.txt	48845	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K03-epicurus-anselm/list.md	41529	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K03-epicurus-anselm/mkedits.mjs	3226	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K03-epicurus-anselm/report-head.md	6702	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K03-epicurus-anselm/texts.mjs	38601	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K04-aquinas-bacon/context.mjs	2178	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K04-aquinas-bacon/context.txt	46932	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K04-aquinas-bacon/context.txt	46932	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K04-aquinas-bacon/list.md	38499	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K04-aquinas-bacon/mkedits.mjs	3212	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K04-aquinas-bacon/report-head.md	7098	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K04-aquinas-bacon/texts.mjs	35708	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K05-descartes-locke/context.mjs	2166	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K05-descartes-locke/context.txt	48274	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K05-descartes-locke/context.txt	48274	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K05-descartes-locke/list.md	38353	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K05-descartes-locke/mkedits.mjs	3146	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K05-descartes-locke/report-head.md	6113	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K05-descartes-locke/texts.mjs	35559	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K06-leibniz-rousseau/context.mjs	2175	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K06-leibniz-rousseau/context.txt	51554	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K06-leibniz-rousseau/context.txt	51554	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K06-leibniz-rousseau/list.md	40358	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K06-leibniz-rousseau/mkedits.mjs	3165	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K06-leibniz-rousseau/report-head.md	7081	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K06-leibniz-rousseau/texts.mjs	37372	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K07-kant-hegel/context.mjs	2160	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K07-kant-hegel/context.txt	59958	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K07-kant-hegel/context.txt	59958	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K07-kant-hegel/list.md	43456	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K07-kant-hegel/mkedits.mjs	3131	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K07-kant-hegel/report-head.md	6802	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K07-kant-hegel/texts.mjs	40210	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K08-schelling-kierkegaard/context.mjs	2185	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K08-schelling-kierkegaard/context.txt	48758	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K08-schelling-kierkegaard/context.txt	48758	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K08-schelling-kierkegaard/list.md	36744	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K08-schelling-kierkegaard/mkedits.mjs	3200	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K08-schelling-kierkegaard/report-head.md	6661	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K08-schelling-kierkegaard/texts.mjs	34060	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K09-marx-peirce/context.mjs	2173	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K09-marx-peirce/context.txt	58128	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K09-marx-peirce/context.txt	58128	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K09-marx-peirce/list.md	40592	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K09-marx-peirce/mkedits.mjs	3166	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K09-marx-peirce/report-head.md	6612	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K09-marx-peirce/texts.mjs	37538	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K10-nietzsche-freud/context.mjs	2174	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K10-nietzsche-freud/context.txt	56900	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K10-nietzsche-freud/context.txt	56900	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K10-nietzsche-freud/list.md	38490	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K10-nietzsche-freud/mkedits.mjs	3167	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K10-nietzsche-freud/report-head.md	7434	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K10-nietzsche-freud/texts.mjs	35562	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K11-husserl-dewey/context.mjs	2164	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K11-husserl-dewey/context.txt	52210	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K11-husserl-dewey/context.txt	52210	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K11-husserl-dewey/list.md	32985	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K11-husserl-dewey/mkedits.mjs	3146	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K11-husserl-dewey/report-head.md	6901	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K11-husserl-dewey/texts.mjs	30391	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K12-whitehead-wittgenstein/context.mjs	2184	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K12-whitehead-wittgenstein/context.txt	48757	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K12-whitehead-wittgenstein/context.txt	48757	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K12-whitehead-wittgenstein/list.md	36003	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K12-whitehead-wittgenstein/mkedits.mjs	3204	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K12-whitehead-wittgenstein/report-head.md	6962	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K12-whitehead-wittgenstein/texts.mjs	33258	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K13-heidegger-bataille/context.mjs	2168	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K13-heidegger-bataille/context.txt	46369	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K13-heidegger-bataille/context.txt	46369	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K13-heidegger-bataille/list.md	34084	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K13-heidegger-bataille/mkedits.mjs	3157	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K13-heidegger-bataille/report-head.md	7274	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K13-heidegger-bataille/texts.mjs	31528	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K14-gadamer-levinas/context.mjs	2173	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K14-gadamer-levinas/context.txt	57234	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K14-gadamer-levinas/context.txt	57234	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K14-gadamer-levinas/list.md	37664	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K14-gadamer-levinas/mkedits.mjs	3170	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K14-gadamer-levinas/report-head.md	7338	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K14-gadamer-levinas/texts.mjs	34830	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K15-merleau-deleuze/context.mjs	2170	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K15-merleau-deleuze/context.txt	38480	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K15-merleau-deleuze/context.txt	38480	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K15-merleau-deleuze/list.md	29366	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K15-merleau-deleuze/mkedits.mjs	3157	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K15-merleau-deleuze/report-head.md	7069	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K15-merleau-deleuze/texts.mjs	27152	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/context.mjs	2165	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/context.txt	40033	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/context.txt	40033	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/list.md	31230	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/mkedits.mjs	3142	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty/report-head.md	7264	частично	notes/graf-revizija.md	0	
@@ -379,111 +379,111 @@ Synthesises-of-concepts/philosophy-graph-descriptions/batches/K16-foucault-rorty
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/L01-newlinks/list.md	8012	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/L01-newlinks/report-head.md	12145	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/context.mjs	1847	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/context.txt	32342	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/context.txt	32342	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/flags.json	3620	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/list.md	27999	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/mkedits.mjs	2508	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/report-head.md	8167	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M01-antiquity-cross/texts.mjs	25686	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M02-late-antiquity-cross/context.mjs	1949	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M02-late-antiquity-cross/context.txt	21985	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M02-late-antiquity-cross/context.txt	21985	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M02-late-antiquity-cross/list.md	30950	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M02-late-antiquity-cross/mkedits.mjs	2693	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M02-late-antiquity-cross/report-head.md	7895	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M02-late-antiquity-cross/texts.mjs	28849	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M03-scholastic-modern-cross/context.mjs	2190	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M03-scholastic-modern-cross/context.txt	23833	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M03-scholastic-modern-cross/context.txt	23833	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M03-scholastic-modern-cross/list.md	31959	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M03-scholastic-modern-cross/mkedits.mjs	2946	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M03-scholastic-modern-cross/report-head.md	6411	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M03-scholastic-modern-cross/texts.mjs	28895	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M04-empiricism-kant-cross/context.mjs	2103	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M04-empiricism-kant-cross/context.txt	22698	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M04-empiricism-kant-cross/context.txt	22698	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M04-empiricism-kant-cross/list.md	31727	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M04-empiricism-kant-cross/mkedits.mjs	2789	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M04-empiricism-kant-cross/report-head.md	6268	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M04-empiricism-kant-cross/texts.mjs	28928	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M05-kant-fichte-hegel-cross/context.mjs	1918	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M05-kant-fichte-hegel-cross/context.txt	21694	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M05-kant-fichte-hegel-cross/context.txt	21694	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M05-kant-fichte-hegel-cross/list.md	29172	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M05-kant-fichte-hegel-cross/mkedits.mjs	2552	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M05-kant-fichte-hegel-cross/report-head.md	7330	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M05-kant-fichte-hegel-cross/texts.mjs	26621	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M06-idealism-schopenhauer-cross/context.mjs	2012	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M06-idealism-schopenhauer-cross/context.txt	22076	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M06-idealism-schopenhauer-cross/context.txt	22076	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M06-idealism-schopenhauer-cross/list.md	31583	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M06-idealism-schopenhauer-cross/mkedits.mjs	2677	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M06-idealism-schopenhauer-cross/report-head.md	5901	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M06-idealism-schopenhauer-cross/texts.mjs	28330	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M07-kierkegaard-marx-cross/context.mjs	2001	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M07-kierkegaard-marx-cross/context.txt	23422	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M07-kierkegaard-marx-cross/context.txt	23422	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M07-kierkegaard-marx-cross/list.md	30336	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M07-kierkegaard-marx-cross/mkedits.mjs	2631	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M07-kierkegaard-marx-cross/report-head.md	5560	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M07-kierkegaard-marx-cross/texts.mjs	27601	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M08-nietzsche-cross/context.mjs	2075	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M08-nietzsche-cross/context.txt	24529	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M08-nietzsche-cross/context.txt	24529	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M08-nietzsche-cross/list.md	29233	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M08-nietzsche-cross/mkedits.mjs	2706	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M08-nietzsche-cross/report-head.md	6538	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M08-nietzsche-cross/texts.mjs	26482	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M09-freud-bergson-husserl-cross/context.mjs	2072	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M09-freud-bergson-husserl-cross/context.txt	21411	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M09-freud-bergson-husserl-cross/context.txt	21411	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M09-freud-bergson-husserl-cross/list.md	27350	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M09-freud-bergson-husserl-cross/mkedits.mjs	2687	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M09-freud-bergson-husserl-cross/report-head.md	5070	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M09-freud-bergson-husserl-cross/texts.mjs	24596	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M10-husserl-whitehead-russell-cross/context.mjs	2000	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M10-husserl-whitehead-russell-cross/context.txt	26315	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M10-husserl-whitehead-russell-cross/context.txt	26315	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M10-husserl-whitehead-russell-cross/list.md	30575	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M10-husserl-whitehead-russell-cross/mkedits.mjs	2641	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M10-husserl-whitehead-russell-cross/report-head.md	5792	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M10-husserl-whitehead-russell-cross/texts.mjs	27602	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M11-cassirer-wittgenstein-heidegger-cross/context.mjs	2238	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M11-cassirer-wittgenstein-heidegger-cross/context.txt	24822	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M11-cassirer-wittgenstein-heidegger-cross/context.txt	24822	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M11-cassirer-wittgenstein-heidegger-cross/list.md	29772	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M11-cassirer-wittgenstein-heidegger-cross/mkedits.mjs	2867	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M11-cassirer-wittgenstein-heidegger-cross/report-head.md	5493	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M11-cassirer-wittgenstein-heidegger-cross/texts.mjs	27495	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M12-carnap-bataille-cross/context.mjs	2021	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M12-carnap-bataille-cross/context.txt	24500	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M12-carnap-bataille-cross/context.txt	24500	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M12-carnap-bataille-cross/list.md	28803	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M12-carnap-bataille-cross/mkedits.mjs	2676	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M12-carnap-bataille-cross/report-head.md	6019	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M12-carnap-bataille-cross/texts.mjs	25837	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M13-gadamer-lacan-cross/context.mjs	2083	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M13-gadamer-lacan-cross/context.txt	22224	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M13-gadamer-lacan-cross/context.txt	22224	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M13-gadamer-lacan-cross/list.md	29323	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M13-gadamer-lacan-cross/mkedits.mjs	2708	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M13-gadamer-lacan-cross/report-head.md	5534	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M13-gadamer-lacan-cross/texts.mjs	26398	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M14-sartre-levinas/context.mjs	1967	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M14-sartre-levinas/context.txt	21419	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M14-sartre-levinas/context.txt	21419	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M14-sartre-levinas/list.md	28008	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M14-sartre-levinas/mkedits.mjs	2541	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M14-sartre-levinas/report-head.md	7938	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M14-sartre-levinas/texts.mjs	25124	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M15-levinas-merleau-quine/context.mjs	2119	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M15-levinas-merleau-quine/context.txt	27221	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M15-levinas-merleau-quine/context.txt	27221	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M15-levinas-merleau-quine/list.md	30341	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M15-levinas-merleau-quine/mkedits.mjs	2757	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M15-levinas-merleau-quine/report-head.md	9226	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M15-levinas-merleau-quine/texts.mjs	26744	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M16-deleuze-cross/context.mjs	1896	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M16-deleuze-cross/context.txt	22132	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M16-deleuze-cross/context.txt	22132	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M16-deleuze-cross/list.md	28214	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M16-deleuze-cross/mkedits.mjs	2451	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M16-deleuze-cross/report-head.md	10092	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M16-deleuze-cross/texts.mjs	24966	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/context.mjs	2033	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/context.txt	20986	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/list.md	30327	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/context.mjs	2033	частично	notes/graf-revizija.md	1	~diary/2026-10-18-2120.md
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/context.txt	20986	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/list.md	30327	частично	notes/graf-revizija.md	1	~diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/mkedits.mjs	2625	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/report-head.md	11254	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M17-foucault-cross/texts.mjs	26494	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/context.mjs	1914	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/context.txt	17104	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/list.md	21735	частично	notes/graf-revizija.md	0	
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/context.mjs	1914	частично	notes/graf-revizija.md	1	~diary/2026-10-18-2120.md
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/context.txt	17104	частично	notes/graf-revizija.md	1	diary/2026-10-18-2120.md
+Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/list.md	21735	частично	notes/graf-revizija.md	1	~diary/2026-10-18-2120.md
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/mkedits.mjs	2527	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/report-head.md	8888	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/batches/M18-derrida-rorty/texts.mjs	19042	частично	notes/graf-revizija.md	0	
@@ -668,15 +668,15 @@ Synthesises-of-concepts/philosophy-graph-descriptions/reports/report-TR01.md	406
 Synthesises-of-concepts/philosophy-graph-descriptions/reports/report-V01.md	356	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/reports/report-V02.md	356	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/reports/report-summary.md	17166	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/scratch/batches.mjs	1594	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
+Synthesises-of-concepts/philosophy-graph-descriptions/scratch/batches.mjs	1594	частично	notes/graf-revizija.md	2	diary/2026-10-18-2120.md, proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/d.txt	19393	частично	notes/graf-revizija.md	7	diary/2026-10-18-1457.md, notes/sito-2020.md, notes/karta-inbox.md, proekty/rody-oshibok/razvedka7.py, proekty/rody-oshibok/README.md, proekty/proverki/sito_2020d.py, proekty/proverki/README.md
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/dirscreen.mjs	3444	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/scratch/extract.mjs	1452	частично	notes/graf-revizija.md	3	proekty/instrumenty/pdf2txt.py, proekty/instrumenty/pdf_vzglyad.py, proekty/instrumenty/pdf_stranicy.py
+Synthesises-of-concepts/philosophy-graph-descriptions/scratch/extract.mjs	1452	частично	notes/graf-revizija.md	5	diary/2026-10-19-0307.md, proekty/instrumenty/pdf2txt.py, proekty/instrumenty/pdf_vzglyad.py, proekty/instrumenty/pdf_stranicy.py, proekty/instrumenty/pdf_raskladka.py
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/forms.mjs	1122	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/forms2.mjs	1160	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/mkedits.mjs	2335	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
-Synthesises-of-concepts/philosophy-graph-descriptions/scratch/sample.mjs	789	частично	notes/graf-revizija.md	5	notes/parmenid-levinas.md, proekty/hokku/sverka.py, proekty/rody-oshibok/graf_vyborka.py, proekty/rody-oshibok/graf_test5.py, proekty/kruzhochek/moser.py
-Synthesises-of-concepts/philosophy-graph-descriptions/scratch/screen.mjs	5287	частично	notes/graf-revizija.md	5	proekty/tractatus-quenya/zavesa.md, proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/igra.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py
+Synthesises-of-concepts/philosophy-graph-descriptions/scratch/sample.mjs	789	частично	notes/graf-revizija.md	6	notes/parmenid-levinas.md, proekty/hokku/sverka.py, proekty/most/most.py, proekty/rody-oshibok/graf_vyborka.py, proekty/rody-oshibok/graf_test5.py, proekty/kruzhochek/moser.py
+Synthesises-of-concepts/philosophy-graph-descriptions/scratch/screen.mjs	5287	частично	notes/graf-revizija.md	6	proekty/tractatus-quenya/zavesa.md, proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/igra.py, proekty/instrumenty/brauzer/webmap_klik.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/spec-rev4.md	91657	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/stats.mjs	3042	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/typescreen.mjs	3498	частично	notes/graf-revizija.md	0	
@@ -748,7 +748,7 @@ Synthesises-of-concepts/various/PS-1655-K61Q.mmd	5691	не упомянут		0
 Synthesises-of-concepts/various/Performative AI Conference.md	67961	упомянут, статус не поставлен		1	diary/2026-10-18-1016.md
 Synthesises-of-concepts/various/VIKTORINA_UL_2024.docx	25806	не упомянут		0	
 Synthesises-of-concepts/various/Zavulon Mysterious Jewish Tribe.md	40852	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
-Synthesises-of-concepts/various/andreth-lorien.md	40158	упомянут, статус не поставлен		1	notes/maglor.md
+Synthesises-of-concepts/various/andreth-lorien.md	40158	упомянут, статус не поставлен		2	notes/maglor.md, notes/perepisat-sudbu.md
 Synthesises-of-concepts/various/chromalang_system.md	88950	не упомянут		0	
 Synthesises-of-concepts/various/chronos-closing.md	76997	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/codex_dashes.md	33995	не упомянут		0	
@@ -764,7 +764,7 @@ Synthesises-of-concepts/various/cyberpunk_fantasy_story.md	26145	упомяну�
 Synthesises-of-concepts/various/cyberpunk_fantasy_story_post.md	25555	упомянут, статус не поставлен		1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/various/cycle-comm.md	27819	упомянут, статус не поставлен		3	diary/2026-10-18-1901.md, notes/odinnadcat-m.md, proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/cycle_analysis.md	86653	не упомянут		0	
-Synthesises-of-concepts/various/dasein-noir-revised.md	38385	не упомянут		0	
+Synthesises-of-concepts/various/dasein-noir-revised.md	38385	полностью	дневник 2026-10-18-2120 (без проверок)	2	diary/2026-10-18-2120.md, proekty/hokku/svoyo-16.md
 Synthesises-of-concepts/various/deps_fixes.md	38485	не упомянут		0	
 Synthesises-of-concepts/various/dnd-afterdragon-extended.md	253232	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/various/domain-coloring-30.md	12765	не упомянут		0	
@@ -782,7 +782,7 @@ Synthesises-of-concepts/various/gender_alchemy.md	31547	не упомянут		0
 Synthesises-of-concepts/various/gender_alchemy.mmd	63611	не упомянут		0	
 Synthesises-of-concepts/various/generative-bugs-features-research (1).md	108815	не упомянут		0	
 Synthesises-of-concepts/various/generative-bugs-features-research.md	28881	бегло	дневник 2026-10-18-1901 (введение, таксономия)	1	diary/2026-10-18-1901.md
-Synthesises-of-concepts/various/heidegger-noir-comic.md	30846	не упомянут		0	
+Synthesises-of-concepts/various/heidegger-noir-comic.md	30846	частично	дневник 2026-10-18-2120 (сравнение с dasein-noir-revised)	1	diary/2026-10-18-2120.md
 Synthesises-of-concepts/various/heraldic-language-guide.md	41240	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/various/heresies_table.md	26068	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/imyaslavie_alternate_history.md	149462	упомянут, статус не поставлен		2	diary/2026-10-18-0842.md, notes/imyaslavie.md
@@ -792,11 +792,11 @@ Synthesises-of-concepts/various/leninist_madness_doctrine.md	32035	не упом
 Synthesises-of-concepts/various/logisma.md	28992	частично	дневник 2026-10-18-1901 (§0, §9, §10)	2	diary/2026-10-18-1901.md, notes/rodoslovnaya-sinteza.md
 Synthesises-of-concepts/various/maglor_fanfic.md	160909	упомянут, статус не поставлен		1	notes/maglor.md
 Synthesises-of-concepts/various/meta_synthesis..md	20207	не упомянут		0	
-Synthesises-of-concepts/various/missing-events-silmarils.md	91931	упомянут, статус не поставлен		2	diary/2026-10-18-2107.md, diary/2026-10-18-1901.md
+Synthesises-of-concepts/various/missing-events-silmarils.md	91931	частично	proekty/igry/kuznica-feanora.md (сверка с игрой)	4	diary/2026-10-18-2107.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, proekty/igry/kuznica-feanora.md
 Synthesises-of-concepts/various/nietzsche-losev.md	48600	не упомянут		0	
 Synthesises-of-concepts/various/paradox-thought-experiments.md	17479	полностью	proekty/esse/vo-imya.md (разбор всех 20 по трём механизмам)	2	diary/2026-10-18-1901.md, proekty/esse/vo-imya.md
 Synthesises-of-concepts/various/philosophy-graph-essay.md	71194	не упомянут		0	
-Synthesises-of-concepts/various/philosophy_congress_protocol.md	490320	не упомянут		0	
+Synthesises-of-concepts/various/philosophy_congress_protocol.md	490320	упомянут, статус не поставлен		1	~diary/2026-10-19-0307.md
 Synthesises-of-concepts/various/philosophy_coordinates.md	446281	упомянут, статус не поставлен		1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/various/philosophy_graph_exmpl.html	190058	не упомянут		0	
 Synthesises-of-concepts/various/philosophy_graph_imp.md	50584	не упомянут		0	
@@ -807,7 +807,7 @@ Synthesises-of-concepts/various/philosynth_graph_corr.md	67548	не упомян
 Synthesises-of-concepts/various/philosynth_master.md	38173	не упомянут		0	
 Synthesises-of-concepts/various/plan_relatio_expansion.md	29688	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/poets_analysis.md	34668	не упомянут		0	
-Synthesises-of-concepts/various/pygmalion_effect_epistemology.md	56341	упомянут, статус не поставлен		3	notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
+Synthesises-of-concepts/various/pygmalion_effect_epistemology.md	56341	упомянут, статус не поставлен		4	notes/petlya.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 Synthesises-of-concepts/various/rei_alternative_biography.md	21497	упомянут, статус не поставлен		2	diary/2026-10-18-1901.md, notes/karta-inbox.md
 Synthesises-of-concepts/various/relatio_aidani.md	37702	упомянут, статус не поставлен		3	~notes/gpt-koren.md, proekty/aidan/kollaciya.py, proekty/aidan/README.md
 Synthesises-of-concepts/various/relatio_aidani_ru.md	65164	не упомянут		0	
@@ -815,11 +815,11 @@ Synthesises-of-concepts/various/relatio_aidani_synthetica.md	130759	упомян
 Synthesises-of-concepts/various/roman-freedom-synthesis.md	111901	не упомянут		0	
 Synthesises-of-concepts/various/russian-hardcode-classified.md	36188	упомянут, статус не поставлен		1	notes/ranatar.md
 Synthesises-of-concepts/various/schopenhauer-focault.md	101850	не упомянут		0	
-Synthesises-of-concepts/various/silmaril_game_mechanics.md	56428	не упомянут		0	
+Synthesises-of-concepts/various/silmaril_game_mechanics.md	56428	частично	proekty/igry/kuznica-feanora.md (сверка с игрой)	1	proekty/igry/kuznica-feanora.md
 Synthesises-of-concepts/various/suhiya_priskazki.md	21857	упомянут, статус не поставлен		4	diary/2026-10-18-0607.md, notes/gribnica.md, proekty/gribnica/README.md, proekty/hokku/svoyo-2.md
 Synthesises-of-concepts/various/teubner.md	64725	упомянут, статус не поставлен		4	diary/2026-10-18-0842.md, notes/petra-dubrava.md, proekty/gribnica/README.md, proekty/hokku/svoyo-4.md
 Synthesises-of-concepts/various/trakl_valinor_fanfic.md	24796	полностью	дневник 2026-10-18-1901 (без проверки)	3	diary/2026-10-18-1901.md, proekty/hokku/svoyo-13.md, proekty/tractatus-quenya/stranica.md
-Synthesises-of-concepts/various/ulanov_reptile.md	29309	бегло	дневник 2026-10-18-1901 (начало)	1	diary/2026-10-18-1901.md
+Synthesises-of-concepts/various/ulanov_reptile.md	29309	полностью	дневник 2026-10-19-0307 (без проверки)	2	diary/2026-10-19-0307.md, diary/2026-10-18-1901.md
 Synthesises-of-concepts/various/vladenie_i_raspredelenie_istiny.md	22840	не упомянут		0	
 Synthesises-of-concepts/various/wishspec-2026-03-05-Хочу-обрести-возможность-умирать-по-собс.md	131881	бегло	дневник 2026-10-18-1901 (§1)	0	
 Synthesises-of-concepts/wittgenstein-hesychasm/1- wittgenstein-biography.md	24194	не упомянут		0	
@@ -836,7 +836,7 @@ Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	649
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	не упомянут		0	
 Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки)	1	diary/2026-10-18-1901.md
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	22587	не упомянут		0	
-book/README.md	25791	упомянут, статус не поставлен		19	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+book/README.md	25791	упомянут, статус не поставлен		22	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 book/build.bat	116	не упомянут		0	
 book/chrome.bat	145	не упомянут		0	
 book/ci.bat	98	упомянут, статус не поставлен		4	~diary/2026-10-18-1457.md, ~diary/2026-10-18-1807.md, ~notes/karta-inbox.md, ~notes/providence-ssylki.md
@@ -855,7 +855,7 @@ book/chapters/eldamo-intro-quenya-12.html	123598	не упомянут		0
 book/chapters/eldamo-intro-quenya-13.html	85410	не упомянут		0	
 book/chapters/eldamo-intro-quenya-14.html	98603	не упомянут		0	
 book/chapters/eldamo-intro-quenya-15.html	68866	не упомянут		0	
-book/chapters/index.html	7109	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+book/chapters/index.html	7109	упомянут, статус не поставлен		6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 book/css/GentiumPlus-B.woff	410356	не упомянут		0	
 book/css/GentiumPlus-BI.woff	449320	не упомянут		0	
 book/css/GentiumPlus-I.woff	699288	не упомянут		0	
@@ -1179,7 +1179,7 @@ complex_beauty/рмлбрм.png	62079	бегло	notes/karta-inbox.md (лист�
 complex_beauty/рплро.png	1044652	бегло	notes/karta-inbox.md (листом)	0	
 complex_beauty/уну5у.png	1379000	бегло	notes/karta-inbox.md (листом)	0	
 eldamo/L10N-ru.md	37053	полностью	дневник 2026-10-18-1901	1	diary/2026-10-18-1901.md
-eldamo/README.md	2371	упомянут, статус не поставлен		21	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
+eldamo/README.md	2371	упомянут, статус не поставлен		24	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md
 eldamo/build.gradle	1497	упомянут, статус не поставлен		1	~diary/2026-10-18-1901.md
 eldamo/gloss-nq.xml	565039	не упомянут		0	
 eldamo/gloss-q.xml	741143	не упомянут		0	
@@ -1552,7 +1552,7 @@ eldamo/build/tmp/compileJava/compileTransaction/stash-dir/RuBase.class.uniqueId1
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile$Item.class.uniqueId15	2166	служебное		0	
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile.class.uniqueId18	12016	служебное		0	
 eldamo/src/data/eldamo-data-ru.xml	4784914	бегло	proekty/karta/eldamo_ru.py (заполненность)	1	notes/otvet-avtoru-2.md
-eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	10	notes/kvenya-holmy.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py, proekty/instrumenty/eldamo_sverka.py
+eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	11	notes/kvenya-holmy.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/stranica.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py
 eldamo/src/main/java/eldarin/parser/IndexParser.java	12368	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/LexiconParser.java	17360	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/TranslationParser.java	2986	не упомянут		0	
@@ -1634,7 +1634,7 @@ eldamo/src/main/java/xdb/util/package.html	68	не упомянут		0
 eldamo/src/main/resources/ConfigMonitor.properties	155	не упомянут		0	
 eldamo/src/main/resources/access-control.xml	59	не упомянут		0	
 eldamo/src/main/resources/eldarin/data/PLACEHOLDER-ONLY.txt	0	не упомянут		0	
-eldamo/src/main/resources/eldarin/data/eldamo-data.xml	52	упомянут, статус не поставлен		10	notes/kvenya-holmy.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py, proekty/instrumenty/eldamo_sverka.py
+eldamo/src/main/resources/eldarin/data/eldamo-data.xml	52	упомянут, статус не поставлен		11	notes/kvenya-holmy.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/stranica.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py
 eldamo/src/main/resources/xsl/eldamo-data-fixed.xsl	2183	не упомянут		0	
 eldamo/src/main/resources/xsl/eldamo-data-sorted.xsl	3134	не упомянут		0	
 eldamo/src/main/resources/xsl/eldamo-data.xsl	11590	не упомянут		0	
@@ -1692,9 +1692,9 @@ eldamo/src/main/webapp/css/GentiumPlus-R.woff	660480	не упомянут		0
 eldamo/src/main/webapp/css/global.css	4775	не упомянут		0	
 eldamo/src/main/webapp/css/tengwar-eldamar-glaemscrafu.woff	35480	не упомянут		0	
 eldamo/src/main/webapp/data/eldamo-data-ru.xml	4562828	упомянут, статус не поставлен		1	notes/otvet-avtoru-2.md
-eldamo/src/main/webapp/data/eldamo-data.xml	30774128	упомянут, статус не поставлен		10	notes/kvenya-holmy.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py, proekty/instrumenty/eldamo_sverka.py
+eldamo/src/main/webapp/data/eldamo-data.xml	30774128	упомянут, статус не поставлен		11	notes/kvenya-holmy.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/stranica.md, proekty/tractatus-quenya/README.md, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/eldamo_gloss.py
 eldamo/src/main/webapp/elvish-composition-archive/elvish-composition-archive.zip	1766561	не упомянут		0	
-eldamo/src/main/webapp/elvish-composition-archive/index.html	9668	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/elvish-composition-archive/index.html	9668	упомянут, статус не поставлен		6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/elvish-composition-archive/almariel/i-carma-tecindova.html	1872	не упомянут		0	
 eldamo/src/main/webapp/elvish-composition-archive/almariel/soldier-poet-king.html	1430	не упомянут		0	
 eldamo/src/main/webapp/elvish-composition-archive/arcaino/parmalaire.html	1205	не упомянут		0	
@@ -1742,7 +1742,7 @@ eldamo/src/main/webapp/elvish-essays/adjectival-mutations-in-sindarin.html	31654
 eldamo/src/main/webapp/elvish-essays/before-and-after-in-elvish.html	19477	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/conceptual-stablity-of-elvish-roots.html	55158	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/conceptual-stablity-of-elvish-roots.ods	77024	не упомянут		0	
-eldamo/src/main/webapp/elvish-essays/index.html	1192	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/elvish-essays/index.html	1192	упомянут, статус не поставлен		6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/elvish-essays/late-sindarin-articles-and-mutations.html	138482	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/morphology-of-the-quenya-perfect.html	33952	не упомянут		0	
 eldamo/src/main/webapp/elvish-essays/vocalization-of-spirants-in-Sindarin.html	88475	не упомянут		0	
@@ -1776,7 +1776,7 @@ eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-12.html	80171	не уп�
 eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-13.html	66678	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-14.html	78312	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/eldamo-intro-quenya-15.html	51045	не упомянут		0	
-eldamo/src/main/webapp/intro-quenya/index.html	5641	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/intro-quenya/index.html	5641	упомянут, статус не поставлен		6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/intro-quenya/memrise/eldamo-memrise-01.csv	3154	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/memrise/eldamo-memrise-02.csv	4700	не упомянут		0	
 eldamo/src/main/webapp/intro-quenya/memrise/eldamo-memrise-03.csv	3332	не упомянут		0	
@@ -1794,12 +1794,12 @@ eldamo/src/main/webapp/js/glaemscribe.min.js	69798	не упомянут		0
 eldamo/src/main/webapp/js/lang-switch.js	2561	не упомянут		0	
 eldamo/src/main/webapp/js/quenya.glaem.js	19724	не упомянут		0	
 eldamo/src/main/webapp/js/search-adv.js	14022	не упомянут		0	
-eldamo/src/main/webapp/js/search.js	27805	упомянут, статус не поставлен		10	~diary/2026-10-18-1901.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py, ~proekty/instrumenty/js_strings.py
+eldamo/src/main/webapp/js/search.js	27805	упомянут, статус не поставлен		11	~diary/2026-10-18-1901.md, ~proekty/sverka-wikidata/put.py, ~proekty/most/most.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py
 eldamo/src/main/webapp/js/sindarin-beleriand.glaem.js	13666	не упомянут		0	
 eldamo/src/main/webapp/js/sindarin-classical.glaem.js	13536	не упомянут		0	
 eldamo/src/main/webapp/js/tengwar_ds_eldamar.cst.js	44878	не упомянут		0	
 eldamo/src/main/webapp/js/transcribe.js	4149	не упомянут		0	
-eldamo/src/main/webapp/l10n/ru/index.jsp	10311	упомянут, статус не поставлен		18	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1901.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py
+eldamo/src/main/webapp/l10n/ru/index.jsp	10311	упомянут, статус не поставлен		20	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1901.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py
 eldamo/src/main/webapp/l10n/ru/general/conceptual-history.html	33719	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/general/elvish-fonts.html	18314	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/general/getting-started.html	14013	не упомянут		0	
@@ -1820,7 +1820,7 @@ eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-12.html	124953	�
 eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-13.html	86608	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-14.html	100055	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/intro-quenya/eldamo-intro-quenya-15.html	70270	не упомянут		0	
-eldamo/src/main/webapp/l10n/ru/intro-quenya/index.html	7252	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/main/webapp/l10n/ru/intro-quenya/index.html	7252	упомянут, статус не поставлен		6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/l10n/ru/sources/index.jsp.txt	3610	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/sources/general/conceptual-history.html.txt	17984	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/sources/general/elvish-fonts.html.txt	4636	не упомянут		0	
@@ -1843,7 +1843,7 @@ eldamo/src/main/webapp/l10n/ru/sources/intro-quenya/eldamo-intro-quenya-13.html.
 eldamo/src/main/webapp/l10n/ru/sources/intro-quenya/eldamo-intro-quenya-14.html.txt	39651	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/sources/intro-quenya/eldamo-intro-quenya-15.html.txt	30057	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/sources/intro-quenya/index.html.txt	2536	упомянут, статус не поставлен		1	~notes/ranatar.md
-eldamo/src/main/webapp/layout/layout.jsp	1336	не упомянут		0	
+eldamo/src/main/webapp/layout/layout.jsp	1336	упомянут, статус не поставлен		2	~diary/2026-10-19-0307.md, ~proekty/instrumenty/pdf_raskladka.py
 eldamo/src/main/webapp/translations/eldamo-polish.txt	228191	не упомянут		0	
 eldamo/src/main/webapp/translations/international-searches.html	1261	не упомянут		0	
 eldamo/src/test/java/xdb/config/ConfigMonitorTest.java	4639	не упомянут		0	
@@ -1873,9 +1873,9 @@ eldamo/src/test/java/xdb/l10n/NotesTest.java	1904	не упомянут		0
 eldamo/src/test/java/xdb/l10n/StaticPagesTest.java	1150	не упомянут		0	
 eldamo/src/test/java/xdb/layout/LayoutFilterTest.java	793	не упомянут		0	
 eldamo/src/test/java/xdb/layout/NodeInfoManagerTest.java	3301	не упомянут		0	
-eldamo/src/test/java/xdb/layout/testRoot/index.html	283	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/test/java/xdb/layout/testRoot/index.html	283	упомянут, статус не поставлен		6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/test/java/xdb/layout/testRoot/page1.html	287	не упомянут		0	
-eldamo/src/test/java/xdb/layout/testRoot/subdir/index.html	299	упомянут, статус не поставлен		4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+eldamo/src/test/java/xdb/layout/testRoot/subdir/index.html	299	упомянут, статус не поставлен		6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/test/java/xdb/layout/testRoot/subdir/page2.html	287	не упомянут		0	
 eldamo/src/test/java/xdb/query/MultiIdQueryTest.java	2956	не упомянут		0	
 eldamo/src/test/java/xdb/query/MultiKeyQueryTest.java	1663	не упомянут		0	
@@ -1894,7 +1894,7 @@ eldamo/src/test/java/xdb/util/CollectionsUtilTest.java	1017	не упомяну�
 eldamo/src/test/java/xdb/util/ProbTest.java	6114	не упомянут		0	
 eldamo/src/test/java/xdb/util/XmlUtilTest.java	5383	не упомянут		0	
 eldamo/src/test/java/xdb/util/test/root.txt	41	упомянут, статус не поставлен		3	~diary/2026-10-18-1016.md, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py
-future_borders/README.md	13122	частично	notes/gribnica.md; proekty/gribnica/	20	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+future_borders/README.md	13122	частично	notes/gribnica.md; proekty/gribnica/	23	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 future_borders/RENDER_TERMUX.md	22973	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/add_music.py	3187	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/docs_rsfgr_names.tsv	4101	частично	notes/gribnica.md; proekty/gribnica/	0	
@@ -2720,11 +2720,11 @@ html-generated/3d-game-of-life-enhanced.html	41136	не упомянут	notes/k
 html-generated/3d-surface-visualization.html	24474	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/Cardo-chi-rho.woff2	944	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/P39.ttf	22360	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/PS-3504-QQV5.html	283562	бегло	notes/konfucij-dvazhdy.md (тезисы не читаны)	1	notes/konfucij-dvazhdy.md
+html-generated/PS-3504-QQV5.html	283562	частично	тезисы — proekty/esse/vo-imya.md §7; notes/konfucij-dvazhdy.md (тезисы не читаны)	2	notes/konfucij-dvazhdy.md, proekty/esse/vo-imya.md
 html-generated/PS-4470-O3Z5-Parmenides-Levinas-rgG2.html	1086959	частично	notes/parmenid-levinas.md	2	notes/parmenid-levinas.md, proekty/rody-oshibok/test10-perepis.tsv
-html-generated/PS-6361-FEAG.html	311828	бегло	notes/konfucij-dvazhdy.md (тезисы не читаны)	1	notes/konfucij-dvazhdy.md
+html-generated/PS-6361-FEAG.html	311828	полностью	notes/konfucij-dvazhdy.md (диалог; топология и комментарий — 2026-10-19-0008); notes/ogranichenie-i-prinuzhdenie.md	3	notes/ogranichenie-i-prinuzhdenie.md, notes/konfucij-dvazhdy.md, notes/perepisat-sudbu.md
 html-generated/PS-6933-6RIK-vmeschayuschiy-razlom-rgG2.html	1150098	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/PS-7173-MW5O-Aurelius-Bergson-Rorty-rgG2-v2-3 (1).html	795388	частично	раздел CLAUDE.md: «только диалог»	0	
+html-generated/PS-7173-MW5O-Aurelius-Bergson-Rorty-rgG2-v2-3 (1).html	795388	частично	прочитан только диалог	0	
 html-generated/PS-8413-M5KF.html	408362	частично	notes/vitgenshtejn-sintez.md	3	notes/vitgenshtejn-sintez.md, proekty/rody-oshibok/test9-perepis.tsv, proekty/rody-oshibok/test10-perepis.tsv
 html-generated/animation-methods-visualization.html	83404	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/anthropological-garden.html	96036	полностью	notes/sad-soglasovanij.md	2	notes/sad-soglasovanij.md, proekty/rody-oshibok/test11-perepis.tsv
@@ -2770,7 +2770,7 @@ html-generated/iching-divination.html	82914	упомянут, статус не 
 html-generated/illumination_playground_.html	278640	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/imperial_recruitment.html	134655	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	diary/2026-10-18-1640.md
 html-generated/isometric_strategy.html	135209	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/kaleidoscope.html	153035	бегло	proekty/instrumenty/brauzer/snimki/kaleidoscope.png	1	diary/2026-10-18-1901.md
+html-generated/kaleidoscope.html	153035	частично	дневник 2026-10-18-2120 (живьём); proekty/instrumenty/brauzer/snimki/kaleidoscope.png	2	diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 html-generated/krolichya-nora.html	25081	полностью	дневник 2026-10-18-1640 (без проверки)	1	diary/2026-10-18-1640.md
 html-generated/level-curves-visualization.html	41359	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/manifestum_sacrum.html	194182	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/dve-komnaty.md
@@ -2787,7 +2787,7 @@ html-generated/petra_dubrava_context.html	85746	частично	notes/petra-dub
 html-generated/petra_dubrava_material_corpus.html	145036	частично	notes/petra-dubrava.md	0	
 html-generated/petra_dubrava_school.html	115842	частично	notes/petra-dubrava.md	2	notes/petra-dubrava.md, proekty/blanki/pd-paragraf-17.md
 html-generated/philosophers-coordinates.html	64622	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/philosophometer.html	51033	бегло	дневник 2026-10-18-1901 (браузером)	3	diary/2026-10-18-1901.md, notes/zhivoe-i-kod.md, notes/gpt-koren.md
+html-generated/philosophometer.html	51033	полностью	дневник 2026-10-18-2120; proekty/instrumenty/filosofometr.js; дневник 2026-10-18-1901 (браузером)	4	diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, notes/zhivoe-i-kod.md, notes/gpt-koren.md
 html-generated/philosophy_diagrams.html	56182	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/philosophy_graph.html	2731727	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	3	notes/graf-revizija.md, proekty/rody-oshibok/graf_vyborka.py, proekty/rody-oshibok/graf_test5.py
 html-generated/philosynth-2026-03-11-doc.html	69615	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
@@ -2817,7 +2817,7 @@ html-generated/schizography-ext-snd-ext-slow-math1.html	245845	не упомян
 html-generated/schizography-ext-snd-ext-slow1.html	229912	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/schizography-proto-language.html	25754	полностью	дневник 2026-10-18-1807, 1901 (живьём)	1	notes/zhivoe-i-kod.md
 html-generated/shankara-deleuze_.html	134895	полностью	дневник 2026-10-18-0842 (без проверки)	3	diary/2026-10-18-0737.md, diary/2026-10-18-0842.md, notes/parmenid-levinas.md
-html-generated/silm_game.html	742859	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	4	diary/2026-10-18-2120.md, notes/gpt-koren.md, proekty/igry/kuznica-feanora.md, proekty/instrumenty/brauzer/igra.py
+html-generated/silm_game.html	742859	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	5	diary/2026-10-18-2120.md, notes/gpt-koren.md, proekty/igry/kuznica-feanora.md, proekty/instrumenty/brauzer/igra.py, proekty/instrumenty/brauzer/igra_fajl.py
 html-generated/silmaril-game (1).html	210087	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/silmaril-game-enhanced.html	67372	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/spirograph.html	159585	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -2833,17 +2833,17 @@ html-generated/vinilograf.html	116441	частично	notes/vinilograf.md	4	dia
 html-generated/volga-light-animation.html	89285	полностью	дневник 2026-10-18-1901 (браузером + строки из кода)	1	diary/2026-10-18-1901.md
 html-generated/wave_sim.html	68395	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/wish-spec.html	78751	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	diary/2026-10-18-1901.md, notes/geolimpiada.md
-html-generated/maps/globe.html	358750	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	4	diary/2026-10-18-2120.md, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py, proekty/instrumenty/brauzer/opcii.py
-html-generated/maps/map-projections-formulae.html	678001	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	3	proekty/rody-oshibok/README.md, proekty/proverki/proekcii.py, proekty/proverki/README.md
-html-generated/maps/projections.js	142976	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	8	notes/pismo-avtoru.md, notes/krumme-sieg.md, proekty/rody-oshibok/test10-perepis.tsv, proekty/rody-oshibok/README.md, proekty/kruzhochek/sravnenie/README.md, proekty/kruzhochek/stranica/README.md, proekty/proverki/proekcii.py, proekty/proverki/README.md
+html-generated/maps/globe.html	358750	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	7	diary/2026-10-19-0008.md, diary/2026-10-18-2120.md, proekty/karty/berghaus_pol.py, proekty/karty/README.md, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py, proekty/instrumenty/brauzer/opcii.py
+html-generated/maps/map-projections-formulae.html	678001	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	6	diary/2026-10-19-0008.md, notes/porog.md, proekty/karty/README.md, proekty/rody-oshibok/README.md, proekty/proverki/proekcii.py, proekty/proverki/README.md
+html-generated/maps/projections.js	142976	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	12	diary/2026-10-19-0008.md, diary/2026-10-18-2120.md, notes/porog.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, proekty/karty/README.md, proekty/rody-oshibok/test10-perepis.tsv, proekty/rody-oshibok/README.md
 html-generated/maps/projections.test.js	36375	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	1	proekty/rody-oshibok/README.md
 html-generated/maps/css/fonts.css	14552	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/css/katex.min.css	25951	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/data/population_log8.png	1131055	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/data/regions_pop.json	389205	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/data/world-10m.json	7634514	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
-html-generated/maps/data/world-110m.json	2434100	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	4	diary/2026-10-18-2120.md, notes/otvet-avtoru-3.md, proekty/instrumenty/brauzer/globus.py, proekty/kruzhochek/stranica/README.md
-html-generated/maps/data/world-50m.json	4303221	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
+html-generated/maps/data/world-110m.json	2434100	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	7	diary/2026-10-18-2120.md, notes/otvet-avtoru-3.md, proekty/karty/bez_antarktidy.py, proekty/karty/tolko_yuzhnaya_amerika.py, proekty/karty/README.md, proekty/instrumenty/brauzer/globus.py, proekty/kruzhochek/stranica/README.md
+html-generated/maps/data/world-50m.json	4303221	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	1	proekty/karty/README.md
 html-generated/maps/fonts/KaTeX_AMS-Regular.woff2	28076	служебное		0	
 html-generated/maps/fonts/KaTeX_Caligraphic-Bold.woff2	6912	служебное		0	
 html-generated/maps/fonts/KaTeX_Caligraphic-Regular.woff2	6908	служебное		0	
@@ -2916,32 +2916,32 @@ html-generated/waves/moon_elev.png	275619	частично	дневник 2026-1
 html-generated/waves/venus_color.jpg	178157	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/venus_elev.png	240160	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/wave_lab.html	272350	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	2	diary/2026-10-18-1901.md, notes/zhivoe-i-kod.md
-html-generated/webmap/README.md	2559	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-html-generated/webmap/app.js	29445	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/index.html	4853	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
-html-generated/webmap/style.css	6375	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/arrival_sim.png	1053396	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/arrival_sim2.png	1051820	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/borders.json	2620693	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	13	diary/2026-10-18-0737.md, diary/2026-10-18-0607.md, diary/2026-10-18-1901.md, diary/2026-10-18-1207.md, notes/ext-opis.md, notes/gpt-koren.md, notes/pismo-avtoru.md, notes/krumme-sieg.md
-html-generated/webmap/assets/borders2.json	721976	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/countries.json	43533	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/countries2.json	43193	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/envelopes.json	116181	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/ids_real.png	112766	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/ids_sim.png	113129	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/ids_sim2.png	100549	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/imp_lines.json	279402	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/imposedness.json	7982	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/map_diff.png	124095	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/map_diff2.png	110419	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/map_real.png	114823	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/map_sim.png	115233	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/map_sim2.png	102120	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/meta.json	242	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	proekty/cherv/hronofoto.py
-html-generated/webmap/assets/rankings.json	45068	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/webmap/assets/rankings2.json	44886	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/webmap/README.md	2559	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+html-generated/webmap/app.js	29445	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/index.html	4853	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
+html-generated/webmap/style.css	6375	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/arrival_sim.png	1053396	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/arrival_sim2.png	1051820	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/borders.json	2620693	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	13	diary/2026-10-18-0737.md, diary/2026-10-18-0607.md, diary/2026-10-18-1901.md, diary/2026-10-18-1207.md, notes/ext-opis.md, notes/gpt-koren.md, notes/pismo-avtoru.md, notes/krumme-sieg.md
+html-generated/webmap/assets/borders2.json	721976	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/countries.json	43533	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	1	notes/webmap.md
+html-generated/webmap/assets/countries2.json	43193	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/envelopes.json	116181	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/ids_real.png	112766	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/ids_sim.png	113129	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/ids_sim2.png	100549	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/imp_lines.json	279402	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	3	diary/2026-10-19-0008.md, notes/webmap.md, notes/otvet-avtoru-4.md
+html-generated/webmap/assets/imposedness.json	7982	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	1	notes/webmap.md
+html-generated/webmap/assets/map_diff.png	124095	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/map_diff2.png	110419	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/map_real.png	114823	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/map_sim.png	115233	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/map_sim2.png	102120	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/meta.json	242	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	1	proekty/cherv/hronofoto.py
+html-generated/webmap/assets/rankings.json	45068	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
+html-generated/webmap/assets/rankings2.json	44886	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
 hwph-xml/MANUAL.md	65507	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	diary/2026-10-18-2120.md
-hwph-xml/README.md	17463	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/README.md	17463	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 hwph-xml/build_site.cmd	4040	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	~diary/2026-10-18-1901.md
 hwph-xml/build_site.sh	2242	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	diary/2026-10-18-1901.md
 hwph-xml/compare.py	5490	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -2950,66 +2950,66 @@ hwph-xml/finish.py	1200	частично	дневник 2026-10-18-1901 (чит�
 hwph-xml/md2xml.py	70399	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/serve.cmd	1575	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/serve.sh	683	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/site.xml	181530917	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	4	diary/2026-10-18-1901.md, notes/ext-opis.md, proekty/instrumenty/hwph_statya.py, proekty/esse/vo-imya.md
-hwph-xml/split.py	738	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	5	diary/2026-10-18-1901.md, ~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/hwph_statya.py
-hwph-xml/bridge/README.md	16336	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-hwph-xml/bridge/SPEC.md	118214	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/build_concept_map.py	4620	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/build_phil_map.py	1867	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/compare.py	8581	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/concept_brief.py	9297	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/concept_candidates.py	9159	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/concept_de.py	44134	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/concept_review.py	12938	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/corpus_pairs.py	8851	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/grep_art.py	1242	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/hwphxml.py	12488	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/make_report.py	14773	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/phil_brief.py	2461	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/phil_names.py	4158	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/read_brief.py	7710	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/read_evidence.py	7759	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/run_bridge.py	1680	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/adds.json	5334	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/apply_all.sh	2501	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/decisions.json	138749	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/export.py	2701	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/fix_descriptions.json	2274	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/influence_develop_pairs.json	2625	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/log.py	553	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/report.py	5312	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/c1/decisions.json	281210	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/c1/export.py	2081	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/c1/log.py	951	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	2	~diary/2026-10-18-0737.md, ~notes/sad-soglasovanij.md
-hwph-xml/bridge/review/c1/report.py	4688	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f1/build.py	3604	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f1/cands.py	1868	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f1/decisions.json	188557	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f1/extract_lits.mjs	751	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f1/set_provenance_paragraphs.patch	1656	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f2/build.py	5318	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f2/candidates.json	55826	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/f2/decisions.py	20768	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/h2/decisions.json	354891	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/h2/export.py	3819	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/h2/log.py	968	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/k1/decisions.json	77635	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/k1/export.py	5450	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/k1/extract_data.mjs	881	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/k2/decisions.json	93599	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/k2/export.py	5450	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/l1/check.py	8161	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	2	notes/zhizn-figury.md, proekty/proverki/README.md
-hwph-xml/bridge/review/l1/draft.py	37730	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/n1/decisions.json	122204	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/n1/report.py	5601	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/r1/apply_concepts.py	17967	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge/review/r1/connectivity.mjs	2270	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge_out/candidate_concepts.json	275030	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge_out/candidate_relations.json	152377	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge_out/concepts_hwph.json	407116	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge_out/philosophers_hwph.json	16967	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge_out/relations_evidence.json	888097	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/bridge_out/report.md	57600	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
+hwph-xml/site.xml	181530917	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	6	diary/2026-10-18-1901.md, notes/ext-opis.md, ~proekty/most/most.py, ~proekty/most/README.md, proekty/instrumenty/hwph_statya.py, proekty/esse/vo-imya.md
+hwph-xml/split.py	738	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	6	diary/2026-10-18-1901.md, ~proekty/most/most.py, ~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/hwph_statya.py
+hwph-xml/bridge/README.md	16336	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+hwph-xml/bridge/SPEC.md	118214	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/build_concept_map.py	4620	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/build_phil_map.py	1867	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/compare.py	8581	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/concept_brief.py	9297	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/concept_candidates.py	9159	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/concept_de.py	44134	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/concept_review.py	12938	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/corpus_pairs.py	8851	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/grep_art.py	1242	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/hwphxml.py	12488	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/make_report.py	14773	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/phil_brief.py	2461	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/phil_names.py	4158	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/read_brief.py	7710	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/read_evidence.py	7759	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/run_bridge.py	1680	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/adds.json	5334	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/apply_all.sh	2501	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/decisions.json	138749	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/export.py	2701	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/fix_descriptions.json	2274	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/influence_develop_pairs.json	2625	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/log.py	553	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/report.py	5312	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/c1/decisions.json	281210	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/c1/export.py	2081	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/c1/log.py	951	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	3	~diary/2026-10-18-0737.md, ~notes/sad-soglasovanij.md, ~proekty/most/verdikty.tsv
+hwph-xml/bridge/review/c1/report.py	4688	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f1/build.py	3604	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f1/cands.py	1868	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f1/decisions.json	188557	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f1/extract_lits.mjs	751	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f1/set_provenance_paragraphs.patch	1656	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f2/build.py	5318	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f2/candidates.json	55826	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/f2/decisions.py	20768	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/h2/decisions.json	354891	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/h2/export.py	3819	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/h2/log.py	968	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/k1/decisions.json	77635	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/k1/export.py	5450	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/k1/extract_data.mjs	881	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/k2/decisions.json	93599	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/k2/export.py	5450	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/l1/check.py	8161	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	2	notes/zhizn-figury.md, proekty/proverki/README.md
+hwph-xml/bridge/review/l1/draft.py	37730	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/n1/decisions.json	122204	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/n1/report.py	5601	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/r1/apply_concepts.py	17967	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge/review/r1/connectivity.mjs	2270	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge_out/candidate_concepts.json	275030	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge_out/candidate_relations.json	152377	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
+hwph-xml/bridge_out/concepts_hwph.json	407116	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	1	proekty/most/most.py
+hwph-xml/bridge_out/philosophers_hwph.json	16967	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	1	proekty/most/most.py
+hwph-xml/bridge_out/relations_evidence.json	888097	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	1	proekty/most/most.py
+hwph-xml/bridge_out/report.md	57600	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	3	diary/2026-10-19-0008.md, notes/otvet-avtoru-4.md, proekty/most/README.md
 hwph-xml/epub2md/align.py	1008	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/epub2md/convert.py	6117	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/epub2md/epub2md.py	11227	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -3287,7 +3287,7 @@ hwph-xml/philosphaira_decisions/hwph/R2-review.md	18417	частично	дне�
 hwph-xml/philosphaira_decisions/hwph/R3-concepts.json	5767	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/philosphaira_decisions/hwph/R3-fix.json	5124	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/philosphaira_decisions/hwph/R3-review.md	20843	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/philosphaira_decisions/hwph/README.md	14391	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+hwph-xml/philosphaira_decisions/hwph/README.md	14391	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	22	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 hwph-xml/saxon/saxon-he-11.7.jar	5218107	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/saxon/xmlresolver-5.3.3-data.jar	1033122	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/saxon/xmlresolver-5.3.3.jar	167889	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -3365,7 +3365,7 @@ hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff	16028	служебно
 hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff2	13568	служебное		0	
 hwph-xml/tools/i18n_check.py	5914	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/tools/persons_review.py	7961	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	8	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/instrumenty/html2txt.py, proekty/instrumenty/hwph_statya.py
+hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	10	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/most/most.py, proekty/most/README.md
 hwph-xml/xq/common.xq	9896	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/global.xq	10205	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/index.xq	11792	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -3424,7 +3424,7 @@ lleo_dip/pushk.txt	232313	частично	notes/sito-2020.md	1	notes/sito-2020.
 lleo_dip/sneg.RTM	149	частично	notes/sito-2020.md	0	
 lleo_dip/vizb.rtm	123	частично	notes/sito-2020.md	0	
 lleo_dip/ыкпувка.txt	2418	частично	notes/sito-2020.md	0	
-lleo_poet_bundle/README.md	2628	бегло	дневник 2026-10-18-0737	20	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-0343.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+lleo_poet_bundle/README.md	2628	бегло	дневник 2026-10-18-0737	23	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-0343.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 lleo_poet_bundle/base_ru.txt	60887	бегло	дневник 2026-10-18-0737	4	diary/2026-10-18-0737.md, proekty/hokku/sverka.py, proekty/hokku/udar.py, proekty/hokku/README.md
 lleo_poet_bundle/lleo_poet.html	150295	бегло	дневник 2026-10-18-0737	8	diary/2026-10-18-1640.md, diary/2026-10-18-0343.md, diary/2026-10-18-0408.md, notes/krumme-sieg.md, notes/karta-inbox.md, proekty/hokku/sverka.py, proekty/hokku/udar.py, proekty/hokku/README.md
 lleo_poet_bundle/bases/base_de.txt	675972	бегло	дневник 2026-10-18-0737	0	
@@ -3436,7 +3436,7 @@ lleo_poet_bundle/bases/base_ru.txt	43056573	бегло	дневник 2026-10-18
 lleo_poet_bundle/bases/meters.txt	628	бегло	дневник 2026-10-18-0737	0	
 lleo_poet_bundle/docs/COMPARISON_ru_forms.md	7070	бегло	дневник 2026-10-18-0737	0	
 lleo_poet_bundle/docs/MERGE_ru.md	4422	бегло	дневник 2026-10-18-0737	0	
-lleo_poet_bundle/docs/README.md	7747	бегло	дневник 2026-10-18-0737	20	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+lleo_poet_bundle/docs/README.md	7747	бегло	дневник 2026-10-18-0737	23	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 lleo_poet_bundle/docs/SPEC_multibase.md	6622	бегло	дневник 2026-10-18-0737	0	
 metamystic-dictionary-extended/metamystic-dictionary-1.txt	4897	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metamystic-dictionary-10(1).txt	10185	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
@@ -3456,7 +3456,7 @@ metamystic-dictionary-extended/metamystic-dictionary-7.txt	7377	бегло	дн�
 metamystic-dictionary-extended/metamystic-dictionary-8.txt	8876	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metamystic-dictionary-9.txt	8855	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metaphilosophic-metamystic-dictionary.txt	116231	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
-philosophical-concepts-omnidirectional/README.md	30217	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosophical-concepts-omnidirectional/README.md	30217	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 philosophical-concepts-omnidirectional/philosophical-concepts-schema.md	25907	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/philosophy-service-documentation.md	67117	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/architecture/claude-interaction.mmd	7280	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
@@ -3575,9 +3575,9 @@ philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/v
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	29	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	35	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	29	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	34	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/api-tests/api-test-template.js	15864	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/clients/service-client-template.js	13642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
@@ -3639,13 +3639,13 @@ philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/rout
 philosophical-concepts-omnidirectional/structure/Phase-2/user-service/tests/services/userService.test.js	8774	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosphaira/package-lock.json	29840	не упомянут		0	
 philosphaira/package.json	1100	не упомянут		0	
-philosphaira/philosphaira.zip	3875713	упомянут, статус не поставлен		13	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/zhivoe-i-kod.md, notes/gpt-koren.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py
+philosphaira/philosphaira.zip	3875713	упомянут, статус не поставлен		14	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/zhivoe-i-kod.md, notes/gpt-koren.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py
 philosphaira/readme.md	133470	частично	дневник 2026-10-18-1901 (§1–2, §13-бис)	3	diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, notes/gpt-koren.md
 philosphaira/app/.nojekyll	0	не упомянут		0	
 philosphaira/app/_probe-rig.js	15166	не упомянут		0	
 philosphaira/app/actions_map.json	61236	не упомянут		0	
 philosphaira/app/boot.js	15005	не упомянут		0	
-philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	11	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py, ~proekty/instrumenty/brauzer/globus.py
+philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	13	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, ~proekty/instrumenty/mutanty.py, ~proekty/instrumenty/sperva.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py
 philosphaira/app/main.js	5554	упомянут, статус не поставлен		9	~diary/2026-10-18-1457.md, ~diary/2026-10-18-1807.md, ~notes/gpt-koren.md, ~proekty/hokku/hokku.py, ~proekty/hokku/yamb.py, ~proekty/cherv/hronofoto.py, ~proekty/instrumenty/sverka_paragrafov.py, ~proekty/instrumenty/trinity_dc.py
 philosphaira/app/namespaces.json	3505	не упомянут		0	
 philosphaira/app/css/01-base.css	18657	не упомянут		0	
@@ -3659,22 +3659,22 @@ philosphaira/app/css/08-stats-results.css	14974	не упомянут		0
 philosphaira/app/css/09-tension.css	5959	не упомянут		0	
 philosphaira/app/css/10-forms.css	16654	не упомянут		0	
 philosphaira/app/css/11-multiuser.css	12339	не упомянут		0	
-philosphaira/app/data/concepts.json	957366	упомянут, статус не поставлен		29	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md, notes/ranatar.md, notes/gribnica.md
+philosphaira/app/data/concepts.json	957366	упомянут, статус не поставлен		35	diary/2026-10-18-1457.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, notes/imyaslavie.md, notes/gpt-koren.md
 philosphaira/app/data/nodePositions.json	36219	не упомянут		0	
-philosphaira/app/data/philosophers.json	463934	упомянут, статус не поставлен		2	proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py
+philosphaira/app/data/philosophers.json	463934	упомянут, статус не поставлен		3	proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, ~proekty/most/most.py
 philosphaira/app/data/relationTypes.json	3108	упомянут, статус не поставлен		1	proekty/sverka-wikidata/sverka.py
-philosphaira/app/data/relations.json	1672621	упомянут, статус не поставлен		3	notes/gpt-koren.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py
+philosphaira/app/data/relations.json	1672621	упомянут, статус не поставлен		5	notes/gpt-koren.md, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/most/most.py, proekty/most/README.md
 philosphaira/app/data/rubrics.json	2464	не упомянут		0	
 philosphaira/app/data/traditions.json	6891	упомянут, статус не поставлен		1	proekty/sverka-wikidata/sverka.py
 philosphaira/app/modules/boot-defs.js	3273	не упомянут		0	
 philosphaira/app/modules/dead.js	3213	не упомянут		0	
 philosphaira/app/modules/core/api.js	6555	не упомянут		0	
 philosphaira/app/modules/core/base-cells.js	338	не упомянут		0	
-philosphaira/app/modules/core/events.js	3957	упомянут, статус не поставлен		3	diary/2026-10-18-2107.md, diary/2026-10-18-1901.md, proekty/gribnica/vstavka.py
+philosphaira/app/modules/core/events.js	3957	упомянут, статус не поставлен		5	diary/2026-10-18-2107.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md, proekty/igry/kuznica-feanora.md, proekty/gribnica/vstavka.py
 philosphaira/app/modules/core/graph-index.js	10686	не упомянут		0	
 philosphaira/app/modules/core/link-facts.js	3517	не упомянут		0	
 philosphaira/app/modules/core/long-task.js	5013	не упомянут		0	
-philosphaira/app/modules/core/ns.js	2242	упомянут, статус не поставлен		13	notes/zhizn-figury.md, notes/gpt-koren.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, ~proekty/hokku/yamb.py, proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/rody-oshibok/test10-perepis.tsv
+philosphaira/app/modules/core/ns.js	2242	упомянут, статус не поставлен		18	diary/2026-10-19-0008.md, diary/2026-10-18-2120.md, notes/zhizn-figury.md, notes/gpt-koren.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, ~proekty/hokku/yamb.py, proekty/sverka-wikidata/sverka.py
 philosphaira/app/modules/core/perms.js	2610	не упомянут		0	
 philosphaira/app/modules/core/ready.js	821	не упомянут		0	
 philosphaira/app/modules/core/relation-types.js	4318	не упомянут		0	
@@ -3684,7 +3684,7 @@ philosphaira/app/modules/core/time.js	637	не упомянут		0
 philosphaira/app/modules/core/visibility.js	408	не упомянут		0	
 philosphaira/app/modules/data/backend.js	7824	не упомянут		0	
 philosphaira/app/modules/data/commit-draft.js	1968	не упомянут		0	
-philosphaira/app/modules/data/load.js	526	упомянут, статус не поставлен		9	~proekty/hokku/udar.py, ~proekty/cherv/hronofoto.py, ~proekty/sverka-wikidata/sverka.py, ~proekty/sverka-wikidata/put.py, ~proekty/sverka-wikidata/skachat.py, ~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py
+philosphaira/app/modules/data/load.js	526	упомянут, статус не поставлен		12	~proekty/hokku/udar.py, ~proekty/cherv/hronofoto.py, ~proekty/sverka-wikidata/sverka.py, ~proekty/sverka-wikidata/put.py, ~proekty/sverka-wikidata/skachat.py, ~proekty/karty/bez_antarktidy.py, ~proekty/karty/tolko_yuzhnaya_amerika.py, ~proekty/most/most.py
 philosphaira/app/modules/data/mutate.js	4710	упомянут, статус не поставлен		1	~diary/2026-10-18-1457.md
 philosphaira/app/modules/data/remote.js	10493	не упомянут		0	
 philosphaira/app/modules/data/save.js	3306	упомянут, статус не поставлен		1	~proekty/cherv/hronofoto.py
@@ -3729,7 +3729,7 @@ philosphaira/app/modules/modal/entry.js	5095	не упомянут		0
 philosphaira/app/modules/modal/forms.js	14210	не упомянут		0	
 philosphaira/app/modules/modal/history.js	6693	не упомянут		0	
 philosphaira/app/modules/modal/integrity.js	18279	не упомянут		0	
-philosphaira/app/modules/modal/persist.js	25519	не упомянут		0	
+philosphaira/app/modules/modal/persist.js	25519	упомянут, статус не поставлен		2	notes/petlya.md, proekty/esse/vo-imya.md
 philosphaira/app/modules/modal/philosopher-view.js	36988	не упомянут		0	
 philosphaira/app/modules/modal/profile-concept.js	10058	не упомянут		0	
 philosphaira/app/modules/modal/profile-philosopher.js	6546	не упомянут		0	
@@ -3767,7 +3767,7 @@ philosphaira/app/modules/stats/coverage.js	2826	не упомянут		0
 philosphaira/app/modules/stats/modal.js	15497	не упомянут		0	
 philosphaira/app/modules/stats/observations.js	13340	не упомянут		0	
 philosphaira/app/modules/stats/results.js	24525	упомянут, статус не поставлен		1	proekty/instrumenty/brauzer/globus_podbor.py
-philosphaira/app/modules/stats/run.js	5053	упомянут, статус не поставлен		4	diary/2026-10-18-0510.md, notes/pismo-avtoru-podrobno.md, proekty/kruzhochek/vse.py, proekty/kruzhochek/README.md
+philosphaira/app/modules/stats/run.js	5053	упомянут, статус не поставлен		5	diary/2026-10-18-0510.md, notes/pismo-avtoru-podrobno.md, ~proekty/instrumenty/brauzer/igra_fajl.py, proekty/kruzhochek/vse.py, proekty/kruzhochek/README.md
 philosphaira/app/modules/stats/views/advanced.js	10254	не упомянут		0	
 philosphaira/app/modules/stats/views/comparison.js	27507	не упомянут		0	
 philosphaira/app/modules/stats/views/network.js	9897	не упомянут		0	
@@ -3812,7 +3812,7 @@ philosphaira/decisions/exposure.json	8492	не упомянут		0
 philosphaira/decisions/layers.json	2722	не упомянут		0	
 philosphaira/decisions/plan_signs.json	17425	не упомянут		0	
 philosphaira/decisions/tradition_kinds.draft.json	4401	не упомянут		0	
-philosphaira/decisions/sources/wittgenstein/README.md	4139	упомянут, статус не поставлен		19	~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+philosphaira/decisions/sources/wittgenstein/README.md	4139	упомянут, статус не поставлен		22	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 philosphaira/decisions/sources/wittgenstein/W1-add.json	1917	не упомянут		0	
 philosphaira/decisions/sources/wittgenstein/W1-fix.json	1305	не упомянут		0	
 philosphaira/decisions/sources/wittgenstein/W1-provenance.json	11531	не упомянут		0	
@@ -3840,7 +3840,7 @@ philosphaira/doc/build-ops.md	32290	не упомянут		0
 philosphaira/doc/build.md	46107	упомянут, статус не поставлен		1	~notes/parmenid-levinas.md
 philosphaira/doc/gaps-2026-08-27.md	14032	не упомянут		0	
 philosphaira/doc/github-pages.md	6558	не упомянут		0	
-philosphaira/doc/history.md	394332	упомянут, статус не поставлен		5	diary/2026-10-18-0842.md, notes/imyaslavie.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
+philosphaira/doc/history.md	394332	упомянут, статус не поставлен		6	~diary/2026-10-19-0307.md, diary/2026-10-18-0842.md, notes/imyaslavie.md, notes/karta-inbox.md, notes/rodoslovnaya-sinteza.md, notes/parmenid-levinas.md
 philosphaira/doc/module-ops.md	9703	не упомянут		0	
 philosphaira/doc/plan-next.md	146125	не упомянут		0	
 philosphaira/doc/server-design.md	16489	не упомянут		0	
@@ -3852,9 +3852,9 @@ philosphaira/mapping/handler_keys.json	6403	не упомянут		0
 philosphaira/mapping/map_tree.json	336700	не упомянут		0	
 philosphaira/mapping/map_tree.md	159193	не упомянут		0	
 philosphaira/mapping/module-spec.md	124684	не упомянут		0	
-philosphaira/server/.env.example	6465	упомянут, статус не поставлен		4	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
+philosphaira/server/.env.example	6465	упомянут, статус не поставлен		5	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
 philosphaira/server/.gitignore	19	упомянут, статус не поставлен		2	diary/2026-10-17-1900.md, diary/2026-10-18-0408.md
-philosphaira/server/README.md	19279	упомянут, статус не поставлен		18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosphaira/server/README.md	19279	упомянут, статус не поставлен		21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 philosphaira/server/accept.sh	3464	не упомянут		0	
 philosphaira/server/package-lock.json	55423	не упомянут		0	
 philosphaira/server/package.json	2133	не упомянут		0	
@@ -3941,13 +3941,13 @@ philosphaira/server/src/db/observations.js	4924	не упомянут		0
 philosphaira/server/src/db/paginate.js	1441	не упомянут		0	
 philosphaira/server/src/db/pool.js	2061	не упомянут		0	
 philosphaira/server/src/db/sessions.js	4243	не упомянут		0	
-philosphaira/server/src/db/tx.js	1600	упомянут, статус не поставлен		5	~diary/2026-10-18-1457.md, ~notes/krumme-sieg.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/proverki/README.md
+philosphaira/server/src/db/tx.js	1600	упомянут, статус не поставлен		7	~diary/2026-10-18-1457.md, ~diary/2026-10-18-2120.md, ~notes/krumme-sieg.md, ~proekty/igry/kuznica-feanora.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/proverki/README.md
 philosphaira/server/src/db/users.js	9969	не упомянут		0	
 philosphaira/server/src/db/verifications.js	1388	не упомянут		0	
 philosphaira/server/src/graph/footnotes.js	7593	не упомянут		0	
 philosphaira/server/src/graph/impact.js	6261	не упомянут		0	
 philosphaira/server/src/graph/layout.js	9157	не упомянут		0	
-philosphaira/server/src/graph/read.js	4018	упомянут, статус не поставлен		6	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/graf_test5.py, ~proekty/instrumenty/brauzer/globus_podbor.py
+philosphaira/server/src/graph/read.js	4018	упомянут, статус не поставлен		7	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~proekty/most/most.py, ~proekty/rody-oshibok/graf_vyborka.py, ~proekty/rody-oshibok/graf_test5.py, ~proekty/instrumenty/brauzer/globus_podbor.py
 philosphaira/server/src/graph/relayout-service.js	5829	не упомянут		0	
 philosphaira/server/src/graph/schema.js	8253	не упомянут		0	
 philosphaira/server/src/graph/text-rules.js	4490	не упомянут		0	
@@ -3955,7 +3955,7 @@ philosphaira/server/src/http/app.js	35226	упомянут, статус не п
 philosphaira/server/src/http/cookies.js	1852	не упомянут		0	
 philosphaira/server/src/http/errors.js	1699	упомянут, статус не поставлен		1	~proekty/instrumenty/sperva.py
 philosphaira/server/src/http/guards.js	1446	не упомянут		0	
-philosphaira/server/src/http/server.js	1672	упомянут, статус не поставлен		5	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py, ~proekty/kruzhochek/stranica/README.md
+philosphaira/server/src/http/server.js	1672	упомянут, статус не поставлен		6	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py, ~proekty/kruzhochek/stranica/README.md
 philosphaira/server/src/metrics/observations.js	10732	не упомянут		0	
 philosphaira/server/src/notify/catalog.js	7805	не упомянут		0	
 philosphaira/server/src/notify/email.js	8000	не упомянут		0	
@@ -3977,8 +3977,8 @@ philosphaira/tools/deploy_check.sh	7967	не упомянут		0
 philosphaira/tools/paths.mjs	10085	не упомянут		0	
 philosphaira/tools/paths.py	6941	не упомянут		0	
 philosphaira/tools/remap.mjs	10686	не упомянут		0	
-philosphaira/tools/serve.py	1785	упомянут, статус не поставлен		4	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
-philosphaira/tools/serve.sh	1518	упомянут, статус не поставлен		4	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
+philosphaira/tools/serve.py	1785	упомянут, статус не поставлен		5	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
+philosphaira/tools/serve.sh	1518	упомянут, статус не поставлен		5	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
 philosphaira/tools/build/delegate.mjs	28635	служебное		0	
 philosphaira/tools/build/prune_exports.mjs	12434	служебное		0	
 philosphaira/tools/build/prune_imports.mjs	4499	служебное		0	
@@ -3999,7 +3999,7 @@ philosphaira/tools/checks/ops_probe.mjs	22610	не упомянут		0
 philosphaira/tools/checks/plan_probe.mjs	4637	не упомянут		0	
 philosphaira/tools/checks/resets_listed.mjs	4830	не упомянут		0	
 philosphaira/tools/checks/tools_listed.mjs	13728	не упомянут		0	
-philosphaira/tools/edit/absorb.mjs	7820	не упомянут		0	
+philosphaira/tools/edit/absorb.mjs	7820	упомянут, статус не поставлен		1	proekty/instrumenty/brauzer/webmap_klik.py
 philosphaira/tools/edit/add_concepts.mjs	11142	не упомянут		0	
 philosphaira/tools/edit/add_links.mjs	11408	не упомянут		0	
 philosphaira/tools/edit/add_relation_ids.mjs	7098	не упомянут		0	
@@ -4042,14 +4042,14 @@ philosphaira/tools/probes/tip_probe.mjs	2470	не упомянут		0
 philosphaira/tools/probes/tradition_trial.mjs	15665	не упомянут		0	
 philosynth/.env.example	5051	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/NEXT-CONTEXT.md	75937	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, notes/karta-inbox.md
-philosynth/README.md	28767	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	21	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md
+philosynth/README.md	28767	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	24	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md
 philosynth/docker-compose.yml	810	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/drizzle.config.ts	477	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/env.local.example	2254	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/package-lock.json	198314	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/package.json	2316	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/tsconfig.base.json	593	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/client/index.html	1102	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+philosynth/client/index.html	1102	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 philosynth/client/package.json	772	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/postcss.config.js	87	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/tailwind.config.ts	1568	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4066,7 +4066,7 @@ philosynth/client/src/api/client.ts	7931	бегло	notes/karta-inbox.md (README
 philosynth/client/src/api/elements.ts	8270	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/enrichment.ts	3752	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/export.ts	1773	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/client/src/api/import.ts	2915	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	8	~proekty/sverka-wikidata/skachat.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
+philosynth/client/src/api/import.ts	2915	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	9	~proekty/sverka-wikidata/skachat.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py
 philosynth/client/src/api/lineage.ts	2906	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/logs.ts	1554	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/modes.ts	2809	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4241,8 +4241,8 @@ philosynth/packages/shared/i18n/locales.ts	3267	бегло	notes/karta-inbox.md 
 philosynth/packages/shared/i18n/strings.json	1062463	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/t.ts	10690	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/generated/data-keys.ts	42503	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	49	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md, ~notes/slova-mutanty.md, ~notes/zhizn-figury.md
-philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	58	~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md, ~notes/slova-mutanty.md, ~notes/zhizn-figury.md
+philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	58	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md
+philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	70	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md
 philosynth/packages/shared/types/admin.ts	2481	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/billing.ts	5025	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/edit-plan.ts	12624	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4258,13 +4258,13 @@ philosynth/packages/shared/types/synthesis.ts	13402	бегло	notes/karta-inbox
 philosynth/packages/shared/types/ws-messages.ts	11246	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/cardinality.ts	3709	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/colorize-log.ts	18214	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/packages/shared/utils/escape.ts	562	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	11	proekty/rody-oshibok/test11_izvlech.py, proekty/rody-oshibok/test10_izvlech.py, proekty/rody-oshibok/test8_izvlech.py, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/gde_slova.py, proekty/instrumenty/kurs_par.py, proekty/instrumenty/kontekst.py, proekty/instrumenty/katalog_html.py
+philosynth/packages/shared/utils/escape.ts	562	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	12	proekty/most/most.py, proekty/rody-oshibok/test11_izvlech.py, proekty/rody-oshibok/test10_izvlech.py, proekty/rody-oshibok/test8_izvlech.py, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/gde_slova.py, proekty/instrumenty/kurs_par.py, proekty/instrumenty/kontekst.py
 philosynth/packages/shared/utils/normalize.ts	1319	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	5	proekty/rody-oshibok/test10-perepis.tsv, proekty/instrumenty/eldamo_sverka.py, proekty/instrumenty/sverka_paragrafov.py, proekty/instrumenty/eldamo_spisok.py, proekty/instrumenty/eldamo_slovo.py
 philosynth/packages/shared/utils/transliterate.ts	1485	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/version.ts	1996	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/visibility.ts	1917	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/sample/PS-6933-6RIK-vmeschayuschiy-razlom-rgG2.html	1150098	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/sample/README.md	1156	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosynth/sample/README.md	1156	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 philosynth/scripts/package.json	499	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/tsconfig.json	348	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/checks/check-dotfiles.mjs	2693	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4275,7 +4275,7 @@ philosynth/scripts/extract/extract-by-name.py	16828	бегло	notes/karta-inbox
 philosynth/scripts/extract/extract-export-assets.mjs	10549	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/extract/extract-section-templates.mjs	40087	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/extract/extract-seed-data.mjs	24217	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/scripts/i18n/README.md	20038	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+philosynth/scripts/i18n/README.md	20038	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 philosynth/scripts/i18n/build-localized.mjs	7715	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/i18n/extract-ui-strings.mjs	5993	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/i18n/i18n-add-lang.mjs	8102	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4376,8 +4376,8 @@ philosynth/scripts/seed/seed-prompts.ts	8625	бегло	notes/karta-inbox.md (RE
 philosynth/scripts/seed/seed-taxonomy.ts	17061	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/seed/stripe-create-prices.ts	13033	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/audit.mts	12584	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/server/env.ts	9695	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	4	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
-philosynth/server/index.ts	8133	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	4	~diary/2026-10-18-0737.md, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/kruzhochek/stranica/README.md
+philosynth/server/env.ts	9695	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	5	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
+philosynth/server/index.ts	8133	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	5	~diary/2026-10-18-0737.md, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/kruzhochek/stranica/README.md
 philosynth/server/integration-check.mts	861735	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/package.json	862	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/redis.ts	1762	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4405,7 +4405,7 @@ philosynth/server/config/substitution-map.ts	5292	бегло	notes/karta-inbox.m
 philosynth/server/config/thesis-layout-templates.ts	6537	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/config/topology-roles.ts	4893	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/config/transform-templates.ts	8736	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/server/db/index.ts	1113	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	4	~proekty/hokku/udar.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py, ~proekty/instrumenty/brauzer/globus.py
+philosynth/server/db/index.ts	1113	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	5	~proekty/hokku/udar.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus.py
 philosynth/server/db/schema.ts	63879	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/db/migrations/0000_initial.sql	26919	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/server/db/migrations/0001_phase56_owner_columns.sql	906	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4699,7 +4699,7 @@ scad/Kruzhochek7.scad	2093	частично	proekty/kruzhochek/README.md	0
 scad/Kruzhochek8.scad	2040	частично	proekty/kruzhochek/README.md	0	
 scad/Kruzhochek9.scad	2040	частично	proekty/kruzhochek/README.md	0	
 scad/Kub.scad	480	частично	proekty/kruzhochek/README.md	1	~diary/2026-10-18-1901.md
-translation-chaos/README.md	13159	бегло	notes/karta-inbox.md (README)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+translation-chaos/README.md	13159	бегло	notes/karta-inbox.md (README)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 translation-chaos/env.example	1596	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/package.json	848	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/server.js	2798	бегло	notes/karta-inbox.md (README)	0	
@@ -4716,17 +4716,17 @@ translation-chaos/backend/services/game-modes.js	9239	бегло	notes/karta-inb
 translation-chaos/backend/services/keywords.js	4738	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/presets.js	1294	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/translator.js	4519	бегло	notes/karta-inbox.md (README)	0	
-translation-chaos/frontend/index.html	6321	бегло	notes/karta-inbox.md (README)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+translation-chaos/frontend/index.html	6321	бегло	notes/karta-inbox.md (README)	6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 translation-chaos/frontend/css/game-modes.css	17862	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/css/styles.css	9224	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/animations.js	3973	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/api.js	4040	бегло	notes/karta-inbox.md (README)	5	~notes/krumme-sieg.md, ~proekty/sverka-wikidata/skachat.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/instrumenty/brauzer/globus.py
-translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	16	~diary/2026-10-18-1457.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/cherv/hronofoto.py, ~proekty/sverka-wikidata/sverka.py
+translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	19	~diary/2026-10-18-1457.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/cherv/hronofoto.py, ~proekty/sverka-wikidata/sverka.py
 translation-chaos/frontend/js/export.js	1204	бегло	notes/karta-inbox.md (README)	1	~proekty/rody-oshibok/test10-perepis.tsv
 translation-chaos/frontend/js/game-modes.js	16501	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/visualizations.js	14126	бегло	notes/karta-inbox.md (README)	0	
 wormlisp/Makefile	1083	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/README.md	15466	частично	proekty/cherv/README.md (запущен; код — выборочно)	20	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+wormlisp/README.md	15466	частично	proekty/cherv/README.md (запущен; код — выборочно)	23	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 wormlisp/worm.asd	8943	частично	proekty/cherv/README.md (запущен; код — выборочно)	10	~diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, ~diary/2026-10-18-0408.md, ~notes/ext-opis.md, ~notes/pismo-avtoru.md, ~notes/pismo-avtoru-podrobno.md, ~notes/karta-inbox.md, ~proekty/cherv/hronofoto.py
 wormlisp/anatomy/.gitkeep	0	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/anatomy/muscles.sexp	11188	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4754,7 +4754,7 @@ wormlisp/configs/proprio-water-anterior.sexp	457	частично	proekty/cherv/
 wormlisp/configs/proprio-water.sexp	292	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/configs/rhythm-agar.sexp	429	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/configs/rhythm-water.sexp	376	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/docs/README.md	1448	частично	proekty/cherv/README.md (запущен; код — выборочно)	20	diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+wormlisp/docs/README.md	1448	частично	proekty/cherv/README.md (запущен; код — выборочно)	23	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md
 wormlisp/docs/architecture.md	165580	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/docs/design.md	64603	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/docs/parameters.md	97893	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4764,13 +4764,13 @@ wormlisp/params/agar-a-v1.sexp	1048	частично	proekty/cherv/README.md (з
 wormlisp/params/agar-c-v1.sexp	651	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/README.md
 wormlisp/params/base-v1.sexp	9805	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/params/water-v1.sexp	791	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/README.md
-wormlisp/reference/boyle2012-wormsim/README.md	1914	частично	proekty/cherv/README.md (запущен; код — выборочно)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+wormlisp/reference/boyle2012-wormsim/README.md	1914	частично	proekty/cherv/README.md (запущен; код — выборочно)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 wormlisp/reference/boyle2012-wormsim/medium-0.001.wcon	268679	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.01.wcon	266579	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.1.wcon	275135	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.wcon	270902	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-1.wcon	274500	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/reference/schafer-n2-agar/README.md	2178	частично	proekty/cherv/README.md (запущен; код — выборочно)	19	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+wormlisp/reference/schafer-n2-agar/README.md	2178	частично	proekty/cherv/README.md (запущен; код — выборочно)	22	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 wormlisp/reference/schafer-n2-agar/track.wcon	2661399	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/scripts/bench.lisp	2364	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/scripts/boyle-wormsim.sh	1864	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4812,7 +4812,7 @@ wormlisp/src/core/conditions.lisp	2165	частично	proekty/cherv/README.md 
 wormlisp/src/core/log.lisp	2443	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/sverka-wikidata/sverka.py
 wormlisp/src/core/model.lisp	7770	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/core/package.lisp	1828	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/core/project.lisp	1631	частично	proekty/cherv/README.md (запущен; код — выборочно)	15	diary/2026-10-18-1640.md, notes/ext-opis.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, notes/vitgenshtejn-sintez.md, notes/pismo-avtoru-podrobno.md, notes/rodoslovnaya-sinteza.md, proekty/rody-oshibok/pu_razbor.py
+wormlisp/src/core/project.lisp	1631	частично	proekty/cherv/README.md (запущен; код — выборочно)	19	diary/2026-10-19-0008.md, diary/2026-10-18-1640.md, diary/2026-10-18-2120.md, notes/porog.md, notes/ext-opis.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, notes/vitgenshtejn-sintez.md
 wormlisp/src/core/types.lisp	2081	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/sverka-wikidata/sverka.py
 wormlisp/src/dsl/component.lisp	9278	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	notes/gpt-koren.md
 wormlisp/src/dsl/conditions.lisp	5428	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4824,10 +4824,10 @@ wormlisp/src/dsl/package.lisp	2440	частично	proekty/cherv/README.md (з�
 wormlisp/src/dsl/primitives.lisp	2049	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/io/frames.lisp	12050	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/hronofoto.py
 wormlisp/src/io/package.lisp	1493	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/kruzhochek/out/log.txt
-wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	17	~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-1901.md, ~diary/2026-10-18-0408.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/pismo-avtoru-podrobno.md
+wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	20	~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-1807.md, ~diary/2026-10-18-1901.md, ~diary/2026-10-18-0408.md, ~notes/porog.md, ~notes/gpt-koren.md, ~notes/petlya.md
 wormlisp/src/ir/derivative.lisp	5033	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	4	~diary/2026-10-18-0510.md, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
-wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	10	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/graf_test5.py
+wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	5	~diary/2026-10-18-0510.md, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
+wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	12	~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/karta-inbox.md, ~notes/rodoslovnaya-sinteza.md, ~proekty/sverka-wikidata/put.py, ~proekty/karty/README.md
 wormlisp/src/ir/package.lisp	1728	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/primitives.lisp	6250	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/params/catalog.lisp	15836	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4842,7 +4842,7 @@ wormlisp/src/runtime/api.lisp	30487	частично	proekty/cherv/README.md (з
 wormlisp/src/runtime/bench.lisp	6868	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/runtime/package.lisp	1533	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/runtime/run.lisp	21210	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/runtime/thread.lisp	15045	частично	proekty/cherv/README.md (запущен; код — выборочно)	4	proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py, proekty/instrumenty/brauzer/opcii.py
+wormlisp/src/runtime/thread.lisp	15045	частично	proekty/cherv/README.md (запущен; код — выборочно)	5	proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/webmap_klik.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py, proekty/instrumenty/brauzer/opcii.py
 wormlisp/src/server/check-page.lisp	6633	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/server/live.lisp	15996	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/server/package.lisp	452	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4937,7 +4937,7 @@ wormlisp/tests/data/trial-model.lisp	4765	частично	proekty/cherv/README.
 wormlisp/tests/data/batch/slow-sweep.sexp	224	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/batch/tiny-sweep.sexp	262	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/batch/tiny.sexp	287	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/tests/data/wcon/README.md	504	частично	proekty/cherv/README.md (запущен; код — выборочно)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
+wormlisp/tests/data/wcon/README.md	504	частично	proekty/cherv/README.md (запущен; код — выборочно)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
 wormlisp/tests/data/wcon/maximal_0.wcon	190	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/wcon/minimal.wcon	48	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/wcon/multiworm.wcon	3543	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -5658,8 +5658,8 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/Atanquesta_files/986107742-mobileweb_binary_i18n_mobileweb_binary_chunk__ru.js	188456	не упомянут		0	
 Доклад/Atanquesta_files/unnamed.png	444	не упомянут		0	
 Доклад/ERTP/LICENSE	1097	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/README.md	154	бегло	notes/smesh-otchet.md (только смесь букв)	18	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md, notes/sito-2020.md
-Доклад/ERTP/index.html	8953	бегло	notes/smesh-otchet.md (только смесь букв)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+Доклад/ERTP/README.md	154	бегло	notes/smesh-otchet.md (только смесь букв)	21	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/slova-mutanty.md, notes/ext-opis.md, notes/rody-oshibok-itog.md
+Доклад/ERTP/index.html	8953	бегло	notes/smesh-otchet.md (только смесь букв)	6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/.git/COMMIT_EDITMSG	25	служебное		0	
 Доклад/ERTP/.git/FETCH_HEAD	89	служебное		0	
 Доклад/ERTP/.git/HEAD	21	служебное		0	
@@ -5699,7 +5699,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/ERTP/css/global.css	3660	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/css/tengwar-eldamar-glaemscrafu.woff	35480	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/elvish-composition-archive/elvish-composition-archive.zip	1412540	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/elvish-composition-archive/index.html	6728	бегло	notes/smesh-otchet.md (только смесь букв)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+Доклад/ERTP/elvish-composition-archive/index.html	6728	бегло	notes/smesh-otchet.md (только смесь букв)	6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/elvish-composition-archive/chaered/gloomy-march.html	1313	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/elvish-composition-archive/chaered/ninya-masta.html	3718	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/elvish-composition-archive/chaered/tengwa-abc.html	18178	бегло	notes/smesh-otchet.md (только смесь букв)	1	notes/ranatar.md
@@ -5739,12 +5739,12 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/ERTP/intro-quenya/eldamo-intro-quenya-13.html	86521	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/intro-quenya/eldamo-intro-quenya-14.html	78170	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/intro-quenya/eldamo-intro-quenya-15.html	70223	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/intro-quenya/index.html	7170	бегло	notes/smesh-otchet.md (только смесь букв)	4	diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/kruzhochek/stranica/README.md
+Доклад/ERTP/intro-quenya/index.html	7170	бегло	notes/smesh-otchet.md (только смесь букв)	6	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/gpt-koren.md, notes/ranatar.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/js/add-queries.js	319	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/glaemscribe.min.js	69798	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/quenya.glaem.js	19724	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/search-adv.js	13777	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/js/search.js	20873	бегло	notes/smesh-otchet.md (только смесь букв)	10	~diary/2026-10-18-1901.md, ~proekty/sverka-wikidata/put.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py, ~proekty/instrumenty/js_strings.py
+Доклад/ERTP/js/search.js	20873	бегло	notes/smesh-otchet.md (только смесь букв)	11	~diary/2026-10-18-1901.md, ~proekty/sverka-wikidata/put.py, ~proekty/most/most.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test8_izvlech.py, ~proekty/instrumenty/katalog_html.py
 Доклад/ERTP/js/sindarin-beleriand.glaem.js	13666	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/sindarin-classical.glaem.js	13536	бегло	notes/smesh-otchet.md (только смесь букв)	0	
 Доклад/ERTP/js/tengwar_ds_eldamar.cst.js	44878	бегло	notes/smesh-otchet.md (только смесь букв)	0	
