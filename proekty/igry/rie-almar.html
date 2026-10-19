@@ -48,6 +48,10 @@ function grow(x, y, a, len, w, depth){
 }
 
 let buds = [], mouse = {x:-999, y:-999, on:false}, apples = 0, fallen = [];
+// Пасхалка (клавиша Ц / W): Циолковский, «Нирвана»: «количество ощущений Q = ∫s dt».
+// Он посчитал бы и цветы: сумма цветения всех бутонов, умноженного на время.
+let tsiolQ = 0, tsiolShow = false;
+addEventListener('keydown', e => { if (e.key === 'ц' || e.key === 'Ц' || e.key === 'w' || e.key === 'W') tsiolShow = !tsiolShow; });
 addEventListener('mousemove', e => { mouse.x = e.clientX; mouse.y = e.clientY; mouse.on = true; });
 addEventListener('mouseleave', () => mouse.on = false);
 addEventListener('touchmove', e => { const t = e.touches[0]; mouse.x = t.clientX; mouse.y = t.clientY; mouse.on = true; }, {passive:true});
@@ -72,6 +76,7 @@ function step(now){
       if (b.bloom === 0 && b.look > 2.5){ b.fruit = {ripe:0}; apples++; b.look = 0; }
     }
   }
+  for (const b of buds) if (!b.fruit) tsiolQ += b.bloom * dt;
   for (const f of fallen){ f.vy += 600*dt; f.y += f.vy*dt; if (f.y > H*0.93){ f.y = H*0.93; f.vy = 0; } }
 }
 
@@ -103,7 +108,8 @@ function draw(){
     cx.fillStyle = f.hue < 0.5 ? 'hsl(10,65%,42%)' : 'hsl(45,70%,45%)';
     cx.beginPath(); cx.arc(f.x, f.y - 6, 6, 0, 7); cx.fill();
   }
-  document.getElementById('cnt').textContent = 'orvar (яблоки): ' + apples + '\nalmar: —';
+  document.getElementById('cnt').textContent = 'orvar (яблоки): ' + apples + '\nalmar: —' +
+    (tsiolShow ? '\n\nЦиолковский не согласен:\nQ = ∫s dt = ' + tsiolQ.toFixed(1) + ' цвето-секунд' : '');
   document.getElementById('cnt').style.whiteSpace = 'pre';
 }
 function loop(now){ step(now); draw(); requestAnimationFrame(loop); }
