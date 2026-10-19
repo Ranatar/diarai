@@ -61,6 +61,10 @@ WEAK_END = set("и а но что кто же из в не ли как то бы
 CLITIC = {"из-за", "из-под", "по-над"}
 
 
+# --stop N: N-стопный ямб (по умолчанию 4, т.е. ударение на 8-м слоге); добавлено 19.10 для сестины
+LAST = 2 * int(sys.argv[sys.argv.index("--stop") + 1]) if "--stop" in sys.argv else 8
+
+
 def fits(words):
     """Вернуть (строка с ударениями, рифмоключ, женская?) или None."""
     pos, marked, last = 0, [], None
@@ -79,28 +83,28 @@ def fits(words):
             return None
         if n == 1:
             s = 1
-            if i == len(words) - 1 and pos + 1 != 8:
+            if i == len(words) - 1 and pos + 1 != LAST:
                 return None
         else:
             good = [s for s in ss if (pos + s) % 2 == 0]
             if not good:
                 return None
             s = good[0]
-        if pos + s > 8 and i == len(words) - 1:
+        if pos + s > LAST and i == len(words) - 1:
             return None
         # омограф: у слова есть ударение, которое в размер не ложится
         # («слОва/слова́», «глубИны/глубины́»). Помечаем «~», проверять на слух.
         marked.append(mark(w, s) + ("~" if n > 1 and len(good) < len(ss) else ""))
         last = (core, s)
         pos += n
-    if pos not in (8, 9):
+    if pos not in (LAST, LAST + 1):
         return None
     core, s = last
     if core in WEAK_END:
         return None
-    if (pos - nsyl(core) + s) != 8:
+    if (pos - nsyl(core) + s) != LAST:
         return None
-    return " ".join(marked), rhyme_key(core, s), pos == 9
+    return " ".join(marked), rhyme_key(core, s), pos == LAST + 1
 
 
 def why(words):
@@ -121,11 +125,11 @@ def why(words):
             return "«%s»: ударение %s в слове не ложится на чётный слог строки (слово с %d-го)" % (
                 core, "/".join(map(str, sorted(ss))), pos + 1)
         pos += n
-    if pos not in (8, 9):
-        return "слогов %d, а нужно 8 или 9" % pos
+    if pos not in (LAST, LAST + 1):
+        return "слогов %d, а нужно %d или %d" % (pos, LAST, LAST + 1)
     if words and words[-1].split()[-1].lower() in WEAK_END:
         return "конец на слабое слово «%s» (WEAK_END)" % words[-1].split()[-1].lower()
-    return "последнее ударение не на 8-м слоге"
+    return "последнее ударение не на %d-м слоге" % LAST
 
 
 def mark(w, s):
@@ -218,7 +222,8 @@ def stanzas(ls):
 
 
 if __name__ == "__main__":
-    files = [a for a in sys.argv[1:] if not a.startswith("--")]
+    files = [a for i, a in enumerate(sys.argv[1:], 1)
+             if not a.startswith("--") and sys.argv[i - 1] != "--stop"]
     if "--src" in sys.argv:  # все строки всех файлов, с именем файла (для центонов)
         import os
         for p in files:
