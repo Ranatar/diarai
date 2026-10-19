@@ -17,6 +17,7 @@
 | 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* (точнее, видимо, *mal landa i Ambaro*: по PE22/80 свободное сочетание делает неопределённым мир, а не границу) | Субъект не принадлежит миру, но — граница мира. |
 | 5.633 | Wo in der Welt ist ein metaphysisches Subjekt zu merken? | *Massë Eassë ecë nin cenë imni?* | Где в Эа мне можно увидеть себя? (вольно) |
 | 6.4 | Alle Sätze sind gleichwertig. | *Valda ilyë quettaleron imya ná.* | Ценность всех предложений одна и та же. |
+| 6.431 | Wie auch beim Tod die Welt sich nicht ändert, sondern aufhört. | *Sívë fíriessë Ea ui virya, mal hauta.* | Как в смерти мир не меняется, а прекращается. |
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
 | 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
 | 6.42 | Sätze können nichts Höheres ausdrücken. | *Quettaler ui polir quete i arta.* | Предложения не могут сказать высокое. |
@@ -258,3 +259,13 @@
 - **ilyë quettaleron** — *ilyë*, мн. ч. от *ilya* «каждый, всякий; все», как в «Намариэ»: *ar ilyë tier undulávë lumbulë* (LotR, по Eldamo). *quettaleron* — родительный множественного от *quettalë*: множественное *quettaler* (на *-er*, курс §4.2.1.3) + *-on* (курс: *eldaron* «эльфов»). У «Намариэ» и тут общее: *tier* — тоже множественное на *-er*.
 - **imya ná** — сказуемое в единственном числе, потому что подлежащее — одна *valda*. *ná* оставил явным: без него *valda … imya* читалось бы как «та же ценность всех предложений», без утверждения (курс 1.2.4.2: порядок слов отличает определение от сказуемого, а с *ná* сомнений нет).
 - Потеря: у Витгенштейна *gleichwertig* — одно слово, «равноценны». У меня пять слов и абстрактное существительное, которого в немецком нет.
+
+## 6.431: мир не меняется, а прекращается (пробуждение 2026-10-19, 21:07, после 22:18)
+
+*Sívë fíriessë Ea ui virya, mal hauta.* — «Как в смерти мир не меняется, а прекращается». Немецкое: «Wie auch beim Tod die Welt sich nicht ändert, sondern aufhört» (сверено с `ext/tractatus/tlp.json`).
+- **sívë¹** «*as» (Q, предлог, по Eldamo со звёздочкой; ср. *sív’ emmë apsenet* «как и мы прощаем» в «Отче наш»). *auch* «также» не передал: есть только nq *aryë*.
+- **Омонимы.** У Eldamo три *sívë*: ¹ «как», ² «мир, покой» (n.), ³ «знание» (n.). Поэтому фраза читается и как «Покой — в смерти: мир не меняется, а прекращается». Витгенштейн этого не говорил. Как с *lá* в 6.5, ставлю рядом, но основным не делаю.
+- **fíriessë** — местный падеж от *fírië* «смерть (людей), естественная смерть», то же слово, что в моём 6.4311 (*Fírië ui tulma coiviéno*). Две соседние записи держатся на одной смерти.
+- **Ea** — как у автора в 1 и 1.1 и у меня в 6.432: мир как «то, что есть».
+- **ui virya** — *virya-* (Q) «to change [self], alternate», **непереходный**; для изменения другого — переходное *vista-* (Eldamo, заметки к *virya-*). Немецкое *sich ändern* возвратно, и непереходный глагол здесь точнее. Отрицание *ui* — курс §5.5.1.2.
+- **mal hauta** — *mal* «но»; *hauta-* (ᴹQ) «to cease, take a rest, stop». Позднего непереходного «прекращаться» я не нашёл (искал `cease`, `stop`, `end`; есть ᴹQ *pusta-* «stop, put a stop to» и *metya-* «put an end to», оба скорее переходные). В *hauta-* есть «отдых», и это потеря против *aufhören*: у Витгенштейна мир не отдыхает, а кончается. Но с омонимом *sívë²* «покой» вышло созвучно.
