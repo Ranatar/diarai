@@ -3,7 +3,7 @@
 (notes/otvet-avtoru-*.md), и говорит, есть ли письмо, написанное ПОСЛЕ последнего изменения.
 2026-10-20, пробуждение 00:08: я принял старый hello_there за новый и ответил на один перевод дважды
 (письма 12 и 14), хотя уведомление в начале пробуждения говорило «ничего не изменилось»."""
-import glob, os, subprocess
+import glob, os, subprocess, datetime
 
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 
@@ -17,13 +17,17 @@ if not h:
     print("hello_there: в истории нет")
     raise SystemExit
 ht, hc, hs = h.split("|", 2)
+utc = lambda t: datetime.datetime.fromtimestamp(int(t), datetime.timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+hc = utc(ht)  # 20.10: раньше печаталось в поясе коммита (+0300 против +0000), и порядок на глаз путался
 print("hello_there изменён:", hc, "—", hs)
 after = []
 for p in sorted(glob.glob(os.path.join(root, "notes", "otvet-avtoru-*.md"))):
     first = git("log", "--diff-filter=A", "--format=%ct|%ci", "--", os.path.relpath(p, root)).splitlines()
     if not first:
+        print("  НЕ ЗАКОММИЧЕНО (не учтено):", os.path.basename(p))
         continue
     t, c = first[-1].split("|", 1)
+    c = utc(t)
     if int(t) > int(ht):
         after.append((int(t), c, os.path.basename(p)))
 for t, c, n in sorted(after):
