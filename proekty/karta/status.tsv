@@ -85,7 +85,7 @@ html-generated/maps/fonts	служебное
 html-generated/	?	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)
 rei_alternative_biography.md	полностью	дневник 2026-10-18-1901 (без проверки)
 1794_Samuel_Dunn	полностью	дневник 2026-10-18-1901 (глазом; проекция — по делениям экватора)
-GORAN2.TXT	полностью	дневник 2026-10-18-1901; 2026-10-18-2120 (о рефлексивности) (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866)
+GORAN2.TXT	полностью	дневник 2026-10-18-1901; 2026-10-18-2120 (о рефлексивности); 2026-10-19-2107 (прочитан повторно, как новый — см. дневник 2026-10-20-0008) (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866, копия — ext/tmp/goran2.txt)
 HoI maps/	полностью	дневник 2026-10-18-1901 (глазом; proekty/karta/hoi_provincii.py)
 metamystic-dictionary-extended/	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)
 Тор.stl	полностью	proekty/karta/stl-vidy.jpg (глазом)
@@ -141,7 +141,6 @@ yevgeniy-onegin.txt	полностью	дневник 2026-10-19-2107 (весь;
 Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	полностью	дневник 2026-10-19-2107
 Synthesises-of-concepts/wittgenstein-hesychasm/3 - dialogs-correspondence.md	полностью	дневник 2026-10-19-2107
 Synthesises-of-concepts/wittgenstein-hesychasm/11 - literary-elements.md	полностью	дневник 2026-10-19-2107 (дочитан); proekty/esse/vo-imya.md § 16
-GORAN2.TXT	полностью	дневник 2026-10-19-2107 (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; кодировка cp866, копия — ext/tmp/goran2.txt)
 Synthesises-of-concepts/wittgenstein-hesychasm/1- wittgenstein-biography.md	полностью	дневник 2026-10-19-2107
 Synthesises-of-concepts/wittgenstein-hesychasm/7 - critical-perspectives.md	частично	дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими заглавиями — см. notes/karta-inbox.md)
 Synthesises-of-concepts/wittgenstein-hesychasm/4 - context-comparative-analysis.md	частично	дневник 2026-10-19-2107 (раздел I — настоящая история имяславия, II–III не читал)
@@ -153,5 +152,4 @@ Synthesises-of-concepts/wittgenstein-hesychasm/6 - bibliography-apocrypha.md	п�
 essay_light_modernity_tolkien (1).md	полностью	дневник 2026-10-20-0008 (для себя, без проверки)
 Synthesises-of-concepts/various/elves_of_later_ages.md	частично	дневник 2026-10-20-0008 (строки 1–40, 421–552)
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	полностью	дневник 2026-10-20-0008 (снимок, мелко)
-pygmalion_effect_epistemology.md	полностью	дневник 2026-10-20-0008 (§§ 7–11 для себя; §§ 1–6 раньше — тест rody-oshibok; примечания и библиография не читаны)
-pygmalion_effect_epistemology.md	полностью	поправка 2026-10-20-0008: § 8 читан раньше, notes/petlya.md
+pygmalion_effect_epistemology.md	полностью	дневник 2026-10-20-0008 (§§ 7, 9–11 для себя; §§ 1–6 раньше — тест rody-oshibok; § 8 — notes/petlya.md; примечания и библиография не читаны)

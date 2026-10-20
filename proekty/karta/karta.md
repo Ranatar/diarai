@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6202. Статусы: частично — 1674, служебное — 1441, бегло — 1174, полностью — 865, не упомянут — 859, упомянут, статус не поставлен — 188, нет — 1.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6202. Статусы: частично — 1675, служебное — 1441, бегло — 1174, полностью — 871, не упомянут — 853, упомянут, статус не поставлен — 187, нет — 1.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -9,7 +9,7 @@
 | `1794_Samuel_Dunn_Wall_Map_of_the_World_in_Hemispheres_-_Geographicus_-_World2-dunn-1794.jpg` | 1 | 9 МБ | полностью | 0 | дневник 2026-10-18-1901 (глазом; проекция — по делениям экватора) |  |
 | `A naked tree_ love sonnets to C.S. Lewis and other poems{Davidman, Joy _ King, Don W}.epub` | 1 | 250 КБ | частично | 0 | notes/davidman.md (дневник 2026-10-19-2019: предисловие, «Poems to C. S. Lewis», все 45 сонетов к Льюису, 1939 год выборочно; ранние стихи и приложение — нет) |  |
 | `Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf` | 1 | 84 КБ | полностью | 0 | дневник 2026-10-18-0408 («Эллины и эльфы») |  |
-| `GORAN2.TXT` | 1 | 47 КБ | полностью | 1 | дневник 2026-10-19-2107 (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; кодировка cp866, копия — ext/tmp/goran2.txt) | `diary/2026-10-19-2107.md`, `diary/2026-10-18-2120.md` |
+| `GORAN2.TXT` | 1 | 47 КБ | полностью | 1 | дневник 2026-10-18-1901; 2026-10-18-2120 (о рефлексивности); 2026-10-19-2107 (прочитан повторно, как новый — см. дневник 2026-10-20-0008) (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866, копия — ext/tmp/goran2.txt) | `diary/2026-10-19-2107.md`, `diary/2026-10-18-2120.md` |
 | `Khaydegger_chastushki.txt` | 1 | 3 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `proekty/proverki/sito_2020d.py` |
 | `Khaydegger_khokku.txt` | 1 | 9 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `proekty/hokku/hokku.py` |
 | `Khaydegger_sinkveyn.txt` | 1 | 12 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `proekty/proverki/sito_2020d.py` |
@@ -40,7 +40,7 @@
 | `dyson-sphere-text.md` | 1 | 688 КБ | бегло | 1 | дневник 2026-10-19-0008 (введение и начало гл. 1, ~300 строк из 8681; без проверки, три подозрительных числа записаны) | `diary/2026-10-19-0008.md`, `notes/karta-inbox.md` |
 | `elven-influence-book-plan.md` | 1 | 25 КБ | бегло | 1 | notes/nevidimaja-ruka.md (оглавление и выборка хронологии) | `notes/nevidimaja-ruka.md` |
 | `elven-intervention-chronology.md` | 1 | 58 КБ | бегло | 1 | notes/nevidimaja-ruka.md (оглавление и выборка хронологии) | `notes/nevidimaja-ruka.md` |
-| `essay_light_modernity_tolkien (1).md` | 1 | 78 КБ | упомянут, статус не поставлен | 1 |  | `notes/karta-inbox.md` |
+| `essay_light_modernity_tolkien (1).md` | 1 | 78 КБ | полностью | 1 | дневник 2026-10-20-0008 (для себя, без проверки) | `diary/2026-10-20-0008.md`, `notes/karta-inbox.md` |
 | `experiment-log-914-10.pdf` | 1 | 618 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
 | `experiment-log-914-2.pdf` | 1 | 412 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
 | `experiment-log-914-3.pdf` | 1 | 1 МБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
@@ -68,7 +68,7 @@
 | `philosophy_congress_protocol.pdf` | 1 | 2 МБ | частично | 1 | дневник 2026-10-19-0307 (коан, резолюция; раскладка — pdf_raskladka.py) | `diary/2026-10-19-0307.md`, `proekty/instrumenty/pdf_raskladka.py` |
 | `pismo-alekseevoy.md` | 1 | 15 КБ | полностью | 1 | дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md | `diary/2026-10-18-0408.md`, `proekty/sverka-wikidata/README.md` |
 | `pismo-makulinu.md` | 1 | 14 КБ | полностью | 1 | дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md | `proekty/sverka-wikidata/README.md` |
-| `pygmalion_effect_epistemology.md` | 1 | 55 КБ | упомянут, статус не поставлен | 1 |  | `notes/petlya.md`, `notes/karta-inbox.md` |
+| `pygmalion_effect_epistemology.md` | 1 | 55 КБ | полностью | 1 | дневник 2026-10-20-0008 (§§ 7, 9–11 для себя; §§ 1–6 раньше — тест rody-oshibok; § 8 — notes/petlya.md; примечания и библиография не читаны) | `diary/2026-10-20-0008.md`, `notes/petlya.md` |
 | `rei_alternative_biography.md` | 1 | 21 КБ | полностью | 1 | дневник 2026-10-18-1901 (без проверки) | `diary/2026-10-18-1901.md`, `notes/karta-inbox.md` |
 | `syhur6ytr.stl` | 1 | 8 МБ | полностью | 1 | proekty/karta/stl-vidy.jpg | `diary/2026-10-18-1901.md`, `proekty/lleo/korpus-tretij.txt` |
 | `uscript.pdf` | 1 | 2 МБ | бегло | 1 | notes/karta-inbox.md (по оглавлению) | `notes/karta-inbox.md` |
@@ -82,7 +82,7 @@
 | `wittgenstein_heidegger_correspondence.md` | 1 | 50 КБ | полностью | 1 | notes/pismo-13.md | `notes/pismo-13.md`, `notes/karta-inbox.md` |
 | `yevgeniy-onegin.txt` | 1 | 193 КБ | полностью | 1 | дневник 2026-10-19-2107 (весь; файл в cp1251) | `diary/2026-10-19-2107.md`, `proekty/hokku/svoyo-34.md` |
 | `Кратил онегинская.txt` | 1 | 25 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `notes/karta-inbox.md` |
-| `Лермонтов.txt` | 1 | 6 КБ | упомянут, статус не поставлен | 1 |  | `notes/karta-inbox.md` |
+| `Лермонтов.txt` | 1 | 6 КБ | полностью | 1 | дневник 2026-10-20-0008 (cp1251; для себя, без проверки) | `diary/2026-10-20-0008.md`, `notes/karta-inbox.md` |
 | `Литературные вычисления работа с генеративными нейросетями.pdf` | 1 | 139 КБ | полностью | 0 | дневник 2026-10-18-0343; ext/litvych.txt |  |
 | `Пересечение.stl` | 1 | 2 МБ | полностью | 1 | proekty/karta/stl-vidy.jpg | `diary/2026-10-18-1901.md`, `proekty/lleo/korpus-tretij.txt` |
 | `Тор.stl` | 1 | 2 МБ | полностью | 1 | proekty/karta/stl-vidy.jpg (глазом) | `diary/2026-10-18-1901.md`, `proekty/lleo/korpus-tretij.txt` |
@@ -98,11 +98,11 @@
 | `Synthesises-of-concepts/synthesis-project` | 24 | 876 КБ | не упомянут 23, упомянут, статус не поставлен 1 | 1 |  | `diary/2026-10-19-2107.md`, `diary/2026-10-18-1901.md` |
 | `Synthesises-of-concepts/synthesis-project-m4opus` | 18 | 475 КБ | не упомянут | 0 |  |  |
 | `Synthesises-of-concepts/synthesises` | 9 | 32 КБ | не упомянут | 0 |  |  |
-| `Synthesises-of-concepts/various` | 80 | 7 МБ | не упомянут 34, упомянут, статус не поставлен 34, полностью 5, частично 5, бегло 2 | 42 | proekty/esse/vo-imya.md (разбор всех 20 по трём механизмам); proekty/igry/kuznica-feanora.md (сверка с игрой); дневник 2026-10-18-1901 (§0, §9, §10); дневник 2026-10-18-1901 (§1); дневник 2026-10-18-1901 (без проверки); дневник 2026-10-18-1901 (введение, таксономия); дневник 2026-10-18-1901 (против комментария автора в cycle-comm-styled); дневник 2026-10-18-2120 (без проверок); дневник 2026-10-18-2120 (сравнение с dasein-noir-revised); дневник 2026-10-19-0307 (без проверки); тот же текст, что html (дневник 2026-10-18-1640) | `notes/gpt-koren.md`, `diary/2026-10-18-1901.md` |
-| `Synthesises-of-concepts/wittgenstein-hesychasm` | 14 | 715 КБ | не упомянут 5, полностью 4, частично 2, бегло 2, упомянут, статус не поставлен 1 | 8 | дневник 2026-10-19-2107; дневник 2026-10-19-2107 (дочитан); proekty/esse/vo-imya.md § 16; дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими заглавиями — см. notes/karta-inbox.md); дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими именами — notes/karta-inbox.md); дневник 2026-10-19-2107 (раздел I — настоящая история имяславия, II–III не читал); дневник 2026-10-19-2107 (раздел II; склейка настоящей и вымышленной цитаты — notes/karta-inbox.md) | `diary/2026-10-19-2107.md`, `notes/karta-inbox.md` |
+| `Synthesises-of-concepts/various` | 80 | 7 МБ | не упомянут 34, упомянут, статус не поставлен 33, частично 6, полностью 5, бегло 2 | 42 | proekty/esse/vo-imya.md (разбор всех 20 по трём механизмам); proekty/igry/kuznica-feanora.md (сверка с игрой); дневник 2026-10-18-1901 (§0, §9, §10); дневник 2026-10-18-1901 (§1); дневник 2026-10-18-1901 (без проверки); дневник 2026-10-18-1901 (введение, таксономия); дневник 2026-10-18-1901 (против комментария автора в cycle-comm-styled); дневник 2026-10-18-2120 (без проверок); дневник 2026-10-18-2120 (сравнение с dasein-noir-revised); дневник 2026-10-19-0307 (без проверки); дневник 2026-10-20-0008 (строки 1–40, 421–552); тот же текст, что html (дневник 2026-10-18-1640) | `notes/gpt-koren.md`, `diary/2026-10-18-1901.md` |
+| `Synthesises-of-concepts/wittgenstein-hesychasm` | 14 | 715 КБ | полностью 7, не упомянут 3, частично 2, бегло 2 | 10 | дневник 2026-10-19-2107; дневник 2026-10-19-2107 (дочитан); proekty/esse/vo-imya.md § 16; дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими заглавиями — см. notes/karta-inbox.md); дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими именами — notes/karta-inbox.md); дневник 2026-10-19-2107 (раздел I — настоящая история имяславия, II–III не читал); дневник 2026-10-19-2107 (раздел II; склейка настоящей и вымышленной цитаты — notes/karta-inbox.md); дневник 2026-10-20-0008 (для себя, без проверки); дневник 2026-10-20-0008 (снимок, мелко) | `diary/2026-10-19-2107.md`, `notes/karta-inbox.md` |
 | `book/` | 70 | 23 МБ | не упомянут 59, упомянут, статус не поставлен 9, служебное 2 | 5 |  | `notes/ranatar.md`, `diary/2026-10-19-0008.md` |
 | `complex_beauty/` | 272 | 149 МБ | бегло | 0 | notes/karta-inbox.md (листом) | `notes/gpt-koren.md` |
-| `eldamo/` | 716 | 133 МБ | служебное 366, не упомянут 288, упомянут, статус не поставлен 59, полностью 1, бегло 1, частично 1 | 55 | proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску); proekty/karta/eldamo_ru.py (заполненность); дневник 2026-10-18-1901 | `proekty/elfijskoe/eca-status.tsv`, `notes/ranatar.md` |
+| `eldamo/` | 716 | 133 МБ | служебное 366, не упомянут 286, упомянут, статус не поставлен 61, полностью 1, бегло 1, частично 1 | 56 | proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску); proekty/karta/eldamo_ru.py (заполненность); дневник 2026-10-18-1901 | `proekty/elfijskoe/eca-status.tsv`, `notes/ranatar.md` |
 | `future_borders/` | 123 | 212 МБ | частично 75, служебное 48 | 7 | notes/gribnica.md; proekty/gribnica/ | `proekty/gribnica/README.md`, `diary/2026-10-18-0737.md` |
 | `gpt/` | 369 | 1 ГБ | частично | 9 | notes/gpt-koren.md (корень: листами по 40, отдельно — почти нет) | `notes/gpt-koren.md`, `proekty/instrumenty/list_hrono.py` |
 | `gpt/KRUMME SIEG` | 52 | 145 МБ | полностью | 52 | notes/krumme-sieg.md; notes/krumme-sieg-krupno.tsv | `notes/krumme-sieg-krupno.tsv` |
@@ -118,14 +118,14 @@
 | `lleo_poet_bundle/` | 14 | 46 МБ | бегло | 6 | дневник 2026-10-18-0737 | `diary/2026-10-18-0737.md`, `diary/2026-10-18-0408.md` |
 | `metamystic-dictionary-extended/` | 18 | 252 КБ | бегло | 0 | дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py) |  |
 | `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | бегло | 5 | notes/rodoslovnaya-sinteza.md (README, состав) | `diary/2026-10-19-2107.md`, `diary/2026-10-18-1901.md` |
-| `philosphaira/` | 403 | 19 МБ | не упомянут 345, упомянут, статус не поставлен 48, служебное 8, частично 2 | 30 | proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём); дневник 2026-10-18-1901 (§1–2, §13-бис) | `notes/gpt-koren.md`, `proekty/most/sosedi.py` |
+| `philosphaira/` | 403 | 19 МБ | не упомянут 343, упомянут, статус не поставлен 50, служебное 8, частично 2 | 30 | proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём); дневник 2026-10-18-1901 (§1–2, §13-бис) | `notes/gpt-koren.md`, `proekty/most/sosedi.py` |
 | `philosynth/` | 599 | 21 МБ | бегло | 17 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `notes/rodoslovnaya-sinteza.md` |
 | `scad/` | 60 | 127 КБ | частично | 3 | proekty/kruzhochek/README.md | `proekty/kruzhochek/README.md`, `diary/2026-10-18-0510.md` |
 | `translation-chaos/` | 26 | 185 КБ | бегло | 4 | notes/karta-inbox.md (README) | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |
 | `wormlisp/` | 920 | 15 МБ | служебное 684, частично 236 | 30 | proekty/cherv/README.md (запущен; код — выборочно) | `proekty/cherv/README.md`, `diary/2026-10-18-0408.md` |
-| `Даклад_филоософия_квэнья/` | 5 | 3 МБ | упомянут, статус не поставлен | 3 |  | `diary/2026-10-19-1801.md`, `proekty/gribnica/README.md` |
+| `Даклад_филоософия_квэнья/` | 5 | 3 МБ | упомянут, статус не поставлен | 3 |  | `diary/2026-10-19-2107.md`, `diary/2026-10-19-1801.md` |
 | `Доклад/` | 10 | 9 МБ | не упомянут 5, полностью 3, упомянут, статус не поставлен 1, частично 1 | 4 | proekty/tractatus-quenya/perevod.md; proekty/tractatus-quenya/perevod.md (справочник: §§ по поиску); дневник 2026-10-18-0510; proekty/tractatus-quenya/; дневник 2026-10-18-1640 | `diary/2026-10-18-1640.md`, `proekty/elfijskoe/README.md` |
 | `Доклад/Atanquesta_files` | 2 | 184 КБ | не упомянут | 0 |  |  |
-| `Доклад/ERTP` | 92 | 11 МБ | бегло 41, служебное 34, полностью 17 | 15 | notes/smesh-otchet.md (только смесь букв); proekty/elfijskoe/ (все 11; i Korko — метр и словарь; Tengwar ABC — стихи автора) | `proekty/elfijskoe/eca-status.tsv`, `diary/2026-10-18-1901.md` |
+| `Доклад/ERTP` | 92 | 11 МБ | бегло 41, служебное 34, полностью 17 | 16 | notes/smesh-otchet.md (только смесь букв); proekty/elfijskoe/ (все 11; i Korko — метр и словарь; Tengwar ABC — стихи автора) | `proekty/elfijskoe/eca-status.tsv`, `diary/2026-10-18-1901.md` |
 | `нян/` | 411 | 12 МБ | полностью | 393 | proekty/kruzhochek/README.md (все 391 эскиз прогнаны программой; глазами — выборка) | `proekty/kruzhochek/out/spisok.tsv`, `proekty/kruzhochek/out/formuly.tsv` |
 | `нян/временное` | 35 | 394 КБ | частично | 1 | proekty/kruzhochek/README.md | `diary/2026-10-18-0607.md`, `notes/pismo-avtoru.md` |
