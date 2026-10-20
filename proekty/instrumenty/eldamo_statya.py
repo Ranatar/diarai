@@ -25,7 +25,8 @@ _seen = []
 for _m in re.finditer(r'<word\b([^>]*)>', text):
     _a = dict(re.findall(r'([\w-]+)="([^"]*)"', _m.group(1)))
     _v = _a.get("v", "").rstrip("¹²³⁴⁵⁶⁷⁸⁹")
-    if _a.get("l") in ALL and v in {_v, _v.rstrip("-"), re.sub(r"\(([^)]*)\)", r"\1", _v), re.sub(r"\([^)]*\)", "", _v)}:
+    _q = v.rstrip("¹²³⁴⁵⁶⁷⁸⁹")  # 20.10: запрос с надстрочной цифрой (orta-²) давал «ЕСТЬ В: —»
+    if _a.get("l") in ALL and _q in {_v, _v.rstrip("-"), re.sub(r"\(([^)]*)\)", r"\1", _v), re.sub(r"\([^)]*\)", "", _v)}:
         _seen.append(_a.get("l"))
 print("ЕСТЬ В:", ", ".join(sorted(set(_seen), key=["q", "mq", "nq", "eq"].index)) or "—", "| спрошено:", ",".join(langs))
 for lang in langs:
