@@ -18,6 +18,8 @@
 | Страдательное причастие | *-(i)na*: *tec- → tecina*, *car- → carina*, *orta- → ortaina*; у *-ya* *ya* заменяется: *ferya- → ferina* | 13636–13656 | *námina*, *naityainë* |
 | *-ima* «-имый» | *car- → cárima*; *fara- → fárima*; *liru- → liruima*; слабые: *tulta- → tultaima* | 13756–13766 | ссылка на устаревшее *lacaltaima* |
 | Направительные падежи мн. ч. (*-nnar*, *-llon/-llor*, *-ssen*) | к словарной форме: *tauressen* «в лесах», не \**taurissen*. О дательном и творительном курс здесь этого не говорит | 2032–2034 | чуть не написал *sanyissen* |
+| *anta-* «дать», *apsen-* «простить» | что дают или прощают — в винительном, кому — в дательном: *antanen parma sen*; *ámen apsenë úcaremmar* | Eldamo (*anta-*), *Ataremma* | *María* вместо *Marían* |
+| «Слушать (кого)» | ᴹQ *analasta-* «to listen to» (*ni·analassete* «я слушал его»); падеж при простом *lasta-* не выяснен | Eldamo | — |
 | Дательный с *rasta-* «объяснять» | что объясняют — в дательном, кому — в винительном: *rastan tye nótengolmen* | Eldamo, *rasta-* | поставил прямой падеж |
 | Исходный мн. ч. | *-llon*: *ambollon* «от холмов» | 2034 | — |
 | Дательный мн. ч. | *lambë → lambin* | 4682 | — |
