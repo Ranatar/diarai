@@ -141,3 +141,25 @@
 | *úvarna* | Q *ú-* «hardly, with difficulty» (PE17/063) + ᴹQ *varna* «safe, protected, secure» | *Vix securus*, «едва в безопасности». У Толкина *ú-* значит и «не», и «едва», здесь нужно второе. **Слово моё**, части засвидетельствованы |
 
 Слоги по `kv_udar.py`: 9, 10, 7.
+
+## Восьмая строфа
+
+> *Aran túra, rúcima,*
+> *i rehtalyë rehtaimar ve anna,*
+> *áni rehta, ehtelë ofelmëo!*
+
+«Царь великий, грозный, / Ты, спасающий спасаемых даром, / спаси меня, источник сострадания!» Латынь сверена (строфа VIII): *Rex tremendae maiestatis, / qui salvandos salvas gratis, / salva me, fons pietatis.*
+
+| Слово | Eldamo | Замечание |
+|---|---|---|
+| *aran* | Q «king» | |
+| *túra* | Q «great [in power or majesty]» | Само значение «в величии» — *maiestatis* |
+| *rúcima* | Q «terrible» | Того же корня, что *ruc-* «бояться» в седьмой строфе. *Tremendae* — «той, перед которой трепещут»: здесь тоже |
+| *i rehtalyë* | Q *rehta-* «to rescue, save» + *-lyë* «Вы» (вежливое, как *Antauvalye* у автора) | «Ты, который спасаешь». Относительное *i* при глаголе 2-го лица — **моя конструкция** |
+| *rehtaimar* | *rehta-* + *-ima* «-able», мн. ч. | По образцу Q *lacaltaima* от *calta-*: у *a*-глаголов выходит *-aima*. *Salvandos* «тех, кого должно спасти». Так же автор передал *iudicandus* словом *namima* |
+| *ve anna* | Q *ve* «as, like» + *anna* «gift» | *Gratis* — «даром», буквально «как дар» |
+| *áni rehta* | *á* (повелит. частица) + *ni* «меня» + глагол | По образцу Толкинова *mal ámë etelehta ulcullo* «но избави нас от лукавого»: *á* + местоимение + глагол |
+| *ehtelë* | Q «spring, issue of water» | *Fons*. Взял Q, а не ᴺQ *celwë* |
+| *ofelmëo* | ᴺQ *ofelmë* «sympathy, compassion, pity, (lit.) together-feeling», род. п. | *Pietatis*. «Со-чувствие», дословно как *com-passio* |
+
+Слоги по `kv_udar.py`: 7, 10, 11. Строфа длиннее латинской.
