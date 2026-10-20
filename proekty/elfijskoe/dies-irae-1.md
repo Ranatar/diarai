@@ -185,3 +185,26 @@
 | *auressë tana* | Q *aurë* «day» + местный п. + *tana* «that» | *Illa die*. Здесь «тот», как в латыни: этот день ещё не настал |
 
 Слоги по `kv_udar.py`: 9, 7, 10.
+
+## Десятая строфа
+
+> *Cestala ni, handelyë lumba;*
+> *rúnanelyë, nwalila tarwessë:*
+> *nai mólë sina lá nauva lusta.*
+
+«Ища меня, Ты сидел усталый; / искупил, страдая на кресте: / да не будет этот труд напрасен». Латынь сверена (строфа X): *Quaerens me, sedisti lassus, / redemisti crucem passus: / tantus labor non sit cassus.*
+
+| Слово | Eldamo / курс | Замечание |
+|---|---|---|
+| *cestala* | Q *cesta-¹* «to seek, search for» + прич. *-la* | |
+| *ni* | Q «me» | |
+| *handelyë* | Q *har-* «to sit» → прош. *handë* (курс, стр. 3128) + *-lyë* | |
+| *lumba* | ᴹQ «weary» (в позднем Q — «gloomy») | Беру ᴹQ-значение. В позднем квенья вышло бы «мрачный» |
+| *rúnanelyë* | Q *rúna-* «to free» + прош. *-në* + *-lyë* | По Eldamo, от этого глагола *runando* «искупитель» в Толкиновой литании (*Mardorunando*, VT44/12, 17). *Redemisti* — «Ты освободил» |
+| *nwalila* | ᴺQ *nwal-* «to suffer, feel (great) pain» + прич. *-ila* | |
+| *tarwessë* | ᴺQ *tarwë* «cross, crucifix», местный п. | *Crucem passus* — «претерпев крест», у меня «страдая на кресте» |
+| *nai* | Q «be it that, may it be that» | Как в «Намариэ» |
+| *mólë sina* | Q *mólë* «labour» + «этот» | *Tantus* «столь великий» стал «этот» |
+| *lá nauva lusta* | *lá* «не» + «будет» + ᴹQ *lusta* «void, empty» | *Cassus* «пустой, тщетный». Есть ᴺQ наречие *lustavë* «in vain» |
+
+Слоги по `kv_udar.py`: 9, 10, 10.
