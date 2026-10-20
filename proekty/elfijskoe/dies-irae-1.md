@@ -248,3 +248,24 @@
 | *arcandossë* | Q *arcandë* «*petition» → \**arcando* «молящий» (моё), местный п. | Местный падеж — по образцу *órava (o)messë* («помилуй нас») и *órava sesse* у автора |
 
 Слоги по `kv_udar.py`: 7, 10, 10.
+
+## Тринадцатая строфа
+
+> *I apsennelyë María*
+> *ar lastanelyë arpo,*
+> *nin yú antanelyë estel.*
+
+«Ты, отпустивший Марии, / и услышавший разбойника, / и мне дал надежду». Латынь сверена (строфа XIII): *Qui Mariam absolvisti, / et latronem exaudisti, / mihi quoque spem dedisti.*
+
+| Слово | Eldamo / курс | Замечание |
+|---|---|---|
+| *i apsennelyë* | Q *apsen-* «to remit, release, forgive» + прош. *-në* (как *men- → mennë*, курс, стр. 3108) + *-lyë* | Тот же глагол, что в одиннадцатой строфе |
+| *María* | как у Толкина в *Aia María* | Здесь это Мария Магдалина, по традиционному толкованию (по памяти) |
+| *lastanelyë* | Q *lasta-* «to listen; [ᴹQ.] to hear» + прош. + *-lyë* | *Exaudisti* — «услышал и внял» |
+| *arpo* | Q «seizer, thief» | *Latro* — разбойник на кресте. Есть и ᴺQ *pilu* «thief, robber» |
+| *nin* | дат. п. от *ni* «я» | Курс, стр. 6372: *órenya quéta nin* «моё сердце говорит мне» |
+| *yú* | ᴹQ «too» | *quoque* |
+| *antanelyë* | Q *anta-* «to give» + прош. + *-lyë* | |
+| *estel* | Q «hope, trust, *faith» (MR/338, «hope and trust») | *Spem*. У Толкина *estel* — надежда-доверие, в отличие от надежды-ожидания (по памяти об «Атрабет»). Для этой строфы нужна именно первая |
+
+Слоги по `kv_udar.py`: 8, 7, 8. Ближе всех к латыни.
