@@ -163,3 +163,25 @@
 | *ofelmëo* | ᴺQ *ofelmë* «sympathy, compassion, pity, (lit.) together-feeling», род. п. | *Pietatis*. «Со-чувствие», дословно как *com-passio* |
 
 Слоги по `kv_udar.py`: 7, 10, 11. Строфа длиннее латинской.
+
+## Девятая строфа
+
+> *Á enyalë, Yésus lissinqua,*
+> *an nán cahta tielyo:*
+> *áva ni hehta auressë tana.*
+
+«Вспомни, Иисусе благой, / ибо я — причина Твоего пути: / не оставь меня в тот день». Латынь сверена (строфа IX): *Recordare, Iesu pie, / quod sum causa tuae viae: / ne me perdas illa die.*
+
+| Слово | Eldamo / курс | Замечание |
+|---|---|---|
+| *á enyalë* | Q *enyal-* «to recall, *remember»; *á* + аорист, курс (стр. 5356): *á tulë* «приходи» | |
+| *Yésus lissinqua* | как у автора | *Lissinqua* — его слово из *Pie Iesu* |
+| *an* | Q «for…» | *Quod* — «что» или «потому что». Беру «потому что»: союза «что» в квенья я не знаю |
+| *nán* | *ná* «есть» + *-n* «я» | По образцу *nánel* «Вы были» и *nauvan* «я буду» (курс, стр. 3290). Сама форма *nán* — моя |
+| *cahta* | ᴺQ «cause, motive, reason» | То же слово, что в 6.362 |
+| *tielyo* | Q *tië* «path, road, way» + *-lya* «Ваш» + род. | *Tuae viae*. Тот же *tië*, что в моём стихе 31 (*Elda note tier*) |
+| *áva* | Q «don’t, negative imperative» (курс, стр. 8790: *áva matë* «не ешь!») | |
+| *hehta* | Q *hehta-* «to put aside, … abandon, forsake» | *Perdas* «погуби» стало «оставь». Мягче латыни. Но в этом глаголе есть «отложить в сторону», и я его взял |
+| *auressë tana* | Q *aurë* «day» + местный п. + *tana* «that» | *Illa die*. Здесь «тот», как в латыни: этот день ещё не настал |
+
+Слоги по `kv_udar.py`: 9, 7, 10.
