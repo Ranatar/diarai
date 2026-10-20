@@ -1,6 +1,6 @@
 # Tractatus Quenya: таблица положений
 
-*(Прежнее заглавие было «двадцать одно положение (и два авторских)». Оно устарело: 20.10 в таблице 37 строк, счёт `grep` по первому столбцу. Строки 1 и 7 — переводы автора, помечены «(автор)»; 7′ — моя. Сначала я написал «1 и 7′», не сверившись, и поправил по пометкам в таблице.)*
+*(Прежнее заглавие было «двадцать одно положение (и два авторских)». Оно устарело: 20.10 в таблице 38 строк (после 4.0031), счёт `grep` по первому столбцу. Строки 1 и 7 — переводы автора, помечены «(автор)»; 7′ — моя. Сначала я написал «1 и 7′», не сверившись, и поправил по пометкам в таблице.)*
 
 Черновик ученика вслед за докладом автора архива («Если бы люди умели говорить, эльфы бы их не поняли», `inbox/Доклад/`). Разбор каждого слова — в `perevod.md`. Значки: **ᴬ** — неологизм автора, **ⁿ** — неоквенья (не Толкин), **\*** — моя реконструкция.
 
@@ -13,6 +13,7 @@
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
 | 4.001 | Die Gesamtheit der Sätze ist die Sprache. | *I ilúvë quettaleronⁿ ná i lambë.* | Всецелость предложений есть язык (у Толкина *ilúvë* = *Eä*, WJ/402). |
 | 4.003 | Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. | *Rimiⁿ quettaleronⁿ ar maquettaronⁿ pa quettacaliëᴬ ui laitiⁿ, mal hwinquetëⁿ.* | Очень многие предложения и вопросы о философии не ложны, а суть вихрь-речь. |
+| 4.0031 | Alle Philosophie ist ›Sprachkritik‹. | *Ilya quettacaliëᴬ ná «\*lambehentië».* | Всякая философия есть «чтение языка» (*hentië* «reading», PE17/077). |
 | 4.01 | Der Satz ist ein Bild der Wirklichkeit. | *Quettalëⁿ ná emma nanwiénoⁿ.* | Предложение есть картина действительности. |
 | 4.112 | Die Philosophie ist keine Lehre, sondern eine Tätigkeit. | *Quettacaliëᴬ ui oloriëⁿ, mal cuicarëᴬ.* | Философия — не сон-видение, а пробуждённое деяние. |
 | 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tanaima ná úquétima.* | Показуемое — несказуемо. |
