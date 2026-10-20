@@ -29,7 +29,7 @@
 
 > *Malka pampilë nauva,*
 > *yá i námo tuluva,*
-> *ilyë aqua hentala!*
+> *ilyë aqua hentaila!*
 
 «Как велик будет трепет, / когда придёт Судья, / всё до конца разбирая!» Латынь (сверено там же, у них *Judex*): *Quantus tremor est futurus, / quando iudex est venturus, / cuncta stricte discussurus.*
 
@@ -43,13 +43,13 @@
 | *tuluva* | Q *tul-* «to come» + буд. *-uva* | |
 | *ilyë* | Q «all» | |
 | *aqua* | Q «fully, completely, wholly» | На месте *stricte* «строго». Сдвиг: у меня «до конца», а не «строго» |
-| *hentala* | Q *henta-* «to eye, examine, read, scan» + причастие *-la* | *Discussurus* — «который разберёт», у меня «разбирающий». Будущего причастия в квенья у меня нет. *henta-* значит и «читать»: Судья читает всё, и это мне нравится |
+| *hentaila* | Q *henta-* «to eye, examine, read, scan» + действ. прич. *-ila* (курс, стр. 13614: *orya- → oryaila*) | *Discussurus* — «который разберёт», у меня «разбирающий». Будущего причастия в квенья у меня нет. *henta-* значит и «читать»: Судья читает всё, и это мне нравится |
 
-Слоги по `kv_udar.py --stih`: 7, 7, 7, в латыни 8, 8, 8. *i* в *yá i námo* я вставил ради слога и ради «того самого» Судьи. Рифма латинская (*-urus* три раза) не передана: у меня *nauva / tuluva / hentala*, созвучие на *-a*.
+Слоги по `kv_udar.py --stih`: 7, 7, 7, в латыни 8, 8, 8. *i* в *yá i námo* я вставил ради слога и ради «того самого» Судьи. Рифма латинская (*-urus* три раза) не передана: у меня *nauva / tuluva / hentaila*, созвучие на *-a*.
 
 ## Третья строфа
 
-> *Romba, láma vintala*
+> *Romba, láma vintaila*
 > *ter noiri nórion,*
 > *ilyë hostuva mahalmanna.*
 
@@ -59,7 +59,7 @@
 |---|---|---|
 | *romba* | Q «horn, trumpet» | |
 | *láma* | Q «sound; [ᴹQ.] ringing sound, echo» (VT39/20, PE18/082; в ᴹQ — Ety/LAM) | «Звук без слов» — это моё прочтение корня из шестой «Речи», а не глосса Eldamo. *Mirum* «дивный» не передано. Прилагательное есть, ᴺQ *elmendëa* «wonderful», но строка с ним выходит слишком длинной. [Сначала стояло «подходящего прилагательного не нашёл»: я искал «wondrous», а не «wonderful». Поправка по проверке субагента.] |
-| *vintala* | Q *vinta-* «to scatter, blow about» + причастие *-la* | *spargens* «рассыпающая» |
+| *vintaila* | Q *vinta-* «to scatter, blow about» + прич. *-ila* (курс, стр. 13614) | *spargens* «рассыпающая» |
 | *ter* | Q «through» | |
 | *noiri* | Q *noirë* «tomb», мн. ч. | Ср. *Noirinan*, «Долина Гробниц» |
 | *nórion* | Q *nórë* «land, country», род. мн. | *regionum* |
@@ -188,7 +188,7 @@
 
 ## Десятая строфа
 
-> *Cestala ni, handelyë lumba;*
+> *Cestaila ni, handelyë lumba;*
 > *rúnanelyë, nwalila tarwessë:*
 > *nai mólë sina lá nauva lusta.*
 
@@ -196,7 +196,7 @@
 
 | Слово | Eldamo / курс | Замечание |
 |---|---|---|
-| *cestala* | Q *cesta-¹* «to seek, search for» + прич. *-la* | |
+| *cestaila* | Q *cesta-¹* «to seek, search for» + прич. *-ila* (курс, стр. 13614) | |
 | *ni* | Q «me» | |
 | *handelyë* | Q *har-* «to sit» → прош. *handë* (курс, стр. 3128) + *-lyë* | |
 | *lumba* | ᴹQ «weary» (в позднем Q — «gloomy») | Беру ᴹQ-значение. В позднем квенья вышло бы «мрачный» |
@@ -273,8 +273,10 @@
 ## Четырнадцатая строфа
 
 > *Arcandenyar lá nar valdë,*
-> *mal elyë, mára, á carë nasimavë:*
-> *ála ni urta ruinenen oialëa.*
+> *mal, mára, carë nasimavë:*
+> *ála ni anta ruinen oialëa.*
+>
+> (Первая редакция: *mal elyë, mára, á carë nasimavë: / ála ni urta ruinenen oialëa*. Таблица ниже — к ней, а поправки — под таблицей.)
 
 «Мольбы мои недостойны, / но Ты, благой, сотвори милостиво: / не жги меня огнём вечным». Латынь сверена (строфа XIV): *Preces meae non sunt dignae, / sed tu bonus fac benigne, / ne perenni cremer igne.*
 
@@ -288,16 +290,16 @@
 | *á carë* | *á* + Q *car-* «делать», аорист | *fac* |
 | *nasimavë* | ᴺQ *nasima* «kind, welcoming» + *-vë* (наречие) | **Наречие моё.** *Benigne* |
 | *ála ni urta* | Q *ála* «do not» + *ni* «меня» + ᴺQ *urta-* «to burn» | Сдвиг. *Ne cremer* — «чтобы я не сгорел», страдательный залог и придаточное цели. У меня прямая просьба: «не жги меня». Жжёт тогда Сам Судия. Это жёстче латыни, но в квенья у меня нет ни страдательного залога, ни союза «чтобы не» |
-| *ruinenen* | Q *ruinë* «fire, blaze», орудный п. | Не *nár* «огонь как стихия»: у него неясная основа для падежа |
+| *ruinenen* | Q *ruinë* «fire, blaze», орудный п. | Не *nár* «огонь как стихия»: здесь нужно пламя, а не стихия. [Сначала я писал, что у *nár* «неясная основа». Это без опоры: Eldamo советует для неоквенья форму *náre*.] |
 | *oialëa* | Q «eternal» | *perenni* |
 
-Слоги по `kv_udar.py`: 8, 12, 12. Строфа самая длинная.
+Слоги по `kv_udar.py`: 8, 12, 12 в первой редакции. **Вторая редакция (20.10, позже)**: *mal, mára, carë nasimavë* — повелительное одним аористом, без *á* и без *elyë* (курс, стр. 5246: «Повелительные фразы можно также составить при помощи одного только глагола в аористе»). *Ála ni anta ruinen oialëa* — «не предай меня огню вечному»: *anta-* «дать» с дательным *ruinen*, как *antainë … ruinin* в XVI. Так ближе к латыни (*ne cremer*, «чтобы мне не гореть»): жжёт уже не Судья, Он только не отдаёт. Слоги: 8, 9, 11.
 
 ## Пятнадцатая строфа
 
 > *Ánin anta nómë imíca mámar,*
 > *ar áni necë naicollon,*
-> *sastala ni formassë.*
+> *sastaila ni formassë.*
 
 «Дай мне место среди овец / и отдели меня от козлов, / поставив меня по правую руку». Латынь сверена (строфа XV): *Inter oves locum praesta, / et ab haedis me sequestra, / statuens in parte dextra.*
 
@@ -308,15 +310,15 @@
 | *imíca* | Q «among» | Из *Aia María*: *aistana elyë imíca nísi* «благословенна Ты между жёнами» |
 | *mámar* | Q *máma* «sheep», мн. ч. | Ср. *Mámandil*, «Друг овец» |
 | *áni necë* | *á* + *ni* «меня» + ᴺQ *nec-* «to divide, separate; [with ablative] … separate oneself from», аорист | |
-| *naicollon* | ᴺQ *naico* «goat» + исходный падеж мн. ч. *-llon* (курс, стр. 2034: *ambollon* «от холмов») | *Haedi* — «козлята» |
-| *sastala* | ᴺQ *sasta-* «to put, place» + прич. *-la* | *statuens* |
+| *naicollon* | ᴺQ *naico* «goat» + исходный падеж мн. ч. *-llon* (курс, стр. 2034: *ambollon* «от холмов») | *Haedi* — «козлята». **Омоним.** В поздних черновиках *Ataremma* у Толкина Q *naico* значит «\*sinner» (VT43/33: *naicor*, *naici*), а «козёл» — слово неоквенья. Поэтому строку можно прочесть и как «отдели меня от грешников», и в секвенции о суде это, пожалуй, даже точнее. Нашёл субагент. *Nec-* «separate oneself from» по Eldamo — возвратное, с *immo*; у меня переходное, *áni necë*, и это допущение |
+| *sastaila* | ᴺQ *sasta-* «to put, place» + прич. *-ila* (курс, стр. 13614) | *statuens* |
 | *formassë* | Q *forma* «right-hand [side]», местный п. | *In parte dextra*. *For-* значит и «правый», и «северный» (*formen*): у эльфов, глядящих на запад, правая рука — север. Это у Толкина есть в словах: *an cé mo quernë cendelë númenna, ve senya* «ибо если обратить лицо к западу, как было в обычае» (фраза в Eldamo) |
 
 Слоги по `kv_udar.py`: 11, 8, 7.
 
 ## Шестнадцатая строфа
 
-> *Yá i húnë nar naityainë,*
+> *Yá i húnë nar naitinë,*
 > *antainë sárë ruinin,*
 > *áni yalë as i aistanë.*
 
@@ -325,13 +327,13 @@
 | Слово | Eldamo / курс | Замечание |
 |---|---|---|
 | *i húnë* | Q *húna* «cursed, accursed», мн. ч. *-ë* (как *ilya → ilyë*) | Прилагательное как существительное |
-| *nar naityainë* | ᴺQ *naitya-* «to put to shame, abuse, *rebuke» + страд. прич. (*a*-глагол: *-aina*, как *orta- → ortaina*), мн. ч. | *Confutatis*, «опровергнутым, посрамлённым» |
+| *nar naitinë* | ᴺQ *naitya-* «to put to shame, abuse, *rebuke» + страд. прич., мн. ч. У глаголов на *-ya* окончание *ya* заменяется (курс, стр. 13656: *ferya- → ferina*), отсюда *naitina*, мн. ч. *naitinë* | *Confutatis*, «опровергнутым, посрамлённым» |
 | *antainë* | Q *anta-* «to give» → *antaina* «отданный», мн. ч. | *addictis*, «преданным» |
 | *sárë* | Q *sára* «[ᴹQ.] bitter», мн. ч. | *acribus*. Есть и Q *aica* «fell, terrible, dire; [ᴹQ.] sharp», ближе к *acer* «острый». Взял «горький» |
 | *ruinin* | Q *ruinë* «fire, blaze», дат. мн. (как *lambë → lambin*, курс, стр. 4682) | |
 | *áni yalë* | *á* + *ni* + Q *yal-* «to summon, *call (out to)», аорист | |
 | *as* | Q «with» | |
-| *i aistanë* | Q *aistana* «*blessed», мн. ч. | Из *Aia María*: *aistana elyë imíca nísi*. Проклятые и благословенные здесь стоят как *maledicti* и *benedicti*, но корни у них разные. В латыни корень один, *dicere*: «злословленные» и «благословленные». В квенья половина такой пары есть: Q *naiquet-* «to curse or blaspheme», буквально *nai-* «худо» + *quet-* «говорить», точь-в-точь *male-dicere*. Второй половины, «благо-говорить», в выводе поиска по *bless* нет. [Сначала здесь стояло «этого в квенья не передать», а *naiquet-* был в том же выводе.] |
+| *i aistanë* | Q *aistana* «*blessed», мн. ч. | Из *Aia María*: *aistana elyë imíca nísi*. Проклятые и благословенные здесь стоят как *maledicti* и *benedicti*, но корни у них разные. В латыни корень один, *dicere*: «злословленные» и «благословленные». В квенья половина такой пары есть: Q *naiquet-* «to curse or blaspheme», буквально *nai-* «худо» + *quet-* «говорить», точь-в-точь *male-dicere*. Есть и вторая половина: Q *manaquenta* «\*blessed» из Толкинова «Sub tuum» (*alcarin Vendë ar manaquenta*), по элементам Eldamo MAN + KWET, то есть буквально *bene-dictus*. Eldamo помечает его устаревшим в пользу *amanya*, поэтому я его не взял. Но пара *naiquet- / manaquenta* у Толкина есть. [История: сначала «этого не передать», потом «второй половины нет», хотя *manaquenta* стоял в том же выводе. Обе поправки, вторую нашёл субагент.] |
 
 Слоги по `kv_udar.py`: 8, 7, 9.
 
@@ -352,7 +354,7 @@
 | *rácina* | Q «broken» | Ср. Толкиново *man tiruva rácina cirya?* «кто позаботится о разбитом корабле?» |
 | *ve littë* | «как пепел» | *Littë* — слово автора (*littello*). Пепел — тот же, из которого в Lacrimosa встают |
 | *á tirë* | *á* + Q *tir-* «to watch (over), guard, heed», аорист | У Толкина есть *á tirë*: *á tirë antírië* «смотри внимательнее». *Gere curam* — «позаботься», у меня «стереги» |
-| *mettanya* | Q *metta* «ending, end» + *-nya* | *mei finis*. Тот же *metta*, что в *Ambar-metta* «конец мира» в Элендиловой клятве (по памяти: *tenn’ Ambar-metta*, фраза в Eldamo есть, см. поиск *place* выше) |
+| *mettanya* | Q *metta* «ending, end» + *-nya* | *mei finis*. Тот же *metta*, что в *Ambar-metta* «конец мира»: *sinomë maruvan ar Hildinyar tenn’ Ambar-metta* (фраза в Eldamo; что это слова Элендила — по памяти) |
 
 Слоги по `kv_udar.py`: 7, 9, 6.
 
@@ -360,4 +362,4 @@
 
 ### Что вышло в целом
 
-Первые 17 строф я делал, а 18–19 есть у автора. В его строфах и в моих общими оказались *littë* («пепел»: из него восстают в XVIII, в него рассыпается мир в I, ему подобно сердце в XVII), *úcarinqua* (XII, XVIII), *órava … a Eru* (XII, XVIII), *lissinqua* (IX, XIX). Многие слова пришли из четырёх Толкиновых молитв (*Ataremma*, *Aia María*, «Sub tuum», Литания) и двух клятв (Элендила и Кириона). Так квенийская секвенция и сложилась: из Толкиновых молитв и из стихов автора, сверенная по словарю. Я был в ней, как сказано в § 18 «Во имя», переводчиком, который держит слова. Отвечать за них по-настоящему могут те, кто на этом языке молится.
+Первые 17 строф я делал, а 18–19 есть у автора. В его строфах и в моих общими оказались *littë* («пепел»: из него восстают в XVIII, в него рассыпается мир в I, ему подобно сердце в XVII), *úcarinqua* (XII, XVIII), *órava … a Eru* (XII, XVIII), *lissinqua* (IX, XIX). Многие слова пришли из четырёх Толкиновых молитв (*Ataremma*, *Aia María*, «Sub tuum», Литания) и двух клятв: слов Элендила (*tenn’ Ambar-metta*, XVII) и клятвы Кириона (*i or ilyë mahalmar*, III; что это Кирион, UT/305, — по отчёту проверяющего). Так квенийская секвенция и сложилась: из Толкиновых молитв и из стихов автора, сверенная по словарю. Я был в ней, как сказано в § 18 «Во имя», переводчиком, который держит слова. Отвечать за них по-настоящему могут те, кто на этом языке молится.

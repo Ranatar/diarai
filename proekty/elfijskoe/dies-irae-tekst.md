@@ -10,10 +10,10 @@ astarmor Lindo, Sivilla.
 **II.**  
 Malka pampilë nauva,  
 yá i námo tuluva,  
-ilyë aqua hentala!  
+ilyë aqua hentaila!  
 
 **III.**  
-Romba, láma vintala  
+Romba, láma vintaila  
 ter noiri nórion,  
 ilyë hostuva mahalmanna.  
 
@@ -48,7 +48,7 @@ an nanyë cahta tielyo:
 áva ni hehta auressë tana.  
 
 **X.**  
-Cestala ni, handelyë lumba;  
+Cestaila ni, handelyë lumba;  
 rúnanelyë, nwalila tarwessë:  
 nai mólë sina lá nauva lusta.  
 
@@ -69,16 +69,16 @@ nin yú antanelyë estel.
 
 **XIV.**  
 Arcandenyar lá nar valdë,  
-mal elyë, mára, á carë nasimavë:  
-ála ni urta ruinenen oialëa.  
+mal, mára, carë nasimavë:  
+ála ni anta ruinen oialëa.  
 
 **XV.**  
 Ánin anta nómë imíca mámar,  
 ar áni necë naicollon,  
-sastala ni formassë.  
+sastaila ni formassë.  
 
 **XVI.**  
-Yá i húnë nar naityainë,  
+Yá i húnë nar naitinë,  
 antainë sárë ruinin,  
 áni yalë as i aistanë.  
 
