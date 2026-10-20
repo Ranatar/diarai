@@ -17,7 +17,7 @@
 | 4.0031 | Alle Philosophie ist ›Sprachkritik‹. | *Ilya quettacaliëᴬ ná «\*lambehentië».* | Всякая философия есть «чтение языка» (*hentië* «reading», PE17/077). |
 | 4.01 | Der Satz ist ein Bild der Wirklichkeit. | *Quettalëⁿ ná emma nanwiénoⁿ.* | Предложение есть картина действительности. |
 | 4.112 | Die Philosophie ist keine Lehre, sondern eine Tätigkeit. | *Quettacaliëᴬ ui oloriëⁿ, mal cuicarëᴬ.* | Философия — не сон-видение, а пробуждённое деяние. |
-| 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tanaima ná úquétima.* | Показуемое — несказуемо. |
+| 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tánima ná úquétima.* | Показуемое — несказуемо. (До 20.10 стояло *\*tanaima*. По курсу у простых *a*-глаголов *-ima* заменяет *a*, *fara- → fárima*, а *tana-* < TAN² — простой; см. 6.36 в `perevod.md`.) |
 | 5.6 | Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt. | *Landar lambenyo tëar landar Ambarinyo.* | Границы моего языка указывают границы моего мира. |
 | 5.61 | Die Logik erfüllt die Welt; die Grenzen der Welt sind auch ihre Grenzen. | *I axanwëⁿ quanta Ambar; i landar Ambaro nar ta landaryar.* | Логика наполняет мир; границы мира суть также её границы. |
 | 5.621 | Die Welt und das Leben sind Eins. | *Ambar ar coivië nar er.* | Мир и жизнь — одно. |
