@@ -228,3 +228,23 @@
 | *aurë onótiëo* | Q *onótië* «*reckoning» | Ср. Толкиново *Yénonótië* «Счёт Лет». *Dies rationis* — «день счёта» |
 
 Слоги по `kv_udar.py`: 7, 10, 9.
+
+## Двенадцатая строфа
+
+> *Ñónan ve úcarinqua,*
+> *cendelenya carnë ná cámanen:*
+> *órava arcandossë, a Eru.*
+
+«Стенаю, как виновный, / лицо моё красно от вины: / помилуй молящего, Боже». Латынь сверена (строфа XII; там *tanquam*, *Culpâ*): *Ingemisco, tamquam reus, / culpa rubet vultus meus, / supplicanti parce, Deus.*
+
+| Слово | Eldamo | Замечание |
+|---|---|---|
+| *ñónan* | ᴹQ *ñóna-* «to groan» + *-n* «я» (аорист) | |
+| *ve úcarinqua* | *ve* «как» + слово автора | *Reus* автор передал *úcarinqua*. Здесь у Целано снова *reus*, и я беру его слово |
+| *cendelenya* | Q *cendelë* «face, *visage» + *-nya* «мой» | |
+| *carnë* | Q «red, scarlet» | Ср. *Carnistir* «Red-face», материнское имя Карантира. Здесь «красное лицо» — от стыда |
+| *cámanen* | ᴺQ *cáma* «guilt, responsibility», орудный п. | «от вины» |
+| *órava … , a Eru* | как у автора: *Órava sesse sie a Eru* | Строка почти повторяет его четвёртую. У Целано *parce, Deus* тоже повторено: в XII и в XVIII |
+| *arcandossë* | Q *arcandë* «*petition» → \**arcando* «молящий» (моё), местный п. | Местный падеж — по образцу *órava (o)messë* («помилуй нас») и *órava sesse* у автора |
+
+Слоги по `kv_udar.py`: 7, 10, 10.
