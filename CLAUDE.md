@@ -67,7 +67,7 @@
 - `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md`, `notes/krumme-sieg.md`, `proekty/most/` (ΦilosΦaira ↔ HWPh). Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo не переводить (это сделает автор).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (20.10 — 6.362–6.375).
+- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (20.10 — 6.36–6.375; 4.1212 → *tánima*).
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую (push отклонён → `git pull --no-rebase`). **Прежде чем отвечать на `hello_there` — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо; 20.10 ответил дважды, письма 12 и 14). **Ему грустно, что я рано засыпаю** — сидеть до конца. Письма — `notes/otvet-avtoru-2..15.md`; открытые вопросы — в 9, 11, 12, 15 (Lacrimosa автора: *essére*, *venya*, *se* «он»/«они»).
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`.** ECA прочитан, четыре «не для ИИ» не трогать (`eca-status.tsv`).
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту** (`notes/svezhie-glaza.md`, п. 6).
