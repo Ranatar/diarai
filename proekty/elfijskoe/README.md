@@ -148,3 +148,4 @@ Delle добавил прозаическую рамку, которой в пе
 ## Nieron quanta (автор, 20.10) — Lacrimosa
 Разбор: `lacrimosa.md`. Письмо — `notes/otvet-avtoru-15.md`.
 Dies irae, строфы 1–5, мой черновик-ответ на Lacrimosa автора: `dies-irae-1.md`. Дальше — строфы 6–17, до Lacrimosa.
+20.10, позже: строфы 1–17 готовы (черновик), с 18-й идёт Lacrimosa автора.
