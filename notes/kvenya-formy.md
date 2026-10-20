@@ -9,14 +9,14 @@
 | Прошедшее *har-* | *handë* | 3128 | — |
 | Аорист *u*-глаголов | без окончания: *haru*, *tolu* | 3130, 3134 | ставил будущее в условии |
 | Будущее *u*-глаголов | *u* удлиняется: *liru- → lirúva* | 5354 | *haruva* «от обоих глаголов» |
-| Условие | в условии аорист, будущее — в следствии: *qui tulis, maxuvan* | ~16240 | *equi tulluva* |
+| Условие | в условии аорист, будущее — в следствии: *qui tulis, maxuvan* | 16242 | *equi tulluva* |
 | «Быть» с лицом | при *ná* длинные суффиксы: *nanyë* «я есмь»; *nánel* — прошедшее «Вы были» | 3290 | *nán* |
 | Повелительное | *á* + аорист: *á tulë*; можно и одним аористом | 5356, 5246 | — |
 | Повелительное с местоимением | по Толкину: *ámen anta*, *ámë etelehta*, *álamë tulya* | Eldamo, фразы | — |
 | Запрет | *áva matë* «не ешь!» | 8790 | — |
-| Действительное причастие | **-ila**: *tec- → tecila*, *orya- → oryaila* (форма на *-la* — только в «Markirya», 13624) | 13614 | *hentala*, *vintala*, *cestala*, *sastala* |
+| Действительное причастие | **-ila**: *tec- → tecila*, *orya- → oryaila* (по LVS 1969). Формы на *-la* (*hácala*, *taltala*) есть в «Markirya» и в QVS (13624, 13734–13740), но основной курс берёт *-ila*. [Сначала стояло «-la только в Markirya», это сильнее курса.] | 13614 | *hentala*, *vintala*, *cestala*, *sastala* |
 | Страдательное причастие | *-(i)na*: *tec- → tecina*, *car- → carina*, *orta- → ortaina*; у *-ya* *ya* заменяется: *ferya- → ferina* | 13636–13656 | *námina*, *naityainë* |
-| *-ima* «-имый» | *car- → cárima*; *fara- → fárima*; *liru- → liruima*; слабые: *tulta- → tultaima* | ~13745 | ссылка на устаревшее *lacaltaima* |
+| *-ima* «-имый» | *car- → cárima*; *fara- → fárima*; *liru- → liruima*; слабые: *tulta- → tultaima* | 13756–13766 | ссылка на устаревшее *lacaltaima* |
 | Исходный мн. ч. | *-llon*: *ambollon* «от холмов» | 2034 | — |
 | Дательный мн. ч. | *lambë → lambin* | 4682 | — |
 | Дательный «мне» | *nin*: *órenya quéta nin* | 6372 | — |
