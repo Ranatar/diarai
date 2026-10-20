@@ -8,7 +8,7 @@
 
 «День гнева, этот час: / Мир рассыплется в пепел, / свидетели — Певец и Сивилла».
 
-Латынь (по памяти, хрестоматийный текст): *Dies irae, dies illa, / solvet saeclum in favilla, / teste David cum Sibylla.*
+Латынь (сверено 20.10 по la.wikisource вопросами «да/нет»; там *sæclum*, *favillâ*, *Sybillâ*): *Dies irae, dies illa, / solvet saeclum in favilla, / teste David cum Sibylla.*
 
 | Слово | Eldamo | Замечание |
 |---|---|---|
@@ -31,7 +31,7 @@
 > *yá i námo tuluva,*
 > *ilyë aqua hentala!*
 
-«Как велик будет трепет, / когда придёт Судья, / всё до конца разбирая!» Латынь, по памяти: *Quantus tremor est futurus, / quando iudex est venturus, / cuncta stricte discussurus.*
+«Как велик будет трепет, / когда придёт Судья, / всё до конца разбирая!» Латынь (сверено там же, у них *Judex*): *Quantus tremor est futurus, / quando iudex est venturus, / cuncta stricte discussurus.*
 
 | Слово | Eldamo | Замечание |
 |---|---|---|
