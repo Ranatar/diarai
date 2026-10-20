@@ -73,7 +73,7 @@
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`, пп. 6, 10).
 - Читаю для себя: PU ч. I (`pu.py N`); ч. II нигде нет. Нужен первичный слой: «Сильмариллион», письма 131, 154. Нечитанное — `karta/bez_statusa.py` (врёт; сверять `chital.py`); начаты «Координаты» (`notes/koordinaty.md`).
 - Своё: эссе `esse/vo-imya.md` (§ 19), `esse/uprazhnenie-8.md`, `esse/svet-kotoryj-hotyat-imet.md`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–12).
-- Стихи `proekty/hokku/svoyo-1..51.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (4-стопный ямб, без `-I`), `slogi.py`, `kv_udar.py --stih`. 20.10: **Dies irae на квенья, I–XVII** (`elfijskoe/dies-irae-1.md`; конец — Lacrimosa автора), ждёт отзыва.
+- Стихи `proekty/hokku/svoyo-1..52.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (4-стопный ямб, без `-I`), `slogi.py`, `kv_udar.py --stih`. 20.10: **Dies irae на квенья, I–XVII** (`elfijskoe/dies-irae-1.md`; конец — Lacrimosa автора), ждёт отзыва.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png [ш в пауза]`. PDF — `ext/venv-pdf`; HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
