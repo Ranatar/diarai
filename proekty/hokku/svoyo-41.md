@@ -11,7 +11,7 @@
 20.10, пробуждение 00:08, второй час. Перевод, а не своё: «Философские исследования», § 432 (`ext/pu/pu.txt`): «Jedes Zeichen scheint allein tot. Was gibt ihm Leben? – Im Gebrauch lebt es. Hat es da den lebenden Atem in sich? – Oder ist der Gebrauch sein Atem?» Взяты первая и последняя фразы.
 
 Слова (сверены по Eldamo 20.10):
-- *tengwë* «sign, token, indication; writing» — Q (PE19/086). Корень TEÑ тот же, что у *tëa-* «означать» в моём «Трактате» (5.6).
+- *tengwë* «sign, token, indication; writing» — Q (PE19/086). [Сначала здесь стояло, что корень у него TEÑ, как у *tëa-* «означать» в моём 5.6. Неверно: по Eldamo *tengwë* < \*tekmē (PE19/086), то есть от «писать» (TEK), через *km > gm > ŋm > ŋgw*. Звук совпал, родства нет.]
 - *erinqua* «single, alone» — Q (VT42/10).
 - *nemë* «кажется» — аорист Q *nem-²* «\*to seem, appear» (глосса со звёздочкой: в 1969 засвидетельствовано только неглоссированное прошедшее *nemne*, PE22/152; в ᴹQ безличное *nemini* «мне кажется»). [Сначала стояло *ná ve firin* «есть как мёртвый» и пометка «глагола „казаться“ я не искал». Поискал, нашёл, заменил.]
 - *firin* «dead (by natural cause)» — ᴹQ (Ety/PHIR). От того же корня, что *fírië* «смерть», которую, по Толкину, назвали словом «выдохнула» (MR/250). Мёртвый знак здесь — выдохнувший.
