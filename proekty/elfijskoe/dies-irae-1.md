@@ -292,3 +292,24 @@
 | *oialëa* | Q «eternal» | *perenni* |
 
 Слоги по `kv_udar.py`: 8, 12, 12. Строфа самая длинная.
+
+## Пятнадцатая строфа
+
+> *Ánin anta nómë imíca mámar,*
+> *ar áni necë naicollon,*
+> *sastala ni formassë.*
+
+«Дай мне место среди овец / и отдели меня от козлов, / поставив меня по правую руку». Латынь сверена (строфа XV): *Inter oves locum praesta, / et ab haedis me sequestra, / statuens in parte dextra.*
+
+| Слово | Eldamo / курс | Замечание |
+|---|---|---|
+| *ánin anta* | *á* + *nin* «мне» + *anta-* «дать» | По образцу Толкинова *ámen anta* «дай нам» (*Ataremma*) |
+| *nómë* | Q «place» | *locum* |
+| *imíca* | Q «among» | Из *Aia María*: *aistana elyë imíca nísi* «благословенна Ты между жёнами» |
+| *mámar* | Q *máma* «sheep», мн. ч. | Ср. *Mámandil*, «Друг овец» |
+| *áni necë* | *á* + *ni* «меня» + ᴺQ *nec-* «to divide, separate; [with ablative] … separate oneself from», аорист | |
+| *naicollon* | ᴺQ *naico* «goat» + исходный падеж мн. ч. *-llon* (курс, стр. 2034: *ambollon* «от холмов») | *Haedi* — «козлята» |
+| *sastala* | ᴺQ *sasta-* «to put, place» + прич. *-la* | *statuens* |
+| *formassë* | Q *forma* «right-hand [side]», местный п. | *In parte dextra*. *For-* значит и «правый», и «северный» (*formen*): у эльфов, глядящих на запад, правая рука — север |
+
+Слоги по `kv_udar.py`: 11, 8, 7.
