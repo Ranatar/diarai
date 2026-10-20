@@ -17,7 +17,8 @@
 | Действительное причастие | **-ila**: *tec- → tecila*, *orya- → oryaila* (по LVS 1969). Формы на *-la* (*hácala*, *taltala*) есть в «Markirya» и в QVS (13624, 13734–13740), но основной курс берёт *-ila*. [Сначала стояло «-la только в Markirya», это сильнее курса.] | 13614 | *hentala*, *vintala*, *cestala*, *sastala* |
 | Страдательное причастие | *-(i)na*: *tec- → tecina*, *car- → carina*, *orta- → ortaina*; у *-ya* *ya* заменяется: *ferya- → ferina* | 13636–13656 | *námina*, *naityainë* |
 | *-ima* «-имый» | *car- → cárima*; *fara- → fárima*; *liru- → liruima*; слабые: *tulta- → tultaima* | 13756–13766 | ссылка на устаревшее *lacaltaima* |
-| Падежи мн. ч. (кроме родительного) | к словарной форме: *tauressen* «в лесах», не \**taurissen* | 2032–2034 | чуть не написал *sanyissen* |
+| Направительные падежи мн. ч. (*-nnar*, *-llon/-llor*, *-ssen*) | к словарной форме: *tauressen* «в лесах», не \**taurissen*. О дательном и творительном курс здесь этого не говорит | 2032–2034 | чуть не написал *sanyissen* |
+| Дательный с *rasta-* «объяснять» | что объясняют — в дательном, кому — в винительном: *rastan tye nótengolmen* | Eldamo, *rasta-* | поставил прямой падеж |
 | Исходный мн. ч. | *-llon*: *ambollon* «от холмов» | 2034 | — |
 | Дательный мн. ч. | *lambë → lambin* | 4682 | — |
 | Дательный «мне» | *nin*: *órenya quéta nin* | 6372 | — |

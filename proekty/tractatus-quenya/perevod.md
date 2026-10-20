@@ -487,18 +487,19 @@
 
 (Пробуждение 20.10, 18:20, конец.)
 
-> ***Nimulë caita nu ilya silúmëa ehten: i estainë sanyi nassëo rastar nemestar nassëo.***
+> ***Nimulë caita nu ilya silúmëa ehten: i estainë sanyi nassëo rastar nemestain nassëo.***
+> (Первая редакция — *rastar nemestar*, с прямым падежом. Поправлено: у *rasta-* объясняемое стоит в дательном, см. ниже.)
 > «Под всяким нынешним взглядом лежит мнимость: [будто] так называемые законы природы объясняют явления природы».
 
-- ***nimulë*** — Q «phantom, *illusion, (lit.) a seeming», от NEM «казаться». У Толкина (заметки 1957, по Eldamo) это «an appearance having no existence in the physical world, existing only as a conception/memory/picture in one mind». Лучшего слова для *Täuschung* в «Трактате», по-моему, не найти: это картина (*picture*), которая есть только в уме, а у Витгенштейна заблуждение и есть картина, принятая за объяснение;
+- ***nimulë*** — Q «phantom, (lit.) a seeming». Значение «*illusion» — предложение Luinyelle (ᴺQ, 2025), а не Толкина. По Eldamo, слово «likely related to the root √NIM, a variant of √NEM “seem”», то есть связь с NEM вероятная и через вариант корня. У Толкина (заметки 1957, по Eldamo) это «an appearance having no existence in the physical world, existing only as a conception/memory/picture in one mind». Лучшего слова для *Täuschung* в «Трактате», по-моему, не найти: это картина (*picture*), которая есть только в уме, а у Витгенштейна заблуждение и есть картина, принятая за объяснение;
 - *caita nu* — Q *caita-* «to lie (down)» + *nu* «under»: *liegt zugrunde*, «лежит в основании», у меня «лежит под»;
 - *ilya* «every, all»; ᴺQ *silúmëa* «current, contemporary, modern»; ᴺQ *ehten* «outlook, sight, view» — *Weltanschauung*. Слова «мир» я в нём не передал;
 - *i estainë* — ᴹQ *estaina* «named, *called», мн. ч. — «так называемые»;
 - *sanyi nassëo* — как в 6.36;
-- *rastar* — ᴺQ *rasta-* «to guide (with allative); to explain (with dative)» + мн. *-r*. Что у Eldamo значит «with dative», объяснять что-то или объяснять кому-то, я не знаю. Ставлю явления в прямой падеж и помечаю это как сомнение;
+- *rastar* — ᴺQ *rasta-* «to guide (with allative); to explain (with dative)» + мн. *-r*. В заметке Eldamo есть пример: *rastan tye nótengolmen* «I explain mathematics to you». Кому объясняют, стоит в винительном (*tye*), что объясняют, — в дательном. Значит, явления в дательном мн. ч.: *nemestain*. [Сначала я написал «не знаю, что значит with dative», поставил прямой падеж и пометил сомнением, хотя пример лежал в той же статье. Поправка по проверке субагента.];
 - *nemestar nassëo* — Q *nemesta* «appearance, seeming», мн. ч.: *Naturerscheinungen*.
 
-**Что вышло.** У Витгенштейна *Täuschung* и *Erscheinungen* — разные слова. В квенья у меня оба от одного корня NEM «казаться»: мнимость (*nimulë*) и явления (*nemestar*). Получилось: под нынешним взглядом лежит мнимость, будто законы объясняют кажущееся. *Nemesta* у Толкина — «appearance, seeming», то есть не «мнимое», а «то, как вещь кажется». Но звучат эти слова в квенья по-родственному, и по-русски так не выйдет. [Сначала я написал «законы объясняют мнимости», а это сильнее глоссы.] Сдвиг записываю. *Seien* (Konjunktiv) снова не передано: двоеточие вместо «будто».
+**Что вышло.** У Витгенштейна *Täuschung* и *Erscheinungen* — разные слова. В квенья у меня оба от родственных корней: *nemesta* прямо от *nem-* «казаться», *nimulë*, вероятно, от √NIM, варианта √NEM. [Сначала стояло «от одного корня NEM», это сильнее Eldamo.] Получилось: под нынешним взглядом лежит мнимость, будто законы объясняют кажущееся. *Nemesta* у Толкина — «appearance, seeming», то есть не «мнимое», а «то, как вещь кажется». Но звучат эти слова в квенья по-родственному, и по-русски так не выйдет. [Сначала я написал «законы объясняют мнимости», а это сильнее глоссы.] Сдвиг записываю. *Seien* (Konjunktiv) снова не передано: двоеточие вместо «будто».
 
 ## 6.372 (первые две фразы). «So bleiben sie bei den Naturgesetzen als bei etwas Unantastbarem stehen, wie die älteren bei Gott und dem Schicksal. Und sie haben ja beide Recht, und Unrecht.»
 
@@ -510,10 +511,10 @@
 - *sië* «thus»;
 - *lemyar* — ᴹQ *lemya-* «to remain, tarry», мн. ч. *Bleiben … stehen*. Глагол *ser-* «to stay, stop» не взял: в позднем Q *ser-* значит «шить»;
 - *sanyessen* — ᴹQ *sanye* «law», местный мн. ч. По курсу (стр. 2032–2034) падежные суффиксы мн. ч. присоединяются к словарной форме: *tauressen* «в лесах», а не \**taurissen*. Отсюда *sanyessen*, а не \**sanyissen*. Я чуть не написал второе;
-- *ve nat úappaima\** — «как вещь неприкосновенная». Q *appa-* «to touch» (VT44/26, от *apa* «касаясь») + *-ima* + *ú-*, по образцу Толкинова *úfantima* «not concealable». **Слово моё.** *-aima* или *-ima*, зависит от класса *appa-*, а его я не знаю;
+- *ve nat úappaima\** — «как вещь неприкосновенная». Q *appa-* «to touch» (VT44/26, от *apa* «касаясь») + *-ima* + *ú-*, по образцу Толкинова *úfantima* «not concealable». **Слово моё.** *-aima* или *-ima*, зависит от класса *appa-*. Образцы есть в обе стороны: у слабых *a* сохраняется (*tultaima*, PE22/156), у простых заменяется (*fárima*). Класс *appa-* (от предлога *apa*) я не установил;
 - *i yárë* — Q *yára* «old, ancient», мн. ч., как существительное: «древние»;
 - *Erussë ar umbartessë* — местный п. от *Eru* и от *umbar* (основа *umbart-*, ср. *umbarto*, NM/228). Опять *umbar*, как в 6.374, и опять со смыслом «рок»;
-- *yúye* — ᴹQ «both [persons or things]»; *nar* «суть»;
+- *yúye* — ᴹQ «both [persons or things]»; *nar* «суть». В позднем Q есть прилагательное *yúyo* «both». Я взял ᴹQ-местоимение, потому что здесь «оба» стоит без существительного;
 - *térë ar raicë* — ᴹQ *téra* «straight, right, *correct» и Q *raica* «crooked, [ᴹQ.] bent, wrong», мн. ч. *Recht und Unrecht* стали «прямы и кривы».
 
 **Что вышло.** В квенья «правота» и «неправота» оказались мерой линии: прямое и кривое. Это не слова суда, а слова пути, и после *tië* из Dies irae (IX, «Твой путь») мне это нравится. Третья фраза 6.372, о древних, которые «klarer» (признают ясный конец), не переведена. О ней — десятая «Речь».
