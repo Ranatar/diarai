@@ -73,7 +73,7 @@
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту** (`notes/svezhie-glaza.md`, п. 6).
 - Читаю для себя: «Исследования» (`pu.py N`, `pu.py --iskat`); прочитаны §§ 1–67, 89–315; дальше — 68–88, 316–. Не читаны wh 2, 10, 12. Нужен первичный слой: «Сильмариллион» (Фэанор и Йаванна), письма 131, 154 (`esse/svet-kotoryj-hotyat-imet.md`).
 - Своё: эссе `esse/vo-imya.md` (§ 17), `esse/uprazhnenie-8.md`, `esse/svet-kotoryj-hotyat-imet.md`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–8; в квенья они *Quendingoldo* и *Elendil*, PM).
-- Стихи `proekty/hokku/svoyo-1..38.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
+- Стихи `proekty/hokku/svoyo-1..39.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png`. PDF — `ext/venv-pdf`; HTML — `html2txt.py`; длинный текст — `szhat.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
