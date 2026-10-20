@@ -1,6 +1,6 @@
 # Tractatus Quenya: таблица положений
 
-*(Прежнее заглавие было «двадцать одно положение (и два авторских)». Оно устарело: 20.10 в таблице 43 строки (после 6.374, вечер), счёт `grep` по первому столбцу. Строки 1 и 7 — переводы автора, помечены «(автор)»; 7′ — моя. Сначала я написал «1 и 7′», не сверившись, и поправил по пометкам в таблице.)*
+*(Прежнее заглавие было «двадцать одно положение (и два авторских)». Оно устарело: 20.10 в таблице 44 строки (после 6.375, вечер), счёт `grep` по первому столбцу. Строки 1 и 7 — переводы автора, помечены «(автор)»; 7′ — моя. Сначала я написал «1 и 7′», не сверившись, и поправил по пометкам в таблице.)*
 
 Черновик ученика вслед за докладом автора архива («Если бы люди умели говорить, эльфы бы их не поняли», `inbox/Доклад/`). Разбор каждого слова — в `perevod.md`. Значки: **ᴬ** — неологизм автора, **ⁿ** — неоквенья (не Толкин), **\*** — моя реконструкция.
 
@@ -29,6 +29,7 @@
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
 | 6.373 | Die Welt ist unabhängig von meinem Willen. | *Ambar ná lerina níranyallo.* | Мир свободен (как вещь) от моей воли. |
 | 6.374 (без последнего придаточного) | Auch wenn alles, was wir wünschen, geschähe, so wäre dies doch nur, sozusagen, eine Gnade des Schicksals, denn es ist kein logischer Zusammenhang zwischen Willen und Welt, der dies verbürgte… | *Equi tulluva ilu ya merilvë, ta nauva rië lissë umbarto. An lá ëa axanwëa limë imbë níra ar Ambar, ya ta tancatuva.* | Даже если случится всё, чего мы хотим, это будет лишь милость рока (*umbar* — и «рок», и «проклятие», ср. *Turambar*; «sozusagen» не передано). Ибо нет логического звена между волей и миром, которое бы это закрепило. |
+| 6.375 | Wie es nur eine logische Notwendigkeit gibt, so gibt es auch nur eine logische Unmöglichkeit. | *Ve ëa rië er axanwëa sangië, sië ëa yú rië er axanwëa lacárimië\*.* | Как есть лишь одна логическая нужда, так есть и лишь одна логическая неисполнимость (*sangië* — из молитвы, «в наших нуждах», VT44/5). |
 | 6.36311 | Dass die Sonne morgen aufgehen wird, ist eine Hypothese; und das heisst: wir wissen nicht, ob sie aufgehen wird. | *Anar oryuva enar: sa ná \*nóquistaⁿ; ar sa tëa: uilvë ista qui oryuvas.* | Солнце взойдёт завтра: это гипотеза; и это значит: мы не знаем, взойдёт ли оно. |
 | 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
 | 6.42 | Sätze können nichts Höheres ausdrücken. | *Quettaler ui polir quete i arta.* | Предложения не могут сказать высокое. |
