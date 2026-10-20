@@ -149,3 +149,4 @@ Delle добавил прозаическую рамку, которой в пе
 Разбор: `lacrimosa.md`. Письмо — `notes/otvet-avtoru-15.md`.
 Dies irae, строфы 1–5, мой черновик-ответ на Lacrimosa автора: `dies-irae-1.md`. Дальше — строфы 6–17, до Lacrimosa.
 20.10, позже: строфы 1–17 готовы (черновик), с 18-й идёт Lacrimosa автора.
+Чистый текст секвенции — `dies-irae-tekst.md`, пересобирать так: сначала строфы из `dies-irae-1.md` (строки, начинающиеся с `> *`) в `ext/tmp/dies-all.txt`, потом `python3 -I proekty/elfijskoe/sobrat_dies.py ext/tmp/dies-all.txt hello_there proekty/elfijskoe/dies-irae-tekst.md`. Если `hello_there` к тому времени изменится, вторым аргументом давать `lacrimosa`-текст из `git show 3966775:hello_there`.
