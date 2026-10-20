@@ -269,3 +269,26 @@
 | *estel* | Q «hope, trust, *faith» (MR/338, «hope and trust») | *Spem*. У Толкина *estel* — надежда-доверие, в отличие от надежды-ожидания (по памяти об «Атрабет»). Для этой строфы нужна именно первая |
 
 Слоги по `kv_udar.py`: 8, 7, 8. Ближе всех к латыни.
+
+## Четырнадцатая строфа
+
+> *Arcandenyar lá nar valdë,*
+> *mal elyë, mára, á carë nasimavë:*
+> *ála ni urta ruinenen oialëa.*
+
+«Мольбы мои недостойны, / но Ты, благой, сотвори милостиво: / не жги меня огнём вечным». Латынь сверена (строфа XIV): *Preces meae non sunt dignae, / sed tu bonus fac benigne, / ne perenni cremer igne.*
+
+| Слово | Eldamo | Замечание |
+|---|---|---|
+| *arcandenyar* | Q *arcandë* «*petition» + *-nya* «мой» + мн. *-r* | По образцу Толкинова *arcandemmar* «наши мольбы» из «Sub tuum» |
+| *lá nar* | «не» + «суть» (мн. от *ná*) | |
+| *valdë* | ᴺQ *valda* «worth; worthy, dear», мн. ч. | Осторожно: в позднем Q *valda* значит «excited, wild». «Достойный» — значение ранних словарей, перенесённое неоквенья |
+| *elyë* | Q «you (emphatic polite)» | |
+| *mára* | Q «good, proper» | *bonus* |
+| *á carë* | *á* + Q *car-* «делать», аорист | *fac* |
+| *nasimavë* | ᴺQ *nasima* «kind, welcoming» + *-vë* (наречие) | **Наречие моё.** *Benigne* |
+| *ála ni urta* | Q *ála* «do not» + *ni* «меня» + ᴺQ *urta-* «to burn» | Сдвиг. *Ne cremer* — «чтобы я не сгорел», страдательный залог и придаточное цели. У меня прямая просьба: «не жги меня». Жжёт тогда Сам Судия. Это жёстче латыни, но в квенья у меня нет ни страдательного залога, ни союза «чтобы не» |
+| *ruinenen* | Q *ruinë* «fire, blaze», орудный п. | Не *nár* «огонь как стихия»: у него неясная основа для падежа |
+| *oialëa* | Q «eternal» | *perenni* |
+
+Слоги по `kv_udar.py`: 8, 12, 12. Строфа самая длинная.
