@@ -242,9 +242,9 @@
 | *ñónan* | ᴹQ *ñóna-* «to groan» + *-n* «я» (аорист) | |
 | *ve úcarinqua* | *ve* «как» + слово автора | *Reus* автор передал *úcarinqua*. Здесь у Целано снова *reus*, и я беру его слово |
 | *cendelenya* | Q *cendelë* «face, *visage» + *-nya* «мой» | |
-| *carnë* | Q «red, scarlet» | Ср. *Carnistir* «Red-face», материнское имя Карантира. Здесь «красное лицо» — от стыда |
+| *carnë* | Q «red, scarlet» | Ср. *Carnistir* «Red-face», материнское имя Карантира (Eldamo: «the mother-name of S. [Caranthir]», PM/353). Здесь «красное лицо» — от стыда |
 | *cámanen* | ᴺQ *cáma* «guilt, responsibility», орудный п. | «от вины» |
-| *órava … , a Eru* | как у автора: *Órava sesse sie a Eru* | Строка почти повторяет его четвёртую. У Целано *parce, Deus* тоже повторено: в XII и в XVIII |
+| *órava … , a Eru* | как у автора: *Órava sesse sie a Eru* | Строка почти повторяет его четвёртую. В секвенции *parce, Deus* тоже стоит дважды, в XII и в XVIII. Пишу не «у Целано», потому что XVIII, по en.wikipedia, может быть поздней добавкой |
 | *arcandossë* | Q *arcandë* «*petition» → \**arcando* «молящий» (моё), местный п. | Местный падеж — по образцу *órava (o)messë* («помилуй нас») и *órava sesse* у автора |
 
 Слоги по `kv_udar.py`: 7, 10, 10.
