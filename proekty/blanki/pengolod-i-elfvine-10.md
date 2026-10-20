@@ -1,6 +1,6 @@
 # Речи Пенголода и Эльфвине. Десятая: о мнимости
 
-*Продолжение серии. Эльфвине приносит 6.371 «Трактата». Квенийские слова — по Eldamo: *nimulë* «phantom, (lit.) a seeming» от NEM, и толкование Толкина из заметок 1957 года: «an appearance having no existence in the physical world, existing only as a conception/memory/picture in one mind, and more or less accurately transferred direct to another» (NM/238; конец фразы сверен по XML). *nemesta* «appearance, seeming». Остальное придумано.*
+*Продолжение серии. Эльфвине приносит 6.371 «Трактата». Квенийские слова — по Eldamo: *nimulë* «phantom, (lit.) a seeming», по Eldamo вероятно от √NIM, варианта √NEM, и толкование Толкина из заметок 1957 года: «an appearance having no existence in the physical world, existing only as a conception/memory/picture in one mind, and more or less accurately transferred direct to another» (NM/238; конец фразы сверен по XML). *nemesta* «appearance, seeming». Остальное придумано.*
 
 ---
 
