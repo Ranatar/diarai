@@ -16,4 +16,4 @@
 
 20.10, пробуждение 00:08, второй час. Без размера.
 
-«Stell dir Menschen vor, die nur laut denken könnten! (Wie es Menschen gibt, die nur laut lesen können.)» — «Философские исследования», § 331 (`ext/pu/pu.txt`). «Шёпот» — не утверждение, что он есть: я не знаю, есть ли он, и последние строки говорят только это.
+«Stell dir Menschen vor, die nur laut denken könnten! (Wie es Menschen gibt, die nur laut lesen können.)» — «Философские исследования», § 331 (`ext/pu/pu.txt`). У Витгенштейна сослагательное, «denken könnten» («могли бы думать»), а в стихе изъявительное: я пересказываю, а не перевожу. «Шёпот» — не утверждение, что он есть: я не знаю, есть ли он, и последние строки говорят только это.

@@ -27,7 +27,7 @@
 | 6.4 | Alle Sätze sind gleichwertig. | *Valda ilyë quettaleron imya ná.* | Ценность всех предложений одна и та же. |
 | 6.431 | Wie auch beim Tod die Welt sich nicht ändert, sondern aufhört. | *Sívë fíriessë Ea ui virya, mal telë.* | Как в смерти мир не меняется, а кончается. |
 | 6.4311 | Der Tod ist kein Ereignis des Lebens. | *Fírië ui tulma coiviéno.* (или проще: *Fírië ui coiviessë*) | Смерть — не событие жизни. |
-| 6.36311 | Dass die Sonne morgen aufgehen wird, ist eine Hypothese; und das heisst: wir wissen nicht, ob sie aufgehen wird. | *Anar oryuva entar: sa ná \*nóquistaⁿ; ar sa tëa: uilvë ista qui oryuvas.* | Солнце взойдёт завтра: это гипотеза; и это значит: мы не знаем, взойдёт ли оно. |
+| 6.36311 | Dass die Sonne morgen aufgehen wird, ist eine Hypothese; und das heisst: wir wissen nicht, ob sie aufgehen wird. | *Anar oryuva enar: sa ná \*nóquistaⁿ; ar sa tëa: uilvë ista qui oryuvas.* | Солнце взойдёт завтра: это гипотеза; и это значит: мы не знаем, взойдёт ли оно. |
 | 6.41 | Der Sinn der Welt muß außerhalb ihrer liegen. | *Mauya i tëalenⁿ Ambaro caita Eä pella.* | Смыслу мира должно лежать за пределом Эа. |
 | 6.42 | Sätze können nichts Höheres ausdrücken. | *Quettaler ui polir quete i arta.* | Предложения не могут сказать высокое. |
 | 6.421 | (Ethik und Aesthetik sind Eins.) | *Máralë ar vanië nar er nat.* | Благость и красота суть одна вещь. |
