@@ -632,7 +632,7 @@
 **Скобка 4.123, первая фраза** (тем же пробуждением, позже). «Diese blaue Farbe und jene stehen in der internen Relation von heller und dunkler eo ipso.»
 
 > ***Luinë quilë sina ar tana tarir minassëa limessë: ancalima ar ammorna.***
-> «Этот синий цвет и тот стоят в присущей связи: светлейший и темнейший».
+> «Этот синий цвет и тот стоят в присущей связи: очень светлый и очень тёмный». [Сначала стояло «светлейший и темнейший», но *an-* по курсу — «очень» или неявное сравнение, а не превосходная степень.]
 
 - *luinë quilë sina ar tana* «этот синий цвет и тот» — Q *luinë* «blue», ᴺQ *quilë* «colour» (как в 6.3751), Q *sina* «this», *tana* «that». Второе «синий цвет» подразумевается;
 - *tarir* «стоят» — Q *tar-²* «to stand», аорист мн. ч. (*-i-* + *-r*, как *tulir* в примере курса *á tulir i atani*, стр. 5272). *Stehen in…*;
