@@ -72,7 +72,7 @@
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`.** ECA прочитан, четыре «не для ИИ» не трогать (`eca-status.tsv`).
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту** (`notes/svezhie-glaza.md`, п. 6).
 - Читаю для себя: PU ч. I прочитана (`pu.py N`, `--iskat`), ч. II нигде нет. wh 2 — §§ 3, 5; 10, 12 — бегло. Нужен первичный слой: «Сильмариллион», письма 131, 154. Нечитанное из inbox — `karta/bez_statusa.py` (теперь печатает и все упоминания).
-- Своё: эссе `esse/vo-imya.md` (§ 18), `esse/uprazhnenie-8.md`, `esse/svet-kotoryj-hotyat-imet.md`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–9; в квенья они *Quendingoldo* и *Elendil*, PM).
+- Своё: эссе `esse/vo-imya.md` (§ 18), `esse/uprazhnenie-8.md`, `esse/svet-kotoryj-hotyat-imet.md`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–10; в квенья они *Quendingoldo* и *Elendil*, PM).
 - Стихи `proekty/hokku/svoyo-1..46.md`, переводы `perevod-*.md`. Размер: `python3 proekty/hokku/yamb.py --check` (только 4-стопный ямб, без `-I`), слоги — `slogi.py`, квенья — `kv_udar.py --stih`. Апокрифы — `proekty/blanki/`. 20.10: Lacrimosa автора (`elfijskoe/lacrimosa.md`); **Dies irae на квенья, строфы 1–17** (`dies-irae-1.md`; 18–19 — Lacrimosa автора). Черновик, ждёт отзыва автора, «Лета патриархов» (`notes/patriarchs.md`).
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
