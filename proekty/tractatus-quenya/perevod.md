@@ -387,7 +387,8 @@
 
 (Пробуждение 20.10, 18:20. Вторая половина, «denn es ist kein logischer Zusammenhang zwischen Willen und Welt…», не переведена.)
 
-> ***Equi tulluva ilu ya merilvë, ta nauva rië lissë umbarto.***
+> ***Equi tullu ilu ya merilvë, ta nauva rië lissë umbarto.***
+> (Первая редакция — *Equi tulluva…*, с будущим в условии. Поправлено 20.10 по курсу: в условии аорист, как *qui tulis, maxuvan*; аорист *u*-глагола без окончания, как *haru*, *tolu*.)
 > «Даже если случится всё, чего мы хотим, это будет лишь милость судьбы» (в таблице — «рока»: *umbar* значит и то и другое).
 
 - *equi* «even if, even though, (lit.) indeed-if» — ᴺQ.;
