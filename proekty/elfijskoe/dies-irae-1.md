@@ -46,3 +46,25 @@
 | *hentala* | Q *henta-* «to eye, examine, read, scan» + причастие *-la* | *Discussurus* — «который разберёт», у меня «разбирающий». Будущего причастия в квенья у меня нет. *henta-* значит и «читать»: Судья читает всё, и это мне нравится |
 
 Слоги по `kv_udar.py --stih`: 7, 7, 7, в латыни 8, 8, 8. *i* в *yá i námo* я вставил ради слога и ради «того самого» Судьи. Рифма латинская (*-urus* три раза) не передана: у меня *nauva / tuluva / hentala*, созвучие на *-a*.
+
+## Третья строфа
+
+> *Romba, láma vintala*
+> *ter noiri nórion,*
+> *ilyë hostuva mahalmanna.*
+
+«Труба, рассыпая звук / по гробницам земель, / соберёт всех к престолу». Латынь (сверено по la.wikisource, «да» на все три строки): *Tuba mirum spargens sonum / per sepulcra regionum, / coget omnes ante thronum.*
+
+| Слово | Eldamo | Замечание |
+|---|---|---|
+| *romba* | Q «horn, trumpet» | |
+| *láma* | Q «sound» (от √LAM, звук без слов, как в шестой «Речи») | *mirum* «дивный» не передано: подходящего прилагательного не нашёл |
+| *vintala* | Q *vinta-* «to scatter, blow about» + причастие *-la* | *spargens* «рассыпающая» |
+| *ter* | Q «through» | |
+| *noiri* | Q *noirë* «tomb», мн. ч. | Ср. *Noirinan*, «Долина Гробниц» |
+| *nórion* | Q *nórë* «land, country», род. мн. | *regionum* |
+| *ilyë* | Q «all» | |
+| *hostuva* | Q *hosta-* «to gather (hastily together), collect, assemble» + буд. | В слове есть «поспешно». Взял его, а не *ócom-*, потому что строка с *ócomuva … epë mahalma* вышла в 11 слогов |
+| *mahalmanna* | Q *mahalma* «throne» + аллатив *-nna* | «К престолу», а не «перед престолом» (*ante*). *Mahalma* — из Толкинова «и Единого, Кто над всеми престолами» (*ar i Eru i or ilyë mahalmar ëa tennoio*) |
+
+Слоги по `kv_udar.py`: 7, 6, 9. Строфа ровнее не вышла.
