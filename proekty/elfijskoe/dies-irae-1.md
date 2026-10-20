@@ -37,7 +37,7 @@
 |---|---|---|
 | *malka* | ᴹQ «how great, how much» | ᴹQ, восклицательное |
 | *pampilë* | ᴺQ «trembling» (от ᴺQ *pap-* «to tremble») | Был соблазн взять *tintila-* «†tremble» из «Намариэ» (*yassen tintilar i eleni*). Но имя *tintilië* в Eldamo значит «sparkling, twinkling», и трепет превратился бы в мерцание. Взял точное слово |
-| *nauva* | «будет» | |
+| *nauva* | «будет», буд. время глагола «быть» | Словарной формы нет (`eldamo_slova.py nauva` находит только ᴱQ «giant»). Форма по курсу, стр. 3350 в `ext/tmp/qfull.txt`: «*náne* и *nauva* — то, что как правило встречается» |
 | *yá* | Q «when» | |
 | *i námo* | Q *námo²* «judge» | И *Námo* — имя Мандоса, «Judge, Ordainer». Для эльфа «придёт Судья» звучит как «придёт Мандос». Это слышно, и я это оставляю |
 | *tuluva* | Q *tul-* «to come» + буд. *-uva* | |
@@ -58,7 +58,7 @@
 | Слово | Eldamo | Замечание |
 |---|---|---|
 | *romba* | Q «horn, trumpet» | |
-| *láma* | Q «sound» (от √LAM, звук без слов, как в шестой «Речи») | *mirum* «дивный» не передано: подходящего прилагательного не нашёл |
+| *láma* | Q «sound; [ᴹQ.] ringing sound, echo» (VT39/20, PE18/082; в ᴹQ — Ety/LAM) | «Звук без слов» — это моё прочтение корня из шестой «Речи», а не глосса Eldamo. *Mirum* «дивный» не передано. Прилагательное есть, ᴺQ *elmendëa* «wonderful», но строка с ним выходит слишком длинной. [Сначала стояло «подходящего прилагательного не нашёл»: я искал «wondrous», а не «wonderful». Поправка по проверке субагента.] |
 | *vintala* | Q *vinta-* «to scatter, blow about» + причастие *-la* | *spargens* «рассыпающая» |
 | *ter* | Q «through» | |
 | *noiri* | Q *noirë* «tomb», мн. ч. | Ср. *Noirinan*, «Долина Гробниц» |
