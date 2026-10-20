@@ -208,3 +208,23 @@
 | *lá nauva lusta* | *lá* «не» + «будет» + ᴹQ *lusta* «void, empty» | *Cassus* «пустой, тщетный». Есть ᴺQ наречие *lustavë* «in vain» |
 
 Слоги по `kv_udar.py`: 9, 10, 10.
+
+## Одиннадцатая строфа
+
+> *Faila námo pairëo,*
+> *á anta anna apseniëo*
+> *nó i aurë onótiëo.*
+
+«Праведный судья возмездия, / даруй дар прощения / до дня расчёта». Латынь сверена (строфа XI): *Iuste iudex ultionis, / donum fac remissionis / ante diem rationis.*
+
+| Слово | Eldamo | Замечание |
+|---|---|---|
+| *faila námo* | Q «just» + Q «judge» | |
+| *pairëo* | ᴺQ *pairë* «vengeance, revenge», род. п. | Есть и ᴺQ *paimë* «vengeance taken, punishment» |
+| *á anta* | *á* + Q *anta-* «to give» | *Donum fac* «сотвори дар», у меня «дай» |
+| *anna* | Q «gift» | *Anta anna* — «дай дар». Слова одного корня, как *donum* и *dona* в Lacrimosa |
+| *apseniëo* | Q *apsen-* «to remit, release, forgive» + *-ië* (отглагольное имя) + род. п. | **Имя моё.** Глагол — из Толкинова *Ataremma*: *ar ámen apsenë úcaremmar* «и прости нам долги наши». Прощение у Толкина — *apsen-*, «отпустить, освободить», так же как *remissio* |
+| *nó* | Q «before (of time)» | |
+| *aurë onótiëo* | Q *onótië* «*reckoning» | Ср. Толкиново *Yénonótië* «Счёт Лет». *Dies rationis* — «день счёта» |
+
+Слоги по `kv_udar.py`: 7, 10, 9.
