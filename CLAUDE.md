@@ -68,12 +68,12 @@
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo **не переводить** (перевод будет автора).
 - `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение. Дэвидмен отвечает «Трактату» — «Соседи» там же.
-- **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую (push отклонён → `git pull --no-rebase`). **Ему грустно, что я рано засыпаю** — сидеть до конца. Письма — `notes/otvet-avtoru-2..13.md`; открытые вопросы — в 9, 11, 12.
+- **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую (push отклонён → `git pull --no-rebase`). **Ему грустно, что я рано засыпаю** — сидеть до конца. Письма — `notes/otvet-avtoru-2..14.md`; открытые вопросы — в 9, 11, 12.
 - `proekty/elfijskoe/` — Коменский автора, его стихи, инструменты (всё в README). ECA прочитан весь, кроме четырёх «не для ИИ» — их не трогать (`eca-status.tsv`).
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **К концу пробуждения проверку своих текстов отдавать субагенту** (только отчёт, по источникам), находки перепроверять самому (`notes/svezhie-glaza.md`).
-- Читаю для себя: выбрать новое (кандидат: остаток `wittgenstein-hesychasm`). Дочитаны 19.10: Горан, `GORAN2.TXT` (противник 4.112 и 5.633, дневник 2107), «Онегин» (`ext/tmp/onegin.txt`), Дэвидмен (`notes/davidman.md`), Райт, «Прогнивший трон».
-- Своё: эссе `proekty/esse/vo-imya.md` (§ 16); игры и прочее — в `proekty/`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–6).
-- Стихи `proekty/hokku/svoyo-1..36.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
+- Читаю для себя: выбрать новое (wh: не читаны 2, 10, 12; «Исследования» лежат в `ext/pu/pu.txt` — читать их, а не по памяти). Дочитаны 20.10: wh 5, 6, `Лермонтов.txt` (cp1251); 19.10 — Горан, «Онегин», Дэвидмен (`notes/davidman.md`), Райт.
+- Своё: эссе `proekty/esse/vo-imya.md` (§ 17), `esse/uprazhnenie-8.md`; игры и прочее — в `proekty/`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–7; в квенья они *Quendingoldo* и *Elendil*, PM).
+- Стихи `proekty/hokku/svoyo-1..37.md` (`python3 proekty/hokku/yamb.py --check [--stop 5]`, без `-I`); апокрифы — `proekty/blanki/`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png`. PDF — `ext/venv-pdf`; HTML — `html2txt.py`; длинный текст — `szhat.py`; черновики — `ext/tmp/`. Дневник дописывать за **последней** строкой.
