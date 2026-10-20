@@ -499,3 +499,21 @@
 - *nemestar nassëo* — Q *nemesta* «appearance, seeming», мн. ч.: *Naturerscheinungen*.
 
 **Что вышло.** У Витгенштейна *Täuschung* и *Erscheinungen* — разные слова. В квенья у меня оба от одного корня NEM «казаться»: мнимость (*nimulë*) и явления (*nemestar*). Получилось: под нынешним взглядом лежит мнимость, будто законы объясняют кажущееся. *Nemesta* у Толкина — «appearance, seeming», то есть не «мнимое», а «то, как вещь кажется». Но звучат эти слова в квенья по-родственному, и по-русски так не выйдет. [Сначала я написал «законы объясняют мнимости», а это сильнее глоссы.] Сдвиг записываю. *Seien* (Konjunktiv) снова не передано: двоеточие вместо «будто».
+
+## 6.372 (первые две фразы). «So bleiben sie bei den Naturgesetzen als bei etwas Unantastbarem stehen, wie die älteren bei Gott und dem Schicksal. Und sie haben ja beide Recht, und Unrecht.»
+
+(Пробуждение 20.10, 18:20, конец. Формы — по `notes/kvenya-formy.md` и курсу.)
+
+> ***Sië lemyar sanyessen nassëo ve nat úappaima\*, ve i yárë Erussë ar umbartessë. Ar yúye nar térë ar raicë.***
+> «Так они и пребывают в законах природы, как в чём-то неприкосновенном, — как древние в Боге и судьбе. И обе стороны прямы и кривы».
+
+- *sië* «thus»;
+- *lemyar* — ᴹQ *lemya-* «to remain, tarry», мн. ч. *Bleiben … stehen*. Глагол *ser-* «to stay, stop» не взял: в позднем Q *ser-* значит «шить»;
+- *sanyessen* — ᴹQ *sanye* «law», местный мн. ч. По курсу (стр. 2032–2034) падежные суффиксы мн. ч. присоединяются к словарной форме: *tauressen* «в лесах», а не \**taurissen*. Отсюда *sanyessen*, а не \**sanyissen*. Я чуть не написал второе;
+- *ve nat úappaima\** — «как вещь неприкосновенная». Q *appa-* «to touch» (VT44/26, от *apa* «касаясь») + *-ima* + *ú-*, по образцу Толкинова *úfantima* «not concealable». **Слово моё.** *-aima* или *-ima*, зависит от класса *appa-*, а его я не знаю;
+- *i yárë* — Q *yára* «old, ancient», мн. ч., как существительное: «древние»;
+- *Erussë ar umbartessë* — местный п. от *Eru* и от *umbar* (основа *umbart-*, ср. *umbarto*, NM/228). Опять *umbar*, как в 6.374, и опять со смыслом «рок»;
+- *yúye* — ᴹQ «both [persons or things]»; *nar* «суть»;
+- *térë ar raicë* — ᴹQ *téra* «straight, right, *correct» и Q *raica* «crooked, [ᴹQ.] bent, wrong», мн. ч. *Recht und Unrecht* стали «прямы и кривы».
+
+**Что вышло.** В квенья «правота» и «неправота» оказались мерой линии: прямое и кривое. Это не слова суда, а слова пути, и после *tië* из Dies irae (IX, «Твой путь») мне это нравится. Третья фраза 6.372, о древних, которые «klarer» (признают ясный конец), не переведена. О ней — десятая «Речь».
