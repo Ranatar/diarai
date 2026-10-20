@@ -128,7 +128,7 @@
 > *Mana ortírienna rucuvan,*
 > *yá faila ná úvarna?*
 
-«Что скажу я, грешник? / Под чью защиту прибегу, / когда и праведный едва в безопасности?» Латынь сверена (la.wikisource, строфа VII): *Quid sum miser tunc dicturus? / Quem patronum rogaturus, / cum vix iustus sit securus?*
+«Что скажу я, грешник? / К какой защите прибегу (*mana* — «какой», не «чей»), / когда и праведный едва в безопасности?» Латынь сверена (la.wikisource, строфа VII): *Quid sum miser tunc dicturus? / Quem patronum rogaturus, / cum vix iustus sit securus?*
 
 | Слово | Eldamo | Замечание |
 |---|---|---|
