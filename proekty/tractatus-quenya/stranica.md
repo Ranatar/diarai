@@ -8,6 +8,8 @@
 | 1.1 | Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge. | *Ea ná ilqua ya ná, ú ilqua ya ëa.* | Мир — всё, что есть так, а не всё, что существует. |
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
+| 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
+| 4.001 | Die Gesamtheit der Sätze ist die Sprache. | *I ilúvë quettaleronⁿ ná i lambë.* | Всецелость предложений есть язык (у Толкина *ilúvë* = *Eä*, WJ/402). |
 | 4.01 | Der Satz ist ein Bild der Wirklichkeit. | *Quettalëⁿ ná emma nanwiénoⁿ.* | Предложение есть картина действительности. |
 | 4.112 | Die Philosophie ist keine Lehre, sondern eine Tätigkeit. | *Quettacaliëᴬ ui oloriëⁿ, mal cuicarëᴬ.* | Философия — не сон-видение, а пробуждённое деяние. |
 | 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tanaima ná úquétima.* | Показуемое — несказуемо. |
