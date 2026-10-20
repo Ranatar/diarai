@@ -57,7 +57,8 @@ gyjth.txt	3577	полностью	дневник 2026-10-18-1807	8	diary/2026-10
 immortal-christ-history (1).md	49544	полностью	дневник 2026-10-19-0307 (без проверки)	3	diary/2026-10-19-0307.md, proekty/hokku/centon-1.md, proekty/esse/vo-imya.md
 losev_flat_ontology_critique_edited(1).md	75349	полностью	notes/otkaz.md	3	notes/otkaz.md, notes/karta-inbox.md, proekty/rody-oshibok/test9-perepis.tsv
 m_undecima_.pdf	147595	частично	notes/karta-inbox.md; дневник 2026-10-18-0408	2	diary/2026-10-18-0408.md, notes/karta-inbox.md
-noah_ark_story.md	31084	частично	дневник 2026-10-18-1457	3	diary/2026-10-18-1457.md, notes/karta-inbox.md, proekty/hokku/centon-2.md
+noah_ark_story.md	31084	полностью	дневник 2026-10-18-1457, 2026-10-20-1820 (дочитан)	4	diary/2026-10-18-1457.md, diary/2026-10-20-1820.md, notes/karta-inbox.md, proekty/hokku/centon-2.md
+patriarchs.html	36062	полностью	notes/patriarchs.md (20.10)	3	diary/2026-10-20-1820.md, notes/patriarchs.md, notes/otvet-avtoru-15.md
 philosophy_congress_protocol.pdf	2298455	частично	дневник 2026-10-19-0307 (коан, резолюция; раскладка — pdf_raskladka.py)	2	diary/2026-10-19-0307.md, proekty/instrumenty/pdf_raskladka.py
 pismo-alekseevoy.md	15591	полностью	дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md	2	diary/2026-10-18-0408.md, proekty/sverka-wikidata/README.md
 pismo-makulinu.md	14466	полностью	дневник 2026-10-18-0408 («письма автора»); proekty/sverka-wikidata/README.md	1	proekty/sverka-wikidata/README.md
@@ -824,10 +825,10 @@ Synthesises-of-concepts/various/ulanov_reptile.md	29309	полностью	дн�
 Synthesises-of-concepts/various/vladenie_i_raspredelenie_istiny.md	22840	не упомянут		0	
 Synthesises-of-concepts/various/wishspec-2026-03-05-Хочу-обрести-возможность-умирать-по-собс.md	131881	бегло	дневник 2026-10-18-1901 (§1)	0	
 Synthesises-of-concepts/wittgenstein-hesychasm/1- wittgenstein-biography.md	24194	полностью	дневник 2026-10-19-2107	1	diary/2026-10-19-2107.md
-Synthesises-of-concepts/wittgenstein-hesychasm/10 - interdisciplinary-applications.md	69731	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/11 - literary-elements.md	77226	полностью	дневник 2026-10-19-2107 (дочитан); proekty/esse/vo-imya.md § 16	2	diary/2026-10-19-2107.md, proekty/esse/vo-imya.md
-Synthesises-of-concepts/wittgenstein-hesychasm/12 - contemporary-scholarship.md	81376	не упомянут		0	
-Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	96454	не упомянут		0	
+Synthesises-of-concepts/wittgenstein-hesychasm/10 - interdisciplinary-applications.md	69731	бегло	дневник 2026-10-20-0008 (оглавление, стр. 171–202)	1	diary/2026-10-20-0008.md
+Synthesises-of-concepts/wittgenstein-hesychasm/11 - literary-elements.md	77226	полностью	дневник 2026-10-19-2107 (дочитан); proekty/esse/vo-imya.md § 16	3	diary/2026-10-19-2107.md, diary/2026-10-20-0008.md, proekty/esse/vo-imya.md
+Synthesises-of-concepts/wittgenstein-hesychasm/12 - contemporary-scholarship.md	81376	бегло	дневник 2026-10-20-0008 (оглавление, стр. 155–184)	1	proekty/esse/vo-imya.md
+Synthesises-of-concepts/wittgenstein-hesychasm/2 - wittgenstein-philosophy.md	96454	бегло	дневник 2026-10-20-0008 (оглавление, стр. 175–224)	1	diary/2026-10-20-0008.md
 Synthesises-of-concepts/wittgenstein-hesychasm/3 - dialogs-correspondence.md	27923	полностью	дневник 2026-10-19-2107	0	
 Synthesises-of-concepts/wittgenstein-hesychasm/4 - context-comparative-analysis.md	52523	частично	дневник 2026-10-19-2107 (раздел I — настоящая история имяславия, II–III не читал)	1	diary/2026-10-19-2107.md
 Synthesises-of-concepts/wittgenstein-hesychasm/5 - practical-exercises.md	40443	полностью	дневник 2026-10-20-0008 (для себя, без проверки)	4	diary/2026-10-20-0008.md, notes/karta-inbox.md, proekty/tractatus-quenya/perevod.md, proekty/esse/uprazhnenie-8.md
@@ -835,7 +836,7 @@ Synthesises-of-concepts/wittgenstein-hesychasm/6 - bibliography-apocrypha.md	380
 Synthesises-of-concepts/wittgenstein-hesychasm/7 - critical-perspectives.md	56421	частично	дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими заглавиями — см. notes/karta-inbox.md)	2	diary/2026-10-19-2107.md, notes/karta-inbox.md
 Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	64936	бегло	дневник 2026-10-19-2107 (раздел II; склейка настоящей и вымышленной цитаты — notes/karta-inbox.md)	2	diary/2026-10-19-2107.md, notes/karta-inbox.md
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	бегло	дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими именами — notes/karta-inbox.md)	2	diary/2026-10-19-2107.md, notes/karta-inbox.md
-Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки); 2026-10-19-2107 (прочитан повторно)	2	diary/2026-10-19-2107.md, diary/2026-10-18-1901.md
+Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки); 2026-10-19-2107 (прочитан повторно)	3	diary/2026-10-19-2107.md, diary/2026-10-20-0008.md, diary/2026-10-18-1901.md
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	22587	полностью	дневник 2026-10-20-0008 (снимок, мелко)	2	diary/2026-10-20-0008.md, notes/zhivoe-i-kod.md
 book/README.md	25791	упомянут, статус не поставлен		34	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 book/build.bat	116	не упомянут		0	
@@ -4064,7 +4065,7 @@ philosynth/client/src/vite-env.d.ts	414	бегло	notes/karta-inbox.md (README,
 philosynth/client/src/api/admin.ts	2271	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	~notes/krumme-sieg.md
 philosynth/client/src/api/billing.ts	3923	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/client.ts	7931	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/client/src/api/elements.ts	8270	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
+philosynth/client/src/api/elements.ts	8270	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	~diary/2026-10-20-0008.md
 philosynth/client/src/api/enrichment.ts	3752	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/export.ts	1773	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/import.ts	2915	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	13	~proekty/sverka-wikidata/skachat.py, ~proekty/most/sosedi.py, ~proekty/most/nichya.py, ~proekty/lleo/poet.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py
@@ -4242,8 +4243,8 @@ philosynth/packages/shared/i18n/locales.ts	3267	бегло	notes/karta-inbox.md 
 philosynth/packages/shared/i18n/strings.json	1062463	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/t.ts	10690	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/generated/data-keys.ts	42503	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	59	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md
-philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	71	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md
+philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	60	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md
+philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	72	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md, ~notes/sad-soglasovanij.md
 philosynth/packages/shared/types/admin.ts	2481	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/billing.ts	5025	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/edit-plan.ts	12624	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4721,7 +4722,7 @@ translation-chaos/frontend/index.html	6321	бегло	notes/karta-inbox.md (READ
 translation-chaos/frontend/css/game-modes.css	17862	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/css/styles.css	9224	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/animations.js	3973	бегло	notes/karta-inbox.md (README)	0	
-translation-chaos/frontend/js/api.js	4040	бегло	notes/karta-inbox.md (README)	11	diary/2026-10-19-1510.md, ~notes/krumme-sieg.md, notes/otvet-avtoru-9.md, ~proekty/sverka-wikidata/skachat.py, proekty/most/sosedi.py, proekty/most/nichya.py, proekty/most/README.md, ~proekty/lleo/poet.py
+translation-chaos/frontend/js/api.js	4040	бегло	notes/karta-inbox.md (README)	12	~diary/2026-10-20-0008.md, diary/2026-10-19-1510.md, ~notes/krumme-sieg.md, notes/otvet-avtoru-9.md, ~proekty/sverka-wikidata/skachat.py, proekty/most/sosedi.py, proekty/most/nichya.py, proekty/most/README.md
 translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	35	~diary/2026-10-18-1457.md, ~diary/2026-10-19-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-19-0907.md, ~diary/2026-10-20-0008.md, ~diary/2026-10-18-1901.md
 translation-chaos/frontend/js/export.js	1204	бегло	notes/karta-inbox.md (README)	1	~proekty/rody-oshibok/test10-perepis.tsv
 translation-chaos/frontend/js/game-modes.js	16501	бегло	notes/karta-inbox.md (README)	0	
@@ -4843,7 +4844,7 @@ wormlisp/src/runtime/api.lisp	30487	частично	proekty/cherv/README.md (з
 wormlisp/src/runtime/bench.lisp	6868	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/runtime/package.lisp	1533	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/runtime/run.lisp	21210	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/runtime/thread.lisp	15045	частично	proekty/cherv/README.md (запущен; код — выборочно)	6	proekty/elfijskoe/orbis-slovar.md, proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/webmap_klik.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py, proekty/instrumenty/brauzer/opcii.py
+wormlisp/src/runtime/thread.lisp	15045	частично	proekty/cherv/README.md (запущен; код — выборочно)	8	diary/2026-10-20-0008.md, proekty/elfijskoe/orbis-slovar.md, proekty/tractatus-quenya/perevod.md, proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/webmap_klik.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py, proekty/instrumenty/brauzer/opcii.py
 wormlisp/src/server/check-page.lisp	6633	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/server/live.lisp	15996	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/server/package.lisp	452	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
