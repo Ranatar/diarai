@@ -112,7 +112,7 @@
 | Слово | Eldamo / курс | Замечание |
 |---|---|---|
 | *sië* | Q «thus» | *ergo*, как *sie* у автора в *Órava sesse sie* |
-| *haruva* | Q *har-* «to sit, stay» (или ᴺQ *haru-* «to sit down») + буд. | У обоих глаголов будущее одно и то же. Курс: *har-* «сидеть», *haru-* «садиться» (стр. 3128–3130) |
+| *haruva* | Q *har-* «to sit, stay» + буд. | Курс: *har-* «сидеть», *haru-* «садиться» (стр. 3128–3130). У *u*-глаголов будущее удлиняет *u* (стр. 5354: *liru- → lirúva*), значит, от *haru-* было бы *harúva*. *Haruva* — только от *har-*. [Сначала стояло «у обоих глаголов будущее одно и то же». Поправка по проверке субагента.] |
 | *ilya* | Q «every, each, all» | |
 | *nurtaina* | Q *nurta-* «to hide» + страд. прич. *-ina* (по курсу *orta- → ortaina*) | «сокрытое» |
 | *nemuva* | Q *nem-²* «*to seem, appear» (ᴹQ.) + буд. | *Apparebit* «явится». У *nem-* есть оттенок «казаться», и он мне не нравится, но точнее не нашёл. ᴺQ *apanta-* «reveal» переходный, им нужен тот, кто являет |
@@ -134,9 +134,9 @@
 |---|---|---|
 | *mana* | Q «what, which» | В обеих строках |
 | *quetuvan* | Q *quet-* «to say» + буд. + *-n* «я» | |
-| *úcarindo* | Q «*sinner» | *Miser* «несчастный» стал «грешником». Слова «несчастный» я не нашёл: искал *wretch*, *miser*, *sorrow*, *unhapp*, *unfortun*, *miserable*, *griev*. Q *saura* «wretched» помечено ⚠️, и основное его значение — «злой, мерзкий». *Úcarindo* — из Толкиновой литании (*úcarindor* «грешники»), как *úcarinqua* у автора |
+| *úcarindo* | Q «*sinner» | *Miser* «несчастный» стал «грешником». Слова поближе к «несчастному» есть: ᴹQ *nairea* «sorrowful», ᴺQ *lemba* «sad», *colonda* «burdened, sad». Я их не увидел, потому что искал по `q,nq` без `mq`. [Сначала здесь стояло «слова не нашёл». Поправка по проверке субагента.] Оставляю *úcarindo* как выбор: оно из Толкиновой *Aia María*, *á hyamë rámen úcarindor* «молись за нас, грешных» (а не из литании, как я написал сначала), и рядом с *úcarinqua* у автора |
 | *ortírienna* | Q *ortírië* «*patronage, (lit.) watching over (from above)» + аллатив | |
-| *rucuvan* | Q *ruc-* «to feel fear or horror; *to flee (to)» + буд. + *-n* | Целиком из «Sub tuum»: *ortírielyanna rucimmë*, «к Твоей защите прибегаем». *Patronum rogaturus* «кого попрошу в заступники» у меня стало «к чьей защите побегу» |
+| *rucuvan* | Q *ruc-* «to feel fear or horror; *to flee (to)» + буд. + *-n* | Целиком из «Sub tuum»: *ortírielyanna rucimmë*, «к Твоей защите прибегаем». *Patronum rogaturus* «кого попрошу в заступники» у меня стало «к какой защите побегу» |
 | *faila* | Q «fair-minded, just, generous» | *iustus* |
 | *úvarna* | Q *ú-* «hardly, with difficulty» (PE17/063) + ᴹQ *varna* «safe, protected, secure» | *Vix securus*, «едва в безопасности». У Толкина *ú-* значит и «не», и «едва», здесь нужно второе. **Слово моё**, части засвидетельствованы |
 
@@ -154,9 +154,9 @@
 |---|---|---|
 | *aran* | Q «king» | |
 | *túra* | Q «great [in power or majesty]» | Само значение «в величии» — *maiestatis* |
-| *rúcima* | Q «terrible» (WJ/415, *rúkima*) | На вид — *ruc-* «бояться» + *-ima*, то есть «внушающий страх», как *tremendae*. Статья Eldamo этимологии не даёт, так что связь с *ruc-* — моя догадка |
+| *rúcima* | Q «terrible» (WJ/415, *rúkima*) | *ruc-* «бояться» + *-ima*, то есть «внушающий страх», как *tremendae*. Это засвидетельствовано: в XML у слова есть элементы `ruc-` и `-ima` и корень RUKU (WJ/389). [Сначала я назвал связь «догадкой», потому что `eldamo_statya.py` элементы не печатает. Поправка по проверке субагента, сверено по XML.] |
 | *i rehtalyë* | Q *rehta-* «to rescue, save» + *-lyë* «Вы» (вежливое, как *Antauvalye* у автора) | «Ты, который спасаешь». Относительное *i* при глаголе 2-го лица — **моя конструкция** |
-| *rehtaimar* | *rehta-* + *-ima* «-able», мн. ч. | По образцу Q *lacaltaima* от *calta-*: у *a*-глаголов выходит *-aima*. *Salvandos* «тех, кого должно спасти». Так же автор передал *iudicandus* словом *namima* |
+| *rehtaimar* | *rehta-* + *-ima* «-able», мн. ч. | По курсу (стр. ~13745): у слабых глаголов *-ima* добавляется к основе (*tulta- → tultaima*), а у глаголов на *-a* заменяет *a* с удлинением (*fara- → fárima*). Класс *rehta-* не засвидетельствован. Считаю его слабым (*-ta*) и получаю *rehtaima*, но это допущение. [Сначала я ссылался на *lacaltaima*, а эту форму Eldamo помечает устаревшей в пользу *lacalima*. Поправка по проверке субагента.] *Salvandos* «тех, кого должно спасти». Так же автор передал *iudicandus* словом *namima* |
 | *ve anna* | Q *ve* «as, like» + *anna* «gift» | *Gratis* — «даром», буквально «как дар» |
 | *áni rehta* | *á* (повелит. частица) + *ni* «меня» + глагол | По образцу Толкинова *mal ámë etelehta ulcullo* «но избави нас от лукавого»: *á* + местоимение + глагол |
 | *ehtelë* | Q «spring, issue of water» | *Fons*. Взял Q, а не ᴺQ *celwë* |
@@ -166,8 +166,8 @@
 
 ## Девятая строфа
 
-> *Á enyalë, Yésus lissinqua,*
-> *an nán cahta tielyo:*
+> *Á enyalë, Yesus lissinqua,*
+> *an nanyë cahta tielyo:*
 > *áva ni hehta auressë tana.*
 
 «Вспомни, Иисусе благой, / ибо я — причина Твоего пути: / не оставь меня в тот день». Латынь сверена (строфа IX): *Recordare, Iesu pie, / quod sum causa tuae viae: / ne me perdas illa die.*
@@ -175,16 +175,16 @@
 | Слово | Eldamo / курс | Замечание |
 |---|---|---|
 | *á enyalë* | Q *enyal-* «to recall, *remember»; *á* + аорист, курс (стр. 5356): *á tulë* «приходи» | |
-| *Yésus lissinqua* | как у автора | *Lissinqua* — его слово из *Pie Iesu* |
+| *Yesus lissinqua* | как у автора | *Lissinqua* — его слово из *Pie Iesu*. [Сначала я написал *Yésus* с долготой, а у автора *Yesus*.] |
 | *an* | Q «for…» | *Quod* — «что» или «потому что». Беру «потому что»: союза «что» в квенья я не знаю |
-| *nán* | *ná* «есть» + *-n* «я» | По образцу *nánel* «Вы были» и *nauvan* «я буду» (курс, стр. 3290). Сама форма *nán* — моя |
+| *nanyë* | *ná* «есть» + *-nyë* «я» | Курс, стр. 3290: при *ná* обычно стоят длинные суффиксы *-nyë*, *-lyë*, и гласный укорачивается. [Сначала стояло *nán* по образцу *nánel*, но *nánel* — прошедшее время, «Вы были», так что *nán* читалось бы как «я был». Поправка по проверке субагента.] |
 | *cahta* | ᴺQ «cause, motive, reason» | То же слово, что в 6.362 |
 | *tielyo* | Q *tië* «path, road, way» + *-lya* «Ваш» + род. | *Tuae viae*. Тот же *tië*, что в моём стихе 31 (*Elda note tier*) |
 | *áva* | Q «don’t, negative imperative» (курс, стр. 8790: *áva matë* «не ешь!») | |
 | *hehta* | Q *hehta-* «to put aside, … abandon, forsake» | *Perdas* «погуби» стало «оставь». Мягче латыни. Но в этом глаголе есть «отложить в сторону», и я его взял |
 | *auressë tana* | Q *aurë* «day» + местный п. + *tana* «that» | *Illa die*. Здесь «тот», как в латыни: этот день ещё не настал |
 
-Слоги по `kv_udar.py`: 9, 7, 10.
+Слоги по `kv_udar.py`: 9, 8, 10 (после замены *nán* на *nanyë*).
 
 ## Десятая строфа
 

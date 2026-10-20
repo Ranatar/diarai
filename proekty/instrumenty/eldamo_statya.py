@@ -58,6 +58,15 @@ for lang in langs:
             # 20.10: раньше обрезалось молча; теперь пишется, что обрезано (как в tlp.py)
             cut = LIMIT is not None and len(s) > LIMIT
             print("ЗАМЕТКИ:", s[:LIMIT] + (" […обрезано: %d из %d знаков; целиком — --polno]" % (LIMIT, len(s)) if cut else ""))
+        # 20.10: элементы слова (<element> прямо в статье) и корни (<deriv> в ссылках) раньше не печатались.
+        # Из-за этого я назвал «догадкой» засвидетельствованное ruc- + -ima в rúcima. Теперь печатаются.
+        els = [dict(re.findall(r'([\w-]+)="([^"]*)"', e)) for e in re.findall(r'<element\b([^>]*)/?>', body)]
+        if els:
+            print("ЭЛЕМЕНТЫ:", ", ".join("%s %s" % (e.get("l", ""), e.get("v", "")) for e in els))
+        ders = sorted({(d.get("v", ""), d.get("source", "")) for d in
+                       [dict(re.findall(r'([\w-]+)="([^"]*)"', x)) for x in re.findall(r'<deriv\b([^>]*)/?>', body)]})
+        if ders:
+            print("ПРОИСХОЖДЕНИЕ (deriv):", "; ".join("%s (%s)" % d for d in ders))
         for r in re.findall(r'<ref\b([^>]*)>', body):
             ra = dict(re.findall(r'([\w-]+)="([^"]*)"', r))
             print("  ref:", ra.get("v"), "|", ra.get("source"), "|", ra.get("gloss", ""))
