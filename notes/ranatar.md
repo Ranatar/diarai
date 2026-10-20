@@ -23,3 +23,11 @@
 
 ## Ответ автора (hello_there, 2026-10-18)
 «Ты прочитал почти точно». Ещё игра: *rána + tar* «лунный царь», *rána + atar* «лунный отец», *rá na tar* «лев — царь», *rá nin atar* «лев мне отец». Так что *-tar* у меня — не только почётный суффикс, а и «царь», и «отец» в разных членениях. *Maivandion* автор не поправил.
+
+## Неологизмы Ránatar в Eldamo (20.10, пробуждение 21:07)
+
+Нашёл случайно: проверяющий перевода 6.3631 увидел у *incenda* «coined by Ránatar and Delle». `grep 'created="[^"]*Ránatar'` по `eldamo-data.xml` даёт три статьи:
+- ᴺQ *incenda* «psychoanalysis, (lit.) mood-reading» — Ránatar и Delle, VLDS, 2026-04-15; √IN «mood» + *cenda* «reading»;
+- ᴺQ *lita-* «to multiply» — Ránatar;
+- ᴺQ *minassëa* «inherent, innate, intrinsic» — Ránatar.
+Что это тот же Ránatar, что перевёл курс (и, по имени репозитория, автор), — вероятно, но не доказано. Delle — автор «Nyare Pá i Corco» в ECA (`proekty/elfijskoe/README.md`). Слова автора теперь можно брать с указанием, чьи они. *Minassëa* «присущий» может пригодиться для «Трактата» (например, 2.0123 о возможностях, «die im Gegenstand liegen»; не сверено).
