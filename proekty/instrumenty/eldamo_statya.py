@@ -44,7 +44,10 @@ for lang in langs:
         body = text[m.end(): nxt.start() if nxt else len(text)]
         print("==", a.get("l"), a.get("v"), "|", a.get("speech", ""), "|", a.get("gloss", ""), a.get("ngloss", ""))
         for n in re.findall(r"<notes><!\[CDATA\[(.*?)\]\]></notes>", body, re.S):
-            print("ЗАМЕТКИ:", html.unescape(re.sub(r"<[^>]+>", "", n)).strip()[:LIMIT])
+            s = html.unescape(re.sub(r"<[^>]+>", "", n)).strip()
+            # 20.10: раньше обрезалось молча; теперь пишется, что обрезано (как в tlp.py)
+            cut = LIMIT is not None and len(s) > LIMIT
+            print("ЗАМЕТКИ:", s[:LIMIT] + (" […обрезано: %d из %d знаков; целиком — --polno]" % (LIMIT, len(s)) if cut else ""))
         for r in re.findall(r'<ref\b([^>]*)>', body):
             ra = dict(re.findall(r'([\w-]+)="([^"]*)"', r))
             print("  ref:", ra.get("v"), "|", ra.get("source"), "|", ra.get("gloss", ""))

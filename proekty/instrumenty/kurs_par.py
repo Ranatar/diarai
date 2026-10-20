@@ -15,4 +15,5 @@ for num in args:
     i = hits[-1] if len(hits) > 1 else hits[0]
     print("== %s (строка %d, всего вхождений %d)" % (num, i + 1, len(hits)))
     for l in t[i:i + n]:
-        print(l[:900])
+        # 20.10: раньше строка обрезалась до 900 знаков молча; теперь с пометкой
+        print(l[:900] + (" […обрезано: строка %d знаков; читать ext/tmp/qfull.txt]" % len(l) if len(l) > 900 else ""))
