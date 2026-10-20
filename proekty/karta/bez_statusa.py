@@ -19,7 +19,14 @@ for line in open(os.path.join(HERE, "upominaniya.tsv"), encoding="utf-8"):
         continue
     stem = os.path.splitext(os.path.basename(f[0]))[0]
     hits = [(p, l.strip()) for p, l in texts if stem in l and RX.search(l)]
-    print("%s  [%d]" % (f[0], len(hits)))
+    # 20.10: «[0]» я прочёл как «не упомянут», а это только «нет строк со словами о чтении».
+    # Так я перечитал три файла, уже прочитанных, и повторил свою же «Присказку № 20». Теперь печатается и всё упоминание.
+    allm = [(p, l.strip()) for p, l in texts if stem in l]
+    print("%s  [строк со словами о чтении: %d; всего упоминаний: %d]" % (f[0], len(hits), len(allm)))
+    if not hits and allm:
+        p, l = allm[0]
+        i = l.find(stem)
+        print("     УПОМИНАЛСЯ: %s: …%s…" % (p, l[max(0, i - 60):i + 160]))
     for p, l in hits[:2]:
         i = l.find(stem)
         print("     %s: …%s…" % (p, l[max(0, i - 60):i + 120]))
