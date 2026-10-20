@@ -53,6 +53,10 @@ for lang in langs:
         nxt = re.compile(r'\n {0,6}<word\b').search(text, m.end())
         body = text[m.end(): nxt.start() if nxt else len(text)]
         print("==", a.get("l"), a.get("v"), "|", a.get("speech", ""), "|", a.get("gloss", ""), a.get("ngloss", ""))
+        # 20.10, 21:07: атрибут created (кто составил неологизм) раньше не печатался, и я написал
+        # про atsinta- «Eldamo не говорит, кто составил», а там created="Helge Fauskanger, NQNT".
+        if a.get("created") or a.get("neo-version"):
+            print("СОСТАВИЛ:", a.get("created", "—"), "| neo-version:", a.get("neo-version", "—"))
         for n in re.findall(r"<notes><!\[CDATA\[(.*?)\]\]></notes>", body, re.S):
             s = html.unescape(re.sub(r"<[^>]+>", "", n)).strip()
             # 20.10: раньше обрезалось молча; теперь пишется, что обрезано (как в tlp.py)
