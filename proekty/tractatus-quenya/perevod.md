@@ -271,7 +271,7 @@
 > ***…ar linipsinwa ve sa.***
 > «…и многонитчатый, как оно».
 
-- *linipsinwa* «complex, complicated, convoluted; (lit.) many-threaded» — **неоквенья** (Luinyelle, VLDS, 2023): *li(n)-* «много» + прилагательное от *ipsin* «нить». Буквально «многонитчатый». В «Исследованиях», § 67, язык и есть нить: «die Stärke des Fadens liegt nicht darin, daß irgend eine Faser durch seine ganze Länge läuft, sondern darin, daß viele Fasern einander übergreifen». Неологизм 2023 года случайно говорит о языке словами позднего Витгенштейна;
+- *linipsinwa* «complex, complicated, convoluted; (lit.) many-threaded» — **неоквенья** (Luinyelle, VLDS, 2023): *li(n)-* «много» + прилагательное от Q *ipsin* «fine thread» (PE17/17, середина 1960-х, √SPIN; сверено). Буквально «многонитчатый». В «Исследованиях», § 67, язык и есть нить: «die Stärke des Fadens liegt nicht darin, daß irgend eine Faser durch seine ganze Länge läuft, sondern darin, daß viele Fasern einander übergreifen». Неологизм 2023 года случайно говорит о языке словами позднего Витгенштейна;
 - *ve* «as, like» — Q (LotR/377, «Намариэ»); *sa* «it (inanimate)» — Q, здесь это *hröa*.
 - **Потеря:** у Витгенштейна литота, «nicht weniger kompliziert als dieser», «не менее сложен, чем он». В квенья сравнение строится с *lá* «за пределами»: «A [прил.] *lá* B» значит «A больше, чем B» (курс §9.4.2.1, PE17/90–91). Формы «не менее» нет. *ve sa* «как оно» говорит «так же», а «по меньшей мере так же» теряется.
 
