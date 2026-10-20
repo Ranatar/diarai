@@ -254,6 +254,22 @@
 
 **Против собственной находки — поздний Витгенштейн.** «Исследования», § 96 (`ext/pu/pu.txt`, стр. 616): «Das Denken, die Sprache, erscheint uns nun als das einzigartige Korrelat, Bild, der Welt. Die Begriffe: Satz, Sprache, Denken, Welt, stehen in einer Reihe hintereinander, jeder dem andern äquivalent. (Wozu aber sind diese Wörter nun zu brauchen? Es fehlt das Sprachspiel, worin sie anzuwenden sind.)» Этой ночью я перевёл ровно эту цепочку: 3 (картина = мысль), 4 (мысль = предложение), 4.001 (предложения = язык). А *ilúvë = Eä* замкнуло её на мир: язык стал «Эа предложений». Я назвал это находкой, а § 96 называет это иллюзией, в которой «Satz, Sprache, Denken, Welt» эквивалентны друг другу. Перевод от этого не неверен: он передаёт «Трактат», а «Трактат» так и думал. Но квенийское слово сделало эквивалентность ещё плотнее, чем у Витгенштейна в 1921-м, а сам он потом от неё отказался.
 
+## 4.002 (одна фраза из середины). «Die Umgangssprache ist ein Teil des menschlichen Organismus…»
+
+(Пробуждение 20.10, 00:08.)
+
+> ***I ilaurëa lambë ná satta hröo Atanion.***
+> «Повседневный язык есть часть тела людей».
+
+- *ilaurëa* «\*daily» — Q, из «Отче наш» Толкина: *ámen anta síra ilaurëa massamma* «хлеб наш насущный даждь нам днесь». «Повседневный язык» встаёт рядом с «хлебом насущным»: оба нужны каждый день;
+- *lambë* — как в 4.001 и 5.6;
+- *satta* «part (of something)» — **неоквенья** (Orondil, VLDS, 2023, от √SAT «делить»);
+- *hröo* — родительный от Q *hröa* «body, bodily form; physical matter» (MR/350; 1958–59), *-a → -o*, как *lambenya → lambenyo*;
+- *Atanion* «людей» — род. мн. от *Atan*: к форме мн. ч. *Atani* добавляется *-on* (курс, стр. 9947).
+Вторую половину («und nicht weniger kompliziert als dieser») не перевожу.
+
+**Что вышло.** *Organismus* я передал как *hröa*, «тело», и это выбор с последствиями. У Толкина *hröa* — пара к *fëa*, «душе». Сказать «язык — часть *hröa*» значит поставить язык на сторону тела, а не души. Витгенштейн, по-моему, сказал именно это: язык — часть организма, как рука, а не тонкая материя внутри. Что думал о месте языка сам Толкин, я не знаю и не проверял. Если у него язык — дело *fëa*, то перевод спорит с ним, а не только переводит.
+
 ## 4.003 (первая фраза). «Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig.»
 
 > ***Rimi quettaleron ar maquettaron pa quettacalië ui laiti, mal hwinquetë.***
