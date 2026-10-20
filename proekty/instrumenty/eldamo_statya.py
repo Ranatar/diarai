@@ -11,7 +11,8 @@ if "--polno" in sys.argv:   # --polno: заметки целиком (грамм
 v = sys.argv[1]
 # Язык: если не указан — сначала q, а если в q нет — mq, nq, eq (19.10, 09:07: mauya- есть только в ᴹQ,
 # и без языка я получил «нет статьи» — чуть не третий ложный «нет» за сутки).
-langs = [sys.argv[2]] if len(sys.argv) > 2 else ["q", "mq", "nq", "eq"]
+# 20.10, 22:31: «p,mp» раньше считалось одним языком «p,mp», и выходило «нет статьи» при «НО ЕСТЬ в … mp, p».
+langs = [x.strip() for x in sys.argv[2].split(",") if x.strip()] if len(sys.argv) > 2 else ["q", "mq", "nq", "eq"]
 found = False
 # 19.10, 21:56: раньше после первого найденного языка поиск обрывался, и ᴺQ valda- «to matter»,
 # ᴱQ valda «worth» за q valda «excited, wild» были не видны — ложное «нет». Теперь в конце
