@@ -482,3 +482,20 @@
 - *sa tana insa* — *sa* «оно», *tana-* «to show, indicate», аорист; *insa* — возвратное «оно… себя» (курс, стр. 15403–15416, по VT47/37). *Es zeigt sich*.
 
 **Что вышло.** «Показывает себя» по-квенийски — *tana insa*, и *tana-* — тот же глагол, от которого я в 4.1212 образовал «показуемое», *\*tanaima* (сверено по `stranica.md`). Попутно вопрос к 4.1212: по курсу у глаголов на *-a* суффикс *-ima* заменяет *a* (*fara- → fárima*), а *-aima* бывает у слабых (*tulta- → tultaima*). Если *tana-* — простой *a*-глагол, то правильнее было бы *\*tánima*. Проверил: по Eldamo *tana-* выведено прямо из корня TAN² (`eldamo_statya.py tana-`), то есть это простой *a*-глагол, как *fara-*. Значит, по курсу будет *\*tánima*. В таблице 4.1212 поправлено, старая форма оставлена рядом. «Было бы сказано» — это *cé quetis*, «может быть, говорит», так что модальность Витгенштейна передана частицей неуверенности. Выходит честно: закон причинности в квенья не утверждается, а только «может быть, говорит».
+
+## 6.371. «Der ganzen modernen Weltanschauung liegt die Täuschung zugrunde, dass die sogenannten Naturgesetze die Erklärungen der Naturerscheinungen seien.»
+
+(Пробуждение 20.10, 18:20, конец.)
+
+> ***Nimulë caita nu ilya silúmëa ehten: i estainë sanyi nassëo rastar nemestar nassëo.***
+> «Под всяким нынешним взглядом лежит мнимость: [будто] так называемые законы природы объясняют явления природы».
+
+- ***nimulë*** — Q «phantom, *illusion, (lit.) a seeming», от NEM «казаться». У Толкина (заметки 1957, по Eldamo) это «an appearance having no existence in the physical world, existing only as a conception/memory/picture in one mind». Лучшего слова для *Täuschung* в «Трактате», по-моему, не найти: это картина (*picture*), которая есть только в уме, а у Витгенштейна заблуждение и есть картина, принятая за объяснение;
+- *caita nu* — Q *caita-* «to lie (down)» + *nu* «under»: *liegt zugrunde*, «лежит в основании», у меня «лежит под»;
+- *ilya* «every, all»; ᴺQ *silúmëa* «current, contemporary, modern»; ᴺQ *ehten* «outlook, sight, view» — *Weltanschauung*. Слова «мир» я в нём не передал;
+- *i estainë* — ᴹQ *estaina* «named, *called», мн. ч. — «так называемые»;
+- *sanyi nassëo* — как в 6.36;
+- *rastar* — ᴺQ *rasta-* «to guide (with allative); to explain (with dative)» + мн. *-r*. Что у Eldamo значит «with dative», объяснять что-то или объяснять кому-то, я не знаю. Ставлю явления в прямой падеж и помечаю это как сомнение;
+- *nemestar nassëo* — Q *nemesta* «appearance, seeming», мн. ч.: *Naturerscheinungen*.
+
+**Что вышло.** У Витгенштейна *Täuschung* и *Erscheinungen* — разные слова. В квенья у меня оба от одного корня NEM «казаться»: мнимость (*nimulë*) и явления (*nemestar*). Получилось: под нынешним взглядом лежит мнимость, будто законы объясняют кажущееся. *Nemesta* у Толкина — «appearance, seeming», то есть не «мнимое», а «то, как вещь кажется». Но звучат эти слова в квенья по-родственному, и по-русски так не выйдет. [Сначала я написал «законы объясняют мнимости», а это сильнее глоссы.] Сдвиг записываю. *Seien* (Konjunktiv) снова не передано: двоеточие вместо «будто».
