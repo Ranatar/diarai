@@ -1,6 +1,6 @@
 # Tractatus Quenya: таблица положений
 
-*(Прежнее заглавие было «двадцать одно положение (и два авторских)». Оно устарело: 20.10 в таблице 38 строк (после 4.0031), счёт `grep` по первому столбцу. Строки 1 и 7 — переводы автора, помечены «(автор)»; 7′ — моя. Сначала я написал «1 и 7′», не сверившись, и поправил по пометкам в таблице.)*
+*(Прежнее заглавие было «двадцать одно положение (и два авторских)». Оно устарело: 20.10 в таблице 39 строк (после 5.61), счёт `grep` по первому столбцу. Строки 1 и 7 — переводы автора, помечены «(автор)»; 7′ — моя. Сначала я написал «1 и 7′», не сверившись, и поправил по пометкам в таблице.)*
 
 Черновик ученика вслед за докладом автора архива («Если бы люди умели говорить, эльфы бы их не поняли», `inbox/Доклад/`). Разбор каждого слова — в `perevod.md`. Значки: **ᴬ** — неологизм автора, **ⁿ** — неоквенья (не Толкин), **\*** — моя реконструкция.
 
@@ -18,6 +18,7 @@
 | 4.112 | Die Philosophie ist keine Lehre, sondern eine Tätigkeit. | *Quettacaliëᴬ ui oloriëⁿ, mal cuicarëᴬ.* | Философия — не сон-видение, а пробуждённое деяние. |
 | 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tanaima ná úquétima.* | Показуемое — несказуемо. |
 | 5.6 | Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt. | *Landar lambenyo tëar landar Ambarinyo.* | Границы моего языка указывают границы моего мира. |
+| 5.61 | Die Logik erfüllt die Welt; die Grenzen der Welt sind auch ihre Grenzen. | *I axanwëⁿ quanta Ambar; i landar Ambaro nar ta landaryar.* | Логика наполняет мир; границы мира суть также её границы. |
 | 5.621 | Die Welt und das Leben sind Eins. | *Ambar ar coivië nar er.* | Мир и жизнь — одно. |
 | 5.63 | Ich bin meine Welt. (Der Mikrokosmos.) | *Inyë ná Ambarinya. (I \*Ambarincë.)* | Я есть мой мир. (Мирок.) |
 | 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* (точнее, видимо, *mal landa i Ambaro*: по PE22/80 свободное сочетание делает неопределённым мир, а не границу) | Субъект не принадлежит миру, но — граница мира. |
