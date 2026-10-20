@@ -518,3 +518,17 @@
 - *térë ar raicë* — ᴹQ *téra* «straight, right, *correct» и Q *raica* «crooked, [ᴹQ.] bent, wrong», мн. ч. *Recht und Unrecht* стали «прямы и кривы».
 
 **Что вышло.** В квенья «правота» и «неправота» оказались мерой линии: прямое и кривое. Это не слова суда, а слова пути, и после *tië* из Dies irae (IX, «Твой путь») мне это нравится. Третья фраза 6.372, о древних, которые «klarer» (признают ясный конец), не переведена. О ней — десятая «Речь».
+
+**6.374, последнее придаточное.** «…und den angenommenen physikalischen Zusammenhang könnten wir doch nicht selbst wieder wollen.»
+
+> ***…ar lá ecë indu i quistaina limë ermava.***
+> «…и предполагаемого звена материи нельзя захотеть».
+
+- *lá ecë* — «нельзя», как в 6.36 (*ecë*, курс, стр. 15564);
+- *indu* — Q *indu-* «to will, do on purpose» (PE22/165, от *indo* «ум, воля»). Это *u*-глагол, и после *ecë* ставится его голая основа, как *menë* в *ecë nin menë*. Взял *indu-*, а не *lelya-⁴* «to will with conscious purpose»: у *lelya-* ещё три омонима («путешествовать», «являться»…);
+- *i quistaina* — Q *quista-* «to suppose» + страд. прич. *-ina* (*a*-глагол: *-aina*, как *orta- → ortaina*). *angenommen*;
+- *limë* «звено» — как во второй половине 6.374;
+- *ermava* — Q *erma* «(physical) matter» + притяжательное *-va* (курс, стр. 9592: *teluméva*, «крыши»). *physikalisch*.
+Не передано *wir… selbst wieder*. Безличное «нельзя» снимает и «мы», и «сами», и «в свою очередь». Возвратное *inwë* («мы… себя», курс, стр. 15418) стоит в дополнении, а не в подлежащем, поэтому оно не подошло.
+
+Теперь 6.374 переведено целиком: *Equi tullu ilu ya merilvë, ta nauva rië lissë umbarto. An lá ëa axanwëa limë imbë níra ar Ambar, ya ta tancatuva; ar lá ecë indu i quistaina limë ermava.*
