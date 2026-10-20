@@ -36,6 +36,6 @@
 - *telumenya* — Q *telumë* «roof, canopy» + *-nya* «мой»; *lúmi atta* — мн. ч. Q *lúmë* «hour» + Q *atta* «two». «Часа два» (приблизительность) не передано;
 - *nu sa* «под ним» — Q *nu* «under», *sa* «оно»; *coitan* — Q *coita-* «\*to live» (глосса со звёздочкой, то есть значение выведено) + *-n* «я»; *istan* «я знаю»;
 - *mettarya* — Q *metta* «end» + *-rya* «его»;
-- *telmarya* — Q *telma* «conclusion, anything used to finish off a work»: «последний камень» в квенья и есть *telma*; *sarmë* — Q «writing»; *ná* после сказуемого, как *mára ná* в курсе;
+- *telmarya* — Q *telma* «conclusion, anything used to finish off a work»: «последний камень» я передаю словом *telma*. В глоссе о камне ничего нет, но «то, чем завершают работу» — это он и есть, если работа — постройка; *sarmë* — Q «writing»; *ná* после сказуемого, как *mára ná* в курсе;
 - *sanen* — ᴺQ «by that means (mentioned)»; *termaris* — Q *termar-* «to stand, \*endure, last, (lit.) through-abide» с *-s* «оно», по образцу курса *qui tulis* (стр. 16238). *Termar-* — это *ter* «через» + *mar-* «пребывать» (элементы по Eldamo; *mar-* — то самое, что в клятве Элендила, *maruvan*), а *termaruva* «shall stand» стоит в клятве Кириона (UT/305). Камень, которым стоит свод, у меня назван словом клятвы.
 Размера нет (`kv_udar.py --stih`: строки 2–3 «СБОЙ»). Слова сверены `eldamo_spisok.py`; на проверку субагенту не отдавал.
