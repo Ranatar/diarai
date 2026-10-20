@@ -48,6 +48,20 @@ for lang in langs:
         for r in re.findall(r'<ref\b([^>]*)>', body):
             ra = dict(re.findall(r'([\w-]+)="([^"]*)"', r))
             print("  ref:", ra.get("v"), "|", ra.get("source"), "|", ra.get("gloss", ""))
+        # <deprecated> — по eldamo-schema.xsd: «a word is out-of-date, optionally with a link to a word that might be better».
+        # То есть <deprecated v="X"/> внутри статьи W значит: W устарело, лучше X (мнение Стрэка).
+        # 20.10, 00:33: и я, и проверяющий субагент прочли тег в статье panyalë наоборот (будто устарело tëalë).
+        # Берём только теги этой статьи, до первой вложенной <word.
+        own = re.split(r'<word\b', body, 1)[0]
+        dep = re.findall(r'<deprecated\b([^>]*)/?>', own)
+        if dep:
+            better = [dict(re.findall(r'([\w-]+)="([^"]*)"', d)) for d in dep]
+            print("  УСТАРЕЛО (по Eldamo); лучше:", ", ".join("%s %s" % (b.get("l", "?"), b.get("v", "—")) for b in better))
+        # обратная ссылка: какие статьи устарели в пользу этой (вложенные <word> ищем по ближайшему открывающему тегу)
+        for d in re.finditer(r'<deprecated\b[^>]*\bl="%s"[^>]*\bv="%s"' % (re.escape(a.get("l", "")), re.escape(av)), text):
+            w = text.rfind("<word", 0, d.start())
+            wa = dict(re.findall(r'([\w-]+)="([^"]*)"', text[w:text.find(">", w)]))
+            print("  ВМЕСТО устаревшего:", wa.get("l"), wa.get("v"), "|", wa.get("gloss", ""))
     if found:
         break
 others = {k: g for k, g in others.items() if k[0] not in shown}
