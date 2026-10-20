@@ -154,7 +154,7 @@
 |---|---|---|
 | *aran* | Q «king» | |
 | *túra* | Q «great [in power or majesty]» | Само значение «в величии» — *maiestatis* |
-| *rúcima* | Q «terrible» | Того же корня, что *ruc-* «бояться» в седьмой строфе. *Tremendae* — «той, перед которой трепещут»: здесь тоже |
+| *rúcima* | Q «terrible» (WJ/415, *rúkima*) | На вид — *ruc-* «бояться» + *-ima*, то есть «внушающий страх», как *tremendae*. Статья Eldamo этимологии не даёт, так что связь с *ruc-* — моя догадка |
 | *i rehtalyë* | Q *rehta-* «to rescue, save» + *-lyë* «Вы» (вежливое, как *Antauvalye* у автора) | «Ты, который спасаешь». Относительное *i* при глаголе 2-го лица — **моя конструкция** |
 | *rehtaimar* | *rehta-* + *-ima* «-able», мн. ч. | По образцу Q *lacaltaima* от *calta-*: у *a*-глаголов выходит *-aima*. *Salvandos* «тех, кого должно спасти». Так же автор передал *iudicandus* словом *namima* |
 | *ve anna* | Q *ve* «as, like» + *anna* «gift» | *Gratis* — «даром», буквально «как дар» |
