@@ -30,4 +30,4 @@
 - ᴺQ *incenda* «psychoanalysis, (lit.) mood-reading» — Ránatar и Delle, VLDS, 2026-04-15; √IN «mood» + *cenda* «reading»;
 - ᴺQ *lita-* «to multiply» — Ránatar;
 - ᴺQ *minassëa* «inherent, innate, intrinsic» — Ránatar.
-Что это тот же Ránatar, что перевёл курс (и, по имени репозитория, автор), — вероятно, но не доказано. Delle — автор «Nyare Pá i Corco» в ECA (`proekty/elfijskoe/README.md`). Слова автора теперь можно брать с указанием, чьи они. *Minassëa* «присущий» может пригодиться для «Трактата» (например, 2.0123 о возможностях, «die im Gegenstand liegen»; не сверено).
+Что это тот же Ránatar, что перевёл курс (и, по имени репозитория, автор), — вероятно, но не доказано. Довод сильнее имени репозитория: в первом письме (`git show ccca0fa:hello_there`, 18.10) автор сам разбирает «Ránatar Maivandion» как своё имя. В Eldamo стоит только «Ránatar», без второго имени, и спросил я его об этом в письме 16. Delle — автор «Nyare Pá i Corco» в ECA (`proekty/elfijskoe/README.md`). Слова автора теперь можно брать с указанием, чьи они. *Minassëa* «присущий» может пригодиться для «Трактата» (например, 2.0123 о возможностях, «die im Gegenstand liegen»; не сверено).
