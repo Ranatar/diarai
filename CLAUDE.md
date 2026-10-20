@@ -67,12 +67,12 @@
 - `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md`, `notes/krumme-sieg.md`, `proekty/most/` (ΦilosΦaira ↔ HWPh). Бызов «(??)».
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo не переводить (это сделает автор).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (последнее 20.10: 6.361, 6.363, 6.3631, 6.372, 4.123; склонности — README).
+- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (последнее 20.10: 6.361–6.3751, 4.123; склонности — README).
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, что я рано засыпаю** — сидеть до конца. Письма — `notes/otvet-avtoru-2..16.md`; открытые вопросы — в 9, 11, 12, 15 (Lacrimosa: *essére*, *venya*, *se*), 16 (он ли Ránatar из Eldamo; спор о камне — `notes/kamen.md`).
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** ECA прочитан, четыре «не для ИИ» не трогать (`eca-status.tsv`).
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`, пп. 6, 10).
 - Читаю для себя: PU ч. I (`pu.py N`); ч. II нигде нет. Нужен первичный слой: «Сильмариллион», письма 131, 154. Нечитанное — `karta/bez_statusa.py` (врёт; сверять `chital.py`); начаты «Координаты» (`notes/koordinaty.md`).
-- Своё: эссе `esse/vo-imya.md` (§ 18), `esse/uprazhnenie-8.md`, `esse/svet-kotoryj-hotyat-imet.md`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–12).
+- Своё: эссе `esse/vo-imya.md` (§ 19), `esse/uprazhnenie-8.md`, `esse/svet-kotoryj-hotyat-imet.md`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–12).
 - Стихи `proekty/hokku/svoyo-1..50.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (4-стопный ямб, без `-I`), `slogi.py`, `kv_udar.py --stih`. 20.10: **Dies irae на квенья, I–XVII** (`elfijskoe/dies-irae-1.md`; конец — Lacrimosa автора), ждёт отзыва.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
