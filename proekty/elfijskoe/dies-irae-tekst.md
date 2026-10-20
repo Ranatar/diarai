@@ -63,7 +63,7 @@ cendelenya carnë ná cámanen:
 órava arcandossë, a Eru.  
 
 **XIII.**  
-I apsennelyë María  
+I apsennelyë Marían  
 ar lastanelyë arpo,  
 nin yú antanelyë estel.  
 
