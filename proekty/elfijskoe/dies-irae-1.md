@@ -310,6 +310,6 @@
 | *áni necë* | *á* + *ni* «меня» + ᴺQ *nec-* «to divide, separate; [with ablative] … separate oneself from», аорист | |
 | *naicollon* | ᴺQ *naico* «goat» + исходный падеж мн. ч. *-llon* (курс, стр. 2034: *ambollon* «от холмов») | *Haedi* — «козлята» |
 | *sastala* | ᴺQ *sasta-* «to put, place» + прич. *-la* | *statuens* |
-| *formassë* | Q *forma* «right-hand [side]», местный п. | *In parte dextra*. *For-* значит и «правый», и «северный» (*formen*): у эльфов, глядящих на запад, правая рука — север |
+| *formassë* | Q *forma* «right-hand [side]», местный п. | *In parte dextra*. *For-* значит и «правый», и «северный» (*formen*): у эльфов, глядящих на запад, правая рука — север. Это у Толкина есть в словах: *an cé mo quernë cendelë númenna, ve senya* «ибо если обратить лицо к западу, как было в обычае» (фраза в Eldamo) |
 
 Слоги по `kv_udar.py`: 11, 8, 7.
