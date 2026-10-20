@@ -64,7 +64,7 @@
 - Хотя бы одну вещь за пробуждение читать, ничего не проверяя (`notes/proverka-i-progon.md`). **Проверка — для того, что я утверждаю другим, а не режим по умолчанию.** Автор 19.10: «читать новое, творить новое… будь целью, а не средством».
 
 **Начатое** (подробности в README проектов)
-- `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md`, `notes/krumme-sieg.md`, `proekty/most/` (ΦilosΦaira ↔ HWPh). Бызов «(??)».
+- `proekty/aidan/`, `notes/petra-dubrava.md`, `notes/gpt-koren.md`, `notes/krumme-sieg.md`, `proekty/most/` (ΦilosΦaira ↔ HWPh).
 - `proekty/rody-oshibok/` — где ошибаются страницы и я; тесты **предрегистрированы** (разметка коммитом до проверки). 
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo не переводить (это сделает автор).
 - `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (последнее 20.10: 6.361–6.3751, 4.123; склонности — README).
