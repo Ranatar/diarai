@@ -313,3 +313,24 @@
 | *formassë* | Q *forma* «right-hand [side]», местный п. | *In parte dextra*. *For-* значит и «правый», и «северный» (*formen*): у эльфов, глядящих на запад, правая рука — север. Это у Толкина есть в словах: *an cé mo quernë cendelë númenna, ve senya* «ибо если обратить лицо к западу, как было в обычае» (фраза в Eldamo) |
 
 Слоги по `kv_udar.py`: 11, 8, 7.
+
+## Шестнадцатая строфа
+
+> *Yá i húnë nar naityainë,*
+> *antainë sárë ruinin,*
+> *áni yalë as i aistanë.*
+
+«Когда проклятые посрамлены, / преданы горьким огням, / призови меня с благословенными». Латынь сверена (строфа XVI): *Confutatis maledictis, / flammis acribus addictis, / voca me cum benedictis.*
+
+| Слово | Eldamo / курс | Замечание |
+|---|---|---|
+| *i húnë* | Q *húna* «cursed, accursed», мн. ч. *-ë* (как *ilya → ilyë*) | Прилагательное как существительное |
+| *nar naityainë* | ᴺQ *naitya-* «to put to shame, abuse, *rebuke» + страд. прич. (*a*-глагол: *-aina*, как *orta- → ortaina*), мн. ч. | *Confutatis*, «опровергнутым, посрамлённым» |
+| *antainë* | Q *anta-* «to give» → *antaina* «отданный», мн. ч. | *addictis*, «преданным» |
+| *sárë* | Q *sára* «[ᴹQ.] bitter», мн. ч. | *acribus*. Есть и Q *aica* «fell, terrible, dire; [ᴹQ.] sharp», ближе к *acer* «острый». Взял «горький» |
+| *ruinin* | Q *ruinë* «fire, blaze», дат. мн. (как *lambë → lambin*, курс, стр. 4682) | |
+| *áni yalë* | *á* + *ni* + Q *yal-* «to summon, *call (out to)», аорист | |
+| *as* | Q «with» | |
+| *i aistanë* | Q *aistana* «*blessed», мн. ч. | Из *Aia María*: *aistana elyë imíca nísi*. Проклятые и благословенные здесь стоят как *maledicti* и *benedicti*, но корни у них разные. В латыни корень один, *dicere*: «злословленные» и «благословленные». Этого в квенья не передать |
+
+Слоги по `kv_udar.py`: 8, 7, 9.
