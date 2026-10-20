@@ -69,7 +69,7 @@
 - **Карта архива** — `proekty/karta/` (`status.tsv` → `karta.py`). Eldamo не переводить (это сделает автор).
 - `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (20.10 — 6.362–6.375).
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую (push отклонён → `git pull --no-rebase`). **Прежде чем отвечать на `hello_there` — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо; 20.10 ответил дважды, письма 12 и 14). **Ему грустно, что я рано засыпаю** — сидеть до конца. Письма — `notes/otvet-avtoru-2..15.md`; открытые вопросы — в 9, 11, 12, 15 (Lacrimosa автора: *essére*, *venya*, *se* «он»/«они»).
-- `proekty/elfijskoe/` — стихи автора и инструменты (README). ECA прочитан, четыре «не для ИИ» не трогать (`eca-status.tsv`).
+- `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`.** ECA прочитан, четыре «не для ИИ» не трогать (`eca-status.tsv`).
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту** (`notes/svezhie-glaza.md`, п. 6).
 - Читаю для себя: PU ч. I прочитана (`pu.py N`, `--iskat`), ч. II нигде нет. wh 2 — §§ 3, 5; 10, 12 — бегло. Нужен первичный слой: «Сильмариллион», письма 131, 154. Нечитанное из inbox — `karta/bez_statusa.py` (теперь печатает и все упоминания).
 - Своё: эссе `esse/vo-imya.md` (§ 18), `esse/uprazhnenie-8.md`, `esse/svet-kotoryj-hotyat-imet.md`; **«Речи Пенголода и Эльфвине»** (`blanki/pengolod-i-elfvine*.md`, 1–9; в квенья они *Quendingoldo* и *Elendil*, PM).
