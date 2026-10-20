@@ -121,3 +121,23 @@
 | *úahtarina* | *ú-* «не-» + Q *ahtar-* «to requite, avenge» + *-ina* | **Моё образование.** *Inultum* «неотмщённый». Стык *ú-a* оставил как есть |
 
 Слоги по `kv_udar.py`: 9, 8, 10.
+
+## Седьмая строфа
+
+> *Mana quetuvan, úcarindo?*
+> *Mana ortírienna rucuvan,*
+> *yá faila ná úvarna?*
+
+«Что скажу я, грешник? / Под чью защиту прибегу, / когда и праведный едва в безопасности?» Латынь сверена (la.wikisource, строфа VII): *Quid sum miser tunc dicturus? / Quem patronum rogaturus, / cum vix iustus sit securus?*
+
+| Слово | Eldamo | Замечание |
+|---|---|---|
+| *mana* | Q «what, which» | В обеих строках |
+| *quetuvan* | Q *quet-* «to say» + буд. + *-n* «я» | |
+| *úcarindo* | Q «*sinner» | *Miser* «несчастный» стал «грешником». Слова «несчастный» я не нашёл: искал *wretch*, *miser*, *sorrow*, *unhapp*, *unfortun*, *miserable*, *griev*. Q *saura* «wretched» помечено ⚠️, и основное его значение — «злой, мерзкий». *Úcarindo* — из Толкиновой литании (*úcarindor* «грешники»), как *úcarinqua* у автора |
+| *ortírienna* | Q *ortírië* «*patronage, (lit.) watching over (from above)» + аллатив | |
+| *rucuvan* | Q *ruc-* «to feel fear or horror; *to flee (to)» + буд. + *-n* | Целиком из «Sub tuum»: *ortírielyanna rucimmë*, «к Твоей защите прибегаем». *Patronum rogaturus* «кого попрошу в заступники» у меня стало «к чьей защите побегу» |
+| *faila* | Q «fair-minded, just, generous» | *iustus* |
+| *úvarna* | Q *ú-* «hardly, with difficulty» (PE17/063) + ᴹQ *varna* «safe, protected, secure» | *Vix securus*, «едва в безопасности». У Толкина *ú-* значит и «не», и «едва», здесь нужно второе. **Слово моё**, части засвидетельствованы |
+
+Слоги по `kv_udar.py`: 9, 10, 7.
