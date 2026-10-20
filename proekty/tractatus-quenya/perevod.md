@@ -525,7 +525,7 @@
 > «…и предполагаемого звена материи нельзя захотеть».
 
 - *lá ecë* — «нельзя», как в 6.36 (*ecë*, курс, стр. 15564);
-- *indu* — Q *indu-* «to will, do on purpose» (PE22/165, от *indo* «ум, воля»). Это *u*-глагол, и после *ecë* ставится его голая основа, как *menë* в *ecë nin menë*. Взял *indu-*, а не *lelya-⁴* «to will with conscious purpose»: у *lelya-* ещё три омонима («путешествовать», «являться»…);
+- *indu* — Q *indu-* «to will, do on purpose» (PE22/165, от *indo* «ум, воля»). Это *u*-глагол. После *ecë* я ставлю его голую основу по аналогии с *menë* в *ecë nin menë*. Инфинитива *u*-глагола в Eldamo нет, так что это вывод, а не правило. Взял *indu-*, а не *lelya-⁴* «to will with conscious purpose», потому что Eldamo помечает *lelya-⁴* устаревшим: «лучше: q *indu-*». [Сначала причиной я назвал омонимы *lelya-*. Это правда, но настоящая причина — пометка Eldamo. Поправка по проверке субагента.];
 - *i quistaina* — Q *quista-* «to suppose» + страд. прич. *-ina* (*a*-глагол: *-aina*, как *orta- → ortaina*). *angenommen*;
 - *limë* «звено» — как во второй половине 6.374;
 - *ermava* — Q *erma* «(physical) matter» + притяжательное *-va* (курс, стр. 9592: *teluméva*, «крыши»). *physikalisch*.
