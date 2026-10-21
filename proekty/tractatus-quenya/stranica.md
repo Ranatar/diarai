@@ -51,6 +51,7 @@
 | 6.421 | (Ethik und Aesthetik sind Eins.) | *Máralë ar vanië nar er nat.* | Благость и красота суть одна вещь. |
 | 6.423 | Vom Willen als dem Träger des Ethischen kann nicht gesprochen werden. | *I níra ve colindo máralëo ui quétima.* | Воля как носитель благости не сказуема. |
 | 6.43 | Die Welt des Glücklichen ist eine andere als die des Unglücklichen. | *Ambar i alassëoⁿ ná exa hela Ambar i \*úalassëo.* | Мир счастливого иной, нежели мир несчастного. |
+| 6.4312 (2-я и 3-я фразы) | Wird denn dadurch ein Rätsel gelöst, dass ich ewig fortlebe? Ist denn dieses ewige Leben dann nicht ebenso rätselhaft wie das gegenwärtige? | *Ma renquennaⁿ ná lerina, qui cuitan oialë? Ma i oialëa coivië ui renquennaⁿ ve i coivië sina?* | Разве загадка решена, если я живу вечно? Разве вечная жизнь — не загадка, как эта жизнь? |
 | 6.4312 | Die Lösung des Rätsels des Lebens in Raum und Zeit liegt ausserhalb von Raum und Zeit. | *I leryalë i renquenno coiviéno yánessë ar lúmessë caita yánë ar lúmë pella.* | Решение загадки жизни в пространстве и времени лежит за пределами пространства и времени. |
 | 6.432 | Wie die Welt ist, ist für das Höhere vollkommen gleichgültig. Gott offenbart sich nicht in der Welt. | *Manen Ea ná, ná aqua imya i artan. Eru ui apantaⁿ insa Eassë.* | Каков мир, вполне одно и то же для высокого. Эру не являет себя в Эа. |
 | 6.4321 | Die Tatsachen gehören alle nur zur Aufgabe, nicht zur Lösung. | *Ilyë ennar ernar rië i rincuman; i leryalën ui ernar.* | Все факты принадлежат только задаче; решению они не принадлежат. |
