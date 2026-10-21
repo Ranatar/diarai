@@ -127,3 +127,28 @@
 - *\*antumna* — моё: превосходная приставка *an-* (как в засвидетельствованном *ancalima* «brightest») + ᴹQ *tumna*. *tyarda* «result, \*effect» — **нкв.**, род. п. *tyardo*.
 - *pelila* — действительное причастие от Q *pel-* «to go round, encircle» (курс: *-ila*, `kvenya-formy.md`). Здесь у *pel-* как раз позднее значение «окружать», в отличие от Гавриила.
 Дальше (строки 5–8): «Da flammt ein blitzendes Verheeren…» — *íta* «flash, \*lightning» (Q), *nancar-* «undo», *hundo* (нкв.). В последней строке «sanfte» хочу передать через *milya*: это слово автора из «Ты и вы» (*lai nalye milya*).
+
+## Михаил, строки 5–8 (21.10, тем же утром)
+
+> **Tá íta urya, quelmë**
+> **i opo tië hundo.**
+> **Mal Maiar, Heru, laitar**
+> **i milya vanta aurelyo.**
+
+«Тогда молния пылает — гибель, / та, что перед путём грома. / Но майар, Господи, славят / тихое хождение дня Твоего».
+
+- *tá* «then» (Q); *íta* «flash, \*lightning» (Q; «lightning» — догадка Eldamo); *urya-* — Q «to be hot», «to blaze» только ᴹQ (⚠️); *quelmë* «ruin, perdition» — **нкв.** «Blitzendes Verheeren» разложено на «молния — гибель».
+- *i opo tië hundo* — артикль перед предложной группой в роли определения, по толкиновскому *Eru **i or** ilyë mahalmar* «Эру, что над всеми престолами» (клятва Кириона, Eldamo). *opo* «in front (of place), before» (Q, VT49/12) — «vor» здесь пространственное. *hundo* «thunder» — **нкв.**; род. п. совпадает с именительным, двусмысленности нет только благодаря порядку слов.
+- *Mal Maiar, Heru, laitar* — «deine Boten» стали майар, как у автора в Рафаиле. «Deine» потеряно. *laita-* «bless, praise» (Q, Let/448, *laituvalmet*). *Heru* — слово автора.
+- *i milya vanta aurelyo* — ᴹQ *milya* «soft, gentle» (слово автора в «Ты и вы»: *lai nalye milya*); ᴹQ *vanta* «walk»; *aurë* «day» + *-lya* «Твой» (вежливое, как *esselya* в «Átaremma») + род. п. *-o* (по *Vardo*). \**aurelyo* — моя форма.
+Метр (`kv_udar.py --metr u-`): все четыре строки — ямб (7, 7, 7, 8 слогов). «Verehren» (чтут) передано как «славят»: Q-глагола «чтить» нет, нкв. *aita-* «revere» есть, но в строку не лёг.
+
+### Михаил целиком, черновик 1 (проверке не отдавал)
+> Ar raumor norir, rávië,
+> ëarello nórenna, nórello ëarenna,
+> ar limil carir ahanen
+> antumna tyardo, pelila.
+> Tá íta urya, quelmë
+> i opo tië hundo.
+> Mal Maiar, Heru, laitar
+> i milya vanta aurelyo.
