@@ -22,6 +22,14 @@ for m in re.finditer(r'<word\b([^>]*)>', xml):
         forms = {re.sub(r"\(([^)]*)\)", r"\1", v), re.sub(r"\([^)]*\)", "", v)}
     if a.get("l") in langs:
         for f in forms & want:
-            seen.setdefault(f, []).append("%s %s «%s»" % (a["l"], v0, (a.get("ngloss") or a.get("gloss", ""))[:70]))
+            g = (a.get("ngloss") or a.get("gloss", ""))[:70]
+            # 21.10, 09:08: пустая глосса у q walda — это ссылка <see v="valda"/> («excited, wild»);
+            # письмо 20 автору ушло с «walda — пустая глосса». Теперь ссылка печатается.
+            if not g:
+                s = re.match(r'\s*<see\b([^>]*)/>', xml[m.end():m.end() + 300])
+                if s:
+                    sa = dict(re.findall(r'([\w-]+)="([^"]*)"', s.group(1)))
+                    g = "→ см. %s %s" % (sa.get("l", "?"), sa.get("v", "?"))
+            seen.setdefault(f, []).append("%s %s «%s»" % (a["l"], v0, g))
 for w in args:
     print("%-12s %s" % (w, "; ".join(seen.get(w, ["—"])[:3])))
