@@ -7,6 +7,7 @@
 **Источники (все в inbox, кроме «Трактата»):**
 - словарь: `inbox/eldamo/src/data/eldamo-data.xml`; инструменты `proekty/instrumenty/eldamo_gloss.py` (обратный поиск: английское значение → слово), `eldamo_statya.py` (статья целиком), `eldamo_spisok.py`;
 - грамматика: курс Eldamo «Введение в квэнья» в переводе автора, `inbox/book/full/eldamo-intro-quenya-full.html` (текст — `ext/tmp/qfull.txt`, номера параграфов курса ниже; если пропал: `python3 -I proekty/instrumenty/html2txt.py inbox/book/full/eldamo-intro-quenya-full.html ext/tmp/qfull.txt`);
+- **свой перевод автора, 17 мая 2022**: `inbox/Suite_.txt`, 47 положений от 1 до 7 (нумерация «6.5.2.2.» = 6.522). Сводка «автор / немецкий / я» — `python3 -I proekty/tractatus-quenya/sverka_suite.py --tolko-obshchie`. **Запускать до перевода любого положения**: дважды (18.10 и 21.10) я переводил то, что у автора уже было;
 - «Трактат»: немецкий текст и перевод Огдена, Gutenberg 5740 (`ext/tractatus/tlp.json`, разбор — `proekty/rody-oshibok/tractatus_razbor.py`).
 
 **Порядок для каждого положения:** немецкий → слова (статья, источник) → правила (курс) → фраза → обратный перевод → сомнения.
