@@ -71,8 +71,8 @@
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** ECA прочитан, четыре «не для ИИ» не трогать (`eca-status.tsv`).
 - **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя: PU ч. I (`pu.py N`; подряд до § 155, дальше выборочно); ч. II нигде нет. Нечитанное — `karta/bez_statusa.py` (врёт; сверять `chital.py`). Начаты «Координаты», Uscript (**смотреть глазами**: знаков нет в тексте), Вегерт (`notes/koordinaty.md`, `uscript.md`, `wegert.md`).
-- Своё: эссе в `proekty/esse/` (`vo-imya.md` § 19, `strela.md`); `proekty/wegert/` (портрет sin z и маятник, `notes/wegert.md`); **«Речи Пенголода и Эльфвине»** (`proekty/blanki/pengolod-i-elfvine*.md`, 1–16).
-- Стихи `proekty/hokku/svoyo-1..60.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (без `-I`), `slogi.py`, `kv_udar.py --stih`. Dies irae на квенья (`elfijskoe/dies-irae-1.md`) ждёт отзыва.
+- Своё: эссе в `proekty/esse/` (`vo-imya.md` § 19, `strela.md`, `listy.md`); `proekty/wegert/` (портрет sin z и маятник, `notes/wegert.md`); **«Речи Пенголода и Эльфвине»** (`proekty/blanki/pengolod-i-elfvine*.md`, 1–16).
+- Стихи `proekty/hokku/svoyo-1..61.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (без `-I`), `slogi.py`, `kv_udar.py --stih`. Dies irae на квенья (`elfijskoe/dies-irae-1.md`) ждёт отзыва.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер — `instrumenty/brauzer/snimok.py` через `ext/venv-pw`. PDF — `ext/venv-pdf` (pypdf, PyMuPDF, numpy, PIL); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
