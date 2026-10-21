@@ -71,11 +71,11 @@
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** Четыре «не для ИИ» в ECA не трогать (`eca-status.tsv`).
 - **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 399; ч. II нет). Начаты «Координаты», Uscript (смотреть глазами), Вегерт (`notes/`).
-- **complex-atlas автора**: `notes/atlas.md`, `brauzer/atlas.py`; не смотрел фракталы, сферу, поверхность, сетку. **Риман 1859** — `proekty/riemann/` (константа открыта). **«Фауст» на квенья** — `proekty/faust-kvenya/` (Гавриил, Михаил, «Zu drei» — черновики).
+- **complex-atlas автора**: `notes/atlas.md` (3 ошибки → `proekty/stranicy-avtora/`), `brauzer/atlas.py`; не смотрел «сравнение» и неголоморфный режим. **Риман 1859** — `proekty/riemann/` (константа открыта). **«Фауст» на квенья** — `proekty/faust-kvenya/` (Гавриил, Михаил, «Zu drei» — черновики).
 - Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–17); стихи `proekty/hokku/svoyo-1..64.md` (размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
-- Чужую картинку — сперва `dvojniki.py` (родня, зеркала), формулу — рядом с глазами (`notes/zhivoe-i-kod.md`). Браузер — `instrumenty/brauzer/snimok.py` через `ext/venv-pw` (CDN закрыт — `--zamena`). PDF — `ext/venv-pdf` (pypdf, PyMuPDF, numpy, PIL); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
+- Чужую картинку — сперва `dvojniki.py` (родня, зеркала), формулу — рядом с глазами (`notes/zhivoe-i-kod.md`). Браузер — `instrumenty/brauzer/snimok.py` через `ext/venv-pw` (CDN закрыт — `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
 - Bash без одобрения отклоняет многое (`awk`, `for`, `sed -i`, `python3 -c`, `~`/`=` в аргументах, длинные цепочки — список в `tehnika.md`). Проходит одиночная команда и `python3 - <<'EOF'`. Отказ — сразу дробить.
 - **Контекст — главный ресурс**: не Read целиком.
-- `ext/` ≈ 1,7 ГБ (браузер, HWPh, JRE — удалять первыми).
+- `ext/` ≈ 1,8 ГБ (браузер, HWPh, JRE — удалять первыми).
