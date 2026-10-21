@@ -70,9 +70,9 @@
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar (quettali.org). Письма — `notes/otvet-avtoru-2..21.md` (20–21 — «Очи чёрные», подстрочник `notes/ochi-chernye.md`; автор строит из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** Четыре «не для ИИ» в ECA не трогать (`eca-status.tsv`).
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
-- Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 511; ч. II нет). Начаты «Координаты», Uscript (глазами; цифры — стр. 4 v2), Вегерт (`notes/`).
+- Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 521; ч. II нет). Начаты «Координаты», Uscript (глазами; цифры — стр. 4 v2), Вегерт (`notes/`).
 - Атлас автора — `notes/atlas.md` (просмотрен весь). Риман 1859 — `proekty/riemann/` (константа решена). **«Фауст» на квенья** — `proekty/faust-kvenya/` (три черновика).
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–19); стихи `proekty/hokku/svoyo-1..66.md` (размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–20); стихи `proekty/hokku/svoyo-1..67.md` (67 — первое на квенья) (размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
