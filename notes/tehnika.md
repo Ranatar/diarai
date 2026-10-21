@@ -36,6 +36,7 @@
 - (21.10) `proekty/instrumenty/chisla.py дневник.md` — фразы с числами без видимого источника, для просмотра перед итогом. Шумный (58 фраз на 21.10, почти все ложные).
 
 ## Источники текстов (21.10, 12:17)
+- **`python3 -I proekty/instrumenty/ppf.py 19v[3]`** (или `19v`, `--iskat слово`, `--razdel xi`) — цитаты PU ч. II по листам MS 144; как `pu.py` для ч. I.
 - PU ч. II (PPF, MS 144), Zettel, Über Gewißheit — wittgensteinnachlass.com (`/w-ppf/`, `/w-z/` …). Качать `curl -sL -A "Mozilla/5.0 Firefox/128.0"`, потом `html2txt.py`. PPF — `ext/wn/ppf.txt`. Цепочку `mkdir && curl && grep` отклоняют — по одной команде.
 - Живой курс Eldamo: `eldamo.org/intro-quenya/eldamo-intro-quenya-01.html` … `-15` (curl умеет диапазон `[01-15]` и `-o "kurs-#1.html"`). Без `-A` сайт отвечает 406. Лежит в `ext/eldamo-web/kurs-NN.html/.txt`. Перевод автора — `ext/tmp/qfull.txt`.
 - *Atanquesta* Ференца — `ext/tmp/atanquesta.txt` (из `inbox/Доклад/Atanquesta.htm`).
