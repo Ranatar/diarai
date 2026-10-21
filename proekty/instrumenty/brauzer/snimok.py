@@ -75,7 +75,7 @@ with sync_playwright() as p:
             if podstr in request.url:
                 route.fulfill(body=telo, content_type=tip)
             else:
-                route.continue_()
+                route.fallback()   # не continue_(): иначе запрос уходит в сеть мимо других подмен
         return h
     for podstr, fajl in zameny:
         pg.route("**/*", _obrabotchik(podstr, open(fajl, "rb").read(), mimetypes.guess_type(fajl)[0] or "application/octet-stream"))
