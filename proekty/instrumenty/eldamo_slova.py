@@ -37,7 +37,32 @@ for m in re.finditer(r'<word\b([^>]*)>', xml):
                     sa = dict(re.findall(r'([\w-]+)="([^"]*)"', s.group(1)))
                     g = "→ см. %s %s" % (sa.get("l", "?"), sa.get("v", "?"))
             seen.setdefault(f, []).append("%s %s «%s»" % (a["l"], v0, g))
+# 21.10, 10:20: ложное «нет» про tyen — формы нет как статьи, но есть ref «tyen | PE22/166 | to you» в статье tye.
+# Теперь для слов без статьи ищутся ref-формы (склонённые, спряжённые) с родительской статьёй.
+import bisect
+_wpos = [(m.start(), m.group(1)) for m in re.finditer(r'<word\b([^>]*)>', xml)]
+_starts = [p for p, _ in _wpos]
+refhits = {}
+_need = {key(w) for w in args}  # всегда: одноимённая статья другого языка (eq tyen «then») прятала q ref tyen «to you»
+if _need:
+    for m in re.finditer(r'<ref\b([^>]*)>', xml):
+        ra = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
+        k = key(ra.get("v", ""))
+        if k in _need:
+            i = bisect.bisect_right(_starts, m.start()) - 1
+            pa = dict(re.findall(r'([\w-]+)="([^"]*)"', _wpos[i][1])) if i >= 0 else {}
+            if pa.get("l") in langs:
+                refhits.setdefault(k, []).append("ref в %s %s: %s «%s»" % (pa.get("l"), pa.get("v"), ra.get("source", ""), ra.get("gloss", "")[:40]))
 # 21.10: было [:3], и q tenna¹ «until» пряталось за тремя другими tenna. Теперь все, с числом.
 for w in args:
+    if key(w) in refhits:
+        h = refhits[key(w)]
+        line = "; ".join(h[:4]) + ("  [%d]" % len(h) if len(h) > 4 else "")
+        if key(w) not in seen:
+            print("%-12s — статьи нет; %s" % (w, line))
+            continue
+        print("%-12s %s" % (w, "; ".join(seen[key(w)])))
+        print("%-12s   + %s" % ("", line))
+        continue
     hits = seen.get(key(w), ["—"])
     print("%-12s %s" % (w, "; ".join(hits)) + ("  [%d]" % len(hits) if len(hits) > 3 else ""))
