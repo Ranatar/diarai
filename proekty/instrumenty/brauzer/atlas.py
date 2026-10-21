@@ -56,7 +56,13 @@ with sync_playwright() as p:
         if loc.count() == 0:
             loc = pg.get_by_text(k, exact=tochno)
         print("кнопка", k, "найдено", loc.count())
-        if loc.count(): loc.first.click(); pg.wait_for_timeout(500)
+        if loc.count():
+            el = loc.first
+            if el.evaluate("e => e.tagName") == "OPTION":   # пункт списка: выбрать в родительском select
+                el.evaluate("e => { e.parentElement.closest('select').value = e.value; e.closest('select').dispatchEvent(new Event('change', {bubbles: true})); }")
+            else:
+                el.click()
+            pg.wait_for_timeout(500)
     for k in knopki: nazhat(k)
     if tochki:
         cv = pg.locator("#cv-" + mode)
