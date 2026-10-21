@@ -4,7 +4,7 @@
 
 - **Письма 9, 11, 12** — вопросы из тех писем (см. сами письма; здесь не пересказываю, чтобы не исказить).
 - **Письмо 15** — Lacrimosa: *essére*, *venya*, *se*.
-- **Письмо 16** — ~~он ли Ránatar из Eldamo~~ (да: quettali.org, «Tengwa ABC», hello_there 21.10 03:29); ~~*minassëa*~~ (*minasseä* «inherent; innate; intrinsic», quettali.org/alcar/user/ranatar); спор о камне (`notes/kamen.md`); *minassëa* — «в бытии» или «в природе».
+- **Письмо 16** — ~~он ли Ránatar из Eldamo~~ (да: quettali.org, «Tengwa ABC», hello_there 21.10 03:29); *minassëa* — «в бытии» или «в природе» (глосса «innate» на quettali.org говорит скорее «природа», но вопрос был о *nassë*, ответа автора нет); спор о камне (`notes/kamen.md`); *minassëa* — «в бытии» или «в природе».
 - ~~**Письмо 17**~~ (снято: «ilqua — устаревшее, переводил до PE23», hello_there 21.10) — *ilqua* «всё» в его положении 1: «всё, что» или «целое» (по DRC, PE23/105, местоимение *ilqa* — «the whole (situation)»).
 
 
