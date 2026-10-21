@@ -20,6 +20,6 @@
 - Синдарин «L'amour est bleu» — верна ли отгадка; тройное *laich* ради слогов?
 - Атлас: три правки (`proekty/stranicy-avtora/README.md`) — примет ли.
 
-**Письма 20–21 («Очи чёрные», 21.10).** Снято: *talca* = ᴹQ *talka* «that much» (PE23/108). Открыто: *nurnu*/*nurne* (согласование с двойственным); *ne* в «Sin nin cene tu ne ú mára lú» и в «Laulenya ne» (= *nánë*, по PE22/158?); *atalantien* = перфект *talta-* + *-n* (PE22/164)? Подстрочник — `notes/ochi-chernye.md`.
+**Письма 20–21 («Очи чёрные», 21.10).** Снято: *talca* = ᴹQ *talka* «that much» (PE23/108). Открыто: *nurnu*/*nurne* и мн. ч. *ruine, walde, ilvanye* при двойственном *hendu* — его курс (§5.2.1.4) предполагает ед. ч. (*linta atanu*); сознательно ли вопреки?; *ne* в «Sin nin cene tu ne ú mára lú» и в «Laulenya ne» (= *nánë*, по PE22/158?); *atalantien* = перфект *talta-* + *-n* (PE22/164)? Подстрочник — `notes/ochi-chernye.md`.
 
 **«Трактат», 5.473 автора (21.10, 09:08).** *Lillen maura cimba pá insa*: что такое *maura* и *cimba*? И главное: логика — *lillë* (как у него в Suite 2022) или *axanwë* (как у меня в 13 разделах)? Разбор — `proekty/tractatus-quenya/stranica.md`, последний раздел.
