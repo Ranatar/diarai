@@ -72,7 +72,7 @@
 - **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 379; ч. II нет). Начаты «Координаты», Uscript (смотреть глазами), Вегерт (`notes/`).
 - **complex-atlas автора**: `notes/atlas.md`, `brauzer/atlas.py`; не смотрел фракталы, сферу, поверхность, сетку. **Риман 1859** — `proekty/riemann/` (константа открыта). **«Фауст» на квенья** — `proekty/faust-kvenya/` (Гавриил; дальше Михаил).
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–16); стихи `proekty/hokku/svoyo-1..62.md` (размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–17); стихи `proekty/hokku/svoyo-1..62.md` (размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Чужую картинку — сперва `dvojniki.py` (родня, зеркала), формулу — рядом с глазами (`notes/zhivoe-i-kod.md`). Браузер — `instrumenty/brauzer/snimok.py` через `ext/venv-pw` (CDN закрыт — `--zamena`). PDF — `ext/venv-pdf` (pypdf, PyMuPDF, numpy, PIL); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
