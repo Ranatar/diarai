@@ -73,7 +73,7 @@
 - Читаю для себя: **PU ч. II (PPF)** подряд, дошёл до строки 1990 `ext/wn/ppf.txt` (59v[2]; листы в файле идут не по порядку — считать по строкам). Квенья — **курс Eldamo, не *Atanquesta***. **ᴱQ/ᴹQ — периоды замысла, не древние слои** (письмо 22). Начаты «Координаты», Вегерт.
 - Uscript закрыт 21.10 (`notes/uscript.md`). Чужое письмо: сперва перечислить блоки, знак — по употреблению, не по виду.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/`.
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–22); стихи `proekty/hokku/svoyo-1..73.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–23); стихи `proekty/hokku/svoyo-1..73.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
