@@ -138,7 +138,7 @@
 «Тогда молния пылает — гибель, / та, что перед путём грома. / Но майар, Господи, славят / тихое хождение дня Твоего».
 
 - *tá* «then» (Q); *íta* «flash, \*lightning» (Q; «lightning» — догадка Eldamo); *urya-* — Q «to be hot», «to blaze» только ᴹQ (⚠️); *quelmë* «ruin, perdition» — **нкв.** «Blitzendes Verheeren» разложено на «молния — гибель».
-- *i opo tië hundo* — артикль перед предложной группой в роли определения, по толкиновскому *Eru **i or** ilyë mahalmar* «Эру, что над всеми престолами» (клятва Кириона, Eldamo). *opo* «in front (of place), before» (Q, VT49/12) — «vor» здесь пространственное. *hundo* «thunder» — **нкв.**; род. п. совпадает с именительным, двусмысленности нет только благодаря порядку слов.
+- *i opo tië hundo* — артикль перед предложной группой в роли определения, по толкиновскому *Eru **i or** ilyë mahalmar* «Эру, что над всеми престолами» (фраза — Eldamo: *ar i Eru i or ilyë mahalmar ëa tennoio*; что это клятва Кириона — по памяти). *opo* «in front (of place), before» (Q, VT49/12) — «vor» здесь пространственное. *hundo* «thunder» — **нкв.**; род. п. совпадает с именительным, двусмысленности нет только благодаря порядку слов.
 - *Mal Maiar, Heru, laitar* — «deine Boten» стали майар, как у автора в Рафаиле. «Deine» потеряно. *laita-* «bless, praise» (Q, Let/448, *laituvalmet*). *Heru* — слово автора.
 - *i milya vanta aurelyo* — ᴹQ *milya* «soft, gentle» (слово автора в «Ты и вы»: *lai nalye milya*); ᴹQ *vanta* «walk»; *aurë* «day» + *-lya* «Твой» (вежливое, как *esselya* в «Átaremma») + род. п. *-o* (по *Vardo*). \**aurelyo* — моя форма.
 Метр (`kv_udar.py --metr u-`): все четыре строки — ямб (7, 7, 7, 8 слогов). «Verehren» (чтут) передано как «славят»: Q-глагола «чтить» нет, нкв. *aita-* «revere» есть, но в строку не лёг.
