@@ -71,9 +71,9 @@
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** Четыре «не для ИИ» в ECA не трогать (`eca-status.tsv`).
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя: **PU ч. II = «Philosophie der Psychologie – Ein Fragment»** (`ext/wn/ppf.txt`, откуда — `notes/tehnika.md`). Квенья — **курс Eldamo, а не *Atanquesta*** (совет автора). **ᴱQ/ᴹQ — периоды замысла Толкина, а не древние слои языка** (`notes/otvet-avtoru-22.md`). Начаты «Координаты», Вегерт.
-- **Uscript: слепые пробы** (`notes/uscript.md`): осталось стр. 1, 28, 32 v2. Рендер → прочтение → **коммит** → ключ **только к прочитанному**.
+- **Uscript: слепые пробы** (`notes/uscript.md`): осталось стр. 1, 32 v2; рендер — `pdf_kartinka.py`. Рендер → прочтение → **коммит** → ключ **только к прочитанному**.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/`.
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–21); стихи `proekty/hokku/svoyo-1..70.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–22); стихи `proekty/hokku/svoyo-1..71.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
