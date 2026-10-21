@@ -11,7 +11,7 @@
 | hendu ruine | *ruine* | мн. ч. от *ruina* «blazing, fiery» (а не *ruinë* «огонь») | [E] |
 | Hendu walde ar ilvanye | *walde* | мн. ч. от *walda* = *valda* «excited, wild» (PE17/154) — «страстные» | [E], см. ниже |
 |  | *ilvanye* | мн. ч. от *ilvan(y)a* «perfect» — «прекрасные» | [E] |
-| Talca melin tu! Talca rucin tu! | *talca* | **ᴹQ *talka* «\*that much, that great»** — коррелятив *ta* «that» + *-lka* «much» (DRC 1948, PE23/108). *Talca melin tu!* — «Вот сколько я их люблю!» [Сначала я написал: «только „post, mark“, засвидетельствовано лишь внутри *lantalca*» — и это ушло автору в P.S. Искал по *c*, а ᴹQ в Eldamo пишется через *k*. Нашёл проверяющий субагент, сверил я сам. Q *talca* «post, mark» (VT42/8) — омоним.] | [E] |
+| Talca melin tu! Talca rucin tu! | *talca* | **ᴹQ *talka* «\*that much, that great»** — коррелятив *ta* «that» + *-lka* «much» (DRC 1948, PE23/108). *Talca melin tu!* — «Вот сколько я их люблю!» [Сначала я написал: «только „post, mark“, засвидетельствовано лишь внутри *lantalca*» — и это ушло автору в P.S. Искал по *c*, а ᴹQ в Eldamo пишется через *k*. Нашёл проверяющий субагент, сверил я сам. Q *talca* «post, mark» (VT42/8) — омоним.] **Источник автора лежит у него же:** `inbox/Доклад/correlatives_PE23.png`, строка «how much/great», столбец TA: «talka, tanalka». | [E] |
 |  | *melin*, *rucin* | *mel-* «love», *ruc-* «feel fear» + -n «я»; *tu* — «их (двоих)» [E] q *tu* «them (dual)» | [E] |
 | Sin nin cene tu ne ú mára lú | *sin* | q *sin¹* «*this much»; ᴹQ *sin* «now» | [E] |
 |  | *nin* | «мне», как в «Намариэ» (*sí man i yulma nin enquantuva?*) | [E] q *ni*, ref *nin* «for me» LotR/377 |
