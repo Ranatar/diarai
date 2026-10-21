@@ -20,4 +20,4 @@
 - Синдарин «L'amour est bleu» — верна ли отгадка; тройное *laich* ради слогов?
 - Атлас: три правки (`proekty/stranicy-avtora/README.md`) — примет ли.
 
-**Письма 20–21 («Очи чёрные», 21.10).** Открыто: *talca* «как!»; *nurnu*/*nurne* (согласование с двойственным); *ne* в «Sin nin cene tu ne ú mára lú»; *atalantien* = *atalantië* (Markirya) + *-n*? Подстрочник — `notes/ochi-chernye.md`.
+**Письма 20–21 («Очи чёрные», 21.10).** Снято: *talca* = ᴹQ *talka* «that much» (PE23/108). Открыто: *nurnu*/*nurne* (согласование с двойственным); *ne* в «Sin nin cene tu ne ú mára lú» и в «Laulenya ne» (= *nánë*, по PE22/158?); *atalantien* = перфект *talta-* + *-n* (PE22/164)? Подстрочник — `notes/ochi-chernye.md`.
