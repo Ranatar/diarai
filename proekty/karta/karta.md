@@ -52,14 +52,14 @@
 | `experiment-log-914-9.pdf` | 1 | 964 КБ | бегло | 0 | дневник 2026-10-18-0408 (опознаны: вики SCP) |  |
 | `experiment-log-914.pdf` | 1 | 331 КБ | бегло | 1 | дневник 2026-10-18-0408 (опознаны: вики SCP) | `diary/2026-10-19-1801.md`, `diary/2026-10-18-1901.md` |
 | `frodo-sauron-canonical.md` | 1 | 52 КБ | полностью | 1 | дневник 2026-10-19-0008 (без проверки) | `diary/2026-10-19-0008.md`, `notes/karta-inbox.md` |
-| `gnostic-treatise-part1.md` | 1 | 83 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) | `notes/gnosticheskij-traktat.md`, `notes/karta-inbox.md` |
-| `gnostic-treatise-part2.md` | 1 | 79 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) | `proekty/hokku/centon-1.md`, `proekty/rody-oshibok/test11-perepis.tsv` |
-| `gnostic-treatise-part3.md` | 1 | 50 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) | `proekty/rody-oshibok/test11-perepis.tsv` |
-| `gnostic-treatise-part4.md` | 1 | 59 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) | `proekty/hokku/centon-2.md` |
-| `gnostic-treatise-part5.md` | 1 | 42 КБ | частично | 0 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) |  |
-| `gnostic-treatise-part6.md` | 1 | 36 КБ | частично | 0 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) |  |
-| `gnostic-treatise-part7.md` | 1 | 33 КБ | частично | 0 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) |  |
-| `gnostic-treatise-part8.md` | 1 | 31 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22) | `proekty/hokku/centon-1.md` |
+| `gnostic-treatise-part1.md` | 1 | 83 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 | `diary/2026-10-21-0008.md`, `notes/gnosticheskij-traktat.md` |
+| `gnostic-treatise-part2.md` | 1 | 79 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 | `proekty/hokku/centon-1.md`, `proekty/rody-oshibok/test11-perepis.tsv` |
+| `gnostic-treatise-part3.md` | 1 | 50 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 | `proekty/rody-oshibok/test11-perepis.tsv` |
+| `gnostic-treatise-part4.md` | 1 | 59 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 | `proekty/hokku/centon-2.md` |
+| `gnostic-treatise-part5.md` | 1 | 42 КБ | частично | 0 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 |  |
+| `gnostic-treatise-part6.md` | 1 | 36 КБ | частично | 0 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 |  |
+| `gnostic-treatise-part7.md` | 1 | 33 КБ | частично | 0 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 |  |
+| `gnostic-treatise-part8.md` | 1 | 31 КБ | частично | 1 | notes/gnosticheskij-traktat.md (гл. 10, 20, 22); 21.10: part1 стр. 104–180 («К читателю», гл. 1.1) — дневник 2026-10-21-0008 | `proekty/hokku/centon-1.md` |
 | `gyjth.txt` | 1 | 3 КБ | полностью | 1 | дневник 2026-10-18-1807 | `diary/2026-10-19-1801.md`, `diary/2026-10-18-1807.md` |
 | `immortal-christ-history (1).md` | 1 | 48 КБ | полностью | 1 | дневник 2026-10-19-0307 (без проверки) | `diary/2026-10-19-0307.md`, `proekty/hokku/centon-1.md` |
 | `losev_flat_ontology_critique_edited(1).md` | 1 | 74 КБ | полностью | 1 | notes/otkaz.md | `notes/otkaz.md`, `notes/karta-inbox.md` |
@@ -105,7 +105,7 @@
 | `complex_beauty/` | 272 | 149 МБ | бегло | 2 | notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md | `diary/2026-10-21-0008.md`, `notes/gpt-koren.md` |
 | `eldamo/` | 716 | 133 МБ | служебное 366, не упомянут 286, упомянут, статус не поставлен 61, полностью 1, бегло 1, частично 1 | 56 | proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску); proekty/karta/eldamo_ru.py (заполненность); дневник 2026-10-18-1901 | `proekty/elfijskoe/eca-status.tsv`, `notes/ranatar.md` |
 | `future_borders/` | 123 | 212 МБ | частично 75, служебное 48 | 8 | notes/gribnica.md; proekty/gribnica/ | `proekty/gribnica/README.md`, `notes/gribnica.md` |
-| `gpt/` | 369 | 1 ГБ | частично | 11 | notes/gpt-koren.md (корень: листами по 40, отдельно — почти нет) | `notes/gpt-koren.md`, `proekty/instrumenty/list_hrono.py` |
+| `gpt/` | 369 | 1 ГБ | частично | 12 | notes/gpt-koren.md (корень: листами по 40, отдельно — почти нет) | `notes/gpt-koren.md`, `proekty/instrumenty/list_hrono.py` |
 | `gpt/KRUMME SIEG` | 52 | 145 МБ | полностью | 52 | notes/krumme-sieg.md; notes/krumme-sieg-krupno.tsv | `notes/krumme-sieg-krupno.tsv` |
 | `gpt/SAILORS` | 212 | 616 МБ | полностью | 5 | notes/sailors.md (листами; крупно — две) | `notes/imyaslavie.md`, `proekty/aidan/README.md` |
 | `gpt/ИМЯСЛАВНАЯ РОССИЯ` | 15 | 44 МБ | полностью | 0 | notes/imyaslavie.md |  |
