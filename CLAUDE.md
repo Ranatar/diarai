@@ -70,8 +70,8 @@
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar (quettali.org). Письма — `notes/otvet-avtoru-2..18.md`; вопросы — `notes/voprosy-avtoru.md`.
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** ECA прочитан, четыре «не для ИИ» не трогать (`eca-status.tsv`).
 - **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`).
-- Читаю для себя: PU ч. I (`pu.py N`; подряд до § 155, дальше выборочно); ч. II нигде нет. Нечитанное — `karta/bez_statusa.py` (врёт; сверять `chital.py`). Начаты «Координаты», Uscript (**смотреть глазами**: знаков нет в тексте), Вегерт (`notes/koordinaty.md`, `uscript.md`, `wegert.md`).
-- Своё: эссе в `proekty/esse/` (`vo-imya.md` § 19, `strela.md`, `listy.md`); `proekty/wegert/` (портрет sin z и маятник, `notes/wegert.md`); **«Речи Пенголода и Эльфвине»** (`proekty/blanki/pengolod-i-elfvine*.md`, 1–16).
+- Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 305; ч. II нет). Нечитанное — `karta/bez_statusa.py` (врёт; сверять `chital.py`). Начаты «Координаты», Uscript (**смотреть глазами**: знаков нет в тексте), Вегерт (`notes/koordinaty.md`, `uscript.md`, `wegert.md`).
+- Своё: эссе в `proekty/esse/` (`vo-imya.md` § 19, `strela.md`, `listy.md`); `proekty/wegert/` (`notes/wegert.md`); **«Речи Пенголода и Эльфвине»** (`proekty/blanki/pengolod-i-elfvine*.md`, 1–16).
 - Стихи `proekty/hokku/svoyo-1..61.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (без `-I`), `slogi.py`, `kv_udar.py --stih`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
