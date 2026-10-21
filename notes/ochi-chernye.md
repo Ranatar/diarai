@@ -30,7 +30,7 @@
 | Laulenya ne maialassea | *laulë* нкв. «mode of life» + *-nya*; *mai-¹* «excellent; *well, happily» + *alassëa* «joyful» — «жил бы улыбаясь» | [E] |
 | Lelto atalantien | *lelto* — ᴱQ «you (emphatic plural familiar)», PE14/53 (у Толкина потом исправлено на *lelko*) | [E] |
 |  | *atalantien* | **скорее всего *atalantie* — перфект (reformed perfect) от q *talta-* «to slip, slide down, collapse, fall» (PE22/164; у Толкина *atalatie* >> *atalantie*) + *-n* «я»: «я пал».** «Вы — я погиб». [Сначала я предпочёл *atalantië*, мн. ч. от *atalantëa* «ruinous» (MC/222). Это тоже реальная форма, но перфект ложится на «сгубили» прямо. Поправка по проверке, сверено.] | [E] |
-| Aucóliet oi ninya márie | *aucol-* нкв. «bear away» + -ië (перфект?) + -t (двойств.); долгое *ó* — может быть, по правилу удлинения перед суффиксом у Ференца (*Atanquesta*, строки 350–358: **karuvase* → *karuváse*; догадка, не проверял, как Ференц строит перфект); *oi* «ever»; *ninya* «my»; *márië* «happiness» | [E] |
+| Aucóliet oi ninya márie | *aucol-* нкв. «bear away» + -ië (перфект?) + -t (двойств.); долгое *ó* — **признак перфекта**: у Ференца (*Atanquesta*, строка 1389) перфект — *-ie* + удлинение гласного основы (+ приращение, если основа на согласный): *ser-* → *esérie*, *tul-* → *utúlie*. Отсюда *aucol-* → *aucólie* (без приращения, основа на гласный) + *-t*: «[двое] унесли». [Сначала я предположил правило ударения со стр. 350–358; проверил по главе о перфекте — не оно.] *oi* «ever»; *ninya* «my»; *márië* «happiness» | [E] |
 
 ## Что я понял про перевод
 
