@@ -65,7 +65,7 @@ pismo-makulinu.md	14466	полностью	дневник 2026-10-18-0408 («п�
 pygmalion_effect_epistemology.md	56094	полностью	дневник 2026-10-20-0008 (§§ 7, 9–11 для себя; §§ 1–6 раньше — тест rody-oshibok; § 8 — notes/petlya.md; примечания и библиография не читаны)	5	diary/2026-10-20-0008.md, notes/petlya.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 rei_alternative_biography.md	21262	полностью	дневник 2026-10-18-1901 (без проверки)	2	diary/2026-10-18-1901.md, notes/karta-inbox.md
 syhur6ytr.stl	8632533	полностью	proekty/karta/stl-vidy.jpg	2	diary/2026-10-18-1901.md, proekty/lleo/korpus-tretij.txt
-uscript.pdf	1580906	частично	notes/uscript.md (21.10: стр. 1–7, 60, 65–68, картинка стр. 4)	7	diary/2026-10-21-0008.md, notes/wegert.md, notes/otvet-avtoru-17.md, notes/karta-inbox.md, notes/uscript.md, proekty/rody-oshibok/oshibki-2026-10-21-0008.tsv, proekty/esse/strela.md
+uscript.pdf	1580906	частично	notes/uscript.md (21.10: стр. 1–7, 48–49, 54–55, 60, 65–68, картинка стр. 4)	7	diary/2026-10-21-0008.md, notes/wegert.md, notes/otvet-avtoru-17.md, notes/karta-inbox.md, notes/uscript.md, proekty/rody-oshibok/oshibki-2026-10-21-0008.tsv, proekty/esse/strela.md
 uscript2.pdf	1485279	бегло	notes/uscript.md (21.10: стр. 1–3, картинка стр. 2)	3	notes/otvet-avtoru-17.md, notes/uscript.md, proekty/esse/strela.md
 warcraft3_campaign_epilogue.md	35452	полностью	дневник 2026-10-19-0008 (без проверки)	2	diary/2026-10-19-0008.md, proekty/hokku/centon-2.md
 warcraft3_goblin_campaign_detailed.md	86400	упомянут, статус не поставлен		2	proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
@@ -3367,7 +3367,7 @@ hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff	16028	служебно
 hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff2	13568	служебное		0	
 hwph-xml/tools/i18n_check.py	5914	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/tools/persons_review.py	7961	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	11	diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/most/most.py, proekty/most/nichya.py
+hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	12	diary/2026-10-21-0008.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/most/most.py
 hwph-xml/xq/common.xq	9896	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/global.xq	10205	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/index.xq	11792	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -4723,7 +4723,7 @@ translation-chaos/frontend/css/game-modes.css	17862	бегло	notes/karta-inbox
 translation-chaos/frontend/css/styles.css	9224	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/animations.js	3973	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/api.js	4040	бегло	notes/karta-inbox.md (README)	13	~diary/2026-10-20-0008.md, diary/2026-10-19-1510.md, ~notes/krumme-sieg.md, notes/otvet-avtoru-9.md, ~proekty/elfijskoe/README.md, ~proekty/sverka-wikidata/skachat.py, proekty/most/sosedi.py, proekty/most/nichya.py
-translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	38	~diary/2026-10-18-1457.md, ~diary/2026-10-19-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-20-1820.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-19-0907.md, ~diary/2026-10-20-0008.md
+translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	39	~diary/2026-10-18-1457.md, ~diary/2026-10-19-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-20-1820.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-19-0907.md, ~diary/2026-10-20-0008.md
 translation-chaos/frontend/js/export.js	1204	бегло	notes/karta-inbox.md (README)	1	~proekty/rody-oshibok/test10-perepis.tsv
 translation-chaos/frontend/js/game-modes.js	16501	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/visualizations.js	14126	бегло	notes/karta-inbox.md (README)	0	
@@ -4801,7 +4801,7 @@ wormlisp/src/batch/orchestrator.lisp	7857	частично	proekty/cherv/README.
 wormlisp/src/batch/package.lisp	699	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/batch/sweep.lisp	15039	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/batch/worker.lisp	5180	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/codegen/compile.lisp	62506	частично	proekty/cherv/README.md (запущен; код — выборочно)	18	proekty/rody-oshibok/test11_izvlech.py, proekty/rody-oshibok/test10_izvlech.py, proekty/rody-oshibok/test8_izvlech.py, proekty/rody-oshibok/test6_izvlech.py, proekty/instrumenty/mutanty.py, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/slova_vremeni.py, proekty/instrumenty/eldamo_gloss.py
+wormlisp/src/codegen/compile.lisp	62506	частично	proekty/cherv/README.md (запущен; код — выборочно)	19	proekty/rody-oshibok/test11_izvlech.py, proekty/rody-oshibok/test10_izvlech.py, proekty/rody-oshibok/test8_izvlech.py, proekty/rody-oshibok/test6_izvlech.py, proekty/instrumenty/mutanty.py, proekty/instrumenty/eldamo_statya.py, proekty/instrumenty/slova_vremeni.py, proekty/instrumenty/eldamo_gloss.py
 wormlisp/src/codegen/emit.lisp	7979	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/codegen/package.lisp	1489	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/codegen/support.lisp	952	частично	proekty/cherv/README.md (запущен; код — выборочно)	3	notes/monadologiya.md, proekty/elfijskoe/orbis-slovar.md, proekty/tractatus-quenya/perevod.md
