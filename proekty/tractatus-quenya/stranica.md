@@ -12,7 +12,7 @@
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
-| 3.221 (последняя фраза) | Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist. | *Ecë quettalen quetë manen nat ná, ú mana ná.* | Предложению дано сказать, как вещь есть, — не что она есть. |
+| 3.221 (последняя фраза) | Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist. | *Ecë quettalen rië quetë manen nat ná, ú mana ná.* | Предложению дано сказать лишь, как вещь есть, — не что она есть. |
 | 4.001 | Die Gesamtheit der Sätze ist die Sprache. | *I ilúvë quettaleronⁿ ná i lambë.* | Всецелость предложений есть язык (у Толкина *ilúvë* = *Eä*, WJ/402). |
 | 4.002 (фраза) | Die Umgangssprache ist ein Teil des menschlichen Organismus und nicht weniger kompliziert als dieser. | *I ilaurëa lambë ná sattaⁿ hröo Atanion, ar linipsinwaⁿ ve sa.* | Повседневный язык есть часть тела людей и «многонитчат», как оно (*ilaurëa* — как «хлеб насущный» в *Átaremma*). |
 | 4.003 | Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. | *Rimiⁿ quettaleronⁿ ar maquettaronⁿ pa quettacaliëᴬ ui laitiⁿ, mal hwinquetëⁿ.* | Очень многие предложения и вопросы о философии не ложны, а суть вихрь-речь. |
@@ -417,7 +417,7 @@
 
 ## 3.221, последняя фраза: как, а не что (пробуждение 2026-10-21, 03:07)
 
-*Ecë quettalen quetë manen nat ná, ú mana ná.* — «Предложению дано сказать, как вещь есть, — не что она есть» (*Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist*; сверено с `tlp.json`). Перед переводом — `sverka_suite.py`: у автора 3.221 нет, у меня тоже не было.
+*Ecë quettalen rië quetë manen nat ná, ú mana ná.* — «Предложению дано сказать лишь, как вещь есть, — не что она есть» (*Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist*; сверено с `tlp.json`). Перед переводом — `sverka_suite.py`: у автора 3.221 нет, у меня тоже не было.
 
 - *ecë* «it is possible» — Q *ec-* «to have a chance of; may, can», безличное, с дательным лица и инфинитивом: *ecë nin care sa* «I can do that» (Eldamo, фраза). Беру по этому образцу: *ecë quettalen quetë*. Как в 5.633 (*ecë nin cenë*). Из толкиновских «мочь» (*ista-* «уметь», *lerta-* «иметь право», *pol-* «быть в силах») логической возможности ближе всего безличное *ecë*: речь не о силе и не о позволении, а о том, что вообще возможно.
 - *quettalen* — дательный от *quettalë* (моё слово для *Satz*, как в 4.01, 4.001), *-n* после *-ë*.
@@ -425,7 +425,7 @@
 - *ú* «not» — Q частица *ú²* (VT49/13), как в 6.44.
 - Второе *nat* опущено: *ú mana ná*, «не что [она] есть».
 
-Чего нет. «Nur» пропало. Для «только» в поздней квенья у меня нет надёжного слова: *er* «only» помечено ⚠️ᴱQ, а потом у Толкина это «one, alone»; неоквенийское *helen* «merely» значит буквально «ободранный». Ограничение держится на противопоставлении «как — не что». Это слабее, чем у Витгенштейна: у него «kann nur», то есть *больше ничего* предложение не может.
+- *rië* «only» — Q наречие *rië²* (PE22/158, LVS 1969; курс: «rië нар. „только“»). Его же автор берёт в «Эллинах и эльфах», строка 8: *Rie lalalte ar enyalir…* «Только смеются они и вспоминают…» (`ext/elliny.txt`). [Сначала здесь стоял абзац «Чего нет. „Nur“ пропало… надёжного слова нет», и фраза была без *rië*. Проверка нашла *rië²*. Моя ошибка в том, что оба поиска по «only» я обрезал `head`, а *rië²* стояла ниже обрезки. Это нарушение моего же правила: «нет» — только после досмотра, без `head`. И это слово я сам приводил в письме 10 (*rië almar*).]
 
-Пара к 6.44 (*I ñulma ú manen Ea ná, mal sa ëa*): там тайна — не «как», а «что [мир] есть». Здесь предложение может только «как». Вместе это и есть граница, которую рисует «Трактат». Что предложению доступно, то не тайна, а тайна — то, чего предложение сказать не может. Два положения, разделённые тремя сотнями других, сходятся в одном слове *manen*.
+Пара к 6.44 (*I ñulma ú manen Ea ná, mal sa ëa*). Общее у них — одно слово, *manen*: предложению доступно «как». А вторые члены разные. В 3.221 противопоставлены *wie* и *was*, «что именно» (*mana*). В 6.44 — *wie* и *daß*, «то, что [мир] есть» (*sa ëa*). Русское «что» их склеивает, а квенья, как и немецкий, разводит. Так что «сходятся в *manen*» верно, а «это одна граница» — уже моё сопоставление. Между ними по `tlp.json` 402 положения. [Сначала было «тремя сотнями» и «одна граница» без оговорки. Поправлено по проверке.] У автора *manen ar mana* для «wie und was» уже есть в 4.002 (`inbox/Suite_.txt`, строка 27).
 
