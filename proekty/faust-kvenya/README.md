@@ -103,3 +103,25 @@
 - **Связка опущена** — это допустимо: «Если подлежащее — не местоимение, глагол *ná* часто опускается» (курс, стр. 1902, по проверяющему).
 - *tumna* — ᴹQ, позднего «глубокий» нет. *coron* «сфера» — у позднего Толкина нет, слово взято у автора.
 Метр (`kv_udar.py --metr u-`): строки 1–4, 6–8 — ямб с женскими и дактилическими окончаниями. Строка 5 — с одним лишним слабым слогом.
+
+---
+
+# Строфа Михаила (начата 21.10, ~07:10; строки 1–4, черновик 0, проверке не отдавал)
+
+> MICHAEL. Und Stürme brausen um die Wette / Vom Meer aufs Land, vom Land aufs Meer, / und bilden wütend eine Kette / Der tiefsten Wirkung rings umher. / Da flammt ein blitzendes Verheeren / Dem Pfade vor des Donnerschlags. / Doch deine Boten, Herr, verehren / Das sanfte Wandeln deines Tags. (`ext/faust/faust.txt`, 383–391)
+
+> **Ar raumor norir, rávië,**
+> **ëarello nórenna, nórello ëarenna,**
+> **ar limil carir ahanen**
+> **antumna tyardo, pelila.**
+
+«И бури бегут, ревущие, / с моря на землю, с земли на море, / и цепь творят яростью / глубочайшего действия, обходящую [кругом]».
+
+- *raumo* «(noise of a) storm» — Q, «Markirya» (MC/222–223), мн. ч. *raumor*. Это «шум бури», то есть сразу и «Stürme», и «brausen».
+- *nor-* «to run» — Q (*norne* «he ran», PE17/58), аорист мн. ч. *norir*. «Um die Wette» (наперегонки) передано только бегом: глагола «состязаться» в Eldamo не нашёл (`eldamo_gloss.py compete` — пусто).
+- *rávië* — мн. ч. от Q *rávëa* «roaring» (*-ëa → -ië*, как *laurëa → laurië*; по памяти о курсе, правило не сверял).
+- *ëarello nórenna, nórello ëarenna* — исходный и направительный падежи от Q *ëar* и *nórë* «land, country». Образец — *Et Eärello Endorenna* Элендиля. Хиазм Гёте сохранён, но строка в 14 слогов, амфибрахий вместо ямба.
+- *limil* «chain» — **нкв.**; *aha* «rage» — Q, творительный *ahanen*; *car-* «делать», аорист мн. ч. *carir*.
+- *\*antumna* — моё: превосходная приставка *an-* (как в засвидетельствованном *ancalima* «brightest») + ᴹQ *tumna*. *tyarda* «result, \*effect» — **нкв.**, род. п. *tyardo*.
+- *pelila* — действительное причастие от Q *pel-* «to go round, encircle» (курс: *-ila*, `kvenya-formy.md`). Здесь у *pel-* как раз позднее значение «окружать», в отличие от Гавриила.
+Дальше (строки 5–8): «Da flammt ein blitzendes Verheeren…» — *íta* «flash, \*lightning» (Q), *nancar-* «undo», *hundo* (нкв.). В последней строке «sanfte» хочу передать через *milya*: это слово автора из «Ты и вы» (*lai nalye milya*).
