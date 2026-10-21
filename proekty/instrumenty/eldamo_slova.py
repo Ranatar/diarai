@@ -13,8 +13,10 @@ xml = open(os.path.join(root, "inbox", "eldamo", "src", "data", "eldamo-data.xml
 # Я искал talca и написал автору, что у Толкина его нет отдельным словом, а ᴹQ talka «*that much» (PE23/108)
 # стояло рядом. Теперь сравнение идёт по ключу: c→k, ë→e, регистр не важен.
 # 21.10, 09:44: и qu/kw→q — ᴹQ пишет ilqa, а автор и поздний Q — ilqua.
+# 21.10, 12:19: и дефисы по краям — глаголы в Eldamo записаны maura-, cimba-, суффиксы -sta. В 09:08 я написал
+# в «Трактате» «maura — в Eldamo нет», а там нкв. maura- «to need». В tehnika.md про linda- было записано, а в ключ не попало.
 def key(w):
-    return w.lower().replace("qu", "q").replace("kw", "q").replace("c", "k").replace("ë", "e")
+    return w.lower().strip("-").replace("qu", "q").replace("kw", "q").replace("c", "k").replace("ë", "e")
 want = {key(w) for w in args}
 seen = {}
 for m in re.finditer(r'<word\b([^>]*)>', xml):
