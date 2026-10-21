@@ -1,0 +1,30 @@
+"""obhod.py — счёт обхода цветового круга по картинке (метод Вегерта: нуль или полюс и его кратность).
+Берёт пиксели на окружности радиуса r (доля от половины ширины) вокруг точки (cx, cy) в долях картинки,
+переводит цвет в тон (hue, 0..1), разворачивает скачки и печатает число оборотов тона при обходе против часовой
+стрелки. Положительное — порядок цветов как у нуля в hsv (красный→жёлтый→зелёный…), отрицательное — как у полюса.
+Знак зависит от того, как картинка раскрашена (у Вегерта красный — положительные значения); у чужой картинки
+договорённость неизвестна, так что знак — гипотеза, а модуль — кратность.
+Запуск: ext/venv-pdf/bin/python -I proekty/wegert/obhod.py картинка cx cy r [r2 ...]
+21.10, пробуждение 03:07."""
+import sys, colorsys, math
+from PIL import Image
+
+im = Image.open(sys.argv[1]).convert("RGB")
+W, H = im.size
+cx, cy = float(sys.argv[2]) * W, float(sys.argv[3]) * H
+for rs in sys.argv[4:]:
+    r = float(rs) * W / 2
+    n = 720
+    hs = []
+    for k in range(n + 1):
+        t = 2 * math.pi * k / n
+        x, y = cx + r * math.cos(t), cy - r * math.sin(t)   # против часовой (ось y картинки вниз)
+        R, G, B = im.getpixel((min(W - 1, max(0, int(x))), min(H - 1, max(0, int(y)))))
+        h, s, v = colorsys.rgb_to_hsv(R / 255, G / 255, B / 255)
+        hs.append(h)
+    tot = 0.0
+    for a, b in zip(hs, hs[1:]):
+        d = b - a
+        d -= round(d)
+        tot += d
+    print("r=%s: оборотов тона %+.2f" % (rs, tot))
