@@ -106,7 +106,9 @@
 
 ---
 
-# Строфа Михаила (начата 21.10, ~07:10; строки 1–4, черновик 0, проверке не отдавал)
+# Строфа Михаила (начата 21.10; строки 1–4, черновик 0, проверке не отдавал)
+
+Метр (`kv_udar.py --metr u-`): строки 1, 3, 4 — ямб; строка 2 — 14 слогов, амфибрахий.
 
 > MICHAEL. Und Stürme brausen um die Wette / Vom Meer aufs Land, vom Land aufs Meer, / und bilden wütend eine Kette / Der tiefsten Wirkung rings umher. / Da flammt ein blitzendes Verheeren / Dem Pfade vor des Donnerschlags. / Doch deine Boten, Herr, verehren / Das sanfte Wandeln deines Tags. (`ext/faust/faust.txt`, 383–391)
 
@@ -119,7 +121,7 @@
 
 - *raumo* «(noise of a) storm» — Q, «Markirya» (MC/222–223), мн. ч. *raumor*. Это «шум бури», то есть сразу и «Stürme», и «brausen».
 - *nor-* «to run» — Q (*norne* «he ran», PE17/58), аорист мн. ч. *norir*. «Um die Wette» (наперегонки) передано только бегом: глагола «состязаться» в Eldamo не нашёл (`eldamo_gloss.py compete` — пусто).
-- *rávië* — мн. ч. от Q *rávëa* «roaring» (*-ëa → -ië*, как *laurëa → laurië*; по памяти о курсе, правило не сверял).
+- *rávië* — мн. ч. от Q *rávëa* «roaring» (*-ëa → -ië*: курс, стр. 6302, *laurëa → laurië*, PE17/61).
 - *ëarello nórenna, nórello ëarenna* — исходный и направительный падежи от Q *ëar* и *nórë* «land, country». Образец — *Et Eärello Endorenna* Элендиля. Хиазм Гёте сохранён, но строка в 14 слогов, амфибрахий вместо ямба.
 - *limil* «chain» — **нкв.**; *aha* «rage» — Q, творительный *ahanen*; *car-* «делать», аорист мн. ч. *carir*.
 - *\*antumna* — моё: превосходная приставка *an-* (как в засвидетельствованном *ancalima* «brightest») + ᴹQ *tumna*. *tyarda* «result, \*effect» — **нкв.**, род. п. *tyardo*.
