@@ -23,6 +23,7 @@
 | 5.61 | Die Logik erfüllt die Welt; die Grenzen der Welt sind auch ihre Grenzen. | *I axanwëⁿ quanta Ambar; i landar Ambaro nar ta landaryar.* | Логика наполняет мир; границы мира суть также её границы. |
 | 5.621 | Die Welt und das Leben sind Eins. | *Ambar ar coivië nar er.* | Мир и жизнь — одно. |
 | 5.63 | Ich bin meine Welt. (Der Mikrokosmos.) | *Inyë ná Ambarinya. (I \*Ambarincë.)* | Я есть мой мир. (Мирок.) |
+| 5.631 (первая фраза) | Das denkende, vorstellende, Subjekt gibt es nicht. | *Lá ëa anamoᴬ arwa sanwëo ar símo.* | Нет субъекта, владеющего мыслью и воображением (*arwa* — «владеющий, распоряжающийся», ᴹQ). |
 | 5.632 | Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt. | *I anamoᴬ ui Ambarwa, mal Ambar landa.* (точнее, видимо, *mal landa i Ambaro*: по PE22/80 свободное сочетание делает неопределённым мир, а не границу) | Субъект не принадлежит миру, но — граница мира. |
 | 5.633 | Wo in der Welt ist ein metaphysisches Subjekt zu merken? | *Massë Eassë ecë nin cenë imni?* | Где в Эа мне можно увидеть себя? (вольно) |
 | 6.4 | Alle Sätze sind gleichwertig. | *Valda ilyë quettaleron imya ná.* | Ценность всех предложений одна и та же. |
