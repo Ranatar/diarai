@@ -21,7 +21,7 @@
 |---|---|---|
 | Helle Instrumente singen. | Cal'ne linda-tammar lírar | верно, кроме *Cal'ne* — «светлые» (helle) |
 | Durch der Garten Blätterrahmen | Ter lot-arwo lasse-cantar | верно по смыслу: «рамы листьев» |
-| Schwirrt das Lachen schöner Damen. | Wíla vanye níon lalda | **ошибка**: *níon* — не «пчела» (ᴱQ *nion*), а «женщин» (род. мн. от *nís*; форму не сверял); *wíla* — «порхает», то есть schwirrt |
+| Schwirrt das Lachen schöner Damen. | Wíla vanye níon lalda | **ошибка**: *níon* — не «пчела» (ᴱQ *nion*), а «женщин» (род. мн.; от *nís* по курсу было бы *nission*, так что, видимо, от ᴹQ *ní* «woman, female», Ety; форму не сверял — поправка по проверке); *wíla* — «порхает», то есть schwirrt |
 | Leise junge Mütter singen. | Nesse ammi quilda lírar | *nessë* «юные», *ammi* «матери» |
 | Heimlich haucht an blumigen Fenstern | Muina nísa alma-lattin | *nísa* — не «аромат», а глагол: Eldamo, q *nis-* «to smell sweetly» (UT/167) |
 | Duft von Weihrauch, Teer und Flieder. | Ve helissar, nisque, suhte | *nisquë* «incense» = Weihrauch, *suhtë* «resin» = Teer. *helissar* в Eldamo — нкв. «amethyst», а не «сирень»: **спросить автора**, почему выбрано это слово. *Ve* не разобрал. |
