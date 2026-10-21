@@ -1,6 +1,6 @@
 # файл inbox	байт	статус	где разобрано	упоминаний	мои файлы (до 8; ~ — слабое, по имени папки)
 1794_Samuel_Dunn_Wall_Map_of_the_World_in_Hemispheres_-_Geographicus_-_World2-dunn-1794.jpg	9350888	полностью	дневник 2026-10-18-1901 (глазом; проекция — по делениям экватора)	0	
-A naked tree_ love sonnets to C.S. Lewis and other poems{Davidman, Joy _ King, Don W}.epub	256342	частично	notes/davidman.md (дневник 2026-10-19-2019: предисловие, «Poems to C. S. Lewis», все 45 сонетов к Льюису, 1939 год выборочно; ранние стихи и приложение — нет; 21.10: из «Poems 1929–1938» прочитаны строки 203–372, 2660–3117, 9326–9707 и 12442–12611 файла ext/tmp/davidman/all.txt, по дневнику 2026-10-21-0008)	0	
+A naked tree_ love sonnets to C.S. Lewis and other poems{Davidman, Joy _ King, Don W}.epub	256342	частично	notes/davidman.md (дневник 2026-10-19-2019: предисловие, «Poems to C. S. Lewis», все 45 сонетов к Льюису, 1939 год выборочно; ранние стихи и приложение — нет; 21.10: из «Poems 1929–1938» прочитаны строки 203–372, 2660–3117, 9326–9995 и 12442–12611 файла ext/tmp/davidman/all.txt, по дневнику 2026-10-21-0008)	0	
 Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf	85524	полностью	дневник 2026-10-18-0408 («Эллины и эльфы»)	0	
 GORAN2.TXT	47952	полностью	дневник 2026-10-18-1901; 2026-10-18-2120 (о рефлексивности); 2026-10-19-2107 (прочитан повторно, как новый — см. дневник 2026-10-20-0008) (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866, копия — ext/tmp/goran2.txt)	4	diary/2026-10-19-2107.md, diary/2026-10-20-0008.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 Khaydegger_chastushki.txt	3505	полностью	notes/sito-2020.md	2	notes/sito-2020.md, proekty/proverki/sito_2020d.py
@@ -3787,7 +3787,7 @@ philosphaira/app/modules/ui/hint.js	2024	упомянут, статус не п�
 philosphaira/app/modules/ui/legend.js	18824	упомянут, статус не поставлен		8	diary/2026-10-18-1640.md, diary/2026-10-18-0737.md, diary/2026-10-18-0842.md, notes/gpt-koren.md, notes/krumme-sieg.md, notes/karta-inbox.md, proekty/hokku/svoyo-9.md, proekty/lleo/korpus-tretij.txt
 philosphaira/app/modules/ui/link-state.js	15364	не упомянут		0	
 philosphaira/app/modules/ui/notifications.js	4708	не упомянут		0	
-philosphaira/app/modules/ui/panels.js	1563	не упомянут		0	
+philosphaira/app/modules/ui/panels.js	1563	упомянут, статус не поставлен		1	proekty/wegert/tajl.py
 philosphaira/app/modules/ui/search-legend.js	6247	не упомянут		0	
 philosphaira/app/modules/ui/search-link.js	6233	не упомянут		0	
 philosphaira/app/modules/ui/search-philosopher.js	4581	не упомянут		0	
@@ -5658,7 +5658,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/Atanquesta.htm	1549603	упомянут, статус не поставлен		1	proekty/elfijskoe/README.md
 Доклад/Q pronoun notes from PE23.xlsx	15886	не упомянут		0	
 Доклад/Quenya; Quetin i lambë eldaiva - a Quenya-Course (Renk).pdf	1301404	частично	proekty/tractatus-quenya/perevod.md (справочник: §§ по поиску)	0	
-Доклад/correlatives_PE23.png	540841	полностью	proekty/tractatus-quenya/perevod.md	2	diary/2026-10-18-1640.md, proekty/tractatus-quenya/perevod.md
+Доклад/correlatives_PE23.png	540841	полностью	proekty/tractatus-quenya/perevod.md	3	diary/2026-10-18-1640.md, notes/otvet-avtoru-17.md, proekty/tractatus-quenya/perevod.md
 Доклад/fauskanger_h_k_lambe_eldaiva_the_language_of_the_elves_compl.pdf	2555408	не упомянут		0	
 Доклад/view.png	2083	упомянут, статус не поставлен		1	~proekty/tractatus-quenya/perevod.md
 Доклад/Философские термины на квэнья.pdf	1322098	полностью	дневник 2026-10-18-0510; proekty/tractatus-quenya/	2	proekty/blanki/pengolod-i-elfvine.md, proekty/tractatus-quenya/README.md

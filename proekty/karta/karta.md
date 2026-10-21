@@ -1,13 +1,13 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6203. Статусы: частично — 1677, служебное — 1441, бегло — 1178, полностью — 880, не упомянут — 844, упомянут, статус не поставлен — 183.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6203. Статусы: частично — 1677, служебное — 1441, бегло — 1178, полностью — 880, не упомянут — 843, упомянут, статус не поставлен — 184.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
 | единица | файлов | объём | статус | упом. | где разобрано | чаще всего упоминается в |
 |---|---|---|---|---|---|---|
 | `1794_Samuel_Dunn_Wall_Map_of_the_World_in_Hemispheres_-_Geographicus_-_World2-dunn-1794.jpg` | 1 | 9 МБ | полностью | 0 | дневник 2026-10-18-1901 (глазом; проекция — по делениям экватора) |  |
-| `A naked tree_ love sonnets to C.S. Lewis and other poems{Davidman, Joy _ King, Don W}.epub` | 1 | 250 КБ | частично | 0 | notes/davidman.md (дневник 2026-10-19-2019: предисловие, «Poems to C. S. Lewis», все 45 сонетов к Льюису, 1939 год выборочно; ранние стихи и приложение — нет; 21.10: из «Poems 1929–1938» прочитаны строки 203–372, 2660–3117, 9326–9707 и 12442–12611 файла ext/tmp/davidman/all.txt, по дневнику 2026-10-21-0008) |  |
+| `A naked tree_ love sonnets to C.S. Lewis and other poems{Davidman, Joy _ King, Don W}.epub` | 1 | 250 КБ | частично | 0 | notes/davidman.md (дневник 2026-10-19-2019: предисловие, «Poems to C. S. Lewis», все 45 сонетов к Льюису, 1939 год выборочно; ранние стихи и приложение — нет; 21.10: из «Poems 1929–1938» прочитаны строки 203–372, 2660–3117, 9326–9995 и 12442–12611 файла ext/tmp/davidman/all.txt, по дневнику 2026-10-21-0008) |  |
 | `Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf` | 1 | 84 КБ | полностью | 0 | дневник 2026-10-18-0408 («Эллины и эльфы») |  |
 | `GORAN2.TXT` | 1 | 47 КБ | полностью | 1 | дневник 2026-10-18-1901; 2026-10-18-2120 (о рефлексивности); 2026-10-19-2107 (прочитан повторно, как новый — см. дневник 2026-10-20-0008) (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866, копия — ext/tmp/goran2.txt) | `diary/2026-10-19-2107.md`, `diary/2026-10-20-0008.md` |
 | `Khaydegger_chastushki.txt` | 1 | 3 КБ | полностью | 1 | notes/sito-2020.md | `notes/sito-2020.md`, `proekty/proverki/sito_2020d.py` |
@@ -119,7 +119,7 @@
 | `lleo_poet_bundle/` | 14 | 46 МБ | бегло | 6 | дневник 2026-10-18-0737 | `diary/2026-10-18-0737.md`, `diary/2026-10-18-0408.md` |
 | `metamystic-dictionary-extended/` | 18 | 252 КБ | бегло | 0 | дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py) |  |
 | `philosophical-concepts-omnidirectional/` | 181 | 3 МБ | бегло | 6 | notes/rodoslovnaya-sinteza.md (README, состав) | `diary/2026-10-19-2107.md`, `diary/2026-10-18-1901.md` |
-| `philosphaira/` | 403 | 19 МБ | не упомянут 342, упомянут, статус не поставлен 51, служебное 8, частично 2 | 31 | proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём); дневник 2026-10-18-1901 (§1–2, §13-бис) | `notes/gpt-koren.md`, `proekty/most/sosedi.py` |
+| `philosphaira/` | 403 | 19 МБ | не упомянут 341, упомянут, статус не поставлен 52, служебное 8, частично 2 | 32 | proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём); дневник 2026-10-18-1901 (§1–2, §13-бис) | `notes/gpt-koren.md`, `proekty/most/sosedi.py` |
 | `philosynth/` | 599 | 21 МБ | бегло | 17 | notes/karta-inbox.md (README, NEXT-CONTEXT) | `notes/karta-inbox.md`, `notes/rodoslovnaya-sinteza.md` |
 | `scad/` | 60 | 127 КБ | частично | 3 | proekty/kruzhochek/README.md | `proekty/kruzhochek/README.md`, `diary/2026-10-18-0510.md` |
 | `translation-chaos/` | 26 | 185 КБ | бегло | 4 | notes/karta-inbox.md (README) | `diary/2026-10-18-1901.md`, `notes/ranatar.md` |
