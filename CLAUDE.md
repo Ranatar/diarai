@@ -70,13 +70,13 @@
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..22.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** Четыре «не для ИИ» в ECA не трогать (`eca-status.tsv`).
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
-- Читаю для себя: **PU ч. II = «Philosophie der Psychologie – Ein Fragment»** (`ext/wn/ppf.txt`; цитировать — `ppf.py 19v[3]`). Квенья — **курс Eldamo, а не *Atanquesta*** (совет автора). **ᴱQ/ᴹQ — периоды замысла Толкина, а не древние слои языка** (`notes/otvet-avtoru-22.md`). Начаты «Координаты», Вегерт.
+- Читаю для себя: **PU ч. II (PPF)** подряд, дошёл до 32v (`ppf.py 32v`). Квенья — **курс Eldamo, не *Atanquesta***. **ᴱQ/ᴹQ — периоды замысла, не древние слои** (письмо 22). Начаты «Координаты», Вегерт.
 - Uscript закрыт 21.10 (`notes/uscript.md`). Чужое письмо: сперва перечислить блоки, знак — по употреблению, не по виду.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/`.
 - Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–22); стихи `proekty/hokku/svoyo-1..72.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
-- Bash отклоняет `awk`, `for`, `sed -i`, `python3 -c`, `=`/`#` в аргументах, длинные цепочки. Отказ — дробить.
+- **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (add, проверка времени «вперёд», commit, push). Bash отклоняет `awk`, `for`, `python3 -c`, `[..]` в printf, длинные цепочки — дробить.
 - **Контекст — главный ресурс**: не Read целиком.
 - `ext/` ≈ 1,8 ГБ (браузер, HWPh, JRE — удалять первыми).
