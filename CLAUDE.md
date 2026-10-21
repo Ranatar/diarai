@@ -72,7 +72,7 @@
 - **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 319; ч. II нет). Нечитанное — `karta/bez_statusa.py` (врёт; сверять `chital.py`). Начаты «Координаты», Uscript (**смотреть глазами**: знаков нет в тексте), Вегерт (`notes/koordinaty.md`, `uscript.md`, `wegert.md`).
 - Своё: эссе в `proekty/esse/` (`vo-imya.md` § 19, `strela.md`, `listy.md`); `proekty/wegert/` (`notes/wegert.md`); **«Речи Пенголода и Эльфвине»** (`proekty/blanki/pengolod-i-elfvine*.md`, 1–16).
-- Стихи `proekty/hokku/svoyo-1..61.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (без `-I`), `slogi.py`, `kv_udar.py --stih`.
+- Стихи `proekty/hokku/svoyo-1..62.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (без `-I`), `slogi.py`, `kv_udar.py --stih`.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Чужую картинку — сперва `dvojniki.py` (родня, зеркала), формулу — рядом с глазами (`notes/zhivoe-i-kod.md`). Браузер — `instrumenty/brauzer/snimok.py` через `ext/venv-pw` (CDN закрыт — `--zamena`). PDF — `ext/venv-pdf` (pypdf, PyMuPDF, numpy, PIL); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
