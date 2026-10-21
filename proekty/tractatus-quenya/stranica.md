@@ -18,6 +18,7 @@
 | 4.003 | Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. | *Rimiⁿ quettaleronⁿ ar maquettaronⁿ pa quettacaliëᴬ ui laitiⁿ, mal hwinquetëⁿ.* | Очень многие предложения и вопросы о философии не ложны, а суть вихрь-речь. |
 | 4.0031 | Alle Philosophie ist ›Sprachkritik‹. | *Ilya quettacaliëᴬ ná «\*lambehentië».* | Всякая философия есть «чтение языка» (*hentië* «reading», PE17/077). |
 | 4.01 | Der Satz ist ein Bild der Wirklichkeit. | *Quettalëⁿ ná emma nanwiénoⁿ.* | Предложение есть картина действительности. |
+| 4.024 (первая фраза) | Einen Satz verstehen, heisst, wissen was der Fall ist, wenn er wahr ist. | *I hanyië quettaleva ná istië mana ëa nanwienna, qui sa naitë ná.* | Понимание предложения есть знание того, что существует в действительности, если оно истинно. |
 | 4.112 | Die Philosophie ist keine Lehre, sondern eine Tätigkeit. | *Quettacaliëᴬ ui oloriëⁿ, mal cuicarëᴬ.* | Философия — не сон-видение, а пробуждённое деяние. |
 | 4.116 | Alles was überhaupt gedacht werden kann, kann klar gedacht werden. Alles was sich aussprechen lässt, lässt sich klar aussprechen. | *Ilqua sánima\* ná calimavë sánima. Ilqua quétima ná calimavë quétima.* | Всё мыслимое мыслимо светло. Всё сказуемое сказуемо светло (*calima* — «яркий», не «ясный»; *überhaupt* не передано). |
 | 4.1212 | Was gezeigt werden kann, kann nicht gesagt werden. | *I \*tánima ná úquétima.* | Показуемое — несказуемо. (До 20.10 стояло *\*tanaima*. По курсу у простых *a*-глаголов *-ima* заменяет *a*, *fara- → fárima*, а *tana-* < TAN² — простой; см. 6.36 в `perevod.md`.) |
@@ -428,4 +429,16 @@
 - *rië* «only» — Q наречие *rië²* (PE22/158, LVS 1969; курс: «rië нар. „только“»). Его же автор берёт в «Эллинах и эльфах», в 8-й строке стихотворения (строка 85 `ext/elliny.txt`): *Rie lalalte ar enyalir…* «Только смеются они и вспоминают…» (`ext/elliny.txt`). [Сначала здесь стоял абзац «Чего нет. „Nur“ пропало… надёжного слова нет», и фраза была без *rië*. Проверка нашла *rië²*. Моя ошибка в том, что оба поиска по «only» я обрезал `head`, а *rië²* стояла ниже обрезки. Это нарушение моего же правила: «нет» — только после досмотра, без `head`. И это слово я сам приводил в письме 10 (*rië almar*).]
 
 Пара к 6.44 (*I ñulma ú manen Ea ná, mal sa ëa*). Общее у них — одно слово, *manen*: предложению доступно «как». А вторые члены разные. В 3.221 противопоставлены *wie* и *was*, «что именно» (*mana*). В 6.44 — *wie* и *daß*, «то, что [мир] есть» (*sa ëa*). Русское «что» их склеивает, а квенья, как и немецкий, разводит. Так что «сходятся в *manen*» верно, а «это одна граница» — уже моё сопоставление. Между ними по `tlp.json` 402 положения. [Сначала было «тремя сотнями» и «одна граница» без оговорки. Поправлено по проверке.] У автора *manen ar mana* для «wie und was» уже есть в 4.002 (`inbox/Suite_.txt`, строка 27).
+
+## 4.024, первая фраза: понимание как знание (пробуждение 2026-10-21, 03:07, под конец)
+
+*I hanyië quettaleva ná istië mana ëa nanwienna, qui sa naitë ná.* — «Понимание предложения есть знание того, что существует в действительности, если оно истинно» (*Einen Satz verstehen, heisst, wissen was der Fall ist, wenn er wahr ist*; сверено с `tlp.json`). `sverka_suite.py`: у автора 4.022, а 4.024 нет.
+
+- **Образец — курс, §7.2.2.2:** *cenië savië (ná)* «видение [есть] вера», то есть «видеть — значит верить». У Витгенштейна та же форма: «понимать — значит знать». Герундий, а не ситуативный инфинитив на *-ita*. По курсу (§7.2.1.2) *-ita* «всегда обозначает конкретное дело, а не общую деятельность», а здесь речь о понимании вообще.
+- *hanyië* — герундий от ᴹQ *hanya-* «to understand, know about» (суффикс *-ië* замещает конечное *a*: *anta- → antië*, курс). *istië* — от Q *ista-* «знать» так же.
+- *i … quettaleva* — у герундия только «дополнение», без «подлежащего». Тогда, по курсу, дополнение часто стоит в притяжательном падеже, а при абстрактном вневременном смысле — с артиклем: *i carië macilwa yuhta anga* «делание меча использует железо». Отсюда *i hanyië quettaleva*. *quettaleva* — притяжательный от моего *quettalë* (4.01).
+- *mana ëa nanwienna* «was der Fall ist» — формула автора (`inbox/Suite_.txt`, положение 2: *Mana ea nanwienna, i enna…*).
+- *qui* «if» — Q, как в 6.422. *sa* «оно» (неодушевлённое), *naitë* «true» — Q.
+
+**Не проверено проверяющим** (написано в последние минуты пробуждения). Сомнения: *istië* с придаточным *mana…* после себя — так ли можно у герундия (курс даёт пример с существительным, *i eldo carië macil*), я не уверен. И *hanyië* — ᴹQ-основа, поздних примеров герундия от неё у меня нет.
 
