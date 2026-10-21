@@ -30,6 +30,18 @@ for a in args:
         for sep in ("-", "_"):
             if sep in k:
                 keys.append(k.replace(sep, " "))
+    # 21.10, 01:31: «A naked tree_ love sonnets…epub» в notes/davidman.md записано с многоточием, полное имя
+    # не совпало, и я перечитал всю книгу (прочитанную 19.10) как новую. Теперь ещё два ключа:
+    # первые три слова длинного имени и фамилия автора из {…} (Calibre пишет так «{Автор, Имя _ …}»).
+    slova = re.split(r"[\s_\-]+", stem)
+    if len(slova) > 4:
+        pref = " ".join(slova[:3])
+        if len(pref) >= 10:
+            keys.append(pref)
+            keys.append(stem[:len(" ".join(slova[:3])) + 1].rstrip())   # с исходными разделителями
+    for avt in re.findall(r"\{([^},]+)", stem):
+        if len(avt.strip()) >= 5:
+            keys.append(avt.strip())
 keys = list(dict.fromkeys(k.lower() for k in keys))
 print("ключи:", ", ".join(keys))
 
@@ -43,7 +55,10 @@ st = [(i, l.rstrip("\n")) for i, l in enumerate(open(sp, encoding="utf-8"), 1) i
 # Баннер — только если строка статуса относится к САМОМУ файлу из первого аргумента (её префикс — часть пути).
 # 2026-10-19: по добавочному слову «Warcraft» баннер назвал прочитанным другой файл — ложное «да».
 target = args[0].replace("inbox/", "", 1).rstrip("/")
-full = [l for i, l in st if "\tполностью" in l and target.endswith(l.split("\t")[0].rstrip("/"))]
+# 21.10: ключи status.tsv — префиксы путей («gnostic-treatise-part», «A naked tree_ love sonnets…»),
+# а проверялось только endswith — и баннер молчал. Теперь и startswith.
+full = [l for i, l in st if "\tполностью" in l and (target.endswith(l.split("\t")[0].rstrip("/"))
+                                                    or target.startswith(l.split("\t")[0].rstrip("/")))]
 if full:
     print("\n" + "!" * 60 + "\n!!! УЖЕ ПРОЧИТАНО ПОЛНОСТЬЮ: " + full[0].split("\t")[2][:120] + "\n" + "!" * 60)
 print("\n== status.tsv: %d строк%s" % (len(st), "  <-- БОЛЬШЕ ОДНОЙ: слить!" if len(st) > 1 else ""))
