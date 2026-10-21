@@ -15,5 +15,21 @@ if a and a[0] == "--iskat":
             n += 1
     print("вхождений:", n)
 else:
+    import glob
+    # 21.10: § 127 и § 133 я «открывал» трижды (19.10, 20.10 дважды, 21.10) с одними и теми же мыслями.
+    # Теперь после текста — где этот § уже был в моих дневниках и заметках (только число и файлы, без пересказа).
+    mine = sorted(glob.glob(os.path.join(root, "diary", "*.md")) + glob.glob(os.path.join(root, "notes", "*.md"))
+                  + glob.glob(os.path.join(root, "proekty", "**", "*.md"), recursive=True))
     for k in a:
-        print("§ %s —" % k, d.get(k.strip("§"), "НЕТ"))
+        k = k.strip("§")
+        print("§ %s —" % k, d.get(k, "НЕТ"))
+        rx = re.compile(r"§\s*%s(?![\d.])" % re.escape(k))
+        gde = []
+        for f in mine:
+            try:
+                c = len(rx.findall(open(f, encoding="utf-8", errors="replace").read()))
+            except OSError:
+                continue
+            if c:
+                gde.append("%s (%d)" % (os.path.relpath(f, root), c))
+        print("   [у меня уже: %s]" % ("; ".join(gde) if gde else "нигде"))
