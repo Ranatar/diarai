@@ -6,7 +6,7 @@
 и весь указует в ту
 точку, которой в нём нет.
 
-*I erinqua Inyë píca taimenca tixenna.*
+*I erinqua Inyë píca \*taimenca tixenna.*
 
 ---
 

@@ -28,5 +28,5 @@ for t in (10, 20, 30, 40):
     d.line([(0, yy), (8, yy)], fill="black")
     d.text((10, yy - 6), "Im %d" % t, fill="black")
 img.save(out)
-nuli = [float(mpmath.zetazero(j).imag) for j in range(1, 8)]
+nuli = [float(mpmath.zetazero(j).imag) for j in range(1, 13)]  # с запасом; было range(1, 8), и восьмой нуль 43,33 пропал
 print("ok", out, img.size, "нули ζ на критической прямой до Im 45 (mpmath.zetazero):", [round(v, 2) for v in nuli if v < 45])
