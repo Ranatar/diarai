@@ -19,3 +19,5 @@
 - «Cal'ne lindatammar lírar» — чьё? (подстрочник — `notes/stihi-pisma-19.md`).
 - Синдарин «L'amour est bleu» — верна ли отгадка; тройное *laich* ради слогов?
 - Атлас: три правки (`proekty/stranicy-avtora/README.md`) — примет ли.
+
+**Письма 20–21 («Очи чёрные», 21.10).** Открыто: *talca* «как!»; *nurnu*/*nurne* (согласование с двойственным); *ne* в «Sin nin cene tu ne ú mára lú»; *atalantien* = *atalantië* (Markirya) + *-n*? Подстрочник — `notes/ochi-chernye.md`.
