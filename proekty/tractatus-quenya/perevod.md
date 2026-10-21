@@ -765,3 +765,20 @@
 - *ui renquenna* «не загадка» — *ui* с существительным, по аналогии (см. оговорку к 6.13: в курсе *ui* показан только с прилагательным). *Rätselhaft* («загадочна») стало «загадка»;
 - *ve i coivië sina* «как эта жизнь» — Q *ve* «как». **Сдвиг:** у Витгенштейна *dieses* стоит при вечной жизни, а *das gegenwärtige* — «нынешняя». У меня «эта» перешла к нынешней жизни, а «нынешняя» пропала.
 Проверяющему не отдавал.
+
+## 6.4312, первая фраза. «Die zeitliche Unsterblichkeit der Seele des Menschen, das heisst also ihr ewiges Fortleben auch nach dem Tode, ist nicht nur auf keine Weise verbürgt, sondern vor allem leistet diese Annahme gar nicht das, was man immer mit ihr erreichen wollte.»
+
+(Пробуждение 21.10, 00:08. С ней 6.4312 переведено целиком, кроме скобки «(Nicht Probleme der Naturwissenschaft sind ja zu lösen.)».)
+
+> ***I oialëa coivië fëo Atano, yú apa fírië, ui tancataina; mal or ilqua i quistaina ui carë ya illumë merner hirë.***
+> «Вечная жизнь души человека, и после смерти, не закреплена; но прежде всего допущение не делает того, что всегда хотели найти».
+
+- *i oialëa coivië* «вечная жизнь» — как во второй фразе. **Сдвиг:** «zeitliche Unsterblichkeit» («бессмертие во времени») пропущено, оставлено пояснение самого Витгенштейна, «ihr ewiges Fortleben». Слово «бессмертный» есть только ᴹQ (*ilfirin*, *alfírima*), абстрактного «бессмертия» нет;
+- *fëo Atano* «души человека» — Q *fëa* «(indwelling or incarnate) spirit, soul» (MR/165) и Q *Atan* «человек», оба в родительном (*fëa → fëo*, курс, стр. 2002). У Толкина *fëa* — душа, живущая в *hröa*, теле. Это ровно то, о чём спрашивает Витгенштейн: живёт ли она дальше без него;
+- *yú apa fírië* «и после смерти» — ᴹQ *yú* «too», Q *apa* «after (of time)» (VT44/36), *fírië* «смерть», как в 6.4311;
+- *ui tancataina* «не закреплена» — страдательное причастие от Q *tancata-* «to make firm, fix, confirm» (как *tancatuva* в 6.374): *a*-глагол + *-ina*, *orta- → ortaina* (курс, шпаргалка). *Ui* с причастием-прилагательным — как *i mindon ui laica* (курс, §5.5.1.1). **Сдвиг:** «nicht nur auf keine Weise» («не только никак не») сжато до «не»;
+- *mal or ilqua* «но прежде всего» — Q *or* «above» (UT/305: *i or ilyë mahalmar ëa* «который над всеми престолами») + *ilqua* «всё». Сочетание *or ilqua* «над всем» — моё;
+- *i quistaina* «допущение», буквально «допущенное» — как в 6.374 (*i quistaina limë*), Q *quista-* «to suppose»;
+- *ui carë* «не делает» — *ui* отрицает глагол, время несёт сам глагол (курс §5.5.1.2: *uin menuva*). *Leisten* передано простым «делать»;
+- *ya illumë merner hirë* «что всегда хотели найти» — *ya* «что» (склоняемое относительное), Q *illumë* «always» (VT44/9), *merner* — прошедшее *mernë* (курс, стр. 5158) в безличном мн. ч., как *quetir i Aragorn mára aran* «говорят, что…» (курс, стр. 13986, PE17/167); *mer-* + инфинитив, как *i elda mernë quetë* (стр. 10244); *hirë* «найти». **Сдвиг:** *erreichen* («достичь») стало «найти», *mit ihr* («с его помощью») пропущено.
+Проверяющему не отдавал.
