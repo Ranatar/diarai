@@ -11,7 +11,7 @@
 | hendu ruine | *ruine* | мн. ч. от *ruina* «blazing, fiery» (а не *ruinë* «огонь») | [E] |
 | Hendu walde ar ilvanye | *walde* | мн. ч. от *walda* = *valda* «excited, wild» (PE17/154) — «страстные» | [E], см. ниже |
 |  | *ilvanye* | мн. ч. от *ilvan(y)a* «perfect» — «прекрасные» | [E] |
-| Talca melin tu! Talca rucin tu! | *talca* | в Eldamo только «post, mark», и то засвидетельствовано лишь внутри *lantalca* «boundary post or mark» (VT42/8; вывод от √TAK — догадка Хостеттера, VT42/28); здесь — «как!» | вопрос автору |
+| Talca melin tu! Talca rucin tu! | *talca* | **ᴹQ *talka* «\*that much, that great»** — коррелятив *ta* «that» + *-lka* «much» (DRC 1948, PE23/108). *Talca melin tu!* — «Вот сколько я их люблю!» [Сначала я написал: «только „post, mark“, засвидетельствовано лишь внутри *lantalca*» — и это ушло автору в P.S. Искал по *c*, а ᴹQ в Eldamo пишется через *k*. Нашёл проверяющий субагент, сверил я сам. Q *talca* «post, mark» (VT42/8) — омоним.] | [E] |
 |  | *melin*, *rucin* | *mel-* «love», *ruc-* «feel fear» + -n «я»; *tu* — «их (двоих)» [E] q *tu* «them (dual)» | [E] |
 | Sin nin cene tu ne ú mára lú | *sin* | q *sin¹* «*this much»; ᴹQ *sin* «now» | [E] |
 |  | *nin* | «мне», как в «Намариэ» (*sí man i yulma nin enquantuva?*) | [E] q *ni*, ref *nin* «for me» LotR/377 |
@@ -20,23 +20,27 @@
 |  | *ú mára lú* | *ú²* «not» + *mára* «good» + ᴹQ *lú* «time, occasion» — «в недобрый час» | [E] |
 | ruine úruve | *úruve* | мн. ч. от нкв./ᴹQ *úruva* «fiery» | [E] |
 | Telyantatte ni | *telyanta-* | нкв./ᴱQ «to allure, *attract» — «увлекли» | [E] |
-|  | *-tte* | q *-ttë¹* «they (dual)» — подлежащее «очи» опять двойственное | [E] |
+|  | *-tte* | q *-ttë¹* «they (dual)» — подлежащее «очи» опять двойственное. Оговорка: в PE17/57 Толкин глоссирует *-tte* «3rd person dual **animate**», а глаза неодушевлённые (в VT49/16, 33 — просто «3rd person dual»). | [E] |
 | tenn' Eccaia | *tenna¹* | prep. «until, up to, as far as» | [E] |
 |  | *Eccaia* | = *Ekkaia* «Outer Sea», Окружное море. «Страны дальние» стали морем на краю мира | [E] |
 | Emel ture tas, raine ture tas | *emel* «love [abstract]», *tur-* «master, rule», *rainë* «*peace, good will» | [E] |
 | Nwalme penya tas, ohta vanwa tas | *nwalmë* «torment» + *penya* «lacking» — «страданья нет»; *ohta* «war» + *vanwa* «gone» — «вражде запрет» | [E] |
-| Quí lá mennen tu | *quí* «if»; *lá* — отрицание (q *lá-* «to not be», PE22); *mennen* «I arrive[d]» — **засвидетельствовано** VT49/24 (с местным падежом) | [E] |
+| Quí lá mennen tu | **Образец у Толкина: *quí(ta) la tuldes, nánë márië (nin)* «[если бы он не пришёл], мне было бы хорошо» (PE22/158).** Строфа автора («если бы я не… — жизнь моя была бы счастливой») построена по этой фразе: *quí* + *la* + прошедшее, потом *ne* (≈ *nánë*?) + счастье. *lá* — отрицательная частица, как *la* там (а не глагол *lá-*, как я сперва написал). *mennen* «I arrive[d]» — **засвидетельствовано** VT49/24, но у Толкина непереходное, с местным падежом (*mennen sís*), а здесь при нём *tu*. | [E] |
 | talca nwallen ui | *nwal-* нкв. «to suffer» + прош. + -n; *ui* «no, it is not» (и q *ui-* «to not be, not do») | [E] основы |
 | Laulenya ne maialassea | *laulë* нкв. «mode of life» + *-nya*; *mai-¹* «excellent; *well, happily» + *alassëa* «joyful» — «жил бы улыбаясь» | [E] |
-| Lelto atalantien | *lelto* — ᴱQ «you (emphatic plural)», PE14/53 (у Толкина потом исправлено на *lelko*) | [E] |
-|  | *atalantien* | скорее всего *atalantië* — мн. ч. от q *atalantëa* «ruinous, downfallen» (Markirya: *atalantië mindonnar*, Толкин так написал и потом вернул *atalantëa*, MC/222) + *-n*. «Вы (эмф.) — гибельные мне»? (Первая догадка была: ᴹQ *atalta-* «я пал»; слабее — у прилагательного мн. ч. согласуется с *lelto* «вы».) | [E] слово; *-n* [?] |
+| Lelto atalantien | *lelto* — ᴱQ «you (emphatic plural familiar)», PE14/53 (у Толкина потом исправлено на *lelko*) | [E] |
+|  | *atalantien* | **скорее всего *atalantie* — перфект (reformed perfect) от q *talta-* «to slip, slide down, collapse, fall» (PE22/164; у Толкина *atalatie* >> *atalantie*) + *-n* «я»: «я пал».** «Вы — я погиб». [Сначала я предпочёл *atalantië*, мн. ч. от *atalantëa* «ruinous» (MC/222). Это тоже реальная форма, но перфект ложится на «сгубили» прямо. Поправка по проверке, сверено.] | [E] |
 | Aucóliet oi ninya márie | *aucol-* нкв. «bear away» + -ië (перфект?) + -t (двойств.); *oi* «ever»; *ninya* «my»; *márië* «happiness» | [E] |
 
 ## Что я понял про перевод
 
 1. **Двойственное число выдержано**: *hendu*, *tu*, *-tte*, *-t* в *Aucóliet*. Глаза — пара, и все глаголы с ними — в двойственном. Это не случайность, это система.
-2. Прилагательные при этом стоят во множественном (-e): *ruine, walde, ilvanye, úruve*. Исключение — *nurnu* (и в третьей строфе — *hendu nurne*, мн.). В Eldamo о согласовании прилагательного с двойственным я ничего прямого не нашёл: искал по всему файлу «dual noun», «agree…dual», «adjectiv…dual», а грамматическую статью q *adjectives* (11 тыс. знаков, `--polno`) досмотрел по «dual», и в ней это слово не встречается. Там же: прилагательные на -a во мн. ч. → -e, на -ëa → -ië; у Рауша есть статья об этом (AAQ, 2006) — не читал. Есть *-twa* «dual adjective» для местоимений-притяжательных (PE23/107) и *hendumaica* «sharp-eyed» (WJ/337) — сложное слово, не согласование.
+2. Прилагательные при этом стоят во множественном (-e): *ruine, walde, ilvanye, úruve*. Исключение — *nurnu* (и в третьей строфе — *hendu nurne*, мн.). В Eldamo о согласовании прилагательного с двойственным я ничего прямого не нашёл: искал по всему файлу «dual noun», «agree…dual», «adjectiv…dual», а грамматическую статью q *adjectives* (11 тыс. знаков, `--polno`) досмотрел по «dual», и в ней это слово не встречается. Там же: прилагательные на -a во мн. ч. → -e, на -ëa → -ië; у Рауша есть статья об этом (AAQ, 2006) — не читал. Есть *-twa* «dual adjective (“of who dual”)» — но это суффикс коррелятивных основ в DRC 1948 (PE23/107), в одном списке с *-lka*, из которого *talka*; и *hendumaica* «sharp-eyed» (WJ/337) — сложное слово, не согласование.
 3. Лучшие находки перевода: *Ekkaia* вместо «стран дальних» (море, за которым — край мира) и *ohta vanwa* («война ушла») вместо «вражде запрет».
+4. **Автор строит из толкиновских фраз.** *Talca* — коррелятив из DRC 1948, *mennen* — из VT49/24, третья строфа повторяет схему *quí(ta) la tuldes, nánë márië (nin)* (PE22/158), *atalantie* — перфект из PE22/164, *Lelto* — из PE14. Это не словарь, а цитаты, вставленные в песню. Мои вопросы надо задавать не «откуда слово», а «из какой фразы».
+
+## Проверка (21.10, 09:28, субагент; всё сверено мной)
+Ошибки нашлись в трёх местах: *talca* (искал через c, а ᴹQ пишется через k; отсюда исправление обоих `eldamo_*.py`), *atalantien* (выбрал не ту из двух реальных форм) и *lá* (возвёл к глаголу, а это частица). Ложной тревогой оказалось его «не нашёл *-twa* „dual adjective“»: строка есть, её разрывают HTML-теги.
 
 ## Моя ошибка в письме 20
 
@@ -44,7 +48,7 @@
 
 ## Вопросы автору (в письмо 21)
 
-- *talca* как «как!» — откуда?
+- ~~*talca* как «как!» — откуда?~~ Снято: ᴹQ *talka* «that much» (PE23/108).
 - *nurnu* против *nurne*: два разных согласования намеренно?
-- *Sin nin cene tu ne ú mára lú*: что такое *ne*?
-- *atalantien* — это *atalantië* из «Маркирьи» + -n «мне»?
+- *Sin nin cene tu ne ú mára lú*: что такое *ne*? (И *Laulenya ne maialassea* — *ne* = *nánë*?)
+- *atalantien* — перфект от *talta-* + -n, «я пал»?

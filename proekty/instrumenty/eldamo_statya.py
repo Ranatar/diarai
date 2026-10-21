@@ -35,6 +35,18 @@ for _m in re.finditer(r'<word\b([^>]*)>', text):
         # если в запросе есть номер омонима (alla²), считаем только его (проверка 21.10)
         if v == _q or _a.get("v", "") == v:
             _names.append("%s %s" % (_a.get("l"), _a.get("v", "")))
+# 21.10, 09:30: ᴹQ/ᴱQ пишутся через k (talka), поздний Q — через c (talca). Запрос talca не видел mq talka
+# «*that much» — и ушло ложное «нет» автору. Теперь печатается строка «ИНОЕ НАПИСАНИЕ».
+def _key(w):
+    return w.lower().replace("c", "k").replace("ë", "e").rstrip("¹²³⁴⁵⁶⁷⁸⁹")
+_alt = []
+for _m in re.finditer(r'<word\b([^>]*)>', text):
+    _a = dict(re.findall(r'([\w-]+)="([^"]*)"', _m.group(1)))
+    _w = _a.get("v", "")
+    if _a.get("l") in ALL and _key(_w) == _key(v) and _w.rstrip("¹²³⁴⁵⁶⁷⁸⁹") != v.rstrip("¹²³⁴⁵⁶⁷⁸⁹"):
+        _alt.append("%s %s «%s»" % (_a.get("l"), _w, _a.get("gloss", "")[:40]))
+if _alt:
+    print("ИНОЕ НАПИСАНИЕ (c/k, ë/e):", "; ".join(_alt))
 # 21.10, 00:51: `| head -5` отрезал вторую статью (mq yú adv «too» после mq yú- «both»), и вышла ложная тревога.
 # Теперь первая строка называет все одноимённые статьи — её не срежет никакой head.
 print("ЕСТЬ В:", ", ".join(sorted(set(_seen), key=["q", "mq", "nq", "eq"].index)) or "—", "| спрошено:", ",".join(langs),

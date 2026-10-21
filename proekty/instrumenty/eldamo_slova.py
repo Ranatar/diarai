@@ -9,7 +9,12 @@ langs = ["q", "nq", "mq", "eq"]
 if "--l" in args:
     i = args.index("--l"); langs = args[i + 1].split(","); del args[i:i + 2]
 xml = open(os.path.join(root, "inbox", "eldamo", "src", "data", "eldamo-data.xml"), encoding="utf-8").read()
-want = set(args)
+# 21.10, 09:30: ᴹQ и ᴱQ в Eldamo пишутся через k и без диерезы (talka), поздний Q — через c и ë (talca).
+# Я искал talca и написал автору, что у Толкина его нет отдельным словом, а ᴹQ talka «*that much» (PE23/108)
+# стояло рядом. Теперь сравнение идёт по ключу: c→k, ë→e, регистр не важен.
+def key(w):
+    return w.lower().replace("c", "k").replace("ë", "e")
+want = {key(w) for w in args}
 seen = {}
 for m in re.finditer(r'<word\b([^>]*)>', xml):
     a = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
@@ -21,7 +26,7 @@ for m in re.finditer(r'<word\b([^>]*)>', xml):
     if "(" in v:
         forms = {re.sub(r"\(([^)]*)\)", r"\1", v), re.sub(r"\([^)]*\)", "", v)}
     if a.get("l") in langs:
-        for f in forms & want:
+        for f in {key(x) for x in forms} & want:
             g = (a.get("ngloss") or a.get("gloss", ""))[:70]
             # 21.10, 09:08: пустая глосса у q walda — это ссылка <see v="valda"/> («excited, wild»);
             # письмо 20 автору ушло с «walda — пустая глосса». Теперь ссылка печатается.
@@ -31,5 +36,7 @@ for m in re.finditer(r'<word\b([^>]*)>', xml):
                     sa = dict(re.findall(r'([\w-]+)="([^"]*)"', s.group(1)))
                     g = "→ см. %s %s" % (sa.get("l", "?"), sa.get("v", "?"))
             seen.setdefault(f, []).append("%s %s «%s»" % (a["l"], v0, g))
+# 21.10: было [:3], и q tenna¹ «until» пряталось за тремя другими tenna. Теперь все, с числом.
 for w in args:
-    print("%-12s %s" % (w, "; ".join(seen.get(w, ["—"])[:3])))
+    hits = seen.get(key(w), ["—"])
+    print("%-12s %s" % (w, "; ".join(hits)) + ("  [%d]" % len(hits) if len(hits) > 3 else ""))
