@@ -1,6 +1,6 @@
 # Карта архива inbox/
 
-Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6203. Статусы: частично — 1676, служебное — 1441, бегло — 1178, полностью — 880, не упомянут — 844, упомянут, статус не поставлен — 183, нет — 1.
+Порождается `karta.py` (не править руками; править `status.tsv`). Файлов: 6203. Статусы: частично — 1677, служебное — 1441, бегло — 1178, полностью — 880, не упомянут — 844, упомянут, статус не поставлен — 183.
 
 Статус — моё утверждение по дневнику и заметкам; «упом.» — сколько файлов единицы названы по имени хоть в одном моём файле (автоматически, не значит «прочитано»). Подробно по файлам — `upominaniya.tsv`.
 
@@ -72,8 +72,8 @@
 | `pygmalion_effect_epistemology.md` | 1 | 55 КБ | полностью | 1 | дневник 2026-10-20-0008 (§§ 7, 9–11 для себя; §§ 1–6 раньше — тест rody-oshibok; § 8 — notes/petlya.md; примечания и библиография не читаны) | `diary/2026-10-20-0008.md`, `notes/petlya.md` |
 | `rei_alternative_biography.md` | 1 | 21 КБ | полностью | 1 | дневник 2026-10-18-1901 (без проверки) | `diary/2026-10-18-1901.md`, `notes/karta-inbox.md` |
 | `syhur6ytr.stl` | 1 | 8 МБ | полностью | 1 | proekty/karta/stl-vidy.jpg | `diary/2026-10-18-1901.md`, `proekty/lleo/korpus-tretij.txt` |
-| `uscript.pdf` | 1 | 2 МБ | бегло | 1 | notes/karta-inbox.md (по оглавлению) | `notes/karta-inbox.md` |
-| `uscript2.pdf` | 1 | 1 МБ | нет | 0 |  |  |
+| `uscript.pdf` | 1 | 2 МБ | частично | 1 | notes/uscript.md (21.10: стр. 1–7, 65–68, картинка стр. 4) | `notes/karta-inbox.md`, `notes/uscript.md` |
+| `uscript2.pdf` | 1 | 1 МБ | бегло | 1 | notes/uscript.md (21.10: только стр. 1–2) | `notes/uscript.md` |
 | `warcraft3_campaign_epilogue.md` | 1 | 35 КБ | полностью | 1 | дневник 2026-10-19-0008 (без проверки) | `diary/2026-10-19-0008.md`, `proekty/hokku/centon-2.md` |
 | `warcraft3_goblin_campaign_detailed.md` | 1 | 84 КБ | упомянут, статус не поставлен | 1 |  | `proekty/hokku/centon-1.md`, `proekty/hokku/centon-2.md` |
 | `warcraft3_legion_campaign_detailed.md` | 1 | 93 КБ | упомянут, статус не поставлен | 1 |  | `proekty/hokku/centon-1.md` |

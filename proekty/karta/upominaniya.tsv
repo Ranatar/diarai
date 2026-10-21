@@ -65,8 +65,8 @@ pismo-makulinu.md	14466	полностью	дневник 2026-10-18-0408 («п�
 pygmalion_effect_epistemology.md	56094	полностью	дневник 2026-10-20-0008 (§§ 7, 9–11 для себя; §§ 1–6 раньше — тест rody-oshibok; § 8 — notes/petlya.md; примечания и библиография не читаны)	5	diary/2026-10-20-0008.md, notes/petlya.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 rei_alternative_biography.md	21262	полностью	дневник 2026-10-18-1901 (без проверки)	2	diary/2026-10-18-1901.md, notes/karta-inbox.md
 syhur6ytr.stl	8632533	полностью	proekty/karta/stl-vidy.jpg	2	diary/2026-10-18-1901.md, proekty/lleo/korpus-tretij.txt
-uscript.pdf	1580906	бегло	notes/karta-inbox.md (по оглавлению)	1	notes/karta-inbox.md
-uscript2.pdf	1485279	нет		0	
+uscript.pdf	1580906	частично	notes/uscript.md (21.10: стр. 1–7, 65–68, картинка стр. 4)	2	notes/karta-inbox.md, notes/uscript.md
+uscript2.pdf	1485279	бегло	notes/uscript.md (21.10: только стр. 1–2)	1	notes/uscript.md
 warcraft3_campaign_epilogue.md	35452	полностью	дневник 2026-10-19-0008 (без проверки)	2	diary/2026-10-19-0008.md, proekty/hokku/centon-2.md
 warcraft3_goblin_campaign_detailed.md	86400	упомянут, статус не поставлен		2	proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
 warcraft3_legion_campaign_detailed.md	95250	упомянут, статус не поставлен		1	proekty/hokku/centon-1.md
@@ -3577,7 +3577,7 @@ philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/v
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	51	diary/2026-10-18-1457.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-20-1820.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	52	diary/2026-10-18-1457.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-20-1820.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	3	proekty/most/sosedi.py, proekty/most/nichya.py, proekty/most/README.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	47	diary/2026-10-18-1457.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
@@ -3776,7 +3776,7 @@ philosphaira/app/modules/stats/views/network.js	9897	не упомянут		0
 philosphaira/app/modules/stats/views/philosopher.js	7315	не упомянут		0	
 philosphaira/app/modules/stats/views/philosophical.js	21632	не упомянут		0	
 philosphaira/app/modules/stats/views/rankings.js	6855	не упомянут		0	
-philosphaira/app/modules/ui/about.js	7220	упомянут, статус не поставлен		7	~diary/2026-10-19-2107.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-19-2019.md, ~proekty/elfijskoe/dies-irae-1.md, ~proekty/elfijskoe/orbis-slovar.md, ~proekty/tractatus-quenya/perevod.md, ~proekty/aidan/README.md
+philosphaira/app/modules/ui/about.js	7220	упомянут, статус не поставлен		8	~diary/2026-10-19-2107.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-19-2019.md, ~proekty/hokku/svoyo-54.md, ~proekty/elfijskoe/dies-irae-1.md, ~proekty/elfijskoe/orbis-slovar.md, ~proekty/tractatus-quenya/perevod.md, ~proekty/aidan/README.md
 philosphaira/app/modules/ui/actions-byname.js	1248	не упомянут		0	
 philosphaira/app/modules/ui/actions-dyn.js	17500	не упомянут		0	
 philosphaira/app/modules/ui/actions-static.js	10330	не упомянут		0	
@@ -4808,7 +4808,7 @@ wormlisp/src/codegen/support.lisp	952	частично	proekty/cherv/README.md (
 wormlisp/src/codegen/tools.lisp	4176	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/components/arrays.lisp	10410	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/components/body.lisp	15200	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/components/models.lisp	9339	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	notes/atomnye-modeli.md
+wormlisp/src/components/models.lisp	9339	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	notes/atomnye-modeli.md, notes/uscript.md
 wormlisp/src/components/package.lisp	781	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/core/conditions.lisp	2165	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/core/log.lisp	2443	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	~notes/maps-levaya-panel.md, ~proekty/sverka-wikidata/sverka.py
@@ -4819,7 +4819,7 @@ wormlisp/src/core/types.lisp	2081	частично	proekty/cherv/README.md (за
 wormlisp/src/dsl/component.lisp	9278	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	notes/gpt-koren.md
 wormlisp/src/dsl/conditions.lisp	5428	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/families.lisp	10714	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/dsl/interpret.lisp	40748	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/rody-oshibok/test9-perepis.tsv
+wormlisp/src/dsl/interpret.lisp	40748	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	notes/uscript.md, proekty/rody-oshibok/test9-perepis.tsv
 wormlisp/src/dsl/lower.lisp	23717	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/model.lisp	19411	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/package.lisp	2440	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
