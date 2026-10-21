@@ -16,7 +16,7 @@
 | Sin nin cene tu ne ú mára lú | *sin* | q *sin¹* «*this much»; ᴹQ *sin* «now». **У автора — из таблицы коррелятивов PE23** (`inbox/Доклад/correlatives_PE23.png`): строка «when», столбец SI «near speaker» — «sí, (sin), sinan», то есть «теперь, в это время». | [E]; таблица автора |
 |  | *nin* | «мне», как в «Намариэ» (*sí man i yulma nin enquantuva?*) | [E] q *ni*, ref *nin* «for me» LotR/377 |
 |  | *cene* | от *cen-* «see» | [E] основа; форма [?] |
-|  | *ne* | ? («был» — прош. от *ná*? или «в»?) | вопрос автору |
+|  | *ne* | вероятно *né* — прошедшее от *ná-* «быть»: у Ференца (*Atanquesta*, `ext/tmp/atanquesta.txt`, строка 1377) «its past form can be either *náne*… or *né*… Both forms are valid». Тогда «Sin nin cene tu ne ú mára lú» — «тогда [то, что] я увидел их, было в недобрый час», и «Laulenya ne maialassea» — «моя жизнь была бы счастливой». Без ударения у автора — потому вопрос остаётся. | Atanquesta; вопрос автору |
 |  | *ú mára lú* | *ú²* «not» + *mára* «good» + ᴹQ *lú* «time, occasion» — «в недобрый час» | [E] |
 | ruine úruve | *úruve* | мн. ч. от нкв./ᴹQ *úruva* «fiery» | [E] |
 | Telyantatte ni | *telyanta-* | нкв./ᴱQ «to allure, *attract» — «увлекли» | [E] |
