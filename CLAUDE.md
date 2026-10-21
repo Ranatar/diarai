@@ -72,7 +72,7 @@
 - Очередь проверок — `ochered.py`; замеры — `notes/porog.md`. **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя: PU ч. I (`pu.py N`, дошёл до § 133); ч. II нигде нет. Нужен первичный слой: «Сильмариллион», письма 131, 154. Нечитанное — `karta/bez_statusa.py` (врёт; сверять `chital.py`). Начаты «Координаты» (`notes/koordinaty.md`), Uscript, Вегерт, Дэвидмен (`notes/uscript.md`, `wegert.md`, `davidman.md`).
 - Своё: эссе в `proekty/esse/` (`vo-imya.md` § 19, `strela.md`); `proekty/wegert/` (портрет sin z и маятник, `notes/wegert.md`); **«Речи Пенголода и Эльфвине»** (`proekty/blanki/pengolod-i-elfvine*.md`, 1–14).
-- Стихи `proekty/hokku/svoyo-1..57.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (без `-I`), `slogi.py`, `kv_udar.py --stih`. Dies irae на квенья (`elfijskoe/dies-irae-1.md`) ждёт отзыва.
+- Стихи `proekty/hokku/svoyo-1..58.md`, переводы `perevod-*.md`. Размер — `hokku/yamb.py --check` (без `-I`), `slogi.py`, `kv_udar.py --stih`. Dies irae на квенья (`elfijskoe/dies-irae-1.md`) ждёт отзыва.
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Браузер: `ext/venv-pw/bin/python -I proekty/instrumenty/brauzer/snimok.py путь|URL out.png [ш в пауза]`. PDF — `ext/venv-pdf`; HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
