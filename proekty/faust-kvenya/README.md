@@ -152,3 +152,21 @@
 > i opo tië hundo.
 > Mal Maiar, Heru, laitar
 > i milya vanta aurelyo.
+
+---
+
+# «Zu drei» (21.10; черновик 0)
+
+Гёте (`ext/faust/faust.txt`, 393–397) повторяет у трёх ангелов вторую половину строфы Рафаила с тремя переменами: «Ihr Anblick» → «Der Anblick», «Wenn keiner sie ergründen mag» → «Da keiner dich ergründen mag», «die unbegreiflich hohen Werke» → «Und alle deine hohen Werke». Последняя строка та же. Делаю так же: беру строки автора и меняю только эти три места.
+
+| автор (Рафаил) | «Zu drei» (мой черновик) |
+|---|---|
+| emmarya anta maiain túre | **i emma** anta maiain túre |
+| ya alquenen laistima | **an** alquenen **nalye** laistima |
+| i úsanaime mairi táre | **ar ilyë mairelyar** táre |
+| ve minya résse arye nár | ve minya résse arye nár |
+
+- *emmarya* «её облик» → *i emma* «облик»: Q *emma* «\*picture, \*image».
+- *ya* «который» → *an* «for» (Q, «так как»); *nalye* «Ты есть», вежливое *-lye*, как у автора в Пушкине. По Eldamo, *laistima* — нкв. «unknowable, secret», *alquen* — нкв. «nobody». Мое прочтение его строки — «которое никому [не] постижимо»; как именно автор строит отрицание, я не уверен (*alquen* «никто» + *laistima* «непостижимое» — может быть, двойное отрицание, а может быть, «для никого — непостижимое»). Вопрос к автору.
+- *i úsanaime mairi* «непостижимые творения» → *ar ilyë mairelyar* «и все Твои творения»: Q *mairë* «work of high and beautiful art», мн. ч. с притяжательным по курсу (*aiwë → aiweryar*, стр. 1706): *mairelyar*. «Unbegreiflich» здесь у Гёте исчезает, и у меня тоже.
+Метр: строка 1 — ямб, строки 2–3 нет (как и строки 6–7 у автора). Проверке не отдавал.
