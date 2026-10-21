@@ -47,9 +47,11 @@ with sync_playwright() as p:
     pg.goto(url)
     pg.wait_for_timeout(1200)
     def nazhat(k):
-        loc = pg.locator("#sidebar").get_by_text(k, exact=True)
+        tochno = not k.startswith("%")   # «%часть» — по подстроке (в оболочке «=» в аргументе отклоняется)
+        k = k.lstrip("%")
+        loc = pg.locator("#sidebar").get_by_text(k, exact=tochno)
         if loc.count() == 0:
-            loc = pg.get_by_text(k, exact=True)
+            loc = pg.get_by_text(k, exact=tochno)
         print("кнопка", k, "найдено", loc.count())
         if loc.count(): loc.first.click(); pg.wait_for_timeout(500)
     for k in knopki: nazhat(k)
