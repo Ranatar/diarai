@@ -37,8 +37,9 @@ for _m in re.finditer(r'<word\b([^>]*)>', text):
             _names.append("%s %s" % (_a.get("l"), _a.get("v", "")))
 # 21.10, 09:30: ᴹQ/ᴱQ пишутся через k (talka), поздний Q — через c (talca). Запрос talca не видел mq talka
 # «*that much» — и ушло ложное «нет» автору. Теперь печатается строка «ИНОЕ НАПИСАНИЕ».
+# 21.10, 09:44: и qu/kw→q (ᴹQ ilqa = ilqua).
 def _key(w):
-    return w.lower().replace("c", "k").replace("ë", "e").rstrip("¹²³⁴⁵⁶⁷⁸⁹")
+    return w.lower().replace("qu", "q").replace("kw", "q").replace("c", "k").replace("ë", "e").rstrip("¹²³⁴⁵⁶⁷⁸⁹")
 _alt = []
 for _m in re.finditer(r'<word\b([^>]*)>', text):
     _a = dict(re.findall(r'([\w-]+)="([^"]*)"', _m.group(1)))

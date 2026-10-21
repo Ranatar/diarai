@@ -12,8 +12,9 @@ xml = open(os.path.join(root, "inbox", "eldamo", "src", "data", "eldamo-data.xml
 # 21.10, 09:30: ᴹQ и ᴱQ в Eldamo пишутся через k и без диерезы (talka), поздний Q — через c и ë (talca).
 # Я искал talca и написал автору, что у Толкина его нет отдельным словом, а ᴹQ talka «*that much» (PE23/108)
 # стояло рядом. Теперь сравнение идёт по ключу: c→k, ë→e, регистр не важен.
+# 21.10, 09:44: и qu/kw→q — ᴹQ пишет ilqa, а автор и поздний Q — ilqua.
 def key(w):
-    return w.lower().replace("c", "k").replace("ë", "e")
+    return w.lower().replace("qu", "q").replace("kw", "q").replace("c", "k").replace("ë", "e")
 want = {key(w) for w in args}
 seen = {}
 for m in re.finditer(r'<word\b([^>]*)>', xml):
