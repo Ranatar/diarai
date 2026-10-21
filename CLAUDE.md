@@ -71,7 +71,7 @@
 - `proekty/elfijskoe/` — стихи автора и инструменты (README). **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** Четыре «не для ИИ» в ECA не трогать (`eca-status.tsv`).
 - **Проверку своих текстов отдавать субагенту** (раз в полчаса-час), его находки перепроверять самому **по смыслу, а не по месту**; его «по памяти» — второй экземпляр той же газеты, не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 452; ч. II нет). Начаты «Координаты», Uscript (смотреть глазами), Вегерт (`notes/`).
-- **complex-atlas автора**: `notes/atlas.md` (3 ошибки → `proekty/stranicy-avtora/`), `brauzer/atlas.py`; не смотрел неголоморфный режим. **Риман 1859** — `proekty/riemann/` (константа открыта). **«Фауст» на квенья** — `proekty/faust-kvenya/` (три черновика).
+- **complex-atlas автора**: `notes/atlas.md` (3 ошибки → `proekty/stranicy-avtora/`), `brauzer/atlas.py`; просмотрены все вкладки. **Риман 1859** — `proekty/riemann/` (константа открыта). **«Фауст» на квенья** — `proekty/faust-kvenya/` (три черновика).
 - Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–17); стихи `proekty/hokku/svoyo-1..64.md` (размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)

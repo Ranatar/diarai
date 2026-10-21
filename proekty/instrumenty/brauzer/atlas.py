@@ -5,6 +5,7 @@
   --vid cx cy scale     вид (scale — единиц на пиксель; по умолчанию 0 0 5/600)
   --knopka "Текст"      нажать кнопку/вкладку в боковой панели по тексту (можно несколько, по порядку)
   --potom "Текст"       кнопка после кликов по полю
+  --pole "плейсх" "текст" ввести текст в поле с таким плейсхолдером (после кнопок)
   --tochka re im        клик по полю в точке z = re + i·im (можно несколько; после кнопок)
   --zhdat мс            пауза перед снимком (по умолчанию 1500)
   --shema имя           раскраска (phase — чистая фаза, checker — лог-полярная шахматка, …)
@@ -26,6 +27,7 @@ def opt(name, n):
 vid = opt("--vid", 3)
 knopki = [x[0] for x in opt("--knopka", 1)]
 potom = [x[0] for x in opt("--potom", 1)]   # кнопки после кликов по полю («замкнуть петлю»)
+polya = [(x[0], x[1]) for x in opt("--pole", 2)]   # --pole "часть плейсхолдера" "текст" — ввести в поле (после кнопок)
 tochki = [(float(x[0]), float(x[1])) for x in opt("--tochka", 2)]
 zh = opt("--zhdat", 1); zhdat = int(zh[0][0]) if zh else 1500
 fj = opt("--fajl", 1)   # другая копия страницы (для опытов с правкой)
@@ -64,6 +66,10 @@ with sync_playwright() as p:
                 el.click()
             pg.wait_for_timeout(500)
     for k in knopki: nazhat(k)
+    for ph, tekst in polya:
+        loc = pg.locator("input[placeholder*='" + ph + "']")
+        print("поле", ph, "найдено", loc.count())
+        if loc.count(): loc.first.fill(tekst); loc.first.press("Enter"); pg.wait_for_timeout(800)
     if tochki:
         cv = pg.locator("#cv-" + mode)
         bb = cv.bounding_box()
