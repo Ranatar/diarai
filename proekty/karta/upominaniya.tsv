@@ -17,7 +17,7 @@ Tsiolkovskiy_tanka.txt	7212	полностью	notes/sito-2020.md (стихи; T
 Tsiolkovskiy_texty.txt	3859494	бегло	notes/sito-2020.md (корпус программы)	5	notes/sito-2020.md, proekty/lleo/README.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Vinya maitaren.txt	1433	полностью	notes/vinya-maitaren.md	7	diary/2026-10-18-1640.md, diary/2026-10-18-1457.md, notes/vinya-maitaren.md, notes/karta-inbox.md, proekty/elfijskoe/savilve.md, proekty/lleo/korpus-tretij.txt, proekty/instrumenty/eldamo_spisok.py
 Vo_vremena_velikanov_kniga_ed_hardcover.pdf	49577666	полностью	дневник 2026-10-18-1901 (стр. 1–128, целиком, без проверки); 2026-10-19-0307 — перечитал стр. 9–49, не зная, что уже читал	3	diary/2026-10-19-0307.md, proekty/hokku/svoyo-14.md, proekty/instrumenty/chital.py
-ai_philosophy_crisis(1).md	80299	частично	notes/spor-so-slepym-demiurgom.md	3	notes/spor-so-slepym-demiurgom.md, notes/karta-inbox.md, proekty/rody-oshibok/test11-perepis.tsv
+ai_philosophy_crisis(1).md	80299	частично	notes/spor-so-slepym-demiurgom.md	4	diary/2026-10-21-0008.md, notes/spor-so-slepym-demiurgom.md, notes/karta-inbox.md, proekty/rody-oshibok/test11-perepis.tsv
 apeiron-article.pdf	212204	полностью	notes/porog.md; дневник 2026-10-18-0408	4	diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, proekty/sverka-wikidata/README.md
 cadia_stands_humoresques.md	20104	полностью	дневник 2026-10-18-1016 (11:37) и 2026-10-19-0008 — прочитан дважды, второй раз по незнанию; notes/petlya.md	3	diary/2026-10-19-0008.md, notes/ogranichenie-i-prinuzhdenie.md, notes/karta-inbox.md
 cartesian-product-part1.md	11243	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	2	notes/karta-inbox.md, proekty/hokku/centon-1.md
@@ -65,7 +65,7 @@ pismo-makulinu.md	14466	полностью	дневник 2026-10-18-0408 («п�
 pygmalion_effect_epistemology.md	56094	полностью	дневник 2026-10-20-0008 (§§ 7, 9–11 для себя; §§ 1–6 раньше — тест rody-oshibok; § 8 — notes/petlya.md; примечания и библиография не читаны)	5	diary/2026-10-20-0008.md, notes/petlya.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 rei_alternative_biography.md	21262	полностью	дневник 2026-10-18-1901 (без проверки)	2	diary/2026-10-18-1901.md, notes/karta-inbox.md
 syhur6ytr.stl	8632533	полностью	proekty/karta/stl-vidy.jpg	2	diary/2026-10-18-1901.md, proekty/lleo/korpus-tretij.txt
-uscript.pdf	1580906	частично	notes/uscript.md (21.10: стр. 1–7, 60, 65–68, картинка стр. 4)	6	diary/2026-10-21-0008.md, notes/otvet-avtoru-17.md, notes/karta-inbox.md, notes/uscript.md, proekty/rody-oshibok/oshibki-2026-10-21-0008.tsv, proekty/esse/strela.md
+uscript.pdf	1580906	частично	notes/uscript.md (21.10: стр. 1–7, 60, 65–68, картинка стр. 4)	7	diary/2026-10-21-0008.md, notes/wegert.md, notes/otvet-avtoru-17.md, notes/karta-inbox.md, notes/uscript.md, proekty/rody-oshibok/oshibki-2026-10-21-0008.tsv, proekty/esse/strela.md
 uscript2.pdf	1485279	бегло	notes/uscript.md (21.10: стр. 1–3, картинка стр. 2)	3	notes/otvet-avtoru-17.md, notes/uscript.md, proekty/esse/strela.md
 warcraft3_campaign_epilogue.md	35452	полностью	дневник 2026-10-19-0008 (без проверки)	2	diary/2026-10-19-0008.md, proekty/hokku/centon-2.md
 warcraft3_goblin_campaign_detailed.md	86400	упомянут, статус не поставлен		2	proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
@@ -908,280 +908,280 @@ book/scripts/package-lock.json	48495	не упомянут		0
 book/scripts/package.json	613	не упомянут		0	
 book/scripts/print.css	95073	упомянут, статус не поставлен		1	~proekty/instrumenty/katalog_html.py
 book/scripts/run.js	180784	упомянут, статус не поставлен		5	diary/2026-10-18-0510.md, notes/pismo-avtoru-podrobno.md, ~proekty/cherv/README.md, proekty/kruzhochek/vse.py, proekty/kruzhochek/README.md
-complex_beauty/-9j7_AbrLeg.jpg	327665	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/-FmJvS_flio.jpg	742753	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/-HiNKYf3jkg.jpg	95553	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/-YjHNNamCCk.jpg	939301	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/00OuhgRsu7g.jpg	161627	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/04em7Ad7A5I.jpg	180463	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/0SAGpTVzYT4.jpg	289720	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/0jrSF6AzW-c.jpg	453820	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/15-n_1ab-1w.jpg	320430	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/1DoYQpa89IU.jpg	441302	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/1lz-q3xFPYo.jpg	424232	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/1oFzJXD10lU.jpg	786533	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/1osAtiRnIic.jpg	807480	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/1zU3TjIbdFQ.jpg	237268	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/294lNdknLMw.jpg	516975	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/2JyG0hozNR4.jpg	174330	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/2bc5fnz_3ms.jpg	200754	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/2bs7NsfC28I.jpg	921380	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/2cXTFX9mbp8.jpg	902107	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/34jnSsNv2bE.jpg	109915	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/3D6UBmfkRQE.jpg	295345	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/4-gDb-tF8UI.jpg	491958	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/46_1.jpg	178953	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/4GhBobVDZXc.jpg	269261	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/4HisBl7j_9Y.jpg	424313	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/4JR6Xq7B1qo.jpg	298187	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/4QGqNveGwRE.jpg	891304	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/4W7lqBUyhCM.jpg	408968	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/4exYkod8-B8.jpg	390005	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/5ENIHvHOdjY.jpg	871066	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/5KzSSjMB3_c.jpg	488580	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/5Xkuw9H0tB0.jpg	408613	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/5uSkjYmO6f4.jpg	308361	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/67г8657е.png	114829	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/6By-0i1ay8Q.jpg	225813	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/6GFn6G6RziA.jpg	632132	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/6Sm-n25RFhE.jpg	507910	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/72qs5ePm3XI.jpg	1126068	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/75mOki3wt_k.jpg	276043	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/7cWRLoc_lg8.jpg	696133	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8CybdQ-FFKs.jpg	89783	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8FL4X-5wgbs.jpg	179760	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8FbaobUQIq8.jpg	396177	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8lMoOgz0qIQ.jpg	441614	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8owcerLfTbo.jpg	437989	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8sObAeUiYWA.jpg	386472	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8y-yg4XxOtY.jpg	525203	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8yXQHFMsZ5g.jpg	149706	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/8нлшшн8г.png	422249	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/91AYf-yWoDQ.jpg	652446	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/91k3X8XGdxA.jpg	377914	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/9aWoqMdTggE.jpg	268909	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/9sjUj_xa0TQ.jpg	644231	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/A0UYyda4rb0.jpg	153421	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/AFq-itiG6lo.jpg	742290	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/AXV-Dg73i3w.jpg	734945	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/AcS3InEow9Q.jpg	328782	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/B5v745L9QZ4.jpg	208630	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/BORYczRpvmI.jpg	399395	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/C9FKb7E2VUQ.jpg	386321	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/CPVP5E1lSmQ.jpg	476306	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/CsURWO35Hyo.jpg	137645	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/DGO8BdNMKCA.jpg	297983	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/De49mbHCw3U.jpg	924154	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/EMoes5QvZqw.jpg	870765	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Eh8-5ucCy4M.jpg	819090	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Elias Wegert (auth.) - Visual Complex Functions_ An Introduction with Phase Portraits (2012, Birkhäuser Basel).pdf	20631456	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/FOplcMqMeVU.jpg	135568	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/GCBo5ZdpNLM.jpg	358037	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/GMH1jLsCdUg.jpg	680022	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/GZ8_u3y80s8.jpg	423367	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/GmBobAQ5MsE.jpg	624028	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/HRR42ivytC0.jpg	300865	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/HVLMrX8db9g.jpg	218299	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Ia4gSH70_Tw.jpg	462959	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/IpdgDiX_kOc.jpg	444922	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/JAHkbq0Y0us.jpg	335192	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/JMc8TOB7Pqg.jpg	674894	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/JgthAhJysHg.jpg	388876	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Jh7ZMG9qyB8.jpg	342200	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Jh7ZMG9qyенкнB8.jpg	334086	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/JlUro45gL70.jpg	901901	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Jtw4UM6rrGo.jpg	355854	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/JwWpJixB8hw.jpg	109947	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/KE0JAuU5sWw.jpg	295349	бегло	notes/karta-inbox.md (листом)	1	diary/2026-10-21-0008.md
-complex_beauty/KFPgDOAb2ug.jpg	780728	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/KV_2q9FkQyI.jpg	346606	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/KVoHTrL5tzM.jpg	261379	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/K_gl-0j7gwY.jpg	945254	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/KaK54aKRuE8.jpg	540582	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/LL0BMO3i4Uk.jpg	540327	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/LpvofAh_9sg.jpg	364821	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/MB6Dxty4p3Q.jpg	423700	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/MKW7dZpNL9Q.jpg	805306	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/MVW8TjLYm3o.jpg	291493	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/MW1aMRDU_Co.jpg	168247	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/N71mIDqN-oA.jpg	110710	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/NE1cbXONtnY.jpg	88131	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/NPIftNOa8IM.jpg	1372717	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/NZEJ6DsjNh0.jpg	364900	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/NiU9TQ7yCLc.jpg	936083	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/O0ZU_hjNbew.jpg	295565	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/PTXYJWjB-AU.jpg	288575	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/PZl7RkogT6g.jpg	291857	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/PclJOKIVWsE.jpg	145479	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/PowzKoSP2no.jpg	432140	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Q-yz3Xahhus.jpg	389279	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/QY6X8-jO2xM.jpg	107308	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/QngjOr6YXsI.jpg	158064	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/RU4pvJojcmw.jpg	238264	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/RgHm6OfX3SY.jpg	866189	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/RkEklxB35IE.jpg	944852	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/RrAu4y46XzQ.jpg	112065	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/STF3Hn_zoso.jpg	349667	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ScLBQPQt-og.jpg	452066	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Sdz4HZpQ3yA.jpg	364042	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ShKw9Vy4lDU.jpg	742171	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/SrZnplqC7xU.jpg	679718	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/U4oqq3U-nLg.jpg	924637	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/WvzDunLcLsQ.jpg	211055	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/X8NB9_quqNE.jpg	310202	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/X9IhqaXbYXs.jpg	261296	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/XLM9bx9aeKw.jpg	639408	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/XlJfK917_1E.jpg	73479	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Xybch2pLb3c.jpg	224117	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Y61wrKanN24.jpg	197249	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Y6ZeXqHpWUo.jpg	514546	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/YFcBbyc6Bi8.jpg	585201	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/YW2ntxOwJGk.jpg	781708	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ZAtjH-p28dU.jpg	405055	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ZAvA0AQFBWI.jpg	557844	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ZKOvT7ps318.jpg	229121	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ZvB7AkSPEIE.jpg	933228	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/_BCS-5PIEdE.jpg	509006	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/a-sJTUXpuAU.jpg	245029	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/a-ugHHWDWbc.jpg	1019767	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/aHg7zElxhBc.jpg	274621	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/aJxEeS_XHoE.jpg	135630	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/aZgXkhkirc0.jpg	362060	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/anRZCMIqhJo.jpg	381563	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/baBZYZXbwqs.jpg	105772	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/btAnYP0VnFg.jpg	220767	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/c1-j3JRff7M.jpg	39116	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/c1HWZFH5RTc.jpg	362559	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/c8rmXk9snB4.jpg	552845	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/cUFR2JGL_TI.jpg	242040	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/cm2Erz_1838.jpg	423132	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/djzmal03qFg.jpg	290726	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/dnzrFVYfsiI.jpg	481292	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/dzvU5Dxn1bo.jpg	507218	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ec-CAF4TSWE.jpg	662723	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/f4jiWvO7tdk.jpg	413637	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/fT91Q_-uurE.jpg	267641	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/fXXE9u55XYA.jpg	316920	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/fsjdSq5KGZQ.jpg	863788	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/gtT6CgIr1nI.jpg	163989	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/h2zcuN8SiME.jpg	917879	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/hWT4orQVoMM.jpg	315593	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/hvoJUexapDI.jpg	562696	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/i4x7b1fmLlU.jpg	259985	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/i87yApO_2K8.jpg	542320	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/i9YSQnCj-S4.jpg	254228	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/iAshi5RRnYk.jpg	530169	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/il0y3LTaCvw.jpg	110686	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/image(14).gif	2415709	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/image(21).gif	1061553	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/image(5).gif	954807	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/image(6).gif	954762	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/image(7).gif	954820	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/image(8).gif	1301430	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/image(9).gif	1301573	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/index.png	80540	бегло	notes/karta-inbox.md (листом)	1	~notes/gpt-koren.md
-complex_beauty/index1.png	86559	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/indвеерке.png	858253	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/iqedjki3I84.jpg	86109	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/jIRSlt88P54.jpg	625337	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/jfAim03aG-4.jpg	604903	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/kOjvFppP85o.jpg	853383	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/kyhSTUL8NrU.jpg	116009	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/lJu6hEulpw0.jpg	852946	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/lRejF8b7B68.jpg	548018	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/lXzCQQazxII.jpg	744930	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/lxIPKdqrxVk.jpg	231003	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/m5GnlkreiLU.jpg	851606	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/mC769AXl7uk.jpg	135510	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/mwDJsAJgFEA.jpg	587746	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/n1jDg3ZC1_w.jpg	1977379	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/n2iGWnL9TPo.jpg	210411	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/nEWARkdsX_g.jpg	254642	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/nQMRkcv-R4s.jpg	473810	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/nQVSzvSA0T4.jpg	688221	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/najpn6cUnCI.jpg	513824	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/o5u6vVICIzQ.jpg	384502	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/oStpfL0Mo9w.jpg	620352	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ojUEYm969A8.jpg	180182	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/osHaS-bcHcs.jpg	107659	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/pC--UmQV8to.jpg	495102	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/pJQEFf6WIXc.jpg	501338	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/pSNJ0k-LkIA.jpg	732730	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/pWS197Jx5lo.jpg	284212	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/pwOr5VnDoDk.jpg	701844	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/q2BjPOK8lzo.jpg	243288	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/q3f2tAwl0CY.jpg	295949	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/qU6QMorQXJc.jpg	955308	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/qnNBae6_XEY.jpg	559322	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/r6POqeGUHpE.jpg	425995	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/r8HcFZsAOmI.jpg	812722	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/rAECUFja8gI.jpg	825610	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/rimOUGZRIk8.jpg	924117	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/rmVhbWauM3g.jpg	490705	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/sC7FMBaxu60.jpg	232506	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/sYTT3B2XTBY.jpg	454224	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/sj8cxlXlKEA.jpg	794100	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/sxp1ET6UFTw.jpg	457580	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/tBu4dcCGkQo.jpg	712435	бегло	notes/karta-inbox.md (листом)	1	diary/2026-10-21-0008.md
-complex_beauty/uMBBjrK2pnA.jpg	179898	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ud0vb21wI9Y.jpg	539352	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ulXw6QxrRmM.jpg	76910	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/vII0wAAeak4.jpg	773733	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/vKrgZQ-Ec-k.jpg	761470	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/vMjY6hurmOY.jpg	334395	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/vXe5G0wJb_0.jpg	135436	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/vhx19kKwUuY.jpg	304151	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/vrMiSVHgcxM.jpg	864700	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/vu-ergCnbr0.jpg	547386	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/w3MCEH74Gx0.jpg	399138	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/w7KNaQqozIs.jpg	368202	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/wVLRaIL4C1U.jpg	310830	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/x8HbbzuRqPg.jpg	392728	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/xI5WOoNppjc.jpg	137456	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/yIr7b8UEqm8.jpg	86384	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/yKKc1dQdQac.jpg	827663	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/z34e41u1kwM.jpg	541136	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/zp1wgdjkrQU.jpg	222322	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/zrOGUrTU6TU.jpg	537104	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/ztyEdifF_Dk.jpg	122648	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (38).png	1360224	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (4).png	402629	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (57)_1.png	392907	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (57)_2.png	392911	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (57)_3.png	393383	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (57)_4.png	391217	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (57)_5.png	396063	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (58).png	393538	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Без названия (59).png	256030	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/Куб3.png	485109	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/впглшоешнглонеп.png	125363	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/е7епн.png	1081637	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/еген.png	474659	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруж67ненное.png	173734	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруж6капенное.png	494918	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загружен6геное.png	546762	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (19).png	992883	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (33).png	2491054	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (34).png	2494756	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (35).png	2701908	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (36).png	278698	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (37).png	286477	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (38).png	110494	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (38)_1.png	113293	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (39).png	248680	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (40).png	252466	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (41).png	287281	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (42).png	112519	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (63).png	282436	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (64).png	219436	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/загруженное (65).png	163743	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/нгангро.png	456863	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/рл.png	1668384	бегло	notes/karta-inbox.md (листом)	1	~notes/gpt-koren.md
-complex_beauty/рмлбрм.png	62079	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/рплро.png	1044652	бегло	notes/karta-inbox.md (листом)	0	
-complex_beauty/уну5у.png	1379000	бегло	notes/karta-inbox.md (листом)	0	
+complex_beauty/-9j7_AbrLeg.jpg	327665	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/-FmJvS_flio.jpg	742753	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/-HiNKYf3jkg.jpg	95553	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/-YjHNNamCCk.jpg	939301	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/00OuhgRsu7g.jpg	161627	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/04em7Ad7A5I.jpg	180463	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/0SAGpTVzYT4.jpg	289720	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/0jrSF6AzW-c.jpg	453820	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/15-n_1ab-1w.jpg	320430	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/1DoYQpa89IU.jpg	441302	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/1lz-q3xFPYo.jpg	424232	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/1oFzJXD10lU.jpg	786533	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/1osAtiRnIic.jpg	807480	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/1zU3TjIbdFQ.jpg	237268	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/294lNdknLMw.jpg	516975	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/2JyG0hozNR4.jpg	174330	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/2bc5fnz_3ms.jpg	200754	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/2bs7NsfC28I.jpg	921380	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/2cXTFX9mbp8.jpg	902107	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/34jnSsNv2bE.jpg	109915	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/3D6UBmfkRQE.jpg	295345	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/4-gDb-tF8UI.jpg	491958	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/46_1.jpg	178953	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/4GhBobVDZXc.jpg	269261	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/4HisBl7j_9Y.jpg	424313	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/4JR6Xq7B1qo.jpg	298187	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/4QGqNveGwRE.jpg	891304	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/4W7lqBUyhCM.jpg	408968	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/4exYkod8-B8.jpg	390005	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/5ENIHvHOdjY.jpg	871066	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/5KzSSjMB3_c.jpg	488580	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/5Xkuw9H0tB0.jpg	408613	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/5uSkjYmO6f4.jpg	308361	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/67г8657е.png	114829	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/6By-0i1ay8Q.jpg	225813	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/6GFn6G6RziA.jpg	632132	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/6Sm-n25RFhE.jpg	507910	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/72qs5ePm3XI.jpg	1126068	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/75mOki3wt_k.jpg	276043	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/7cWRLoc_lg8.jpg	696133	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8CybdQ-FFKs.jpg	89783	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8FL4X-5wgbs.jpg	179760	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8FbaobUQIq8.jpg	396177	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8lMoOgz0qIQ.jpg	441614	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8owcerLfTbo.jpg	437989	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8sObAeUiYWA.jpg	386472	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8y-yg4XxOtY.jpg	525203	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8yXQHFMsZ5g.jpg	149706	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/8нлшшн8г.png	422249	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/91AYf-yWoDQ.jpg	652446	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/91k3X8XGdxA.jpg	377914	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/9aWoqMdTggE.jpg	268909	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/9sjUj_xa0TQ.jpg	644231	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/A0UYyda4rb0.jpg	153421	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/AFq-itiG6lo.jpg	742290	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/AXV-Dg73i3w.jpg	734945	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/AcS3InEow9Q.jpg	328782	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/B5v745L9QZ4.jpg	208630	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/BORYczRpvmI.jpg	399395	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/C9FKb7E2VUQ.jpg	386321	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/CPVP5E1lSmQ.jpg	476306	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/CsURWO35Hyo.jpg	137645	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/DGO8BdNMKCA.jpg	297983	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/De49mbHCw3U.jpg	924154	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/EMoes5QvZqw.jpg	870765	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Eh8-5ucCy4M.jpg	819090	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Elias Wegert (auth.) - Visual Complex Functions_ An Introduction with Phase Portraits (2012, Birkhäuser Basel).pdf	20631456	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/FOplcMqMeVU.jpg	135568	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/GCBo5ZdpNLM.jpg	358037	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/GMH1jLsCdUg.jpg	680022	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/GZ8_u3y80s8.jpg	423367	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/GmBobAQ5MsE.jpg	624028	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/HRR42ivytC0.jpg	300865	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/HVLMrX8db9g.jpg	218299	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Ia4gSH70_Tw.jpg	462959	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/IpdgDiX_kOc.jpg	444922	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/JAHkbq0Y0us.jpg	335192	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/JMc8TOB7Pqg.jpg	674894	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/JgthAhJysHg.jpg	388876	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Jh7ZMG9qyB8.jpg	342200	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Jh7ZMG9qyенкнB8.jpg	334086	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/JlUro45gL70.jpg	901901	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Jtw4UM6rrGo.jpg	355854	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/JwWpJixB8hw.jpg	109947	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/KE0JAuU5sWw.jpg	295349	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	1	diary/2026-10-21-0008.md
+complex_beauty/KFPgDOAb2ug.jpg	780728	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/KV_2q9FkQyI.jpg	346606	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/KVoHTrL5tzM.jpg	261379	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/K_gl-0j7gwY.jpg	945254	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/KaK54aKRuE8.jpg	540582	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/LL0BMO3i4Uk.jpg	540327	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/LpvofAh_9sg.jpg	364821	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/MB6Dxty4p3Q.jpg	423700	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/MKW7dZpNL9Q.jpg	805306	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/MVW8TjLYm3o.jpg	291493	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/MW1aMRDU_Co.jpg	168247	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/N71mIDqN-oA.jpg	110710	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/NE1cbXONtnY.jpg	88131	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/NPIftNOa8IM.jpg	1372717	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/NZEJ6DsjNh0.jpg	364900	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/NiU9TQ7yCLc.jpg	936083	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/O0ZU_hjNbew.jpg	295565	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/PTXYJWjB-AU.jpg	288575	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/PZl7RkogT6g.jpg	291857	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/PclJOKIVWsE.jpg	145479	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/PowzKoSP2no.jpg	432140	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Q-yz3Xahhus.jpg	389279	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/QY6X8-jO2xM.jpg	107308	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/QngjOr6YXsI.jpg	158064	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/RU4pvJojcmw.jpg	238264	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/RgHm6OfX3SY.jpg	866189	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/RkEklxB35IE.jpg	944852	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/RrAu4y46XzQ.jpg	112065	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/STF3Hn_zoso.jpg	349667	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ScLBQPQt-og.jpg	452066	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Sdz4HZpQ3yA.jpg	364042	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ShKw9Vy4lDU.jpg	742171	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/SrZnplqC7xU.jpg	679718	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/U4oqq3U-nLg.jpg	924637	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/WvzDunLcLsQ.jpg	211055	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/X8NB9_quqNE.jpg	310202	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/X9IhqaXbYXs.jpg	261296	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/XLM9bx9aeKw.jpg	639408	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/XlJfK917_1E.jpg	73479	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Xybch2pLb3c.jpg	224117	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Y61wrKanN24.jpg	197249	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Y6ZeXqHpWUo.jpg	514546	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/YFcBbyc6Bi8.jpg	585201	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/YW2ntxOwJGk.jpg	781708	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ZAtjH-p28dU.jpg	405055	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ZAvA0AQFBWI.jpg	557844	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ZKOvT7ps318.jpg	229121	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ZvB7AkSPEIE.jpg	933228	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/_BCS-5PIEdE.jpg	509006	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/a-sJTUXpuAU.jpg	245029	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/a-ugHHWDWbc.jpg	1019767	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/aHg7zElxhBc.jpg	274621	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/aJxEeS_XHoE.jpg	135630	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/aZgXkhkirc0.jpg	362060	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/anRZCMIqhJo.jpg	381563	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/baBZYZXbwqs.jpg	105772	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/btAnYP0VnFg.jpg	220767	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/c1-j3JRff7M.jpg	39116	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/c1HWZFH5RTc.jpg	362559	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/c8rmXk9snB4.jpg	552845	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/cUFR2JGL_TI.jpg	242040	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/cm2Erz_1838.jpg	423132	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/djzmal03qFg.jpg	290726	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/dnzrFVYfsiI.jpg	481292	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/dzvU5Dxn1bo.jpg	507218	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ec-CAF4TSWE.jpg	662723	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/f4jiWvO7tdk.jpg	413637	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/fT91Q_-uurE.jpg	267641	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/fXXE9u55XYA.jpg	316920	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/fsjdSq5KGZQ.jpg	863788	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/gtT6CgIr1nI.jpg	163989	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/h2zcuN8SiME.jpg	917879	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/hWT4orQVoMM.jpg	315593	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/hvoJUexapDI.jpg	562696	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/i4x7b1fmLlU.jpg	259985	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/i87yApO_2K8.jpg	542320	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/i9YSQnCj-S4.jpg	254228	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/iAshi5RRnYk.jpg	530169	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/il0y3LTaCvw.jpg	110686	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/image(14).gif	2415709	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/image(21).gif	1061553	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/image(5).gif	954807	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/image(6).gif	954762	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/image(7).gif	954820	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/image(8).gif	1301430	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/image(9).gif	1301573	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/index.png	80540	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	1	~notes/gpt-koren.md
+complex_beauty/index1.png	86559	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/indвеерке.png	858253	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/iqedjki3I84.jpg	86109	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/jIRSlt88P54.jpg	625337	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/jfAim03aG-4.jpg	604903	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/kOjvFppP85o.jpg	853383	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/kyhSTUL8NrU.jpg	116009	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/lJu6hEulpw0.jpg	852946	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/lRejF8b7B68.jpg	548018	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/lXzCQQazxII.jpg	744930	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/lxIPKdqrxVk.jpg	231003	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/m5GnlkreiLU.jpg	851606	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/mC769AXl7uk.jpg	135510	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/mwDJsAJgFEA.jpg	587746	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/n1jDg3ZC1_w.jpg	1977379	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/n2iGWnL9TPo.jpg	210411	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/nEWARkdsX_g.jpg	254642	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/nQMRkcv-R4s.jpg	473810	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/nQVSzvSA0T4.jpg	688221	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/najpn6cUnCI.jpg	513824	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/o5u6vVICIzQ.jpg	384502	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/oStpfL0Mo9w.jpg	620352	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ojUEYm969A8.jpg	180182	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/osHaS-bcHcs.jpg	107659	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/pC--UmQV8to.jpg	495102	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/pJQEFf6WIXc.jpg	501338	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/pSNJ0k-LkIA.jpg	732730	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/pWS197Jx5lo.jpg	284212	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/pwOr5VnDoDk.jpg	701844	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/q2BjPOK8lzo.jpg	243288	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/q3f2tAwl0CY.jpg	295949	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/qU6QMorQXJc.jpg	955308	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/qnNBae6_XEY.jpg	559322	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/r6POqeGUHpE.jpg	425995	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/r8HcFZsAOmI.jpg	812722	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/rAECUFja8gI.jpg	825610	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/rimOUGZRIk8.jpg	924117	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/rmVhbWauM3g.jpg	490705	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/sC7FMBaxu60.jpg	232506	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/sYTT3B2XTBY.jpg	454224	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/sj8cxlXlKEA.jpg	794100	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/sxp1ET6UFTw.jpg	457580	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/tBu4dcCGkQo.jpg	712435	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	1	diary/2026-10-21-0008.md
+complex_beauty/uMBBjrK2pnA.jpg	179898	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ud0vb21wI9Y.jpg	539352	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ulXw6QxrRmM.jpg	76910	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/vII0wAAeak4.jpg	773733	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/vKrgZQ-Ec-k.jpg	761470	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/vMjY6hurmOY.jpg	334395	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/vXe5G0wJb_0.jpg	135436	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/vhx19kKwUuY.jpg	304151	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/vrMiSVHgcxM.jpg	864700	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/vu-ergCnbr0.jpg	547386	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/w3MCEH74Gx0.jpg	399138	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/w7KNaQqozIs.jpg	368202	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/wVLRaIL4C1U.jpg	310830	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/x8HbbzuRqPg.jpg	392728	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/xI5WOoNppjc.jpg	137456	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/yIr7b8UEqm8.jpg	86384	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/yKKc1dQdQac.jpg	827663	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/z34e41u1kwM.jpg	541136	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/zp1wgdjkrQU.jpg	222322	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/zrOGUrTU6TU.jpg	537104	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/ztyEdifF_Dk.jpg	122648	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (38).png	1360224	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (4).png	402629	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (57)_1.png	392907	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (57)_2.png	392911	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (57)_3.png	393383	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (57)_4.png	391217	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (57)_5.png	396063	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (58).png	393538	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Без названия (59).png	256030	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/Куб3.png	485109	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/впглшоешнглонеп.png	125363	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/е7епн.png	1081637	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/еген.png	474659	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруж67ненное.png	173734	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруж6капенное.png	494918	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загружен6геное.png	546762	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (19).png	992883	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (33).png	2491054	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (34).png	2494756	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (35).png	2701908	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (36).png	278698	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (37).png	286477	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (38).png	110494	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (38)_1.png	113293	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (39).png	248680	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (40).png	252466	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (41).png	287281	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (42).png	112519	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (63).png	282436	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (64).png	219436	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/загруженное (65).png	163743	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/нгангро.png	456863	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/рл.png	1668384	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	1	~notes/gpt-koren.md
+complex_beauty/рмлбрм.png	62079	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/рплро.png	1044652	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
+complex_beauty/уну5у.png	1379000	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие и поиск, notes/wegert.md	0	
 eldamo/L10N-ru.md	37053	полностью	дневник 2026-10-18-1901	1	diary/2026-10-18-1901.md
-eldamo/README.md	2371	упомянут, статус не поставлен		45	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-20-1820.md, diary/2026-10-19-1801.md
+eldamo/README.md	2371	упомянут, статус не поставлен		46	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-20-1820.md
 eldamo/build.gradle	1497	упомянут, статус не поставлен		8	~diary/2026-10-20-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-18-1901.md, ~notes/otvet-avtoru-8.md, ~proekty/hokku/svoyo-47.md, ~proekty/tractatus-quenya/perevod.md, ~proekty/tractatus-quenya/stranica.md, ~proekty/instrumenty/elf_poisk.py
 eldamo/gloss-nq.xml	565039	не упомянут		0	
 eldamo/gloss-q.xml	741143	не упомянут		0	
