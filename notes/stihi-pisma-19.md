@@ -15,6 +15,20 @@
 - *Tere almar(?) mina lattin* — «сквозь цветы — в окно (*mina*, *lattin*)».
 Картина — сад весной, звуки и запахи входят в окно. Чьё это, не знаю. Может быть, это стихи самого автора. Догадка ни на чём не основана, кроме его «не угадаешь».
 
+### Разгадка (21.10, 12:20): Тракль, «Die schöne Stadt», две последние строфы
+Автор подсказал: «это Тракль». Я узнал стихотворение по памяти и записал догадку в дневник **до** проверки (коммит). Потом сверил с Gutenberg #40221 (`ext/trakl/pg40221.txt`, строки 382–390). Память совпала во всём, кроме одной буквы («Garten», а не «Gärten»).
+| Тракль | квенья автора | что было в моём подстрочнике |
+|---|---|---|
+| Helle Instrumente singen. | Cal'ne linda-tammar lírar | верно, кроме *Cal'ne* — «светлые» (helle) |
+| Durch der Garten Blätterrahmen | Ter lot-arwo lasse-cantar | верно по смыслу: «рамы листьев» |
+| Schwirrt das Lachen schöner Damen. | Wíla vanye níon lalda | **ошибка**: *níon* — не «пчела» (ᴱQ *nion*), а «женщин» (род. мн. от *nís*; форму не сверял); *wíla* — «порхает», то есть schwirrt |
+| Leise junge Mütter singen. | Nesse ammi quilda lírar | *nessë* «юные», *ammi* «матери» |
+| Heimlich haucht an blumigen Fenstern | Muina nísa alma-lattin | *nísa* — не «аромат», а глагол: Eldamo, q *nis-* «to smell sweetly» (UT/167) |
+| Duft von Weihrauch, Teer und Flieder. | Ve helissar, nisque, suhte | *nisquë* «incense» = Weihrauch, *suhtë* «resin» = Teer. *helissar* в Eldamo — нкв. «amethyst», а не «сирень»: **спросить автора**, почему выбрано это слово. *Ve* не разобрал. |
+| Silbern flimmern müde Lider | Silma tínar líri lumbe | *lumbe* — мн. ч. прилагательного *lumba* «weary» (ᴹQ, Ety LUB), а не «мрак»; *líri* — «веки» (в Eldamo не искал до конца) |
+| Durch die Blumen an den Fenstern. | Tere almar mina lattin | верно |
+Сам род ошибки тот же, что утром: *níon* я опознал по виду (ᴱQ «пчела»), а не по месту в строке. Знай я, что речь о Damen, «пчела» не появилась бы.
+
 
 ## 2. «muntainqua "lye" ar honda "tye"…» = Пушкин, «Ты и вы» (1828)
 Узнал по первой строке. Текст общественное достояние, сличаю построчно:
