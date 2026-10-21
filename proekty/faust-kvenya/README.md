@@ -205,7 +205,7 @@
 
 - ***mára*** — Q «good, proper». О человеке говорят так и у Толкина: *i mára arano* «доброго короля». Есть и нкв. *manë* «good (moral, not evil)». Оно точнее для «guter» в нравственном смысле, но это неоквенья.
 - ***núla*** — Q *núla¹* «dark, occult, mysterious». У Гёте «dunkel» — не цвет, а «неясный, не до конца осознанный». *morna* «black, dark» было бы чернотой, *núla* — тайной. В 6.522 «Трактата» я отверг *núla* для *das Mystische* («оттенок не тот»), а здесь его оттенок и нужен. Прилагательное перед существительным с падежом не склоняется (статья Eldamo *adjectives*).
-- ***fëafelmeryassë*** — Q *fëafelmë* «\*spirit-impulse» (VT41/19), из *fëa* «дух» + *felmë* «\*impulse, emotion». Рядом у Толкина есть *hröafelmë* «\*body-impulse». Драйв Фауста — порыв духа, а не тела, и Толкин эти два различает. Мне кажется, Гёте сказал бы так же: «in seinem dunklen Drange» — о том, чего ищет дух, а не плоть. Формы: *-rya* «его» + местный *-ssë*, по курсу (упр. 4.4: *restaryassë* «на её поле»).
+- ***fëafelmeryassë*** — Q *fëafelmë* «\*spirit-impulse» (VT41/19), из *fëa* «дух» + *felmë* «\*impulse, emotion». Рядом у Толкина есть *hröafelmë* «\*body-impulse». «Drang» Фауста — порыв духа, а не тела, и Толкин эти два различает. Мне кажется, Гёте сказал бы так же: «in seinem dunklen Drange» — о том, чего ищет дух, а не плоть. Формы: *-rya* «его» + местный *-ssë*, по курсу (упр. 4.4: *restaryassë* «на её поле»).
 - ***mai ista*** — Q *mai* «well», Q *ista-* «to know» (аорист *ista*). «Sich bewusst sein» — скорее «сознавать», чем «знать», но ближе *ista* у меня ничего нет.
 - ***i téra tië*** — ᴹQ *téra* «straight, right, \*correct» + Q *tië* «path, road, way». «Прямой» и «правильный» в одном слове, как в немецком *recht*.
 
