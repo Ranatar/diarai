@@ -11,7 +11,7 @@
 | hendu ruine | *ruine* | мн. ч. от *ruina* «blazing, fiery» (а не *ruinë* «огонь») | [E] |
 | Hendu walde ar ilvanye | *walde* | мн. ч. от *walda* = *valda* «excited, wild» (PE17/154) — «страстные» | [E], см. ниже |
 |  | *ilvanye* | мн. ч. от *ilvan(y)a* «perfect» — «прекрасные» | [E] |
-| Talca melin tu! Talca rucin tu! | *talca* | в Eldamo только «post, mark»; здесь — «как!» | вопрос автору |
+| Talca melin tu! Talca rucin tu! | *talca* | в Eldamo только «post, mark», и то засвидетельствовано лишь внутри *lantalca* «boundary post or mark» (VT42/8; вывод от √TAK — догадка Хостеттера, VT42/28); здесь — «как!» | вопрос автору |
 |  | *melin*, *rucin* | *mel-* «love», *ruc-* «feel fear» + -n «я»; *tu* — «их (двоих)» [E] q *tu* «them (dual)» | [E] |
 | Sin nin cene tu ne ú mára lú | *sin* | q *sin¹* «*this much»; ᴹQ *sin* «now» | [E] |
 |  | *nin* | «мне», как в «Намариэ» (*sí man i yulma nin enquantuva?*) | [E] q *ni*, ref *nin* «for me» LotR/377 |
