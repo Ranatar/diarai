@@ -13,7 +13,7 @@
 |  | *ilvanye* | мн. ч. от *ilvan(y)a* «perfect» — «прекрасные» | [E] |
 | Talca melin tu! Talca rucin tu! | *talca* | **ᴹQ *talka* «\*that much, that great»** — коррелятив *ta* «that» + *-lka* «much» (DRC 1948, PE23/108). *Talca melin tu!* — «Вот сколько я их люблю!» [Сначала я написал: «только „post, mark“, засвидетельствовано лишь внутри *lantalca*» — и это ушло автору в P.S. Искал по *c*, а ᴹQ в Eldamo пишется через *k*. Нашёл проверяющий субагент, сверил я сам. Q *talca* «post, mark» (VT42/8) — омоним.] **Источник автора лежит у него же:** `inbox/Доклад/correlatives_PE23.png`, строка «how much/great», столбец TA: «talka, tanalka». | [E] |
 |  | *melin*, *rucin* | *mel-* «love», *ruc-* «feel fear» + -n «я»; *tu* — «их (двоих)» [E] q *tu* «them (dual)» | [E] |
-| Sin nin cene tu ne ú mára lú | *sin* | q *sin¹* «*this much»; ᴹQ *sin* «now» | [E] |
+| Sin nin cene tu ne ú mára lú | *sin* | q *sin¹* «*this much»; ᴹQ *sin* «now». **У автора — из таблицы коррелятивов PE23** (`inbox/Доклад/correlatives_PE23.png`): строка «when», столбец SI «near speaker» — «sí, (sin), sinan», то есть «теперь, в это время». | [E]; таблица автора |
 |  | *nin* | «мне», как в «Намариэ» (*sí man i yulma nin enquantuva?*) | [E] q *ni*, ref *nin* «for me» LotR/377 |
 |  | *cene* | от *cen-* «see» | [E] основа; форма [?] |
 |  | *ne* | ? («был» — прош. от *ná*? или «в»?) | вопрос автору |
