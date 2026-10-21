@@ -25,7 +25,7 @@ def prostye(n):
     return [i for i in range(n + 1) if s[i]]
 
 P = prostye(10000)
-def F(x):  # число простых ≤ x, на скачке — полусумма (Риман, стр. 200–204)
+def F(x):  # число простых ≤ x, на скачке — полусумма (Риман, Zeta.tex, строки 199–204)
     c = sum(1 for p in P if p < x); return c + (0.5 if any(abs(p - x) < 1e-12 for p in P) else 0)
 def f_tochno(x):
     s, n = 0.0, 1
