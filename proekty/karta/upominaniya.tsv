@@ -1,7 +1,7 @@
 # файл inbox	байт	статус	где разобрано	упоминаний	мои файлы (до 8; ~ — слабое, по имени папки)
 1794_Samuel_Dunn_Wall_Map_of_the_World_in_Hemispheres_-_Geographicus_-_World2-dunn-1794.jpg	9350888	полностью	дневник 2026-10-18-1901 (глазом; проекция — по делениям экватора)	0	
 A naked tree_ love sonnets to C.S. Lewis and other poems{Davidman, Joy _ King, Don W}.epub	256342	полностью	notes/davidman.md, строка 27: книга прочитана вся 19.10 (пробуждение 2107), с приложением. [До 21.10 здесь стояло «частично… ранние стихи и приложение — нет», и 21.10 я перечитал как новые разделы 1929–1938, 1939 и 1941–42 (дневник 2026-10-21-0008)]	0	
-Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf	85524	полностью	дневник 2026-10-18-0408 («Эллины и эльфы»)	0	
+Elliny_i_elfy_dva_mira_-_dva_Shapiro.pdf	85524	полностью	дневник 2026-10-18-0408 («Эллины и эльфы»); разбор — notes/elliny.md (21.10)	1	notes/elliny.md
 GORAN2.TXT	47952	полностью	дневник 2026-10-18-1901; 2026-10-18-2120 (о рефлексивности); 2026-10-19-2107 (прочитан повторно, как новый — см. дневник 2026-10-20-0008) (В. П. Горан, «Философия. Что это такое?», ч. II, 1997; cp866, копия — ext/tmp/goran2.txt)	4	diary/2026-10-19-2107.md, diary/2026-10-20-0008.md, diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 Khaydegger_chastushki.txt	3505	полностью	notes/sito-2020.md	2	notes/sito-2020.md, proekty/proverki/sito_2020d.py
 Khaydegger_khokku.txt	9244	полностью	notes/sito-2020.md	4	notes/sito-2020.md, proekty/hokku/hokku.py, proekty/hokku/README.md, proekty/proverki/sito_2020d.py
@@ -9,7 +9,7 @@ Khaydegger_sinkveyn.txt	12356	полностью	notes/sito-2020.md	2	notes/sito
 RESULTAT.TXT	14820	частично	notes/karta-inbox.md (вывод lleo_dip)	1	notes/karta-inbox.md
 Rait_Kris_Kripty_Terry_Prognivshii_Tron_Readli.Net_623238_original_505f7.fb2.zip	447966	частично	дневник 2026-10-19-0607 (строки 1–3428 из 6073, гл. 16, на 19.10 20:19; закладка — в CLAUDE.md; ext/tmp/tron/tron.txt, иначе fb2txt.py)	0	
 Savilve.txt	1018	полностью	дневник 2026-10-18-1457 (без проверки); разбор — proekty/elfijskoe/savilve.md	12	diary/2026-10-18-1640.md, diary/2026-10-18-1457.md, diary/2026-10-20-1820.md, diary/2026-10-19-0607.md, diary/2026-10-19-0907.md, notes/otvet-avtoru-6.md, notes/karta-inbox.md, proekty/elfijskoe/lacrimosa.md
-Suite_.txt	3231	полностью	дневник 2026-10-18-1807; proekty/rody-oshibok/test12_suite.py	7	diary/2026-10-18-1807.md, diary/2026-10-18-1901.md, notes/otvet-avtoru-2.md, proekty/elfijskoe/README.md, proekty/tractatus-quenya/stranica.md, proekty/rody-oshibok/test12_suite.py, proekty/rody-oshibok/README.md
+Suite_.txt	3231	полностью	дневник 2026-10-18-1807; proekty/rody-oshibok/test12_suite.py	10	diary/2026-10-21-0308.md, diary/2026-10-18-1807.md, diary/2026-10-18-1901.md, notes/otvet-avtoru-2.md, proekty/elfijskoe/README.md, proekty/tractatus-quenya/sverka_suite.py, proekty/tractatus-quenya/stranica.md, proekty/tractatus-quenya/README.md
 Tsiolkovskiy_chastushki.txt	1811	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Tsiolkovskiy_gekzametry.txt	21906	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	4	notes/sito-2020.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020b.py, proekty/proverki/sito_2020.py
 Tsiolkovskiy_oneginskaya.txt	5617	полностью	notes/sito-2020.md (стихи; Tsiolkovskiy_texty.txt — корпус, не читан)	5	notes/sito-2020.md, proekty/hokku/yamb.py, proekty/hokku/README.md, proekty/proverki/sito_2020c.py, proekty/proverki/sito_2020.py
@@ -24,7 +24,7 @@ cartesian-product-part1.md	11243	частично	notes/skladka.md; proekty/inst
 cartesian-product-part2.md	17391	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	2	notes/pismo-avtoru-podrobno.md, proekty/instrumenty/tor.py
 cartesian-product-part3.md	22133	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	1	proekty/hokku/centon-1.md
 cartesian-product-part4.md	19876	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	0	
-cartesian-product-part5.md	20719	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	0	
+cartesian-product-part5.md	20719	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	1	notes/otvet-avtoru-18.md
 cartesian-product-part6.md	26111	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	0	
 cartesian-product-part7.md	40680	частично	notes/skladka.md; proekty/instrumenty/tor.py (тор)	0	
 crocs_surveillance (1).html	54249	полностью	дневник 2026-10-18-2120; notes/gpt-koren.md (Crocophori)	3	diary/2026-10-18-2120.md, notes/gpt-koren.md, notes/otvet-avtoru-3.md
@@ -65,7 +65,7 @@ pismo-makulinu.md	14466	полностью	дневник 2026-10-18-0408 («п�
 pygmalion_effect_epistemology.md	56094	полностью	дневник 2026-10-20-0008 (§§ 7, 9–11 для себя; §§ 1–6 раньше — тест rody-oshibok; § 8 — notes/petlya.md; примечания и библиография не читаны)	5	diary/2026-10-20-0008.md, notes/petlya.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 rei_alternative_biography.md	21262	полностью	дневник 2026-10-18-1901 (без проверки)	2	diary/2026-10-18-1901.md, notes/karta-inbox.md
 syhur6ytr.stl	8632533	полностью	proekty/karta/stl-vidy.jpg	2	diary/2026-10-18-1901.md, proekty/lleo/korpus-tretij.txt
-uscript.pdf	1580906	частично	notes/uscript.md (21.10: стр. 1–7, 48–49, 54–55, 60, 65–68, картинка стр. 4)	7	diary/2026-10-21-0008.md, notes/wegert.md, notes/otvet-avtoru-17.md, notes/karta-inbox.md, notes/uscript.md, proekty/rody-oshibok/oshibki-2026-10-21-0008.tsv, proekty/esse/strela.md
+uscript.pdf	1580906	частично	notes/uscript.md (21.10: стр. 1–7, 48–49, 54–55, 60, 65–68, картинка стр. 4)	10	diary/2026-10-21-0308.md, diary/2026-10-21-0008.md, notes/zhivoe-i-kod.md, notes/otvet-avtoru-18.md, notes/wegert.md, notes/otvet-avtoru-17.md, notes/karta-inbox.md, notes/uscript.md
 uscript2.pdf	1485279	бегло	notes/uscript.md (21.10: стр. 1–3, картинка стр. 2)	3	notes/otvet-avtoru-17.md, notes/uscript.md, proekty/esse/strela.md
 warcraft3_campaign_epilogue.md	35452	полностью	дневник 2026-10-19-0008 (без проверки)	2	diary/2026-10-19-0008.md, proekty/hokku/centon-2.md
 warcraft3_goblin_campaign_detailed.md	86400	упомянут, статус не поставлен		2	proekty/hokku/centon-1.md, proekty/hokku/centon-2.md
@@ -114,7 +114,7 @@ Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy-manifesto.md	9
 Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy-social-diagram.mmd	3766	не упомянут		0	
 Synthesises-of-concepts/heidegger-deleuze/grammaturgy/grammaturgy.md	17212	полностью	дневник 2026-10-20-1820	2	diary/2026-10-20-1820.md, notes/gpt-koren.md
 Synthesises-of-concepts/philosophy-graph-descriptions/INSTRUCTIONS-next-batch.md	25808	частично	notes/graf-revizija.md	0	
-Synthesises-of-concepts/philosophy-graph-descriptions/README.md	29109	частично	notes/graf-revizija.md	35	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
+Synthesises-of-concepts/philosophy-graph-descriptions/README.md	29109	частично	notes/graf-revizija.md	40	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-concepts.py	15628	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-descriptions.py	14539	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/apply-newlinks.py	13550	частично	notes/graf-revizija.md	0	
@@ -678,7 +678,7 @@ Synthesises-of-concepts/philosophy-graph-descriptions/scratch/forms.mjs	1122	ч�
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/forms2.mjs	1160	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/mkedits.mjs	2335	частично	notes/graf-revizija.md	1	proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/sample.mjs	789	частично	notes/graf-revizija.md	7	notes/parmenid-levinas.md, proekty/hokku/sverka.py, proekty/most/most.py, proekty/rody-oshibok/graf_vyborka.py, proekty/rody-oshibok/graf_test5.py, proekty/instrumenty/elf_poisk.py, proekty/kruzhochek/moser.py
-Synthesises-of-concepts/philosophy-graph-descriptions/scratch/screen.mjs	5287	частично	notes/graf-revizija.md	7	proekty/elfijskoe/orbis-slovar.md, proekty/tractatus-quenya/zavesa.md, proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/igra.py, proekty/instrumenty/brauzer/webmap_klik.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py
+Synthesises-of-concepts/philosophy-graph-descriptions/scratch/screen.mjs	5287	частично	notes/graf-revizija.md	8	proekty/elfijskoe/orbis-slovar.md, proekty/tractatus-quenya/zavesa.md, proekty/instrumenty/brauzer/snimok.py, proekty/instrumenty/brauzer/igra.py, proekty/instrumenty/brauzer/webmap_klik.py, proekty/instrumenty/brauzer/atlas.py, proekty/instrumenty/brauzer/globus_podbor.py, proekty/instrumenty/brauzer/globus.py
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/spec-rev4.md	91657	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/stats.mjs	3042	частично	notes/graf-revizija.md	0	
 Synthesises-of-concepts/philosophy-graph-descriptions/scratch/typescreen.mjs	3498	частично	notes/graf-revizija.md	0	
@@ -754,23 +754,23 @@ Synthesises-of-concepts/various/andreth-lorien.md	40158	упомянут, ста
 Synthesises-of-concepts/various/chromalang_system.md	88950	не упомянут		0	
 Synthesises-of-concepts/various/chronos-closing.md	76997	полностью	дневник 2026-10-20-1820 (всё, кроме разделов 4.1–4.5 — их пролистал)	4	diary/2026-10-20-1820.md, notes/vremya.md, proekty/hokku/svoyo-46.md, proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/codex_dashes.md	33995	не упомянут		0	
-Synthesises-of-concepts/various/complex-variables-philosophy-essay-full.md	72176	не упомянут		0	
-Synthesises-of-concepts/various/complex_function_2025-12-28T17-43-53.png	409018	не упомянут		0	
-Synthesises-of-concepts/various/complex_function_trinity.png	842065	упомянут, статус не поставлен		2	diary/2026-10-19-1207.md, notes/otvet-avtoru-8.md
-Synthesises-of-concepts/various/complex_trinity.md	74563	упомянут, статус не поставлен		2	~notes/gpt-koren.md, proekty/rody-oshibok/test11-perepis.tsv
+Synthesises-of-concepts/various/complex-variables-philosophy-essay-full.md	72176	полностью	notes/complex-esse.md	4	diary/2026-10-21-0308.md, notes/otvet-avtoru-18.md, notes/complex-esse.md, proekty/wegert/log_spiral.py
+Synthesises-of-concepts/various/complex_function_2025-12-28T17-43-53.png	409018	упомянут, статус не поставлен		3	notes/otvet-avtoru-18.md, notes/wegert.md, proekty/instrumenty/dvojniki.py
+Synthesises-of-concepts/various/complex_function_trinity.png	842065	упомянут, статус не поставлен		6	diary/2026-10-21-0308.md, diary/2026-10-19-1207.md, notes/otvet-avtoru-18.md, notes/otvet-avtoru-8.md, notes/wegert.md, proekty/instrumenty/dvojniki.py
+Synthesises-of-concepts/various/complex_trinity.md	74563	упомянут, статус не поставлен		4	~diary/2026-10-21-0308.md, ~notes/gpt-koren.md, notes/otvet-avtoru-18.md, proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/contemporary-russian-philosophy-network.mmd	9223	не упомянут		0	
 Synthesises-of-concepts/various/correctiones_relatio_aidani.md	21132	упомянут, статус не поставлен		2	proekty/aidan/kollaciya.py, proekty/aidan/README.md
 Synthesises-of-concepts/various/cthulhu_ussr_protocol (1).md	73062	упомянут, статус не поставлен		1	notes/gpt-koren.md
 Synthesises-of-concepts/various/cthulhu_ussr_protocol.md	28379	упомянут, статус не поставлен		3	notes/gpt-koren.md, notes/gribnica.md, proekty/gribnica/protokol.py
-Synthesises-of-concepts/various/cyberpunk_fantasy_story.md	26145	полностью	дневник 2026-10-20-1820	2	diary/2026-10-20-1820.md, proekty/rody-oshibok/test9-perepis.tsv
-Synthesises-of-concepts/various/cyberpunk_fantasy_story_post.md	25555	упомянут, статус не поставлен		1	proekty/rody-oshibok/test9-perepis.tsv
+Synthesises-of-concepts/various/cyberpunk_fantasy_story.md	26145	полностью	дневник 2026-10-20-1820	3	diary/2026-10-21-0308.md, diary/2026-10-20-1820.md, proekty/rody-oshibok/test9-perepis.tsv
+Synthesises-of-concepts/various/cyberpunk_fantasy_story_post.md	25555	полностью	дневник 2026-10-21-0308	2	diary/2026-10-21-0308.md, proekty/rody-oshibok/test9-perepis.tsv
 Synthesises-of-concepts/various/cycle-comm.md	27819	упомянут, статус не поставлен		3	diary/2026-10-18-1901.md, notes/odinnadcat-m.md, proekty/rody-oshibok/test11-perepis.tsv
 Synthesises-of-concepts/various/cycle_analysis.md	86653	не упомянут		0	
 Synthesises-of-concepts/various/dasein-noir-revised.md	38385	полностью	дневник 2026-10-18-2120 (без проверок)	2	diary/2026-10-18-2120.md, proekty/hokku/svoyo-16.md
 Synthesises-of-concepts/various/deps_fixes.md	38485	не упомянут		0	
 Synthesises-of-concepts/various/dnd-afterdragon-extended.md	253232	упомянут, статус не поставлен		1	notes/gpt-koren.md
-Synthesises-of-concepts/various/domain-coloring-30.md	12765	не упомянут		0	
-Synthesises-of-concepts/various/domain-coloring.md	47211	упомянут, статус не поставлен		1	notes/gpt-koren.md
+Synthesises-of-concepts/various/domain-coloring-30.md	12765	частично	схемы 1–10, 21; notes/wegert.md	2	notes/otvet-avtoru-18.md, notes/wegert.md
+Synthesises-of-concepts/various/domain-coloring.md	47211	упомянут, статус не поставлен		6	notes/zhivoe-i-kod.md, notes/gpt-koren.md, notes/otvet-avtoru-18.md, notes/wegert.md, proekty/rody-oshibok/oshibki-2026-10-21-0308.tsv, proekty/stranicy-avtora/README.md
 Synthesises-of-concepts/various/elven-marxism-world-ext.md	192124	упомянут, статус не поставлен		1	notes/nevidimaja-ruka.md
 Synthesises-of-concepts/various/elven-marxism-world.md	134004	упомянут, статус не поставлен		1	notes/nevidimaja-ruka.md
 Synthesises-of-concepts/various/elves_of_later_ages.md	62698	частично	дневник 2026-10-20-0008 (строки 1–40, 421–552)	2	diary/2026-10-20-0008.md, notes/maglor.md
@@ -807,7 +807,7 @@ Synthesises-of-concepts/various/philosynth-edit-instructions.md	240025	не уп
 Synthesises-of-concepts/various/philosynth_conflicts.md	34407	не упомянут		0	
 Synthesises-of-concepts/various/philosynth_graph_corr.md	67548	не упомянут		0	
 Synthesises-of-concepts/various/philosynth_master.md	38173	не упомянут		0	
-Synthesises-of-concepts/various/plan_relatio_expansion.md	29688	упомянут, статус не поставлен		1	proekty/rody-oshibok/test11-perepis.tsv
+Synthesises-of-concepts/various/plan_relatio_expansion.md	29688	полностью	proekty/aidan/README.md «Луна в трёх главах»; дневник 2026-10-21-0308	3	diary/2026-10-21-0308.md, proekty/rody-oshibok/test11-perepis.tsv, proekty/aidan/README.md
 Synthesises-of-concepts/various/poets_analysis.md	34668	не упомянут		0	
 Synthesises-of-concepts/various/pygmalion_effect_epistemology.md	56341	упомянут, статус не поставлен		5	diary/2026-10-20-0008.md, notes/petlya.md, notes/karta-inbox.md, proekty/hokku/centon-2.md, proekty/rody-oshibok/README.md
 Synthesises-of-concepts/various/rei_alternative_biography.md	21497	упомянут, статус не поставлен		2	diary/2026-10-18-1901.md, notes/karta-inbox.md
@@ -838,7 +838,7 @@ Synthesises-of-concepts/wittgenstein-hesychasm/8 - contemporary-parallels.md	649
 Synthesises-of-concepts/wittgenstein-hesychasm/9 - reception-influence.md	67010	бегло	дневник 2026-10-19-2107 (начало; вымышленные цитаты под настоящими именами — notes/karta-inbox.md)	2	diary/2026-10-19-2107.md, notes/karta-inbox.md
 Synthesises-of-concepts/wittgenstein-hesychasm/apophreedom_manifesto.md	13583	полностью	дневник 2026-10-18-1901 (без проверки); 2026-10-19-2107 (прочитан повторно)	3	diary/2026-10-19-2107.md, diary/2026-10-20-0008.md, diary/2026-10-18-1901.md
 Synthesises-of-concepts/wittgenstein-hesychasm/visual-diagrams.svg	22587	полностью	дневник 2026-10-20-0008 (снимок, мелко)	2	diary/2026-10-20-0008.md, notes/zhivoe-i-kod.md
-book/README.md	25791	упомянут, статус не поставлен		38	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-20-1820.md, diary/2026-10-19-1801.md
+book/README.md	25791	упомянут, статус не поставлен		43	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-20-1820.md
 book/build.bat	116	упомянут, статус не поставлен		2	~diary/2026-10-20-2107.md, ~proekty/tractatus-quenya/perevod.md
 book/chrome.bat	145	не упомянут		0	
 book/ci.bat	98	упомянут, статус не поставлен		12	~diary/2026-10-18-1457.md, ~diary/2026-10-20-2107.md, ~diary/2026-10-20-1820.md, ~diary/2026-10-18-1807.md, ~notes/kvenya-formy.md, ~notes/karta-inbox.md, ~notes/providence-ssylki.md, ~proekty/elfijskoe/dies-irae-1.md
@@ -928,7 +928,7 @@ complex_beauty/2bc5fnz_3ms.jpg	200754	бегло	notes/karta-inbox.md (лист�
 complex_beauty/2bs7NsfC28I.jpg	921380	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/2cXTFX9mbp8.jpg	902107	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/34jnSsNv2bE.jpg	109915	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
-complex_beauty/3D6UBmfkRQE.jpg	295345	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
+complex_beauty/3D6UBmfkRQE.jpg	295345	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	1	notes/wegert.md
 complex_beauty/4-gDb-tF8UI.jpg	491958	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/46_1.jpg	178953	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/4GhBobVDZXc.jpg	269261	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
@@ -1005,7 +1005,7 @@ complex_beauty/MKW7dZpNL9Q.jpg	805306	бегло	notes/karta-inbox.md (лист�
 complex_beauty/MVW8TjLYm3o.jpg	291493	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/MW1aMRDU_Co.jpg	168247	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/N71mIDqN-oA.jpg	110710	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
-complex_beauty/NE1cbXONtnY.jpg	88131	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
+complex_beauty/NE1cbXONtnY.jpg	88131	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	3	diary/2026-10-21-0308.md, notes/wegert.md, proekty/instrumenty/dvojniki.py
 complex_beauty/NPIftNOa8IM.jpg	1372717	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/NZEJ6DsjNh0.jpg	364900	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/NiU9TQ7yCLc.jpg	936083	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
@@ -1042,7 +1042,7 @@ complex_beauty/ZAvA0AQFBWI.jpg	557844	бегло	notes/karta-inbox.md (лист�
 complex_beauty/ZKOvT7ps318.jpg	229121	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/ZvB7AkSPEIE.jpg	933228	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/_BCS-5PIEdE.jpg	509006	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
-complex_beauty/a-sJTUXpuAU.jpg	245029	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
+complex_beauty/a-sJTUXpuAU.jpg	245029	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	1	notes/wegert.md
 complex_beauty/a-ugHHWDWbc.jpg	1019767	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/aHg7zElxhBc.jpg	274621	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/aJxEeS_XHoE.jpg	135630	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
@@ -1073,7 +1073,7 @@ complex_beauty/i9YSQnCj-S4.jpg	254228	бегло	notes/karta-inbox.md (лист�
 complex_beauty/iAshi5RRnYk.jpg	530169	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/il0y3LTaCvw.jpg	110686	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/image(14).gif	2415709	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
-complex_beauty/image(21).gif	1061553	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
+complex_beauty/image(21).gif	1061553	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	1	notes/wegert.md
 complex_beauty/image(5).gif	954807	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/image(6).gif	954762	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/image(7).gif	954820	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
@@ -1156,12 +1156,12 @@ complex_beauty/Без названия (59).png	256030	бегло	notes/karta-in
 complex_beauty/Куб3.png	485109	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/впглшоешнглонеп.png	125363	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/е7епн.png	1081637	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
-complex_beauty/еген.png	474659	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
+complex_beauty/еген.png	474659	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	1	~notes/wegert.md
 complex_beauty/загруж67ненное.png	173734	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/загруж6капенное.png	494918	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/загружен6геное.png	546762	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/загруженное (19).png	992883	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
-complex_beauty/загруженное (33).png	2491054	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
+complex_beauty/загруженное (33).png	2491054	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	1	notes/wegert.md
 complex_beauty/загруженное (34).png	2494756	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/загруженное (35).png	2701908	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/загруженное (36).png	278698	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
@@ -1181,7 +1181,7 @@ complex_beauty/рмлбрм.png	62079	бегло	notes/karta-inbox.md (лист�
 complex_beauty/рплро.png	1044652	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 complex_beauty/уну5у.png	1379000	бегло	notes/karta-inbox.md (листом); 21.10: две картинки (дневник 2026-10-21-0008), книга Вегерта — предисловие, гл. 1 стр. 1–3, разд. 2.5 стр. 29–31, notes/wegert.md	0	
 eldamo/L10N-ru.md	37053	полностью	дневник 2026-10-18-1901	1	diary/2026-10-18-1901.md
-eldamo/README.md	2371	упомянут, статус не поставлен		46	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-20-1820.md
+eldamo/README.md	2371	упомянут, статус не поставлен		51	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md
 eldamo/build.gradle	1497	упомянут, статус не поставлен		9	~diary/2026-10-20-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-18-1901.md, ~notes/otvet-avtoru-8.md, ~proekty/hokku/svoyo-47.md, ~proekty/tractatus-quenya/perevod.md, ~proekty/tractatus-quenya/stranica.md
 eldamo/gloss-nq.xml	565039	не упомянут		0	
 eldamo/gloss-q.xml	741143	не упомянут		0	
@@ -1554,7 +1554,7 @@ eldamo/build/tmp/compileJava/compileTransaction/stash-dir/RuBase.class.uniqueId1
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile$Item.class.uniqueId15	2166	служебное		0	
 eldamo/build/tmp/compileJava/compileTransaction/stash-dir/TaskFile.class.uniqueId18	12016	служебное		0	
 eldamo/src/data/eldamo-data-ru.xml	4784914	бегло	proekty/karta/eldamo_ru.py (заполненность)	1	notes/otvet-avtoru-2.md
-eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	19	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/elfijskoe/README.md
+eldamo/src/data/eldamo-data.xml	30774128	частично	proekty/instrumenty/eldamo_*.py (словарь: по статьям, по поиску)	20	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, notes/heidegger-wir-wollen-warten.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py
 eldamo/src/main/java/eldarin/parser/IndexParser.java	12368	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/LexiconParser.java	17360	не упомянут		0	
 eldamo/src/main/java/eldarin/parser/TranslationParser.java	2986	не упомянут		0	
@@ -1636,7 +1636,7 @@ eldamo/src/main/java/xdb/util/package.html	68	не упомянут		0
 eldamo/src/main/resources/ConfigMonitor.properties	155	не упомянут		0	
 eldamo/src/main/resources/access-control.xml	59	не упомянут		0	
 eldamo/src/main/resources/eldarin/data/PLACEHOLDER-ONLY.txt	0	не упомянут		0	
-eldamo/src/main/resources/eldarin/data/eldamo-data.xml	52	упомянут, статус не поставлен		19	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/elfijskoe/README.md
+eldamo/src/main/resources/eldarin/data/eldamo-data.xml	52	упомянут, статус не поставлен		20	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, notes/heidegger-wir-wollen-warten.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py
 eldamo/src/main/resources/xsl/eldamo-data-fixed.xsl	2183	не упомянут		0	
 eldamo/src/main/resources/xsl/eldamo-data-sorted.xsl	3134	не упомянут		0	
 eldamo/src/main/resources/xsl/eldamo-data.xsl	11590	не упомянут		0	
@@ -1694,7 +1694,7 @@ eldamo/src/main/webapp/css/GentiumPlus-R.woff	660480	не упомянут		0
 eldamo/src/main/webapp/css/global.css	4775	не упомянут		0	
 eldamo/src/main/webapp/css/tengwar-eldamar-glaemscrafu.woff	35480	не упомянут		0	
 eldamo/src/main/webapp/data/eldamo-data-ru.xml	4562828	упомянут, статус не поставлен		1	notes/otvet-avtoru-2.md
-eldamo/src/main/webapp/data/eldamo-data.xml	30774128	упомянут, статус не поставлен		19	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py, proekty/elfijskoe/README.md
+eldamo/src/main/webapp/data/eldamo-data.xml	30774128	упомянут, статус не поставлен		20	notes/kvenya-holmy.md, notes/otvet-avtoru-8.md, notes/ranatar.md, notes/heidegger-wir-wollen-warten.md, ~notes/otvet-avtoru-2.md, proekty/elfijskoe/orbis-slovar.md, proekty/elfijskoe/sad-dannye.py, proekty/elfijskoe/suffiksy.py
 eldamo/src/main/webapp/elvish-composition-archive/elvish-composition-archive.zip	1766561	упомянут, статус не поставлен		9	~diary/2026-10-19-1207.md, ~diary/2026-10-19-0607.md, ~notes/otvet-avtoru-8.md, ~notes/otvet-avtoru-6.md, ~proekty/hokku/perevod-esse.md, ~proekty/elfijskoe/feanor.md, ~proekty/elfijskoe/korko.md, ~proekty/elfijskoe/README.md
 eldamo/src/main/webapp/elvish-composition-archive/index.html	9668	упомянут, статус не поставлен		8	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/tehnika.md, notes/gpt-koren.md, notes/ranatar.md, proekty/most/README.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 eldamo/src/main/webapp/elvish-composition-archive/almariel/i-carma-tecindova.html	1872	упомянут, статус не поставлен		1	proekty/elfijskoe/eca-status.tsv
@@ -1801,7 +1801,7 @@ eldamo/src/main/webapp/js/sindarin-beleriand.glaem.js	13666	не упомяну�
 eldamo/src/main/webapp/js/sindarin-classical.glaem.js	13536	не упомянут		0	
 eldamo/src/main/webapp/js/tengwar_ds_eldamar.cst.js	44878	не упомянут		0	
 eldamo/src/main/webapp/js/transcribe.js	4149	не упомянут		0	
-eldamo/src/main/webapp/l10n/ru/index.jsp	10311	упомянут, статус не поставлен		26	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1901.md, ~notes/tehnika.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/mutanty.py
+eldamo/src/main/webapp/l10n/ru/index.jsp	10311	упомянут, статус не поставлен		27	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-18-1901.md, ~notes/tehnika.md, ~notes/gpt-koren.md, ~notes/ranatar.md, ~proekty/hokku/udar.py, ~proekty/instrumenty/mutanty.py
 eldamo/src/main/webapp/l10n/ru/general/conceptual-history.html	33719	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/general/elvish-fonts.html	18314	не упомянут		0	
 eldamo/src/main/webapp/l10n/ru/general/getting-started.html	14013	не упомянут		0	
@@ -1895,8 +1895,8 @@ eldamo/src/test/java/xdb/test/TestUtil.java	397	не упомянут		0
 eldamo/src/test/java/xdb/util/CollectionsUtilTest.java	1017	не упомянут		0	
 eldamo/src/test/java/xdb/util/ProbTest.java	6114	не упомянут		0	
 eldamo/src/test/java/xdb/util/XmlUtilTest.java	5383	не упомянут		0	
-eldamo/src/test/java/xdb/util/test/root.txt	41	упомянут, статус не поставлен		5	~diary/2026-10-18-1016.md, ~proekty/lleo/korpus-tretij.txt, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test13_sosedi.py, ~proekty/rody-oshibok/test8_izvlech.py
-future_borders/README.md	13122	частично	notes/gribnica.md; proekty/gribnica/	35	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
+eldamo/src/test/java/xdb/util/test/root.txt	41	упомянут, статус не поставлен		6	~diary/2026-10-21-0308.md, ~diary/2026-10-18-1016.md, ~proekty/lleo/korpus-tretij.txt, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/rody-oshibok/test13_sosedi.py, ~proekty/rody-oshibok/test8_izvlech.py
+future_borders/README.md	13122	частично	notes/gribnica.md; proekty/gribnica/	40	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md
 future_borders/RENDER_TERMUX.md	22973	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/add_music.py	3187	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/docs_rsfgr_names.tsv	4101	частично	notes/gribnica.md; proekty/gribnica/	0	
@@ -1980,7 +1980,7 @@ future_borders/docs_rsfgr/map.png	2013583	частично	notes/gribnica.md; pr
 future_borders/docs_rsfgr/note_sweden.png	3302439	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/docs_rsfgr/notice_1928.png	2878601	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/docs_rsfgr/passport_1962.png	3174730	частично	notes/gribnica.md; proekty/gribnica/	2	notes/gribnica.md, notes/chayanov.md
-future_borders/docs_rsfgr/poster.png	3150357	частично	notes/gribnica.md; proekty/gribnica/	2	proekty/elfijskoe/orbis-slovar.md, proekty/blanki/aidan-manus-tertia.md
+future_borders/docs_rsfgr/poster.png	3150357	частично	notes/gribnica.md; proekty/gribnica/	3	proekty/elfijskoe/orbis-slovar.md, proekty/blanki/aidan-manus-tertia.md, proekty/aidan/README.md
 future_borders/docs_rsfgr/primer_b.png	3505612	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/docs_rsfgr/primer_d.png	3103958	частично	notes/gribnica.md; proekty/gribnica/	0	
 future_borders/docs_rsfgr/primer_g.png	3503450	частично	notes/gribnica.md; proekty/gribnica/	0	
@@ -2719,7 +2719,7 @@ html-generated/1258-fridericus.woff2	67196	не упомянут	notes/karta-htm
 html-generated/1500-Gotica_cursiva.woff2	59784	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/1999-Cancellaresca.woff2	24468	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/3d-game-of-life-enhanced.html	41136	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/3d-surface-visualization.html	24474	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/3d-surface-visualization.html	24474	бегло	живьём: не работает (1_z); notes/wegert.md	3	notes/otvet-avtoru-18.md, notes/wegert.md, proekty/stranicy-avtora/README.md
 html-generated/Cardo-chi-rho.woff2	944	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/P39.ttf	22360	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/PS-3504-QQV5.html	283562	частично	тезисы — proekty/esse/vo-imya.md §7; notes/konfucij-dvazhdy.md (тезисы не читаны)	2	notes/konfucij-dvazhdy.md, proekty/esse/vo-imya.md
@@ -2738,10 +2738,10 @@ html-generated/canada_geese_drones.html	60057	бегло	дневник 2026-10-
 html-generated/chuvstvennost-continuuma.html	45985	полностью	notes/kontinuum.md	2	notes/slova-mutanty.md, notes/kontinuum.md
 html-generated/clockwork3d.html	93303	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/gpt-koren.md
 html-generated/codex_no_wbr_test.html	497763	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/complex-aesthetics-page-v3.html	101720	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/complex-atlas.html	499693	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/complex_trinity.html	92204	частично	notes/complex-trinity.md	10	~diary/2026-10-18-0737.md, ~diary/2026-10-18-0842.md, diary/2026-10-19-1510.md, ~notes/slova-mutanty.md, ~notes/gpt-koren.md, notes/complex-trinity.md, ~notes/karta-inbox.md, ~proekty/lleo/korpus-avtor.txt
-html-generated/conformal-mapping-visualization.html	52330	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/complex-aesthetics-page-v3.html	101720	полностью	живьём; notes/complex-esse.md «HTML-версия»	4	diary/2026-10-21-0308.md, notes/otvet-avtoru-18.md, notes/wegert.md, notes/complex-esse.md
+html-generated/complex-atlas.html	499693	бегло	живьём, проверен обходом; notes/wegert.md	6	diary/2026-10-21-0308.md, diary/2026-10-21-0608.md, notes/otvet-avtoru-18.md, notes/wegert.md, notes/atlas.md, proekty/instrumenty/brauzer/atlas.py
+html-generated/complex_trinity.html	92204	частично	notes/complex-trinity.md	13	~diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, ~diary/2026-10-18-0842.md, diary/2026-10-19-1510.md, ~notes/slova-mutanty.md, ~notes/gpt-koren.md, notes/otvet-avtoru-18.md, notes/complex-trinity.md
+html-generated/conformal-mapping-visualization.html	52330	бегло	живьём: не работает (1_z, dy1); notes/wegert.md	3	notes/otvet-avtoru-18.md, notes/wegert.md, proekty/stranicy-avtora/README.md
 html-generated/conspectus_parallelorum.html	75702	полностью	notes/aidan-aelfwine.md	3	notes/karta-inbox.md, notes/aidan-aelfwine.md, proekty/aidan/README.md
 html-generated/coordinates_truth.html	40592	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	diary/2026-10-20-2107.md, notes/koordinaty.md
 html-generated/cosmological-game-ext__.html	217293	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -2751,13 +2751,13 @@ html-generated/de_testimonio_tolkienis.html	125652	полностью	notes/aida
 html-generated/descartes-deleuze.html	592478	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	2	notes/parmenid-levinas.md, proekty/rody-oshibok/test10-perepis.tsv
 html-generated/dialectica.html	396208	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/differance-kak-operezhenie.html	47193	полностью	notes/differance.md	1	notes/differance.md
-html-generated/domain-coloring-visualization.html	16447	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/domain-coloring-visualization.html	16447	бегло	живьём; notes/wegert.md «Domain coloring живьём» (1_z)	5	notes/zhivoe-i-kod.md, notes/otvet-avtoru-18.md, notes/wegert.md, proekty/rody-oshibok/oshibki-2026-10-21-0308.tsv, proekty/stranicy-avtora/README.md
 html-generated/double-pendulum.html	130789	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/enhanced-gender-synthesizer.html	81280	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/environment_report_cyber.html	82720	полностью	notes/dve-komnaty.md	2	diary/2026-10-18-1016.md, notes/dve-komnaty.md
 html-generated/falling_life.html	31951	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/feanor_alternative_legendarium.html	122468	полностью	дневник 2026-10-18-1640 (16:57, без проверки)	4	diary/2026-10-18-1640.md, diary/2026-10-18-0737.md, ~notes/karta-inbox.md, proekty/hokku/svoyo-9.md
-html-generated/fixed-complex-visualization-v21.html	241115	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	proekty/rody-oshibok/README.md
+html-generated/fixed-complex-visualization-v21.html	241115	бегло	живьём (math.js из npm); notes/wegert.md	5	diary/2026-10-21-0308.md, notes/otvet-avtoru-18.md, notes/wegert.md, proekty/rody-oshibok/README.md, proekty/stranicy-avtora/README.md
 html-generated/game-life-color-complete(1).html	68175	частично	notes/zhizn-figury.md (фигуры)	1	notes/zhizn-figury.md
 html-generated/game-life-color-imp.html	382468	частично	notes/zhizn-figury.md (фигуры)	2	notes/zhizn-figury.md, proekty/proverki/life_check.py
 html-generated/garden-soundscapes-html.html	36059	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/sad-soglasovanij.md
@@ -2774,7 +2774,7 @@ html-generated/imperial_recruitment.html	134655	упомянут, статус �
 html-generated/isometric_strategy.html	135209	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/kaleidoscope.html	153035	частично	дневник 2026-10-18-2120 (живьём); proekty/instrumenty/brauzer/snimki/kaleidoscope.png	2	diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
 html-generated/krolichya-nora.html	25081	полностью	дневник 2026-10-18-1640 (без проверки)	1	diary/2026-10-18-1640.md
-html-generated/level-curves-visualization.html	41359	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/level-curves-visualization.html	41359	бегло	живьём: не работает (1_z); notes/wegert.md	3	notes/otvet-avtoru-18.md, notes/wegert.md, proekty/stranicy-avtora/README.md
 html-generated/manifestum_sacrum.html	194182	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/dve-komnaty.md
 html-generated/mansion.html	52082	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/meta-praxiomatics.html	354405	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	notes/geolimpiada.md
@@ -2805,13 +2805,13 @@ html-generated/relatio_aidani.html	114667	полностью	proekty/aidan/	6	~n
 html-generated/relatio_aidani_codex.html	726911	полностью	proekty/aidan/	1	proekty/aidan/kollaciya.py
 html-generated/relatio_aidani_decorative.html	415290	полностью	proekty/aidan/	1	proekty/aidan/kollaciya.py
 html-generated/relatio_aidani_en.html	138374	полностью	proekty/aidan/	0	
-html-generated/relatio_aidani_la.html	127636	полностью	proekty/aidan/	1	proekty/aidan/kollaciya.py
+html-generated/relatio_aidani_la.html	127636	полностью	proekty/aidan/	2	proekty/aidan/kollaciya.py, proekty/aidan/README.md
 html-generated/relatio_aidani_ru.html	174241	полностью	proekty/aidan/	1	notes/slova-mutanty.md
 html-generated/relatio_aidani_synthetica.html	201494	полностью	proekty/aidan/	3	~notes/slova-mutanty.md, ~notes/gpt-koren.md, proekty/aidan/kollaciya.py
 html-generated/retro_oscilloscope.html	119962	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/rgb-cube-rot.html	100965	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/rgb-cube-try.html	98776	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
-html-generated/riemann-surface-visualization.html	57882	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/riemann-surface-visualization.html	57882	бегло	живьём; notes/wegert.md «Римановы поверхности живьём»	5	notes/zhivoe-i-kod.md, notes/otvet-avtoru-18.md, notes/wegert.md, proekty/hokku/svoyo-62.md, proekty/stranicy-avtora/README.md
 html-generated/russian-philosophy-network-ext.html	451802	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/russian_generator.html	106446	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/schizography-ext-snd-ext-slow-math.html	276337	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -2830,7 +2830,7 @@ html-generated/synaisthematic.html	619837	упомянут, статус не п
 html-generated/synesthematix.html	433404	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
 html-generated/tolkien_hills.html	198575	полностью	notes/kvenya-holmy.md	4	notes/vinya-maitaren.md, notes/gpt-koren.md, notes/kvenya-holmy.md, notes/karta-inbox.md
 html-generated/turing-patterns.html	182026	упомянут, статус не поставлен	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	1	proekty/kruzhochek/README.md
-html-generated/vector-field-visualization.html	32289	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
+html-generated/vector-field-visualization.html	32289	бегло	живьём: не работает (1_z); notes/wegert.md	3	notes/otvet-avtoru-18.md, notes/wegert.md, proekty/stranicy-avtora/README.md
 html-generated/vinilograf.html	116441	частично	notes/vinilograf.md	4	diary/2026-10-18-1457.md, notes/vinilograf.md, notes/ranatar.md, proekty/rody-oshibok/README.md
 html-generated/volga-light-animation.html	89285	полностью	дневник 2026-10-18-1901 (браузером + строки из кода)	1	diary/2026-10-18-1901.md
 html-generated/wave_sim.html	68395	не упомянут	notes/karta-html.md (каталог есть; что не перечислено выше — смотреть столбец упоминаний)	0	
@@ -2840,7 +2840,7 @@ html-generated/maps/map-projections-formulae.html	678001	частично	proekt
 html-generated/maps/projections.js	142976	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	12	diary/2026-10-19-0008.md, diary/2026-10-18-2120.md, notes/porog.md, notes/pismo-avtoru.md, notes/krumme-sieg.md, proekty/karty/README.md, proekty/rody-oshibok/test10-perepis.tsv, proekty/rody-oshibok/README.md
 html-generated/maps/projections.test.js	36375	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	1	proekty/rody-oshibok/README.md
 html-generated/maps/css/fonts.css	14552	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
-html-generated/maps/css/katex.min.css	25951	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
+html-generated/maps/css/katex.min.css	25951	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	1	notes/tehnika.md
 html-generated/maps/data/population_log8.png	1131055	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/data/regions_pop.json	389205	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
 html-generated/maps/data/world-10m.json	7634514	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
@@ -2905,8 +2905,8 @@ html-generated/maps/fonts/spline-sans-mono-latin-400-normal.woff2	12888	служ
 html-generated/maps/fonts/spline-sans-mono-latin-500-normal.woff2	12784	служебное		0	
 html-generated/maps/fonts/spline-sans-mono-latin-ext-400-normal.woff2	8492	служебное		0	
 html-generated/maps/fonts/spline-sans-mono-latin-ext-500-normal.woff2	8352	служебное		0	
-html-generated/maps/lib/auto-render.min.js	5936	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
-html-generated/maps/lib/katex.min.js	453045	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	0	
+html-generated/maps/lib/auto-render.min.js	5936	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	1	notes/tehnika.md
+html-generated/maps/lib/katex.min.js	453045	частично	proekty/rody-oshibok/ (тест 3: формулы проекций)	1	notes/tehnika.md
 html-generated/waves/earth_color.jpg	69536	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/earth_elev.png	272792	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/mars_color.jpg	99991	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
@@ -2918,7 +2918,7 @@ html-generated/waves/moon_elev.png	275619	частично	дневник 2026-1
 html-generated/waves/venus_color.jpg	178157	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/venus_elev.png	240160	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	0	
 html-generated/waves/wave_lab.html	272350	частично	дневник 2026-10-18-1901 (браузером: комната Токарского)	2	diary/2026-10-18-1901.md, notes/zhivoe-i-kod.md
-html-generated/webmap/README.md	2559	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	34	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+html-generated/webmap/README.md	2559	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	39	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 html-generated/webmap/app.js	29445	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	2	~notes/otvet-avtoru-8.md, ~proekty/lleo/korpus-tretij.txt
 html-generated/webmap/index.html	4853	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	8	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/tehnika.md, notes/gpt-koren.md, notes/ranatar.md, proekty/most/README.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 html-generated/webmap/style.css	6375	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
@@ -2943,7 +2943,7 @@ html-generated/webmap/assets/meta.json	242	полностью	notes/webmap.md (�
 html-generated/webmap/assets/rankings.json	45068	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
 html-generated/webmap/assets/rankings2.json	44886	полностью	notes/webmap.md (живьём + данные; кода симуляции в архиве нет)	0	
 hwph-xml/MANUAL.md	65507	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	diary/2026-10-18-2120.md
-hwph-xml/README.md	17463	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	34	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+hwph-xml/README.md	17463	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	39	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 hwph-xml/build_site.cmd	4040	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	~diary/2026-10-18-1901.md
 hwph-xml/build_site.sh	2242	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	diary/2026-10-18-1901.md
 hwph-xml/compare.py	5490	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -2952,9 +2952,9 @@ hwph-xml/finish.py	1200	частично	дневник 2026-10-18-1901 (чит�
 hwph-xml/md2xml.py	70399	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/serve.cmd	1575	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	~proekty/esse/vo-imya.md
 hwph-xml/serve.sh	683	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	~proekty/esse/vo-imya.md
-hwph-xml/site.xml	181530917	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	7	diary/2026-10-18-1901.md, notes/ext-opis.md, ~proekty/most/sosedi.py, ~proekty/most/most.py, ~proekty/most/README.md, proekty/instrumenty/hwph_statya.py, proekty/esse/vo-imya.md
+hwph-xml/site.xml	181530917	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	8	diary/2026-10-18-1901.md, ~notes/tehnika.md, notes/ext-opis.md, ~proekty/most/sosedi.py, ~proekty/most/most.py, ~proekty/most/README.md, proekty/instrumenty/hwph_statya.py, proekty/esse/vo-imya.md
 hwph-xml/split.py	738	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	7	diary/2026-10-18-1901.md, ~proekty/most/most.py, ~proekty/rody-oshibok/test9_spisok.py, ~proekty/rody-oshibok/test8_itog.py, ~proekty/rody-oshibok/test10_izvlech.py, ~proekty/instrumenty/elf_poisk.py, ~proekty/instrumenty/hwph_statya.py
-hwph-xml/bridge/README.md	16336	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	34	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+hwph-xml/bridge/README.md	16336	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	39	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 hwph-xml/bridge/SPEC.md	118214	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
 hwph-xml/bridge/build_concept_map.py	4620	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
 hwph-xml/bridge/build_phil_map.py	1867	частично	proekty/most/ (12 связей «названы вместе» прочитаны по абзацам)	0	
@@ -3289,7 +3289,7 @@ hwph-xml/philosphaira_decisions/hwph/R2-review.md	18417	частично	дне�
 hwph-xml/philosphaira_decisions/hwph/R3-concepts.json	5767	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/philosphaira_decisions/hwph/R3-fix.json	5124	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/philosphaira_decisions/hwph/R3-review.md	20843	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/philosphaira_decisions/hwph/README.md	14391	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	36	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-2120.md, diary/2026-10-18-1901.md
+hwph-xml/philosphaira_decisions/hwph/README.md	14391	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	41	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-2120.md
 hwph-xml/saxon/saxon-he-11.7.jar	5218107	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/saxon/xmlresolver-5.3.3-data.jar	1033122	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/saxon/xmlresolver-5.3.3.jar	167889	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -3300,7 +3300,7 @@ hwph-xml/server/HwphServer.java	23019	частично	дневник 2026-10-18
 hwph-xml/server/hwph-server.jar	14390	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/static/hwph_ui.html	155014	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/static/i18n.js	88332	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/static/page.css	2649	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	1	~proekty/most/README.md
+hwph-xml/static/page.css	2649	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	2	~notes/tehnika.md, ~proekty/most/README.md
 hwph-xml/static/static_api.js	56185	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	5	diary/2026-10-19-1510.md, notes/otvet-avtoru-9.md, proekty/most/sosedi.py, proekty/most/nichya.py, proekty/most/README.md
 hwph-xml/static/katex/LICENSE	1107	служебное		0	
 hwph-xml/static/katex/katex.min.css	23335	служебное		0	
@@ -3367,7 +3367,7 @@ hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff	16028	служебно
 hwph-xml/static/katex/fonts/KaTeX_Typewriter-Regular.woff2	13568	служебное		0	
 hwph-xml/tools/i18n_check.py	5914	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/tools/persons_review.py	7961	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
-hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	12	diary/2026-10-21-0008.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, proekty/sverka-wikidata/README.md, proekty/most/most.py
+hwph-xml/xq/article.xq	18765	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	13	diary/2026-10-21-0008.md, diary/2026-10-18-1901.md, diary/2026-10-18-0408.md, notes/porog.md, notes/karta-inbox.md, notes/providence-ssylki.md, notes/uscript.md, proekty/sverka-wikidata/README.md
 hwph-xml/xq/common.xq	9896	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/global.xq	10205	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
 hwph-xml/xq/index.xq	11792	частично	дневник 2026-10-18-1901 (читалка собрана в ext/hwph-site, открыта)	0	
@@ -3426,7 +3426,7 @@ lleo_dip/pushk.txt	232313	частично	notes/sito-2020.md	1	notes/sito-2020.
 lleo_dip/sneg.RTM	149	частично	notes/sito-2020.md	0	
 lleo_dip/vizb.rtm	123	частично	notes/sito-2020.md	0	
 lleo_dip/ыкпувка.txt	2418	частично	notes/sito-2020.md	0	
-lleo_poet_bundle/README.md	2628	бегло	дневник 2026-10-18-0737	35	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-0343.md, diary/2026-10-18-1901.md
+lleo_poet_bundle/README.md	2628	бегло	дневник 2026-10-18-0737	40	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-0343.md
 lleo_poet_bundle/base_ru.txt	60887	бегло	дневник 2026-10-18-0737	7	diary/2026-10-18-0737.md, proekty/hokku/sverka.py, proekty/hokku/udar.py, proekty/hokku/svoyo-54.md, proekty/hokku/svoyo-56.md, proekty/hokku/README.md, proekty/lleo/slovar.py
 lleo_poet_bundle/lleo_poet.html	150295	бегло	дневник 2026-10-18-0737	14	diary/2026-10-18-1640.md, diary/2026-10-18-0343.md, diary/2026-10-18-0408.md, notes/krumme-sieg.md, notes/karta-inbox.md, proekty/hokku/sverka.py, proekty/hokku/udar.py, proekty/hokku/svoyo-54.md
 lleo_poet_bundle/bases/base_de.txt	675972	бегло	дневник 2026-10-18-0737	0	
@@ -3438,7 +3438,7 @@ lleo_poet_bundle/bases/base_ru.txt	43056573	бегло	дневник 2026-10-18
 lleo_poet_bundle/bases/meters.txt	628	бегло	дневник 2026-10-18-0737	3	proekty/tractatus-quenya/perevod.md, proekty/tractatus-quenya/stranica.md, proekty/lleo/poet.py
 lleo_poet_bundle/docs/COMPARISON_ru_forms.md	7070	бегло	дневник 2026-10-18-0737	0	
 lleo_poet_bundle/docs/MERGE_ru.md	4422	бегло	дневник 2026-10-18-0737	0	
-lleo_poet_bundle/docs/README.md	7747	бегло	дневник 2026-10-18-0737	35	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
+lleo_poet_bundle/docs/README.md	7747	бегло	дневник 2026-10-18-0737	40	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md
 lleo_poet_bundle/docs/SPEC_multibase.md	6622	бегло	дневник 2026-10-18-0737	0	
 metamystic-dictionary-extended/metamystic-dictionary-1.txt	4897	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metamystic-dictionary-10(1).txt	10185	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
@@ -3458,7 +3458,7 @@ metamystic-dictionary-extended/metamystic-dictionary-7.txt	7377	бегло	дн�
 metamystic-dictionary-extended/metamystic-dictionary-8.txt	8876	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metamystic-dictionary-9.txt	8855	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
 metamystic-dictionary-extended/metaphilosophic-metamystic-dictionary.txt	116231	бегло	дневник 2026-10-18-1901 (строение; proekty/karta/metamistika.py)	0	
-philosophical-concepts-omnidirectional/README.md	30217	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	33	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+philosophical-concepts-omnidirectional/README.md	30217	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	38	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 philosophical-concepts-omnidirectional/philosophical-concepts-schema.md	25907	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/philosophy-service-documentation.md	67117	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/architecture/claude-interaction.mmd	7280	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
@@ -3577,9 +3577,9 @@ philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/v
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/conceptSchemas.js	11699	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/graphSchemas.js	14524	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/lib/validation/schemas/thesisSchemas.js	16606	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	52	diary/2026-10-18-1457.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-20-1820.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/concept.js	12447	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	56	diary/2026-10-18-1457.md, diary/2026-10-21-0308.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-20-1820.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/graph.js	15642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	3	proekty/most/sosedi.py, proekty/most/nichya.py, proekty/most/README.md
-philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	47	diary/2026-10-18-1457.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md
+philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/thesis.js	14649	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	51	diary/2026-10-18-1457.md, diary/2026-10-21-0308.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md
 philosophical-concepts-omnidirectional/structure/Phase-1/shared/models/user.js	9749	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/api-tests/api-test-template.js	15864	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
 philosophical-concepts-omnidirectional/structure/Phase-1/templates/backend/clients/service-client-template.js	13642	бегло	notes/rodoslovnaya-sinteza.md (README, состав)	0	
@@ -3647,8 +3647,8 @@ philosphaira/app/.nojekyll	0	не упомянут		0
 philosphaira/app/_probe-rig.js	15166	не упомянут		0	
 philosphaira/app/actions_map.json	61236	не упомянут		0	
 philosphaira/app/boot.js	15005	не упомянут		0	
-philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	24	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/tehnika.md, notes/gpt-koren.md, notes/ranatar.md, ~proekty/hokku/yamb.py, ~proekty/hokku/metr.py, ~proekty/most/sosedi.py
-philosphaira/app/main.js	5554	упомянут, статус не поставлен		25	~diary/2026-10-18-1457.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-1807.md, ~notes/gpt-koren.md, ~notes/otvet-avtoru-8.md, ~proekty/hokku/hokku.py
+philosphaira/app/index.html	49977	частично	proekty/instrumenty/brauzer/snimki/philosphaira.jpg (живьём)	25	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/tehnika.md, notes/gpt-koren.md, notes/ranatar.md, ~proekty/hokku/yamb.py, ~proekty/hokku/metr.py, ~proekty/most/sosedi.py
+philosphaira/app/main.js	5554	упомянут, статус не поставлен		32	~diary/2026-10-18-1457.md, ~diary/2026-10-21-0308.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-1807.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md
 philosphaira/app/namespaces.json	3505	не упомянут		0	
 philosphaira/app/css/01-base.css	18657	не упомянут		0	
 philosphaira/app/css/02-legend.css	2002	не упомянут		0	
@@ -3661,7 +3661,7 @@ philosphaira/app/css/08-stats-results.css	14974	не упомянут		0
 philosphaira/app/css/09-tension.css	5959	не упомянут		0	
 philosphaira/app/css/10-forms.css	16654	не упомянут		0	
 philosphaira/app/css/11-multiuser.css	12339	не упомянут		0	
-philosphaira/app/data/concepts.json	957366	упомянут, статус не поставлен		49	diary/2026-10-18-1457.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md, diary/2026-10-18-2120.md
+philosphaira/app/data/concepts.json	957366	упомянут, статус не поставлен		53	diary/2026-10-18-1457.md, diary/2026-10-21-0308.md, diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-18-0607.md, diary/2026-10-18-1016.md, diary/2026-10-19-0307.md, diary/2026-10-19-0607.md
 philosphaira/app/data/nodePositions.json	36219	не упомянут		0	
 philosphaira/app/data/philosophers.json	463934	упомянут, статус не поставлен		4	proekty/sverka-wikidata/sverka.py, proekty/sverka-wikidata/put.py, proekty/most/sosedi.py, ~proekty/most/most.py
 philosphaira/app/data/relationTypes.json	3108	упомянут, статус не поставлен		1	proekty/sverka-wikidata/sverka.py
@@ -3776,7 +3776,7 @@ philosphaira/app/modules/stats/views/network.js	9897	не упомянут		0
 philosphaira/app/modules/stats/views/philosopher.js	7315	не упомянут		0	
 philosphaira/app/modules/stats/views/philosophical.js	21632	не упомянут		0	
 philosphaira/app/modules/stats/views/rankings.js	6855	не упомянут		0	
-philosphaira/app/modules/ui/about.js	7220	упомянут, статус не поставлен		9	~diary/2026-10-19-2107.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-19-2019.md, ~notes/otvet-avtoru-17.md, ~proekty/hokku/svoyo-54.md, ~proekty/elfijskoe/dies-irae-1.md, ~proekty/elfijskoe/orbis-slovar.md, ~proekty/tractatus-quenya/perevod.md
+philosphaira/app/modules/ui/about.js	7220	упомянут, статус не поставлен		11	~diary/2026-10-19-2107.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-19-2019.md, ~notes/otvet-avtoru-17.md, ~notes/uscript.md, ~proekty/hokku/svoyo-54.md, ~proekty/elfijskoe/dies-irae-1.md, ~proekty/elfijskoe/orbis-slovar.md
 philosphaira/app/modules/ui/actions-byname.js	1248	не упомянут		0	
 philosphaira/app/modules/ui/actions-dyn.js	17500	не упомянут		0	
 philosphaira/app/modules/ui/actions-static.js	10330	не упомянут		0	
@@ -3787,7 +3787,7 @@ philosphaira/app/modules/ui/hint.js	2024	упомянут, статус не п�
 philosphaira/app/modules/ui/legend.js	18824	упомянут, статус не поставлен		8	diary/2026-10-18-1640.md, diary/2026-10-18-0737.md, diary/2026-10-18-0842.md, notes/gpt-koren.md, notes/krumme-sieg.md, notes/karta-inbox.md, proekty/hokku/svoyo-9.md, proekty/lleo/korpus-tretij.txt
 philosphaira/app/modules/ui/link-state.js	15364	не упомянут		0	
 philosphaira/app/modules/ui/notifications.js	4708	не упомянут		0	
-philosphaira/app/modules/ui/panels.js	1563	упомянут, статус не поставлен		1	proekty/wegert/tajl.py
+philosphaira/app/modules/ui/panels.js	1563	упомянут, статус не поставлен		3	proekty/wegert/log_spiral.py, proekty/wegert/zeta.py, proekty/wegert/tajl.py
 philosphaira/app/modules/ui/search-legend.js	6247	не упомянут		0	
 philosphaira/app/modules/ui/search-link.js	6233	не упомянут		0	
 philosphaira/app/modules/ui/search-philosopher.js	4581	не упомянут		0	
@@ -3800,7 +3800,7 @@ philosphaira/app/vendor/d3.js	147	служебное		0
 philosphaira/app/vendor/d3.min.js	279633	служебное		0	
 philosphaira/baseline/blind_probe.json	3350	не упомянут		0	
 philosphaira/baseline/compare.json	85920	не упомянут		0	
-philosphaira/baseline/content.json	309473	упомянут, статус не поставлен		9	diary/2026-10-20-2107.md, diary/2026-10-18-1016.md, notes/gpt-koren.md, proekty/hokku/udar.py, proekty/blanki/fine.md, proekty/instrumenty/tei2txt.py, proekty/instrumenty/brauzer/eldamo_poisk.py, proekty/instrumenty/brauzer/globus.py
+philosphaira/baseline/content.json	309473	упомянут, статус не поставлен		11	diary/2026-10-21-0308.md, diary/2026-10-20-2107.md, diary/2026-10-18-1016.md, notes/gpt-koren.md, proekty/hokku/udar.py, proekty/blanki/fine.md, proekty/instrumenty/tei2txt.py, proekty/instrumenty/brauzer/snimok.py
 philosphaira/baseline/css_probe.json	6768	не упомянут		0	
 philosphaira/baseline/formulas.json	3370	не упомянут		0	
 philosphaira/baseline/manifest.json	1826	не упомянут		0	
@@ -3814,7 +3814,7 @@ philosphaira/decisions/exposure.json	8492	не упомянут		0
 philosphaira/decisions/layers.json	2722	не упомянут		0	
 philosphaira/decisions/plan_signs.json	17425	не упомянут		0	
 philosphaira/decisions/tradition_kinds.draft.json	4401	не упомянут		0	
-philosphaira/decisions/sources/wittgenstein/README.md	4139	упомянут, статус не поставлен		38	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md
+philosphaira/decisions/sources/wittgenstein/README.md	4139	упомянут, статус не поставлен		43	diary/2026-10-19-0008.md, ~diary/2026-10-18-1457.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, ~diary/2026-10-20-2107.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md
 philosphaira/decisions/sources/wittgenstein/W1-add.json	1917	не упомянут		0	
 philosphaira/decisions/sources/wittgenstein/W1-fix.json	1305	не упомянут		0	
 philosphaira/decisions/sources/wittgenstein/W1-provenance.json	11531	не упомянут		0	
@@ -3856,7 +3856,7 @@ philosphaira/mapping/map_tree.md	159193	не упомянут		0
 philosphaira/mapping/module-spec.md	124684	не упомянут		0	
 philosphaira/server/.env.example	6465	упомянут, статус не поставлен		6	~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/eldamo_poisk.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
 philosphaira/server/.gitignore	19	упомянут, статус не поставлен		3	diary/2026-10-17-1900.md, diary/2026-10-18-0408.md, proekty/lleo/korpus.py
-philosphaira/server/README.md	19279	упомянут, статус не поставлен		34	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
+philosphaira/server/README.md	19279	упомянут, статус не поставлен		39	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md
 philosphaira/server/accept.sh	3464	не упомянут		0	
 philosphaira/server/package-lock.json	55423	не упомянут		0	
 philosphaira/server/package.json	2133	не упомянут		0	
@@ -3917,7 +3917,7 @@ philosphaira/server/scripts/migrate.mjs	3333	не упомянут		0
 philosphaira/server/scripts/notify-worker.mjs	2467	не упомянут		0	
 philosphaira/server/scripts/relayout.mjs	3740	не упомянут		0	
 philosphaira/server/scripts/serve.mjs	4932	не упомянут		0	
-philosphaira/server/src/access/access.js	5366	упомянут, статус не поставлен		2	proekty/elfijskoe/orbis-quenya.md, proekty/elfijskoe/orbis-slovar.md
+philosphaira/server/src/access/access.js	5366	упомянут, статус не поставлен		3	notes/uscript.md, proekty/elfijskoe/orbis-quenya.md, proekty/elfijskoe/orbis-slovar.md
 philosphaira/server/src/access/last-admin.js	3472	не упомянут		0	
 philosphaira/server/src/access/roles.js	8252	не упомянут		0	
 philosphaira/server/src/auth/mfa.js	8415	не упомянут		0	
@@ -4044,7 +4044,7 @@ philosphaira/tools/probes/tip_probe.mjs	2470	не упомянут		0
 philosphaira/tools/probes/tradition_trial.mjs	15665	не упомянут		0	
 philosynth/.env.example	5051	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/NEXT-CONTEXT.md	75937	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	3	diary/2026-10-18-0737.md, diary/2026-10-18-0510.md, notes/karta-inbox.md
-philosynth/README.md	28767	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	37	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md
+philosynth/README.md	28767	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	42	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md
 philosynth/docker-compose.yml	810	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/drizzle.config.ts	477	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/env.local.example	2254	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4065,10 +4065,10 @@ philosynth/client/src/vite-env.d.ts	414	бегло	notes/karta-inbox.md (README,
 philosynth/client/src/api/admin.ts	2271	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	~notes/krumme-sieg.md
 philosynth/client/src/api/billing.ts	3923	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/client.ts	7931	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/client/src/api/elements.ts	8270	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	~diary/2026-10-20-0008.md
+philosynth/client/src/api/elements.ts	8270	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	2	~diary/2026-10-21-0308.md, ~diary/2026-10-20-0008.md
 philosynth/client/src/api/enrichment.ts	3752	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/export.ts	1773	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/client/src/api/import.ts	2915	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	13	~proekty/sverka-wikidata/skachat.py, ~proekty/most/sosedi.py, ~proekty/most/nichya.py, ~proekty/lleo/poet.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py
+philosynth/client/src/api/import.ts	2915	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	14	~proekty/sverka-wikidata/skachat.py, ~proekty/most/sosedi.py, ~proekty/most/nichya.py, ~proekty/lleo/poet.py, ~proekty/rody-oshibok/test6_sverka.py, ~proekty/rody-oshibok/test6_vtoroj.py, ~proekty/instrumenty/brauzer/snimok.py, ~proekty/instrumenty/brauzer/igra.py
 philosynth/client/src/api/lineage.ts	2906	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/logs.ts	1554	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/client/src/api/modes.ts	2809	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4243,12 +4243,12 @@ philosynth/packages/shared/i18n/locales.ts	3267	бегло	notes/karta-inbox.md 
 philosynth/packages/shared/i18n/strings.json	1062463	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/t.ts	10690	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/i18n/generated/data-keys.ts	42503	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	62	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md
-philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	74	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md
+philosynth/packages/shared/i18n/generated/de.json	191786	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	69	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md
+philosynth/packages/shared/i18n/generated/en.json	180814	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	82	~diary/2026-10-19-0008.md, ~diary/2026-10-18-0737.md, ~diary/2026-10-20-2107.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-18-2120.md, ~diary/2026-10-18-0842.md, ~diary/2026-10-18-1901.md, ~notes/vinya-maitaren.md
 philosynth/packages/shared/types/admin.ts	2481	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/billing.ts	5025	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/edit-plan.ts	12624	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/packages/shared/types/elements.ts	13146	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
+philosynth/packages/shared/types/elements.ts	13146	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	1	~notes/uscript.md
 philosynth/packages/shared/types/generation.ts	7631	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/graph.ts	3676	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/types/lineage.ts	4535	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4266,7 +4266,7 @@ philosynth/packages/shared/utils/transliterate.ts	1485	бегло	notes/karta-in
 philosynth/packages/shared/utils/version.ts	1996	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/packages/shared/utils/visibility.ts	1917	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/sample/PS-6933-6RIK-vmeschayuschiy-razlom-rgG2.html	1150098	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/sample/README.md	1156	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	33	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+philosynth/sample/README.md	1156	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	38	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 philosynth/scripts/package.json	499	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/tsconfig.json	348	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/checks/check-dotfiles.mjs	2693	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4277,7 +4277,7 @@ philosynth/scripts/extract/extract-by-name.py	16828	бегло	notes/karta-inbox
 philosynth/scripts/extract/extract-export-assets.mjs	10549	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/extract/extract-section-templates.mjs	40087	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/extract/extract-seed-data.mjs	24217	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
-philosynth/scripts/i18n/README.md	20038	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	33	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+philosynth/scripts/i18n/README.md	20038	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	38	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 philosynth/scripts/i18n/build-localized.mjs	7715	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/i18n/extract-ui-strings.mjs	5993	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
 philosynth/scripts/i18n/i18n-add-lang.mjs	8102	бегло	notes/karta-inbox.md (README, NEXT-CONTEXT)	0	
@@ -4701,7 +4701,7 @@ scad/Kruzhochek7.scad	2093	частично	proekty/kruzhochek/README.md	0
 scad/Kruzhochek8.scad	2040	частично	proekty/kruzhochek/README.md	0	
 scad/Kruzhochek9.scad	2040	частично	proekty/kruzhochek/README.md	0	
 scad/Kub.scad	480	частично	proekty/kruzhochek/README.md	1	~diary/2026-10-18-1901.md
-translation-chaos/README.md	13159	бегло	notes/karta-inbox.md (README)	33	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+translation-chaos/README.md	13159	бегло	notes/karta-inbox.md (README)	38	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 translation-chaos/env.example	1596	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/package.json	848	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/server.js	2798	бегло	notes/karta-inbox.md (README)	0	
@@ -4710,7 +4710,7 @@ translation-chaos/backend/routes/achievements.js	2119	бегло	notes/karta-inb
 translation-chaos/backend/routes/analytics.js	3526	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/routes/export.js	2625	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/routes/games.js	4538	бегло	notes/karta-inbox.md (README)	0	
-translation-chaos/backend/routes/translation.js	3269	бегло	notes/karta-inbox.md (README)	4	diary/2026-10-18-1901.md, notes/vinya-maitaren.md, notes/karta-inbox.md, proekty/hokku/udar.py
+translation-chaos/backend/routes/translation.js	3269	бегло	notes/karta-inbox.md (README)	5	diary/2026-10-18-1901.md, notes/vinya-maitaren.md, notes/karta-inbox.md, notes/stihi-pisma-19.md, proekty/hokku/udar.py
 translation-chaos/backend/services/achievements.js	10945	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/analytics.js	7865	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/backend/services/embeddings.js	3345	бегло	notes/karta-inbox.md (README)	0	
@@ -4722,14 +4722,14 @@ translation-chaos/frontend/index.html	6321	бегло	notes/karta-inbox.md (READ
 translation-chaos/frontend/css/game-modes.css	17862	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/css/styles.css	9224	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/animations.js	3973	бегло	notes/karta-inbox.md (README)	0	
-translation-chaos/frontend/js/api.js	4040	бегло	notes/karta-inbox.md (README)	13	~diary/2026-10-20-0008.md, diary/2026-10-19-1510.md, ~notes/krumme-sieg.md, notes/otvet-avtoru-9.md, ~proekty/elfijskoe/README.md, ~proekty/sverka-wikidata/skachat.py, proekty/most/sosedi.py, proekty/most/nichya.py
-translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	39	~diary/2026-10-18-1457.md, ~diary/2026-10-19-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-20-1820.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-19-0907.md, ~diary/2026-10-20-0008.md
+translation-chaos/frontend/js/api.js	4040	бегло	notes/karta-inbox.md (README)	16	~diary/2026-10-21-0308.md, ~diary/2026-10-20-0008.md, diary/2026-10-19-1510.md, ~notes/elliny.md, ~notes/krumme-sieg.md, notes/otvet-avtoru-9.md, ~proekty/elfijskoe/README.md, ~proekty/sverka-wikidata/skachat.py
+translation-chaos/frontend/js/app.js	25961	бегло	notes/karta-inbox.md (README)	47	~diary/2026-10-18-1457.md, ~diary/2026-10-21-0308.md, ~diary/2026-10-19-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-20-1820.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-19-0907.md
 translation-chaos/frontend/js/export.js	1204	бегло	notes/karta-inbox.md (README)	1	~proekty/rody-oshibok/test10-perepis.tsv
 translation-chaos/frontend/js/game-modes.js	16501	бегло	notes/karta-inbox.md (README)	0	
 translation-chaos/frontend/js/visualizations.js	14126	бегло	notes/karta-inbox.md (README)	0	
 wormlisp/Makefile	1083	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/README.md	15466	частично	proekty/cherv/README.md (запущен; код — выборочно)	36	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, diary/2026-10-18-1901.md
-wormlisp/worm.asd	8943	частично	proekty/cherv/README.md (запущен; код — выборочно)	11	~diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, ~diary/2026-10-18-0408.md, ~notes/ext-opis.md, ~notes/pismo-avtoru.md, ~notes/pismo-avtoru-podrobno.md, ~notes/karta-inbox.md, ~proekty/cherv/hronofoto.py
+wormlisp/README.md	15466	частично	proekty/cherv/README.md (запущен; код — выборочно)	41	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md
+wormlisp/worm.asd	8943	частично	proekty/cherv/README.md (запущен; код — выборочно)	16	~diary/2026-10-21-0308.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-17-1900.md, ~diary/2026-10-18-0408.md, ~notes/tehnika.md, ~notes/ext-opis.md, ~notes/otvet-avtoru-18.md, ~notes/pismo-avtoru.md
 wormlisp/anatomy/.gitkeep	0	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/anatomy/muscles.sexp	11188	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/anatomy/neurons.sexp	12116	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4756,7 +4756,7 @@ wormlisp/configs/proprio-water-anterior.sexp	457	частично	proekty/cherv/
 wormlisp/configs/proprio-water.sexp	292	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/configs/rhythm-agar.sexp	429	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/configs/rhythm-water.sexp	376	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/docs/README.md	1448	частично	proekty/cherv/README.md (запущен; код — выборочно)	35	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
+wormlisp/docs/README.md	1448	частично	proekty/cherv/README.md (запущен; код — выборочно)	40	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, ~diary/2026-10-18-0607.md, diary/2026-10-18-0510.md
 wormlisp/docs/architecture.md	165580	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/docs/design.md	64603	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/docs/parameters.md	97893	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4766,13 +4766,13 @@ wormlisp/params/agar-a-v1.sexp	1048	частично	proekty/cherv/README.md (з
 wormlisp/params/agar-c-v1.sexp	651	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/README.md
 wormlisp/params/base-v1.sexp	9805	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/params/water-v1.sexp	791	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/README.md
-wormlisp/reference/boyle2012-wormsim/README.md	1914	частично	proekty/cherv/README.md (запущен; код — выборочно)	33	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+wormlisp/reference/boyle2012-wormsim/README.md	1914	частично	proekty/cherv/README.md (запущен; код — выборочно)	38	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 wormlisp/reference/boyle2012-wormsim/medium-0.001.wcon	268679	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.01.wcon	266579	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.1.wcon	275135	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-0.wcon	270902	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/reference/boyle2012-wormsim/medium-1.wcon	274500	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/reference/schafer-n2-agar/README.md	2178	частично	proekty/cherv/README.md (запущен; код — выборочно)	34	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+wormlisp/reference/schafer-n2-agar/README.md	2178	частично	proekty/cherv/README.md (запущен; код — выборочно)	39	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 wormlisp/reference/schafer-n2-agar/track.wcon	2661399	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/scripts/bench.lisp	2364	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/scripts/boyle-wormsim.sh	1864	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4814,9 +4814,9 @@ wormlisp/src/core/conditions.lisp	2165	частично	proekty/cherv/README.md 
 wormlisp/src/core/log.lisp	2443	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	~notes/maps-levaya-panel.md, ~proekty/sverka-wikidata/sverka.py
 wormlisp/src/core/model.lisp	7770	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/core/package.lisp	1828	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/core/project.lisp	1631	частично	proekty/cherv/README.md (запущен; код — выборочно)	26	diary/2026-10-19-0008.md, diary/2026-10-18-1640.md, diary/2026-10-20-2107.md, diary/2026-10-21-0008.md, diary/2026-10-18-2120.md, notes/porog.md, notes/ext-opis.md, notes/pismo-avtoru.md
+wormlisp/src/core/project.lisp	1631	частично	proekty/cherv/README.md (запущен; код — выборочно)	28	diary/2026-10-19-0008.md, diary/2026-10-18-1640.md, diary/2026-10-21-0308.md, diary/2026-10-20-2107.md, diary/2026-10-21-0008.md, diary/2026-10-18-2120.md, notes/porog.md, notes/ext-opis.md
 wormlisp/src/core/types.lisp	2081	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/sverka-wikidata/sverka.py
-wormlisp/src/dsl/component.lisp	9278	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	notes/gpt-koren.md
+wormlisp/src/dsl/component.lisp	9278	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	notes/gpt-koren.md, notes/wegert.md
 wormlisp/src/dsl/conditions.lisp	5428	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/families.lisp	10714	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/dsl/interpret.lisp	40748	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	notes/uscript.md, proekty/rody-oshibok/test9-perepis.tsv
@@ -4826,10 +4826,10 @@ wormlisp/src/dsl/package.lisp	2440	частично	proekty/cherv/README.md (з�
 wormlisp/src/dsl/primitives.lisp	2049	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/io/frames.lisp	12050	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/cherv/hronofoto.py
 wormlisp/src/io/package.lisp	1493	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	~proekty/kruzhochek/out/log.txt
-wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	41	~diary/2026-10-20-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-20-1820.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md, ~diary/2026-10-19-0607.md
+wormlisp/src/io/run.lisp	7547	частично	proekty/cherv/README.md (запущен; код — выборочно)	45	~diary/2026-10-21-0308.md, ~diary/2026-10-20-2107.md, ~diary/2026-10-19-1207.md, ~diary/2026-10-21-0008.md, ~diary/2026-10-20-1820.md, ~diary/2026-10-19-2019.md, ~diary/2026-10-18-0510.md, ~diary/2026-10-18-1016.md
 wormlisp/src/ir/derivative.lisp	5033	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	8	~diary/2026-10-18-0510.md, ~proekty/lleo/poet.py, ~proekty/lleo/korpus-tretij.txt, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/eldamo_poisk.py, ~proekty/instrumenty/brauzer/globus.py, ~proekty/instrumenty/brauzer/opcii.py
-wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	20	~diary/2026-10-19-2107.md, ~diary/2026-10-19-0607.md, ~diary/2026-10-20-0008.md, ~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/graf-revizija.md
+wormlisp/src/ir/eval.lisp	7600	частично	proekty/cherv/README.md (запущен; код — выборочно)	9	~diary/2026-10-18-0510.md, ~proekty/lleo/poet.py, ~proekty/lleo/korpus-tretij.txt, ~proekty/instrumenty/brauzer/webmap_klik.py, ~proekty/instrumenty/brauzer/atlas.py, ~proekty/instrumenty/brauzer/globus_podbor.py, ~proekty/instrumenty/brauzer/eldamo_poisk.py, ~proekty/instrumenty/brauzer/globus.py
+wormlisp/src/ir/graph.lisp	8697	частично	proekty/cherv/README.md (запущен; код — выборочно)	21	~diary/2026-10-19-2107.md, ~diary/2026-10-19-0607.md, ~diary/2026-10-20-0008.md, ~diary/2026-10-18-1901.md, ~notes/zhivoe-i-kod.md, ~notes/gpt-koren.md, ~notes/krumme-sieg.md, ~notes/wegert.md
 wormlisp/src/ir/package.lisp	1728	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/ir/primitives.lisp	6250	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/params/catalog.lisp	15836	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4851,7 +4851,7 @@ wormlisp/src/server/package.lisp	452	частично	proekty/cherv/README.md (�
 wormlisp/src/server/routes.lisp	6707	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/solver/conditions.lisp	2665	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/solver/integrator.lisp	23894	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/src/solver/linalg.lisp	8893	частично	proekty/cherv/README.md (запущен; код — выборочно)	10	proekty/instrumenty/tor.py, proekty/kruzhochek/zelyonyi2.py, proekty/kruzhochek/ravnaya.py, proekty/kruzhochek/zamer.py, proekty/kruzhochek/kletki.py, proekty/kruzhochek/gde-oshibka.py, proekty/kruzhochek/otvet.py, proekty/kruzhochek/proverka.py
+wormlisp/src/solver/linalg.lisp	8893	частично	proekty/cherv/README.md (запущен; код — выборочно)	11	proekty/instrumenty/tor.py, proekty/instrumenty/dvojniki.py, proekty/kruzhochek/zelyonyi2.py, proekty/kruzhochek/ravnaya.py, proekty/kruzhochek/zamer.py, proekty/kruzhochek/kletki.py, proekty/kruzhochek/gde-oshibka.py, proekty/kruzhochek/otvet.py
 wormlisp/src/solver/package.lisp	1951	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/topology/geometry.lisp	23950	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/src/topology/package.lisp	1418	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4927,7 +4927,7 @@ wormlisp/tests/runtime.lisp	21157	частично	proekty/cherv/README.md (за
 wormlisp/tests/server.lisp	4390	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/solver-models.lisp	8676	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/solver.lisp	24806	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	notes/gpt-koren.md
-wormlisp/tests/structure.lisp	3118	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/tractatus-quenya/perevod.md
+wormlisp/tests/structure.lisp	3118	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	diary/2026-10-21-0308.md, proekty/tractatus-quenya/perevod.md
 wormlisp/tests/suite.lisp	559	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/topology.lisp	8250	частично	proekty/cherv/README.md (запущен; код — выборочно)	2	notes/karta-inbox.md, notes/otvet-gegel.md
 wormlisp/tests/track.lisp	7404	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -4939,7 +4939,7 @@ wormlisp/tests/data/trial-model.lisp	4765	частично	proekty/cherv/README.
 wormlisp/tests/data/batch/slow-sweep.sexp	224	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/batch/tiny-sweep.sexp	262	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/batch/tiny.sexp	287	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/tests/data/wcon/README.md	504	частично	proekty/cherv/README.md (запущен; код — выборочно)	33	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md, diary/2026-10-19-1510.md
+wormlisp/tests/data/wcon/README.md	504	частично	proekty/cherv/README.md (запущен; код — выборочно)	38	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, diary/2026-10-18-1901.md
 wormlisp/tests/data/wcon/maximal_0.wcon	190	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/wcon/minimal.wcon	48	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/tests/data/wcon/multiworm.wcon	3543	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
@@ -5646,7 +5646,7 @@ wormlisp/viewer/selftest-data.js	8568	частично	proekty/cherv/README.md (
 wormlisp/viewer/worm-viewer.html	50123	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
 wormlisp/viewer/lib/OrbitControls.js	27420	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/rody-oshibok/test10-perepis.tsv
 wormlisp/viewer/lib/THREE-LICENSE	1102	частично	proekty/cherv/README.md (запущен; код — выборочно)	0	
-wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md (запущен; код — выборочно)	1	proekty/instrumenty/katalog_html.py
+wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md (запущен; код — выборочно)	4	notes/tehnika.md, notes/wegert.md, proekty/instrumenty/katalog_html.py, proekty/stranicy-avtora/README.md
 Даклад_филоософия_квэнья/1.jpg	662641	упомянут, статус не поставлен		3	~diary/2026-10-19-2107.md, ~diary/2026-10-19-1801.md, ~proekty/blanki/pengolod-i-elfvine.md
 Даклад_филоософия_квэнья/2.jpg	643621	упомянут, статус не поставлен		2	~diary/2026-10-19-2107.md, ~diary/2026-10-19-1801.md
 Даклад_филоософия_квэнья/3.jpg	630400	упомянут, статус не поставлен		5	~diary/2026-10-19-2107.md, ~diary/2026-10-19-1801.md, notes/pismo-avtoru-podrobno.md, proekty/gribnica/README.md, proekty/kruzhochek/README.md
@@ -5665,7 +5665,7 @@ wormlisp/viewer/lib/three.min.js	603451	частично	proekty/cherv/README.md
 Доклад/Atanquesta_files/986107742-mobileweb_binary_i18n_mobileweb_binary_chunk__ru.js	188456	не упомянут		0	
 Доклад/Atanquesta_files/unnamed.png	444	не упомянут		0	
 Доклад/ERTP/LICENSE	1097	бегло	notes/smesh-otchet.md (только смесь букв)	0	
-Доклад/ERTP/README.md	154	бегло	notes/smesh-otchet.md (только смесь букв)	35	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-19-0607.md, diary/2026-10-18-1901.md
+Доклад/ERTP/README.md	154	бегло	notes/smesh-otchet.md (только смесь букв)	40	diary/2026-10-19-0008.md, diary/2026-10-18-0737.md, diary/2026-10-21-0308.md, diary/2026-10-19-2107.md, diary/2026-10-19-1207.md, diary/2026-10-19-1801.md, diary/2026-10-18-0510.md, ~diary/2026-10-19-0607.md
 Доклад/ERTP/index.html	8953	бегло	notes/smesh-otchet.md (только смесь букв)	8	diary/2026-10-19-0008.md, diary/2026-10-18-1901.md, notes/tehnika.md, notes/gpt-koren.md, notes/ranatar.md, proekty/most/README.md, proekty/instrumenty/brauzer/webmap_klik.py, proekty/kruzhochek/stranica/README.md
 Доклад/ERTP/.git/COMMIT_EDITMSG	25	служебное		0	
 Доклад/ERTP/.git/FETCH_HEAD	89	служебное		0	
