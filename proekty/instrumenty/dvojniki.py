@@ -10,7 +10,7 @@
 и связала десятки посторонних тёмных картинок; средняя абсолютная разность дала 13,7 против 19,9 — без разрыва.
 21.10, пробуждение 03:07: я «разгадал» NE1cbXONtnY.jpg как новую, а это была та же функция, что в иконе Троицы, разобранной мной 18.10.
 chital.py ищет по имени и не может такое поймать.
-Ограничение: зеркальные копии не ищет (`complex_function_2025-12-28T17-43-53.png` — икона Троицы, отражённая
+Зеркала: для одной картинки печатает и лучшее совпадение её отражений. В режиме групп зеркала не ищет (`complex_function_2025-12-28T17-43-53.png` — икона Троицы, отражённая
 слева направо, а корреляция всего 0,562). Проверка на зеркало — ext/tmp/zerkalo.py (сравнение тона)."""
 import os, sys
 import numpy as np
@@ -59,6 +59,14 @@ if __name__ == "__main__":
         paths, V = zagruzit()
         v = podpis(sys.argv[1])
         cc = V @ v
+        im = Image.open(sys.argv[1]).convert("RGB")
+        for nazv, t in (("отражение слева направо", Image.FLIP_LEFT_RIGHT), ("отражение сверху вниз", Image.FLIP_TOP_BOTTOM)):
+            a = np.asarray(im.transpose(t).resize((16, 16), Image.BILINEAR), dtype=np.float32).reshape(-1)
+            a = a - a.mean()
+            a = a / (np.linalg.norm(a) + 1e-9)
+            c2 = V @ a
+            j = int(np.argmax(np.where(np.array(paths) == os.path.relpath(os.path.abspath(sys.argv[1]), root), -2, c2)))
+            print("[%s] лучшее: %.3f %s" % (nazv, c2[j], paths[j]))
         order = np.argsort(-cc)
         for k, i in enumerate(order):
             if k < 5 or cc[i] >= POROG:
