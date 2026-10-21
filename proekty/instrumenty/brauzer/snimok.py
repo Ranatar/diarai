@@ -30,7 +30,7 @@ while "--klik" in args:
     s = args[i + 1]
     kliki.append("text" + chr(61) + s[1:] if s.startswith("@") else s)  # «@Текст» = text=Текст (без «=» и «~» в оболочке)
     del args[i:i + 2]
-zameny = []   # --zamena подстрока_URL локальный_файл — отдать запрос из файла (CDN закрыт прокси: 407); 21.10, 03:07
+zameny = []   # --zamena подстрока_URL локальный_файл — отдать запрос из файла (CDN закрыт прокси: 407); тип — по расширению; 21.10, 03:07
 while "--zamena" in args:
     i = args.index("--zamena")
     zameny.append((args[i + 1], args[i + 2]))
@@ -69,15 +69,16 @@ with sync_playwright() as p:
     pg.on("console", lambda m: msgs.append("console.%s: %s" % (m.type, m.text[:200])) if m.type in ("error", "warning") else None)
     pg.on("pageerror", lambda e: msgs.append("pageerror: %s" % str(e)[:200]))
     pg.on("requestfailed", lambda r: msgs.append("сеть: %s" % r.url[:120]))
-    def _obrabotchik(podstr, telo):
+    import mimetypes
+    def _obrabotchik(podstr, telo, tip):
         def h(route, request):
             if podstr in request.url:
-                route.fulfill(body=telo, content_type="application/javascript")
+                route.fulfill(body=telo, content_type=tip)
             else:
                 route.continue_()
         return h
     for podstr, fajl in zameny:
-        pg.route("**/*", _obrabotchik(podstr, open(fajl, "rb").read()))
+        pg.route("**/*", _obrabotchik(podstr, open(fajl, "rb").read(), mimetypes.guess_type(fajl)[0] or "application/octet-stream"))
     pg.goto(url, wait_until="load", timeout=30000)
     pg.wait_for_timeout(pause)
     for sel in kliki:  # сначала клики (поле ввода может появиться только после выбора режима), потом ввод
