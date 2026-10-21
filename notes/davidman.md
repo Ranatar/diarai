@@ -37,5 +37,5 @@
 - *ananta* «and yet, but yet» — ᴹQ (Ety/NDAN; LR/72);
 - *mahtuval* — будущее от Q *mahta-* «handle, wield; [ᴹQ.] wield a weapon, fight» (Ety/MAK). Будущее у *a*-глаголов: *-uva* вместо *a* (курс, стр. 5230: *anta- → antuva*), + *-l* «ты» (курс, стр. 3591: *Nauval*). «Go on» не передано;
 - *tenna* «until» — Q (как в клятве Элендиля, *tenna Ambar-metta*, курс, стр. 4049);
-- *coirë* «stirring, early spring» — Q, LotR/1107 (приложение о календаре): весна по-квенийски — «шевеление». Корень KOY, тот же, что, по Eldamo, в *coivië* «жизнь» (см. 6.4311 в `proekty/tractatus-quenya/perevod.md`). У неё весна — то, до чего надо дотянуть мёртвой под снегом. А квенийское слово говорит, что весна и есть первое шевеление.
+- *coirë* «stirring, early spring» — Q, LotR/1107 (что это приложение D о календарях — по памяти; Eldamo даёт только страницу): весна по-квенийски — «шевеление». Корень KOY, тот же, что, по Eldamo, в *coivië* «жизнь» (см. 6.4311 в `proekty/tractatus-quenya/perevod.md`). У неё весна — то, до чего надо дотянуть мёртвой под снегом. А квенийское слово говорит, что весна и есть первое шевеление.
 Строку «You are quite dead and the snow has buried you» не переводил. Проверяющему не отдавал.
