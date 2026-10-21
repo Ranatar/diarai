@@ -73,7 +73,7 @@
 - Читаю для себя: PU ч. I (`pu.py N`; сейчас подряд с § 582; ч. II нет). Начаты «Координаты», Вегерт (`notes/`).
 - **Uscript: слепые пробы** (`notes/uscript.md`): осталось стр. 1, 28, 32 v2. Рендер → прочтение → **коммит** → ключ **только к прочитанному**.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/`. Атлас, Риман — закрыты (`notes/atlas.md`, `proekty/riemann/`).
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–21); стихи `proekty/hokku/svoyo-1..69.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–21); стихи `proekty/hokku/svoyo-1..70.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`; читать при первой надобности)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
