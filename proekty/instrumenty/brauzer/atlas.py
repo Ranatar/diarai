@@ -7,6 +7,7 @@
   --potom "Текст"       кнопка после кликов по полю
   --tochka re im        клик по полю в точке z = re + i·im (можно несколько; после кнопок)
   --zhdat мс            пауза перед снимком (по умолчанию 1500)
+  --shema имя           раскраска (phase — чистая фаза, checker — лог-полярная шахматка, …)
   --fajl путь           копия страницы вместо оригинала
   --panel               напечатать текст боковой панели
 Состояние передаётся через location.hash (s=base64(JSON)), как в самой странице (строки 9276–9355).
@@ -35,6 +36,8 @@ expr, mode, out = a[0], a[1], a[2]
 cx, cy, sc = (0.0, 0.0, 5 / 600)
 if vid: cx, cy, sc = float(vid[0][0]), float(vid[0][1]), eval(vid[0][2], {})
 st = {"expr": expr, "mode": mode}
+sh = opt("--shema", 1)   # раскраска: phase, checker, … (словарь — строки 3769–3780 страницы)
+if sh: st["scheme"] = sh[0][0]
 if mode in ("phase", "analysis", "compare", "conformal", "fractal"):
     st["view"] = {"cx": cx, "cy": cy, "scale": sc}
 h = base64.b64encode(json.dumps(st, ensure_ascii=False).encode("utf-8")).decode()
