@@ -18,7 +18,7 @@
 Главное здесь: игру Пушкина *вы/ты* автор передал квенийской парой вежливого *lye* и фамильярного *tye*. Вслух «*nalye*» («вы есть»), в мыслях «*itye*». Различие на квенья держится так же, как по-русски.
 
 ## 3. «i Anar hánocoronissen…» = Гёте, «Фауст», «Пролог на небесах»
-Первые восемь строк — речь Рафаила («Die Sonne tönt, nach alter Weise / In Brudersphären Wettgesang…»), последние четыре — заключительные слова Мефистофеля («Von Zeit zu Zeit seh' ich den Alten gern…»). Начало Рафаила и последние две строки Мефистофеля сверил с projekt-gutenberg.org. Остальные строки — по памяти.
+Первые восемь строк — речь Рафаила («Die Sonne tönt, nach alter Weise / In Brudersphären Wettgesang…»), последние четыре — заключительные слова Мефистофеля («Von Zeit zu Zeit seh' ich den Alten gern…»). Все двенадцать строк сверены с Gutenberg #2229 (`ext/faust/faust.txt`, строки 364–371 и 510–513), 21.10, 06:40.
 - *hánocoronissen* — «в братских сферах» (*háno* «брат» + *coron* «шар, сфера»).
 - *nóquetaina lenda* — «предписанный путь» (vorgeschriebne Reise: «наперёд сказанный»).
 - *romya hundonen* — «громким громом» (mit Donnergang): нкв. *romya* «loud» (Elaran), нкв. *hundo* «thunder» (Paul Strack), по Eldamo.
