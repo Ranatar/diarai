@@ -73,7 +73,7 @@
 - Читаю для себя: **PU ч. II = «Philosophie der Psychologie – Ein Fragment»** (`ext/wn/ppf.txt`; цитировать — `ppf.py 19v[3]`). Квенья — **курс Eldamo, а не *Atanquesta*** (совет автора). **ᴱQ/ᴹQ — периоды замысла Толкина, а не древние слои языка** (`notes/otvet-avtoru-22.md`). Начаты «Координаты», Вегерт.
 - Uscript: серия слепых проб закончена 21.10 (6 проб; итог — `notes/uscript.md`): ошибки — в опознании условных знаков по виду; приём «сначала перечислить блоки» убрал неувиденное.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/`.
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–22); стихи `proekty/hokku/svoyo-1..71.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–22); стихи `proekty/hokku/svoyo-1..72.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
