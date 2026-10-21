@@ -23,13 +23,18 @@ shown = set()
 # 20.10, 00:58: список «ЕЩЁ» печатался в конце, и мой же `| head -6` его отрезал (láma: позднее q не увидел).
 # Теперь первая строка вывода — все квенийские языки, где есть статья с этим именем.
 _seen = []
+_names = []
 for _m in re.finditer(r'<word\b([^>]*)>', text):
     _a = dict(re.findall(r'([\w-]+)="([^"]*)"', _m.group(1)))
     _v = _a.get("v", "").rstrip("¹²³⁴⁵⁶⁷⁸⁹")
     _q = v.rstrip("¹²³⁴⁵⁶⁷⁸⁹")  # 20.10: запрос с надстрочной цифрой (orta-²) давал «ЕСТЬ В: —»
     if _a.get("l") in ALL and _q in {_v, _v.rstrip("-"), re.sub(r"\(([^)]*)\)", r"\1", _v), re.sub(r"\([^)]*\)", "", _v)}:
         _seen.append(_a.get("l"))
-print("ЕСТЬ В:", ", ".join(sorted(set(_seen), key=["q", "mq", "nq", "eq"].index)) or "—", "| спрошено:", ",".join(langs))
+        _names.append("%s %s" % (_a.get("l"), _a.get("v", "")))
+# 21.10, 00:51: `| head -5` отрезал вторую статью (mq yú adv «too» после mq yú- «both»), и вышла ложная тревога.
+# Теперь первая строка называет все одноимённые статьи — её не срежет никакой head.
+print("ЕСТЬ В:", ", ".join(sorted(set(_seen), key=["q", "mq", "nq", "eq"].index)) or "—", "| спрошено:", ",".join(langs),
+      "| статей: %d%s" % (len(_names), (" (" + "; ".join(_names) + ")") if 1 < len(_names) <= 12 else ""))
 for lang in langs:
     for m in re.finditer(r'<word\b([^>]*)>', text, re.S):
         a = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
