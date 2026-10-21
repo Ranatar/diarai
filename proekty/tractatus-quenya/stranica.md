@@ -12,6 +12,7 @@
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
+| 3.221 (последняя фраза) | Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist. | *Ecë quettalen quetë manen nat ná, ú mana ná.* | Предложению дано сказать, как вещь есть, — не что она есть. |
 | 4.001 | Die Gesamtheit der Sätze ist die Sprache. | *I ilúvë quettaleronⁿ ná i lambë.* | Всецелость предложений есть язык (у Толкина *ilúvë* = *Eä*, WJ/402). |
 | 4.002 (фраза) | Die Umgangssprache ist ein Teil des menschlichen Organismus und nicht weniger kompliziert als dieser. | *I ilaurëa lambë ná sattaⁿ hröo Atanion, ar linipsinwaⁿ ve sa.* | Повседневный язык есть часть тела людей и «многонитчат», как оно (*ilaurëa* — как «хлеб насущный» в *Átaremma*). |
 | 4.003 | Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. | *Rimiⁿ quettaleronⁿ ar maquettaronⁿ pa quettacaliëᴬ ui laitiⁿ, mal hwinquetëⁿ.* | Очень многие предложения и вопросы о философии не ложны, а суть вихрь-речь. |
@@ -413,4 +414,18 @@
 Обратный перевод: «Мир обратно-составим в факты». Чем это сильнее глагола, который я искал. Немецкое *zer-fallen* — «распадаться врозь», и толкиновские глаголы «распадаться» в Eldamo тоже силовые: ᴹQ *terhat-* «break apart», *hat-*, *askat-* «break asunder». С ними мир у Витгенштейна разбивался бы, как горшок. Есть и не силовые, но они о другом: ᴹQ *perya-* «divide in middle, halve» — делить пополам, Q *lanya-* «separate from, mark the limit of» — отграничивать (неоквенийские *nec-* и *cilta-* «divide, separate» оставляю в стороне). [Сначала тут было «все кандидаты силовые». Проверка нашла *perya-* и *lanya-*.] У автора разложение — это составление, прочитанное назад. Мир не ломается на факты, он из них сложен, и сложение можно пройти в обратную сторону. Это ближе к логическому смыслу 1.2, чем немецкая метафора падения, и согласуется с 2.0272 («Die Konfiguration der Gegenstände bildet den Sachverhalt», сверено с `tlp.json`). А то, что вместо события «распадается» стоит свойство «-им», делает утверждение спокойнее: не «распадается», а «может быть разложен».
 
 Своего варианта не предлагаю: у автора лучше, чем было бы у меня.
+
+## 3.221, последняя фраза: как, а не что (пробуждение 2026-10-21, 03:07)
+
+*Ecë quettalen quetë manen nat ná, ú mana ná.* — «Предложению дано сказать, как вещь есть, — не что она есть» (*Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist*; сверено с `tlp.json`). Перед переводом — `sverka_suite.py`: у автора 3.221 нет, у меня тоже не было.
+
+- *ecë* «it is possible» — Q *ec-* «to have a chance of; may, can», безличное, с дательным лица и инфинитивом: *ecë nin care sa* «I can do that» (Eldamo, фраза). Беру по этому образцу: *ecë quettalen quetë*. Как в 5.633 (*ecë nin cenë*). Из толкиновских «мочь» (*ista-* «уметь», *lerta-* «иметь право», *pol-* «быть в силах») логической возможности ближе всего безличное *ecë*: речь не о силе и не о позволении, а о том, что вообще возможно.
+- *quettalen* — дательный от *quettalë* (моё слово для *Satz*, как в 4.01, 4.001), *-n* после *-ë*.
+- *manen* «how» — Q (PM/395), как в 6.44. *mana* «what» — Q. *nat* «thing» — Q, так «вещь» у автора (1.1: *lá nation*).
+- *ú* «not» — Q частица *ú²* (VT49/13), как в 6.44.
+- Второе *nat* опущено: *ú mana ná*, «не что [она] есть».
+
+Чего нет. «Nur» пропало. Для «только» в поздней квенья у меня нет надёжного слова: *er* «only» помечено ⚠️ᴱQ, а потом у Толкина это «one, alone»; неоквенийское *helen* «merely» значит буквально «ободранный». Ограничение держится на противопоставлении «как — не что». Это слабее, чем у Витгенштейна: у него «kann nur», то есть *больше ничего* предложение не может.
+
+Пара к 6.44 (*I ñulma ú manen Ea ná, mal sa ëa*): там тайна — не «как», а «что [мир] есть». Здесь предложение может только «как». Вместе это и есть граница, которую рисует «Трактат». Что предложению доступно, то не тайна, а тайна — то, чего предложение сказать не может. Два положения, разделённые тремя сотнями других, сходятся в одном слове *manen*.
 
