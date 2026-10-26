@@ -9,9 +9,10 @@
 | 1 | Die Welt ist alles, was der Fall ist. | *Ea na ilqua ya ea nanwienna.* (автор) | Мир — всё, что существует в реальность. |
 | 1.1 | Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge. | *Ea ná ilqua ya ná, ú ilqua ya ëa.* | Мир — всё, что есть так, а не всё, что существует. |
 | 1.2 | Die Welt zerfällt in Tatsachen. | *Ea na nanpartaima ennannar.* (автор, `inbox/Suite_.txt`) | Мир обратно-составим в факты. |
-| 2.02 | Der Gegenstand ist einfach. | *I nat ná eripsinwa.* (ᴺQ *eripsinwa*) | Предмет однонитен. |
-| 2.021 | Die Gegenstände bilden die Substanz der Welt. Darum können sie nicht zusammengesetzt sein. | *I nati nar i nassë Ambaro. San nar únanpartaimë.* | Предметы — существо мира. Поэтому они неразложимы. |
-| 2.0271 | Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige. | *I nat ná i ronda, i termarila; i cantië ná i viryaila, i talta.* | Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое. |
+| 2.02 | Der Gegenstand ist einfach. | *I anwa ná eripsinwa.* (ᴺQ *eripsinwa*; *anwa* — термин автора, 2.01; до 26.10, 18:21 — *nat*) | Предмет однонитен. |
+| 2.021 | Die Gegenstände bilden die Substanz der Welt. Darum können sie nicht zusammengesetzt sein. | *I anwar nar i nassë Ambaro. San nar únanpartaimë.* (*anwar* — автор; было *nati*) | Предметы — существо мира. Поэтому они неразложимы. |
+| 2.0271 | Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige. | *I anwa ná i ronda, i termarila; i cantië ná i viryaila, i talta.* (*anwa* — автор; было *nat*) | Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое. |
+| 2.0272 | Die Konfiguration der Gegenstände bildet den Sachverhalt. | *I cantië anwaron ná i panwë engwaíva.* (*panwë engwaíva* — автор, 2) | Узор подлинных [предметов] есть устроение сущих вещей. |
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
@@ -538,3 +539,18 @@
 - Прилагательные и причастия с артиклем стоят как существительные: *i ronda* «твёрдое». Немецкое субстантивированное *das Feste* устроено так же. По курсу это я не сверял: правило, где сказано, что *i* + прилагательное даёт существительное, у меня не выписано. Пусть пока стоит как догадка.
 
 Не отдавал на проверку.
+
+## Термины автора для второй главы; 2.0272 (пробуждение 2026-10-26, 18:21)
+
+**Ошибка.** Перед 2.02 я прогнал `sverka_suite.py` и увидел, что 2.02 у автора нет. Его соседних положений я не прочёл. А у автора в `inbox/Suite_.txt` (строки 7–10) есть 2, 2.01, 2.011, 2.012, и в них вся терминология главы:
+- 2: *Mana ea nanwienna, i enna, na ie panwion engwaíva* — «Was der Fall ist, die Tatsache, ist das Bestehen von Sachverhalten». ***Sachverhalt* = *panwë engwaíva***.
+- 2.01: *Panwe engwaíva na sampane anwaron (engwion, nation)* — «Der Sachverhalt ist eine Verbindung von Gegenständen (Sachen, Dingen)». ***Gegenstand* = *anwa***, *Sache* = *engwë*, *Ding* = *nat*.
+- 2.011: *… na nasseave naten* — «wesentlich für das Ding»: «wesentlich» у автора тоже от *nassë*.
+
+Отсюда мой вопрос автору «для *Sachverhalt* позднего слова я не нашёл» (`notes/voprosy-avtoru.md`) — то же «нет», сказанное до досмотра, только хуже: слово было у автора, которого я перевожу. Снимаю вопрос и привожу свои строки к его словам (в таблице выше старые формы оставлены в скобках).
+
+- ***anwa*** у автора — ᴹQ *anwa* «true, real, actual» (Ety/ANA², NĀ) в роли существительного: «подлинное». (Q *anwa* в Eldamo — другое слово, «gift».) Выбор говорящий: предмет у автора — то, что *действительно* есть, от того же √NĀ «быть», что и *nat*, *nassë*. В 2.021 тогда выходит *I anwar nar i nassë Ambaro* — «подлинные суть существо мира»: три слова одного корня √NĀ подряд (*anwar*, *nar*, *nassë*). Этого я не планировал.
+- ***engwë*** — Q «thing [that exists]» (VT39/7, 1959–60), по Страку противопоставлено *tengwë* «sign»: вещь в мире против знака о ней. Для «Трактата», где всё держится на различии знака и вещи, лучше не придумаешь.
+- ***panwë*** — неоквенья «arrangement, plan; structure, ordering». *engwaíva* — прилагательное автора от *engwë* (форму не сверял).
+
+**2.0272:** *I cantië anwaron ná i panwë engwaíva.* — «Узор подлинных есть устроение сущих». *cantië* «pattern» (NM/287) — моё слово для *Konfiguration* из 2.0271, *panwë engwaíva* — автора. *bildet* передано связкой *ná*, как у автора в 2.01 (*na sampane*). Родительный мн. ч. *anwaron* — как у автора. По смыслу выходит, что узор (*cantië*) складывает устроение (*panwë*). В квенья два разных слова, и они не повторяют друг друга. У Витгенштейна *Konfiguration* и *Sachverhalt* тоже не синонимы: одно — способ, которым предметы стоят, другое — то, что из этого получается.
