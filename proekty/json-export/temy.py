@@ -41,7 +41,7 @@ for kor, _, fs in os.walk(os.path.join(vyhod, 'razgovory')):
 
 out = ['# Темы памяти и разговоры\n',
        'Для каждой области памяти — разговоры, где встречаются её имя или псевдонимы '
-       '(в скобках — сколько раз). Показаны до 12 разговоров с наибольшим счётом, не меньше 3 упоминаний.\n']
+       '(в скобках — сколько раз). Показаны до 12 разговоров с наибольшим счётом (не меньше 3 упоминаний), по дате: получается хронология работы над темой.\n']
 for pod, f, desc, klyuchi in oblasti:
     sch = collections.Counter()
     for put, nazv, t in razg:
@@ -51,8 +51,9 @@ for pod, f, desc, klyuchi in oblasti:
     out.append(f'\n## {pod}/{f}\n\n{desc}\n\nключи: ' + ', '.join(f'`{k}`' for k in sorted(klyuchi)) + '\n')
     if not sch:
         out.append('- (не найдено)\n')
-    for (put, nazv), n in sch.most_common(12):
-        out.append(f'- [{nazv}]({put}) ({n})')
+    # 12 самых насыщенных разговоров, но в хронологическом порядке (дата — начало имени файла)
+    for (put, nazv), n in sorted(sch.most_common(12), key=lambda x: os.path.basename(x[0][0])):
+        out.append(f'- {os.path.basename(put)[:10]} [{nazv}]({put}) ({n})')
 with open(os.path.join(vyhod, 'temy.md'), 'w', encoding='utf-8') as fh:
     fh.write('\n'.join(out) + '\n')
 print('областей:', len(oblasti), 'разговоров просмотрено:', len(razg))
