@@ -1,0 +1,66 @@
+--- inbox/quettamin/shared/lexicon.py	2026-10-26 17:02:24.000000000 +0000
++++ ext/quettamin/shared/lexicon.py	2026-10-26 17:49:18.947779191 +0000
+@@ -104,6 +104,51 @@
+     return rec
+ 
+ 
++import os
++REF_ELEMENTS = os.environ.get('QM_REF_ELEMENTS', '1') != '0'   # experiment switch (diarai, 26.10)
++F = [None]
++_FOLD = str.maketrans('āēīōūáéíóúâêîôûäëïöüǭ', 'aeiouaeiouaeiouaeiouo')
++
++
++def _fold(form: str | None) -> str:
++    """Loose key for <element> forms written inside <ref> (source spelling):
++    tultā- ~ tulta-, kalta- ~ calta-, ima ~ -ima."""
++    f = bare(form).lower().strip('-¹²³ ').translate(_FOLD)
++    return f.replace('k', 'c')
++
++
++class Folded:
++    """Word pages by (language, folded form), for ref-level elements."""
++
++    def __init__(self, W: Words):
++        self.by_key = defaultdict(list)
++        for pid, w in W.by_id.items():
++            if _live(w):
++                self.by_key[(w.get('l'), _fold(w.get('v')))].append(pid)
++
++    def link(self, W: Words, lang, form) -> dict:
++        rec = _link(W, lang, form)
++        if rec.get('id') or rec.get('candidates'):
++            return rec
++        ids = list(dict.fromkeys(self.by_key.get((lang, _fold(form)), [])))
++        if len(ids) == 1:
++            rec['id'] = ids[0]
++        elif ids:
++            rec['candidates'] = ids
++        rec['from_ref'] = True
++        return rec
++
++
++def _ref_elements(w) -> list:
++    """Elements recorded inside a <ref> when the word page has none of its own:
++    the ref with the word's own form first, else the first ref with elements."""
++    refs = [r for r in w.findall('ref') if _live(r) and r.findall('element')]
++    if not refs:
++        return []
++    own = [r for r in refs if _fold(r.get('v')) == _fold(w.get('v'))]
++    return [e for e in (own or refs)[0].findall('element') if _live(e)]
++
++
+ def build_lexicon(branch: str, derivations: list) -> list:
+     ix, W = index(), words()
+     langs = languages(branch)
+@@ -135,6 +180,11 @@
+         if stems:
+             entry['stems'] = stems
+         elements = [_link(W, e.get('l'), e.get('v'), e.get('form')) for e in w.findall('element') if _live(e)]
++        if not elements and REF_ELEMENTS:
++            # elements written only inside a <ref>: no language, source spelling
++            if F[0] is None:
++                F[0] = Folded(W)
++            elements = [F[0].link(W, e.get('l') or lang, e.get('v')) for e in _ref_elements(w)]
+         if elements:
+             entry['elements'] = elements
+         links = {}
