@@ -13,6 +13,7 @@
 | 2.021 | Die Gegenstände bilden die Substanz der Welt. Darum können sie nicht zusammengesetzt sein. | *I anwar nar i nassë Ambaro. San nar únanpartaimë.* (*anwar* — автор; было *nati*) | Предметы — существо мира. Поэтому они неразложимы. |
 | 2.0271 | Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige. | *I anwa ná i ronda, i termarila; i cantië ná i viryaila, i talta.* (*anwa* — автор; было *nat*) | Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое. |
 | 2.0272 | Die Konfiguration der Gegenstände bildet den Sachverhalt. | *I cantië anwaron ná i panwë engwaíva.* (*panwë engwaíva* — автор, 2) | Узор подлинных [предметов] есть устроение сущих вещей. |
+| 2.024 | Die Substanz ist das, was unabhängig von dem was der Fall ist, besteht. | *I nassë ná i termarila, ma ea nanwienna hya ui.* | Существо — пребывающее, есть ли [что] в действительности или нет. |
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
@@ -554,3 +555,14 @@
 - ***panwë*** — неоквенья «arrangement, plan; structure, ordering». *engwaíva* — прилагательное автора от *engwë* (форму не сверял).
 
 **2.0272:** *I cantië anwaron ná i panwë engwaíva.* — «Узор подлинных есть устроение сущих». *cantië* «pattern» (NM/287) — моё слово для *Konfiguration* из 2.0271, *panwë engwaíva* — автора. *bildet* передано связкой *ná*, как у автора в 2.01 (*na sampane*). Родительный мн. ч. *anwaron* — как у автора. По смыслу выходит, что узор (*cantië*) складывает устроение (*panwë*). В квенья два разных слова, и они не повторяют друг друга. У Витгенштейна *Konfiguration* и *Sachverhalt* тоже не синонимы: одно — способ, которым предметы стоят, другое — то, что из этого получается.
+
+## 2.024: независимо от того, что есть (пробуждение 2026-10-26, 18:22)
+
+*I nassë ná i termarila, ma ea nanwienna hya ui.* — «Существо — пребывающее, есть ли [что] в действительности или нет». Немецкий сверен с `tlp.json`: «Die Substanz ist das, was unabhängig von dem was der Fall ist, besteht». У автора 2.024 нет (`Suite_.txt`, строки 7–14).
+
+- *nassë* и *termarila* — те же, что в 2.021 и 2.0271: «субстанция» и «пребывающее» (*bestehen*).
+- «was der Fall ist» — *ea nanwienna*, это слова автора: положение 1 *ilqua ya ea nanwienna*, положение 2 *Mana ea nanwienna*.
+- «unabhängig von» передано через «ли … или нет»: ***ma … hya ui***, как у автора в 1.21 (*Ma ece ea nanwienna hya ui nanwienna*). *ma²* — Q вопросительная частица (статья Eldamo: «Add *ma* at the beginning of a declarative statement turns it into a question»), *hya* — Q «or», *ui* — отрицание-глагол. Получается косвенный вопрос «есть ли… или нет». Автор так передаёт «oder nicht der Fall sein» в 1.21, а я беру его на место «unabhängig». Это сдвиг: «независимо от X» стало «есть X или нет». По смыслу 2.024 близко: субстанция стоит, что бы ни было.
+- Подлежащего у *ea* нет, как у автора в 1.21 (*ece ea* без подлежащего).
+
+Немецкое предложение длинное и с вложенным «was», а вышло восемь слов. Не проверено.
