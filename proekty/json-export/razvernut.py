@@ -354,8 +354,11 @@ def razgovor(c, vyhod):
     if c.get('summary'):
         out.append('**Краткое содержание (из экспорта):**\n\n' + c['summary'].strip() + '\n')
     out.append('---\n')
+    snimki = {KOREN: collections.OrderedDict()}   # состояние файлов после каждой реплики главной ветви
     for i, m in enumerate(glavnaya, 1):
         soobshchenie(m, out, faily, i)
+        snimki[m['uuid']] = collections.OrderedDict(faily.f)
+    vetv_faily = []
     if drugie:
         out.append('\n---\n\n# Другие ветви\n\nПравки и перегенерации: альтернативные продолжения, '
                    'которые не вошли в главную ветвь.\n')
@@ -365,9 +368,22 @@ def razgovor(c, vyhod):
                    f'после реплики {nomer_po_uuid[ot]} главной ветви' if ot in nomer_po_uuid else
                    f'от другой ветви (`{ot[:8]}`)')
             out.append(f'\n## ⑂ Ветвь {j} — {gde}\n')
+            fv = Faily()
+            nachalo = snimki.get(ot, collections.OrderedDict())
+            fv.f = collections.OrderedDict(nachalo)
+            fv.n_kod = sum(1 for k in nachalo if k.startswith('kod:'))
             for i, m in enumerate(p, 1):
-                soobshchenie(m, out, Faily(), f'{j}.{i}')
+                soobshchenie(m, out, fv, f'{j}.{i}')
+            # в ветви — только файлы, которые она создала или изменила
+            fv.f = collections.OrderedDict((k, v) for k, v in fv.f.items() if nachalo.get(k) != v)
+            im = fv.zapisat(os.path.join(papka, imya + '.faily', f'vetv-{j}'))
+            if im:
+                vetv_faily.append((j, im))
     imena = faily.zapisat(os.path.join(papka, imya + '.faily'))
+    if vetv_faily:
+        out.insert(4, '**Файлы из других ветвей** (созданные или изменённые в ветви): '
+                   + '; '.join(f'ветвь {j}: ' + ', '.join(f'[{x}]({imya}.faily/vetv-{j}/{x})' for x, _ in im)
+                               for j, im in vetv_faily) + '\n')
     if imena:
         out.insert(4, '**Файлы, собранные из вызовов инструментов** (последние версии): '
                    + ', '.join(f'[{x}]({imya}.faily/{x})' for x, _ in imena)

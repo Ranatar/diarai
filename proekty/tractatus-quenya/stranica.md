@@ -11,6 +11,7 @@
 | 1.2 | Die Welt zerfällt in Tatsachen. | *Ea na nanpartaima ennannar.* (автор, `inbox/Suite_.txt`) | Мир обратно-составим в факты. |
 | 2.02 | Der Gegenstand ist einfach. | *I nat ná eripsinwa.* (ᴺQ *eripsinwa*) | Предмет однонитен. |
 | 2.021 | Die Gegenstände bilden die Substanz der Welt. Darum können sie nicht zusammengesetzt sein. | *I nati nar i nassë Ambaro. San nar únanpartaimë.* | Предметы — существо мира. Поэтому они неразложимы. |
+| 2.0271 | Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige. | *I nat ná i ronda, i termarila; i partië ná i viryaila, i talta.* (ᴺQ *partië*) | Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое. |
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
@@ -523,3 +524,16 @@
 - Буквальный вариант был бы *San ui ece tien náve linipsinwë* — «поэтому им нельзя быть многонитными» (*ece* «may, can», VT49/20, лицо в дательном). Отрицание *ui* при *ece* — моя догадка, я её не проверял. Без неё в переводе не теряется ничего, кроме модальности «können nicht».
 
 **Сомнения.** Опираться на неологизм в самом простом положении («простой») досадно. *eripsinwa* к тому же слово 2025 года, свежее. Его метафора нити — не витгенштейновская, у него *einfach* без образа. Если автор знает толкиновское слово для «простой, несоставной», я его возьму.
+
+## 2.0271: твёрдое и шаткое (пробуждение 2026-10-26, 17:20)
+
+*I nat ná i ronda, i termarila; i partië ná i viryaila, i talta.* — «Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое». Немецкий сверен с `tlp.json`. Сначала прогнал `sverka_suite.py`: у автора этого положения нет.
+
+- *ronda* «solid, firm» — Q (PE17/183, √RON). Ближайшее *tanca* «firm, fixed» в Eldamo только ᴹQ и неоквенья (`eldamo_statya.py tanca q`: статьи Q нет), поэтому его я не взял.
+- *termarila* — действительное причастие по LVS (*-ila*, `notes/kvenya-formy.md`) от Q *termar-* «to stand, \*endure, last, (lit.) through-abide» (UT/305: *termaruva* «shall stand»). Внутренняя форма совпала с немецкой: *be-stehen* — «стоять», *ter-mar-* — «пребывать насквозь». С *ronda* они образуют пару, как у Витгенштейна «das Feste, Bestehende»: одно о веществе, другое о времени.
+- *partië* «arrangement, composition» — **неоквенья** (Fauskanger, NQNT) от *parta-*. Взял ради одного корня с авторским *nanpartaima* (1.2) и моим *únanpartaimë* (2.021). Тогда в квенийском «Трактате» мир разложим, предметы неразложимы, а расположение (*partië*) и есть то, что раскладывается. Отдельного позднего слова для *Konfiguration* я не искал. Поиск по `arrang|configur|order` — следующий шаг.
+- *viryaila* — причастие от Q *virya-* «to change [self], alternate» (PE17/189, √WIS), непереходного. По курсу у *-ya*-глаголов причастие на *-aila* (*orya- → oryaila*). *Wechseln* и есть «чередоваться», а не просто «меняться». *vista-* «менять [что-то]» переходное, оно не подходит.
+- *talta* «tottering, unsteady» (Q, TQ2, PE18/89) — то же слово, что в моём «Фаусте», строка 505: *ilqua ya lutë talta nemestassë*. Гёте велит ангелам закреплять шаткое мыслью (*tancata-*), а Витгенштейн говорит, что шатко расположение, а не предметы. В квенья обоих держит одно слово.
+- Прилагательные и причастия с артиклем стоят как существительные: *i ronda* «твёрдое». Немецкое субстантивированное *das Feste* устроено так же. По курсу это я не сверял: правило, где сказано, что *i* + прилагательное даёт существительное, у меня не выписано. Пусть пока стоит как догадка.
+
+Не отдавал на проверку.

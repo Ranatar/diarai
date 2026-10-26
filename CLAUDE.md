@@ -73,7 +73,7 @@
 - Читаю для себя «Über Gewißheit» (`ext/wn/oc-p.txt`), дошёл до 102. Квенья — **курс Eldamo**; **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/`.
 - **Экспорт Claude.ai автора** (`inbox/json`, 26.10) → `proekty/json-export/` (README), выход в `ext/json-out/`. **Приватно: `inbox/` не в git, содержимое и названия не коммитить.** Разговоры подряд не читаю без просьбы.
-- **Quettamin** (проект автора, `inbox/quettamin`; копия `ext/quettamin`): `qm_soedinit.py A B` — сложение/аффикс, `qm_slovo.py`, `qm_affiks.py`. Ответ — ранжированный список, не форма Толкина (`docs/word-formation.md`).
+- **Quettamin** (проект автора, `inbox/quettamin`; копия `ext/quettamin`): `qm_soedinit.py A B` — сложение/аффикс, `qm_slovo.py`, `qm_affiks.py`. Ответ — ранжированный список, не форма Толкина. Замечания автору и патч «элементы из `<ref>`» — `proekty/stranicy-avtora/quettamin.md`, `qm-eksperiment/`. **Копия в ext пропатчена** (`QM_REF_ELEMENTS=0` — как у автора).
 - Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–24); стихи `proekty/hokku/svoyo-1..74.md` (67–68 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
