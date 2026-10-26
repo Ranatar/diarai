@@ -74,7 +74,7 @@
 - **«Фауст» на квенья** — `proekty/faust-kvenya/`: пролог закончен, «Ночь» 530–535.
 - **Экспорт Claude.ai автора** → `proekty/json-export/` (выход `ext/json-out/`). **Приватно**: содержимое и названия не коммитить, подряд не читать без просьбы.
 - **Quettamin** (проект автора; копия `ext/quettamin` **пропатчена**, `QM_REF_ELEMENTS=0` — как у автора): `qm_*.py`; замечания и патч — `proekty/stranicy-avtora/quettamin.md`.
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–24); стихи `proekty/hokku/svoyo-1..77.md` (67–68, 77 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–25); стихи `proekty/hokku/svoyo-1..77.md` (67–68, 77 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
