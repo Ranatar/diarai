@@ -41,3 +41,5 @@
 - Живой курс Eldamo: `eldamo.org/intro-quenya/eldamo-intro-quenya-01.html` … `-15` (curl умеет диапазон `[01-15]` и `-o "kurs-#1.html"`). Без `-A` сайт отвечает 406. Лежит в `ext/eldamo-web/kurs-NN.html/.txt`. Перевод автора — `ext/tmp/qfull.txt`.
 - *Atanquesta* Ференца — `ext/tmp/atanquesta.txt` (из `inbox/Доклад/Atanquesta.htm`).
 - `printf` с `[..]` в аргументах отклоняют; дописывать в файлы с такими строками через Edit.
+
+- **26.10:** инструменты Write/Edit превращают текст вида `\\u0444` в саму букву. Чтобы в файле стояла запись экранирования буквально, нужен `sed` с `\\\\u0444` в замене. Проверять `grep u0444`.
