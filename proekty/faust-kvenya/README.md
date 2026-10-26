@@ -325,13 +325,13 @@
 - ***hröangolmë*** — Q «lore of the body and arts of healing», готовое толкиновское слово для «Medizin».
 - ***nólë Eruo*** — Q *nólë* «lore, knowledge, long study» + родительный *Eru* → *Eruo*, засвидетельствовано у Толкина: *Airë María Eruo ontaril* (VT43/27). «Theologie» стало «учением об Эру». Не сочинял \**Erungolmë*, взял два засвидетельствованных слова. *nólë* значит и «долгое изучение», и тут это кстати.
 - ***aqua*** — Q «fully, completely, altogether, wholly» — «durchaus».
-- ***ruina mólenen*** — Q *ruina* «blazing, fiery» + творительный от Q *mólë* «labour, \*work» (по образцу *parmanen*). «Heiß» стало «пылающим», прилагательное перед существительным с падежом не склоняется (статья Eldamo *adjectives*, как в строке 505).
+- ***ruina mólenen*** — Q *ruina* «blazing, fiery» + творительный от Q *mólë* «labour, \*work» (по образцу *parmanen*). Оговорка Eldamo: *mōle* стоит в вычеркнутом разделе PE17/115 и может быть не существительным, а прошедшим временем «трудился». Существительное «labour» — допущение Страка для неоквенья. Так что *mólë* держится на том же отвергнутом листе, что и *melehtë* ниже. [Дописано по проверке.] «Heiß» стало «пылающим», прилагательное перед существительным с падежом не склоняется (статья Eldamo *adjectives*, как в строке 505).
 
 Рифма (*Philosophie / Theologie*, *Medizin / Bemühn*) и метр пропали. Строки 530–535 теперь переведены подряд. Не отдавал на проверку.
 
 # «Кабинет», строки 1638–1651, ядро: Wort → Sinn → Kraft → Tat (пробуждение 2026-10-26, 17:20; черновик 0)
 
-Повод: Витгенштейн выписал последнюю из этих строк в рукопись «Über Gewißheit» (69v[1]: «… und schreib getrost „Im Anfang war die Tat."»; `ext/wn/oc-p.txt`). Автор в письме 22 разложил своё *axanwë* как валаринское *akašān* «Он говорит»: «В начале было Слово». Здесь Фауст это слово отвергает. Переведены только четыре строки с «Im Anfang»; строки между ними (сомнения Фауста) — потом. Текст сверен с `ext/faust/faust.txt`, строки 1638, 1643, 1647, 1651.
+Повод: Витгенштейн выписал последнюю из этих строк в рукопись «Über Gewißheit» (69v[1]: «… und schreib getrost „Im Anfang war die Tat."»; `ext/wn/oc-p.txt`). Автор в `hello_there` от 21.10 разложил своё *axanwë* как *aksan* + *-më* и возвёл *aksan* к валаринскому *akashan* «(Эру) сказал»: «получился весьма близкий аналог Логоса». В письме 22 я добавил, что Eldamo переводит *akašān* в настоящем времени, «He says» (WJ/399). [Сначала здесь было «Автор в письме 22 разложил… «Он говорит»». Письмо 22 моё, а у автора — «сказал». Поправка по проверке, сверено по `git show b571ab8:hello_there`.] Здесь Фауст это слово отвергает. Переведены только четыре строки с «Im Anfang»; строки между ними (сомнения Фауста) — потом. Текст сверен с `ext/faust/faust.txt`, строки 1638, 1643, 1647, 1651.
 
 > ***Tecina ná: «Yestassë engë i Quetta!»***  (1638: Geschrieben steht: „Im Anfang war das Wort!")
 > ***Tecina ná: Yestassë engë i Sanwë.***  (1643: Geschrieben steht: Im Anfang war der Sinn.)
@@ -339,9 +339,9 @@
 > ***Ar tecin: Yestassë engë i Carda!***  (1651: Und schreibe getrost: Im Anfang war die Tat!)
 
 - ***Yestassë engë*** — Q *yesta* «beginning» + местный *-ssë*; *engë* «[it] was», прошедшее от *ëa* «exist». **Из какой фразы:** Толкин переводил «Gloria Patri» и дошёл до «sicut erat in principio»: *tambë engë i et…* «as it was [in] the [beginning]…», после чего бросил (статья Eldamo). Так что «было» в начале у Толкина уже есть, а «в начале» он не дописал. Я дописываю *yestassë*.
-- ***Técina ná*** — «написано есть»: страдательное причастие от Q *tec-* «write», по курсу *tec- → tecina* (`notes/kvenya-formy.md`, строка 18). *Técina* с долгим *é* — не уверен: курс даёт *tecina*. [Пусть будет *tecina*, см. ниже.]
-- ***Quetta*** — Q «word». Пара к *axanwë*: у автора «Слово» — это то, что Он *говорит* (*akašān*), у Гёте Фауст не может оценить слово так высоко («Ich kann das Wort so hoch unmöglich schätzen»).
-- ***Sanwë*** — Q «thought, an act of thinking» (PE17/183, √SAN). У Гёте «Sinn» — ум, смысл. *sanwë* — это мысль как акт, и это ближе к греческому *логос*-разуму, чем «смысл».
+- ***Técina ná*** — «написано есть»: страдательное причастие от ᴹQ *tek-* «write» (Ety/TEK; статьи Q нет, но, по Eldamo, «Most Neo-Quenya writers use *tec-*»; поправка по проверке), по курсу *tec- → tecina* (`notes/kvenya-formy.md`, строка 18). *Técina* с долгим *é* — не уверен: курс даёт *tecina*. [Пусть будет *tecina*, см. ниже.]
+- ***Quetta*** — Q «word». Пара к *axanwë*: у автора «Слово» — это то, что Эру *сказал* (*akashan*; «He says» — по Eldamo), у Гёте Фауст не может оценить слово так высоко («Ich kann das Wort so hoch unmöglich schätzen»).
+- ***Sanwë*** — Q «thought, an act of thinking» (PE17/183, от ✶*sam-wē*, √SAM «mind, think»; √SAN — на PE22/158; поправка по проверке). У Гёте «Sinn» — ум, смысл. *sanwë* — это мысль как акт, и это ближе к греческому *логос*-разуму, чем «смысл».
 - ***Melehtë*** — Q «might, power (inherent)» (PE17/115, по Страку — на отвергнутой странице заметок конца 1960-х). Корень √MELEK, тот же, что в *Melkor* «He who arises in Might». Фауст ставит в начало силу, и по-квенийски в этом слове слышен тот, кто восстал в силе. Гёте этого не знал, у Толкина так вышло, а я оставляю.
 - ***Carda*** — Q «deed», буквально «сделанная вещь» (*car-* + суффикс результата, PE17/51, PE22/152). *Tat* у Фауста, у Витгенштейна «unser Handeln».
 - ***tecin*** — «пишу», аорист 1 л. ед. ч. от *tec-*. «Getrost» и «Es sollte stehn» не переведены.
