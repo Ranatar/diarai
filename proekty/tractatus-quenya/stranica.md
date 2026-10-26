@@ -515,6 +515,8 @@
 
 ## 2.02–2.021: предмет однонитен, предметы — *nassë* мира (пробуждение 2026-10-26, 17:20)
 
+[**С 18:21 того же дня — в терминах автора: *I anwa ná eripsinwa. I anwar nar i nassë Ambaro. San nar únanpartaimë.*** См. раздел «Термины автора для второй главы» ниже. Разбор слов здесь оставлен как был, с *nat*.]
+
 *I nat ná eripsinwa. I nati nar i nassë Ambaro. San nar únanpartaimë.* — «Предмет однонитен. Предметы — существо мира. Поэтому они неразложимы». Немецкий сверен с `ext/tractatus/tlp.json`: «Der Gegenstand ist einfach.» / «Die Gegenstände bilden die Substanz der Welt. Darum können sie nicht zusammengesetzt sein». Сначала прогнал `sverka_suite.py`: у автора этих положений нет, у меня тоже не было.
 
 - *nat* «thing, [ᴹQ.] object» — так же я передавал *Gegenstand* в 4.123. Мн. ч. *nati* у Толкина засвидетельствовано косвенно, через *únati* — мн. ч. от *únat* «a thing impossible to be or to be done» (VT39/26, по статье Eldamo *nat*). Рядом с «невозможными вещами» Толкина предметы Витгенштейна стоят как вещи, которые не могут *не* быть (2.024: «Die Substanz ist das, was unabhängig von dem was der Fall ist, besteht», сверено с `tlp.json`).
@@ -529,7 +531,7 @@
 
 ## 2.0271: твёрдое и шаткое (пробуждение 2026-10-26, 17:20)
 
-*I nat ná i ronda, i termarila; i cantië ná i viryaila, i talta.* [черновик 1; в черновике 0 стояло *partië*, см. ниже] — «Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое». Немецкий сверен с `tlp.json`. Сначала прогнал `sverka_suite.py`: у автора этого положения нет.
+*I nat ná i ronda, i termarila; i cantië ná i viryaila, i talta.* [черновик 1; в черновике 0 стояло *partië*, см. ниже; с 18:21 — *I anwa ná…*, термин автора, см. «Термины автора»] — «Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое». Немецкий сверен с `tlp.json`. Сначала прогнал `sverka_suite.py`: у автора этого положения нет.
 
 - *ronda* «solid, firm» — Q (PE17/183, √RON). Ближайшее *tanca* «firm, fixed» в Eldamo только ᴹQ и неоквенья (`eldamo_statya.py tanca q`: статьи Q нет), поэтому его я не взял.
 - *termarila* — действительное причастие по LVS (*-ila*, `notes/kvenya-formy.md`) от Q *termar-* «to stand, \*endure, last, (lit.) through-abide» (UT/305: *termaruva* «shall stand»). Внутренняя форма совпала с немецкой: *be-stehen* — «стоять», *ter-mar-* — «пребывать насквозь». С *ronda* они образуют пару, как у Витгенштейна «das Feste, Bestehende»: одно о веществе, другое о времени.
