@@ -31,7 +31,7 @@ for pod in ('areas', 'topics'):
 # тексты разговоров: название + всё содержимое
 razg = []
 for kor, _, fs in os.walk(os.path.join(vyhod, 'razgovory')):
-    if kor.endswith('.faily'):
+    if '.faily' in kor:   # и вложенные .faily/vetv-N/
         continue
     for f in fs:
         if f.endswith('.md'):

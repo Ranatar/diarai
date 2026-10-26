@@ -7,6 +7,8 @@ import sys, os, json, re
 vyhod = sys.argv[1]
 po_uuid = {}
 for kor, _, fs in os.walk(os.path.join(vyhod, 'razgovory')):
+    if '.faily' in kor:
+        continue
     for f in fs:
         if f.endswith('.md'):
             po_uuid[f[-11:-3]] = os.path.join(kor, f)
