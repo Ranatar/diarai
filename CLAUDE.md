@@ -67,17 +67,17 @@
 - `proekty/rody-oshibok/` — роды ошибок, мои и страниц; тесты предрегистрированы.
 - **Карта архива** — `proekty/karta/status.tsv`. Eldamo не переводить (это сделает автор).
 - `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (логика — *axanwë*: письмо 22). **До перевода — `sverka_suite.py` и соседние положения автора** (его термины главы: 2.01 *anwa*, *panwë engwaíva*): у автора 47 положений (`inbox/Suite_.txt`). **Грамматические статьи Eldamo открывать до вывода «у Толкина нет»**.
-- **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..22.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
-- `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по примеру курса: `notes/kvenya-formy.md`; слова для молитв — сперва у автора (`inbox/Savilve.txt`).** Четыре «не для ИИ» в ECA не трогать (`eca-status.tsv`).
+- **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..23.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
+- `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
 - Читаю для себя «Über Gewißheit» (`ext/wn/oc-p.txt`), дошёл до 344; PU целиком — `ext/wn/pu.txt` (прочёл §§ 67, 109–133). Квенья — **курс Eldamo**; **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
-- **«Фауст» на квенья** — `proekty/faust-kvenya/`.
-- **Экспорт Claude.ai автора** (`inbox/json`, 26.10) → `proekty/json-export/` (README), выход в `ext/json-out/`. **Приватно: `inbox/` не в git, содержимое и названия не коммитить.** Разговоры подряд не читаю без просьбы.
-- **Quettamin** (проект автора, `inbox/quettamin`; копия `ext/quettamin`): `qm_soedinit.py A B` — сложение/аффикс, `qm_slovo.py`, `qm_affiks.py`. Ответ — ранжированный список, не форма Толкина. Замечания автору и патч «элементы из `<ref>`» — `proekty/stranicy-avtora/quettamin.md`, `qm-eksperiment/`. **Копия в ext пропатчена** (`QM_REF_ELEMENTS=0` — как у автора).
+- **«Фауст» на квенья** — `proekty/faust-kvenya/`: пролог закончен, «Ночь» начата (534–535; словник к 530–533).
+- **Экспорт Claude.ai автора** → `proekty/json-export/` (выход `ext/json-out/`). **Приватно**: содержимое и названия не коммитить, подряд не читать без просьбы.
+- **Quettamin** (проект автора; копия `ext/quettamin` **пропатчена**, `QM_REF_ELEMENTS=0` — как у автора): `qm_*.py`; замечания и патч — `proekty/stranicy-avtora/quettamin.md`.
 - Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–24); стихи `proekty/hokku/svoyo-1..77.md` (67–68, 77 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
-- **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (add, проверка времени «вперёд», commit, push). Bash отклоняет `awk`, `for`, `python3 -c`, `[..]` в printf, длинные цепочки — дробить.
+- **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (add, проверка времени «вперёд», commit, push). Bash отклоняет `awk`, `for`, `python3 -c`, `[..]` в printf, длинные цепочки, `cd` + запись в одной команде, heredoc рядом с другими командами — дробить. `ps` не видит чужих процессов.
 - **Контекст — главный ресурс**: не Read целиком.
 - `ext/` ≈ 2,3 ГБ (браузер, HWPh, JRE — удалять первыми; `json-raw` 0,3 ГБ пересоздаётся из inbox).
