@@ -107,6 +107,16 @@ class Faily:
         else:
             self.oshibki += 1
 
+    def kod_iz_teksta(self, t, min_strok=10):
+        """Длинные блоки кода из обычного текста ответа -> kod-NN.расш"""
+        for m in re.finditer(r'^(`{3,})([\w+\-.]*)[^\n]*\n(.*?)\n\1\s*$', t, re.M | re.S):
+            kod = m.group(3)
+            if kod.count('\n') + 1 < min_strok:
+                continue
+            self.n_kod = getattr(self, 'n_kod', 0) + 1
+            kl = f'kod:{self.n_kod:02d}'
+            self.f[kl] = (f'kod-{self.n_kod:02d}|{m.group(2)}', kod)
+
     def vyzov(self, b):
         inp = b.get('input')
         if not isinstance(inp, dict):
@@ -144,7 +154,7 @@ class Faily:
         imena = []
         zanyato = set()
         for kl, (imya, t) in self.f.items():
-            if kl.startswith('artifact:'):
+            if kl.startswith('artifact:') or kl.startswith('kod:'):
                 nazv, _, yaz = imya.partition('|')
                 rassh = rasshirenie(yaz)
                 osn = slug(nazv, 50) + rassh
@@ -168,7 +178,12 @@ def rasshirenie(yaz):
             'text/html': '.html', 'text/markdown': '.md', 'markdown': '.md',
             'application/vnd.ant.react': '.jsx', 'application/vnd.ant.code': '.txt',
             'image/svg+xml': '.svg', 'application/vnd.ant.mermaid': '.mmd',
-            'lisp': '.lisp', 'json': '.json', 'css': '.css', 'latex': '.tex', 'bash': '.sh'}
+            'lisp': '.lisp', 'json': '.json', 'css': '.css', 'latex': '.tex', 'bash': '.sh',
+            'py': '.py', 'js': '.js', 'jsx': '.jsx', 'ts': '.ts', 'sh': '.sh', 'shell': '.sh',
+            'xml': '.xml', 'xquery': '.xq', 'sql': '.sql', 'svg': '.svg', 'md': '.md', 'tex': '.tex',
+            'cpp': '.cpp', 'c': '.c', 'java': '.java', 'yaml': '.yaml', 'toml': '.toml',
+            'common-lisp': '.lisp', 'cl': '.lisp', 'mermaid': '.mmd', 'r': '.r', 'powershell': '.ps1',
+            'batch': '.bat', 'cmd': '.bat', 'vba': '.vba'}
     return tabl.get(yaz, '.txt')
 
 
@@ -274,6 +289,8 @@ def soobshchenie(m, out, faily, nomer):
         if t == 'text':
             if b.get('text', '').strip():
                 out.append(ponizit(b['text'].strip()) + '\n')
+                if m['sender'] == 'assistant':
+                    faily.kod_iz_teksta(b['text'])
         elif t == 'thinking':
             th = (b.get('thinking') or '').strip()
             if th:
@@ -357,8 +374,15 @@ def razgovor(c, vyhod):
                    + (f' — правок, которые не удалось применить: {faily.oshibki}' if faily.oshibki else '') + '\n')
     with open(os.path.join(papka, imya + '.md'), 'w', encoding='utf-8') as fh:
         fh.write('\n'.join(out))
+    zapros = ''
+    for m in glavnaya:
+        t = m.get('text') or ' '.join(b.get('text', '') for b in m.get('content') or [] if b.get('type') == 'text')
+        if m['sender'] == 'human' and t.strip():
+            zapros = ' '.join(t.split())
+            zapros = zapros[:200] + ('…' if len(zapros) > 200 else '')
+            break
     return dict(data=data, nazv=nazv, uuid=c['uuid'], fail=f'razgovory/{data[:7]}/{imya}.md',
-                vsego=len(msgs), nepust=nepust, vetvej=len(drugie), failov=len(imena))
+                vsego=len(msgs), nepust=nepust, vetvej=len(drugie), failov=len(imena), zapros=zapros)
 
 
 def pamyat(path, vyhod):
@@ -403,9 +427,10 @@ def main():
         for r in pustye:
             fh.write(f'{r["data"]}\t{r["uuid"]}\t{r["vsego"]}\n')
     with open(os.path.join(vyhod, 'index.tsv'), 'w', encoding='utf-8') as fh:
-        fh.write('дата\tназвание\tсообщений\tнепустых\tветвей\tфайлов\tфайл\n')
+        fh.write('дата\tназвание\tсообщений\tнепустых\tветвей\tфайлов\tфайл\tпервый запрос\n')
         for r in stroki:
-            fh.write(f'{r["data"]}\t{r["nazv"]}\t{r["vsego"]}\t{r["nepust"]}\t{r["vetvej"]}\t{r["failov"]}\t{r["fail"]}\n')
+            fh.write(f'{r["data"]}\t{r["nazv"]}\t{r["vsego"]}\t{r["nepust"]}\t{r["vetvej"]}\t{r["failov"]}\t{r["fail"]}\t'
+                     + r.get('zapros', '').replace('\t', ' ') + '\n')
     with open(os.path.join(vyhod, 'index.md'), 'w', encoding='utf-8') as fh:
         fh.write('# Разговоры по дате\n\nСтолбцы: дата · название · непустых сообщений из всех · других ветвей · собранных файлов\n')
         mes = None
@@ -415,6 +440,8 @@ def main():
             fh.write(f'- {r["data"]} [{r["nazv"] or "(без названия)"}]({r["fail"]}) · {r["nepust"]}/{r["vsego"]}'
                      + (f' · ветвей {r["vetvej"]}' if r['vetvej'] else '')
                      + (f' · файлов {r["failov"]}' if r['failov'] else '') + '\n')
+            if r.get('zapros') and not r['nazv'].startswith('«'):
+                fh.write(f'  > {r["zapros"]}\n')
     npam = pamyat(mem, vyhod) if mem else 0
     vsego = sum(r['vsego'] for r in stroki); nep = sum(r['nepust'] for r in stroki)
     with open(os.path.join(vyhod, 'README.md'), 'w', encoding='utf-8') as fh:

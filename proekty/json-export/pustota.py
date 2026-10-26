@@ -6,7 +6,7 @@ import sys, collections, random
 stroki = [l.rstrip('\n').split('\t') for l in open(sys.argv[1], encoding='utf-8')][1:]
 vsego = collections.Counter(); pust = collections.Counter(); s_nazv = collections.Counter()
 primery = []
-for d, nazv, vs, nep, vet, fai, f in stroki:
+for d, nazv, vs, nep, vet, fai, f, *_ in stroki:
     mes = d[:7]; vsego[mes] += 1
     if nep == '0':
         pust[mes] += 1
