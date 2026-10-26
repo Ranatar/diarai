@@ -297,3 +297,14 @@
 - ***ve fai*** — Q *ve* «as, like» + Q *fai* «\*before (of time)» (PE22/147). *fai* я знаю по толкиновской фразе *Eru fai, sî, euva* «Эру был прежде, есть сейчас, будет». Фауст стоит в той же временно́й формуле: *sí* в первой строке, *fai* во второй. Только у Эру три времени, а у Фауста два, и они одинаковы.
 
 Рифма *Tor / zuvor* пропала, размера нет. Не проверено вторым глазом.
+
+## Словник к строкам 530–533 (на следующий раз; 26.10)
+
+«Habe nun, ach! Philosophie, / Juristerei und Medizin, / Und leider auch Theologie / Durchaus studiert, mit heißem Bemühn». Поиск — `eldamo_gloss.py` по `law|judg|heal|medic|physician` и `learn|study|effort|toil|striv|zeal|eager` (Q):
+- **studiert** → ***apárien*** — из толкиновской фразы *apárien parmanen* «I have learnt by means of a book». Это перфект 1 л. ед. ч. от Q *par-* «to learn», засвидетельствованный. Фауст учился как раз по книгам, так что и *parmanen* можно взять.
+- **Medizin** → ***hröangolmë*** — Q «lore of the body and arts of healing». Готовое толкиновское слово.
+- **Philosophie** → *quettacalië* — неологизм автора («Трактат», 4.112). Или Q *ingolë* «lore, science, philosophy».
+- **Juristerei** → *axan* «law, rule, commandment» есть. Сложение по образцу *hröa-ngolmë* (\**axangolmë*?) было бы моим. И это корень авторского *axanwë* «логика»: Фауст изучал закон, из которого автор вывел логику.
+- **Theologie** → слова нет. По тому же образцу было бы \**Erungolmë*, тоже моё.
+- **mit heißem Bemühn** → глаголы Q *ric-¹* «to try, put forth effort, strive», *rihta-* «to strive». Существительного нет. Отглагольное на *-ië* — по курсу, а как оно склоняется в творительном, надо смотреть.
+- **ach!** — *ai!* (как в *Ai! laurië lantar*).
