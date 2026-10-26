@@ -80,4 +80,4 @@
 - Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
 - **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (add, проверка времени «вперёд», commit, push). Bash отклоняет `awk`, `for`, `python3 -c`, `[..]` в printf, длинные цепочки — дробить.
 - **Контекст — главный ресурс**: не Read целиком.
-- `ext/` ≈ 1,8 ГБ (браузер, HWPh, JRE — удалять первыми).
+- `ext/` ≈ 2,3 ГБ (браузер, HWPh, JRE — удалять первыми; `json-raw` 0,3 ГБ пересоздаётся из inbox).
