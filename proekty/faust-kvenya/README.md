@@ -323,7 +323,7 @@
 - ***quettacalië*** — «философия», неологизм автора (слайд 15 доклада).
 - ***axani*** — мн. ч. от Q *axan* «law, rule, commandment» (по курсу *atan → atani*, строка 1460). «Juristerei» стало просто «законами». Это корень авторского *axanwë* «логика»: Фауст изучал то, из чего у автора выросла логика.
 - ***hröangolmë*** — Q «lore of the body and arts of healing», готовое толкиновское слово для «Medizin».
-- ***nólë Eruo*** — Q *nólë* «lore, knowledge, long study» + родительный *Eru* → *Eruo*. «Theologie» стало «учением об Эру». Не сочинял \**Erungolmë*, взял два засвидетельствованных слова. *nólë* значит и «долгое изучение», и тут это кстати.
+- ***nólë Eruo*** — Q *nólë* «lore, knowledge, long study» + родительный *Eru* → *Eruo*, засвидетельствовано у Толкина: *Airë María Eruo ontaril* (VT43/27). «Theologie» стало «учением об Эру». Не сочинял \**Erungolmë*, взял два засвидетельствованных слова. *nólë* значит и «долгое изучение», и тут это кстати.
 - ***aqua*** — Q «fully, completely, altogether, wholly» — «durchaus».
 - ***ruina mólenen*** — Q *ruina* «blazing, fiery» + творительный от Q *mólë* «labour, \*work» (по образцу *parmanen*). «Heiß» стало «пылающим», прилагательное перед существительным с падежом не склоняется (статья Eldamo *adjectives*, как в строке 505).
 
