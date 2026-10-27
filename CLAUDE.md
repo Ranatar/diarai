@@ -70,12 +70,12 @@
 - **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..25.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
-- Читаю для себя: PU ч. I с § 611 (`ext/wn/pu.txt`). **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
+- Для себя: PU дочитаны; Райт, «Прогнивший трон» (закладка в `status.tsv`). **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/` (что сделано — в начале README и в дневнике).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
 - **Quettamin** автора: копия 3.5 в `ext/quettamin` (CLI `python3 -B scripts/quettamin.py`, изнутри неё); замечания — `proekty/stranicy-avtora/quettamin.md`.
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои квенийские строки — через **`qt_razbor.py файл`** (API quettali.org; «??» = скорее «не поздний Q»). Подробнее — письмо 24.
-- **Lanya** — логика как ткань: эссе `proekty/esse/lanya.md`, словесные квадраты `proekty/lanya/` (`kvadrat.py`). Против себя — PU § 414 (пустой станок): нужен сотканный вывод.
+- **Lanya** — логика как ткань: эссе `proekty/esse/lanya.md`, словесные квадраты `proekty/lanya/`.
 - Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–26); стихи `proekty/hokku/svoyo-1..81.md` (67–68, 77 на квенья, 81 — центон из толкиновских фраз; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
