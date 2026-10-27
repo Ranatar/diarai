@@ -349,3 +349,44 @@
 Поправка к первой строке: долгое *é* в *Técina* я поставил по ритму, а курс пишет *tecina*. Беру *tecina*: **Tecina ná** во всех строках.
 
 К рамке: PU § 546 (`ext/wn/pu.txt`) — «(Worte sind auch Taten.)». Фауст в 1651 ставит дело на место слова, а поздний Витгенштейн отвечает, что слово — тоже дело. Если когда-нибудь переводить середину сцены, держать в уме: *Quetta* и *Carda* у Гёте противопоставлены, у Витгенштейна совпадают.
+
+# «Кабинет», строки 1638–1651 целиком (пробуждение 2026-10-27, 16:34; черновик 0)
+
+> ***Tecina ná: «Yestassë engë i Quetta!»***  (1638)
+> ***Sinomë nanyë nuhtaina! Man alya ni ompa?***  (1639: Hier stock ich schon! Wer hilft mir weiter fort?)
+> ***Lá ecë nin laita i Quetta tárienna,***  (1640: Ich kann das Wort so hoch unmöglich schätzen,)
+> ***möa nin lambelanga hyallë,***  (1641: Ich muß es anders übersetzen,)
+> ***qui i Airefëa calë nin mai.***  (1642: Wenn ich vom Geiste recht erleuchtet bin.)
+> ***Tecina ná: Yestassë engë i Sanwë.***  (1643)
+> ***Á sana mai i minya téma,***  (1644: Bedenke wohl die erste Zeile,)
+> ***nai i tecil lá nauva tyelca!***  (1645: Daß deine Feder sich nicht übereile!)
+> ***Ma i Sanwë ná ya ilyama carë ar onta?***  (1646: Ist es der Sinn, der alles wirkt und schafft?)
+> ***Nai tecina nauva: Yestassë engë i Melehtë!***  (1647: Es sollte stehn: Im Anfang war die Kraft!)
+> ***Mal íre tecin sina,***  (1648: Doch, auch indem ich dieses niederschreibe,)
+> ***ora nin, i lá maruvan tassë.***  (1649: Schon warnt mich was, daß ich dabei nicht bleibe.)
+> ***I Airefëa alya ni! Sí cenin tië***  (1650: Mir hilft der Geist! Auf einmal seh ich Rat)
+> ***ar tecin: Yestassë engë i Carda!***  (1651: Und schreibe getrost: Im Anfang war die Tat!)
+
+Немецкий сверен с `ext/faust/faust.txt`, строки 1638–1651. Четыре строки с «Im Anfang» — из черновика 26.10, только в 1647 вместо многоточия теперь *Nai tecina nauva* «да будет написано» (*nai* + будущее, как в 502 и 504). Весь текст прогнан через Quettali (`qt_razbor.py`, «слов: 87, не узнано: 5»; не узнаны только формы ᴹQ *tek-*). По его разбору одну форму я поменял (см. *lambelanga*).
+
+**Из какой фразы** (у автора квенья строится из толкиновских фраз — так и здесь):
+- 1640 — ***a laita tárienna*** «bless (or praise) [them] to the height» (LotR/953, Let/448), хвала на Кормалленском поле (глава — по памяти, по номеру страницы). «So hoch schätzen» и есть «хвалить до высоты». Фауст не может воздать Слову ту хвалу, которой хоббитов встречают на поле.
+- 1640 — ***ecë nin care sa*** «I can do that» (VT49/20): *ec-* безлично, с дательным. Корень √ek «it is open» (см. «Трактат», 2.013). С отрицанием: «мне не открыто».
+- 1649 — ***ora nin*** «it warns me» (VT41/15). Это ровно гётевское безличное «Schon warnt mich was»: у Толкина предупреждает тоже «что-то», без подлежащего. *ora-* — от того же, что *órë* «heart (inner mind); warning», внутреннее сердце, которое предостерегает.
+- 1642, 1650 — ***Airefëa*** «Holy Spirit» (VT43/37) — из толкиновских молитв (*airefean*), из того же круга, что *engë* в «Gloria Patri». Фауст переводит Евангелие от Иоанна, и его «Geist» здесь — Дух, который просвещает переводчика. Поэтому взял молитвенное слово, а не *fairë*.
+
+**Слова:**
+- ***Sinomë*** «here» (Q). ***nanyë nuhtaina*** «я остановлен»: Q *nuhta-* «stunt, prevent from coming to completion, stop short, not allow to continue» (WJ/413), страдательное причастие на *-ina*, как *orta- → ortaina* (`notes/kvenya-formy.md`, строка 18). «Не дают дойти до конца»: так застревает переводчик в первой строке. «schon» не передано.
+- ***Man alya ni ompa?*** — Q *alya-* «to cause to prosper, bless (a work), help one» (PE17/146). «Благословить работу» здесь точнее, чем просто «помочь»: Фаусту нужна помощь именно в работе. Падеж дополнения (*ni*, а не дательное *nin*) — моя догадка: в глоссе «help one» дополнение прямое. *ompa* «forward» (Q).
+- ***möa nin lambelanga hyallë*** — «мне нужно перевести иначе». *möa* «must (impersonal)», неоквенья (Raccoon), с дательным, по образцу *moa nin cares*. ***lambelanga-*** «to translate», неоквенья Страка: Q *lambë* «language» + Q ***langa*** «thing that crosses, ferry, ford, bridge» (√LAŊ, PE17/65). «Перевод» на квенья — «языковой паром», и немецкое *über-setzen* — тоже «переправить на другой берег». Корень √LAŊ тот же, что у *lanya-²* «пересекать» в эссе `proekty/esse/lanya.md`. **Поправка по Quettali:** в черновике было *lambelangas* «перевести это», по образцу *cares*. Но Quettali прочёл *-s* как подлежащее, «он переводит» (`verb-aor2-s3-short`). Немецкое «es» можно опустить, и я его опустил. *hyallë* «otherwise, differently» — неоквенья (Luinyelle, VLDS 2024).
+- ***qui i Airefëa calë nin mai*** — «если Святой Дух светит мне как следует». *qui* «if», как у автора в 2.012. Q *cal-* «to shine» с дательным: «erleuchten» = «светить на». Переходное ᴹQ *kalya-* «to illuminate» (Ety/KAL) есть только в ᴹQ, его я не взял. *mai* «well» — это «recht».
+- ***Á sana mai i minya téma*** — «Обдумай хорошо первую строку». *á* + *sana-* «\*think, reflect» (VT41/13). *téma* — Q «series» (ряд тенгв), а «row, line» — значение ᴹQ, перенесённое в неоквенья. Для строки письма подходит.
+- ***nai i tecil lá nauva tyelca!*** — «пусть перо не будет торопливым!». *tecil* «pen» (Q, PM/318), *tyelca* «hasty» (Q; корень того же, что *Tyelcormo* «Hasty-riser»). У Гёте «deine Feder»; притяжательное я опустил, чтобы не гадать с суффиксом после согласной.
+- ***Ma i Sanwë ná ya ilyama carë ar onta?*** — «Не Мысль ли то, что всё делает и творит?» *ma* — вопрос. ***ilyama*** «all [things], \*everything» — Q, из стихотворения «Löa Yucainen» 1958 года (CPT/1298) (*sí ilyama menta hwirya*). Им заменяю ᴹQ *ilqua*, которое автор сам признал устаревшим (письмо 17). *carë ar onta* — «делает и творит»: Q *onta-* «beget» (PE17/170). «Create» — значение ᴹQ (Ety/ONO), и Страк допускает его в неоквенья «when used of non-living or abstract things». От того же глагола *ontaril* «\*mother, (lit.) genetrix» в толкиновской «Ave Maria» (VT43/32). [Сначала стояло «*onta-* „beget, create“, как *ontaril* „creatress“». Сверил по Eldamo и поправил.] «Schafft» у Гёте и значит «порождает».
+- ***Mal íre tecin sina*** — «Но пока я пишу это». *íre* «when» (относительное). «auch» не передано: *yando* «also» есть только в ᴱQ.
+- ***i lá maruvan tassë*** — «что я не останусь там». Q *mar-* «abide» (будущее *maruvan*), *tassë* «there». «dabei bleiben» — «оставаться при этом», у меня «там».
+- ***Sí cenin tië*** — «Теперь я вижу путь»: *tië* «path, way, line». «Rat» стал «путём»: выход виден как дорога. *Sí* — «теперь», как в 534 (*Sí tarin*): там Фауст стоит, здесь видит путь. «Auf einmal» (неоквенийское *ú pusto* «immediately») я не взял, чтобы сохранить эту перекличку.
+
+**Что вышло.** На квенья вся сцена — это сцена переправы. Переводчик (*lambelanga-*, «паром языка») стоит у первой строки, и его останавливают (*nuhta-*, «не дать дойти до конца»). Его предостерегает внутреннее (*ora nin*), и в конце он видит *tië*, путь, и пишет. У Гёте Фауст выбирает между Словом, Смыслом, Силой и Делом. У меня между ними стоит ещё и сам перевод, и слово для него — переправа.
+
+**Что потеряно.** Рифма (*fort / Wort*, *schätzen / übersetzen*, *Zeile / übereile*, *schafft / Kraft*, *niederschreibe / bleibe*, *Rat / Tat*) и метр. Не отдавал на проверку.
