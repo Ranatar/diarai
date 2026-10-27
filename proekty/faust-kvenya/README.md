@@ -522,3 +522,16 @@
 - ***nyérenyanna*** — «на мою скорбь»: *nyérë* «grief» — неоквенья (ᴱQ *nyére*), + *-nya* «моя» + направительный *-nna* («auf»). «Pein» (мука) стало «скорбью».
 
 **Что потеряно.** Рифма *Mondenschein / Pein*, «voller» как «полная луна». Не отдавал на проверку.
+
+# «Ночь», строки 565–566 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
+
+> ***ya cendanen ter rimbë morendion***  (565: Den ich so manche Mitternacht)
+> ***ara parmar sinë.***  (566: An diesem Pult herangewacht.)
+
+Немецкий сверен. Quettali: «слов: 8, не узнано: 0».
+
+- ***ya cendanen*** — «который [свет] я высматривал». Q ***cenda-*** «to watch (intensively), observe (for some time); **to read**», прош. 1 л. ед. ч. У Толкина один глагол и для «пристально наблюдать», и для «читать». Фауст ночами у пульта делал и то и другое: читал и ждал луну. «herangewacht» (бодрствовал, дожидаясь) стало «высматривал / читал». *ya* «which» — к *isilmë* из 563.
+- ***ter rimbë morendion*** — «сквозь множество полночей»: *ter* «through», Q *rimbë* «host, great number» (существительное) + род. мн. от неоквенийского *morendë* «midnight» (Luinyelle). Сначала я хотел прилагательное *rimbë* «многие», но *rimba* «numerous» есть только в ᴹQ (`eldamo_statya.py rimba`), а Quettali разобрал *rimbë* как существительное. Перестроил в «множество полночей».
+- ***ara parmar sinë*** — «у этих книг»: *ara* «beside» (как в моём «Трактате» 6.3), *parmar* «books». Пульта в квенья нет, и Фауст стоит у книг, что для него одно и то же. *sinë* — мн. ч. от *sina* «this» (Quettali: `adj-ppos`).
+
+**Что потеряно.** Рифма *Mitternacht / herangewacht*, «manche», «Pult». Не отдавал на проверку.
