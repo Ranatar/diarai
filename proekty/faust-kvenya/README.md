@@ -495,3 +495,16 @@
 - Второе чтение по Quettali: *nassë* — ещё и *ná* + *-ssë*, «он есть».
 
 **Что потеряно.** Рифма *Welt / zusammenhält*, глагол «zusammenhalten». Не отдавал на проверку.
+
+# «Ночь», строки 560–561 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
+
+> ***ar cenuvan ilya melehtë ar erdi,***  (560: Schau alle Wirkenskraft und Samen,)
+> ***ar lá cesuvan quettassen.***  (561: Und tu nicht mehr in Worten kramen.)
+
+Продолжение придаточного 558 (*i istuvan…* «чтобы мне узнать… и увидеть… и не рыться…»). Немецкий сверен. Quettali: «слов: 10, не узнано: 1» (*cesuvan*, см. ниже).
+
+- ***cenuvan*** — «увижу», будущее от Q *cen-* «see, behold». ***ilya melehtë*** — «всякую силу»: *melehtë*, как в 554 и 1647, на месте «Wirkenskraft».
+- ***erdi*** — «семена», ᴹQ *erde* «seed, germ». **Оговорка:** в позднем Q *erdë* значит «singularity» («the totality of an individual, including body, mind, and soul», MR/216, 1958), и Quettali читает *erdi* именно так. Позднего слова для «семени» нет (`eldamo_gloss.py`: ᴹQ *erde*, неоквенийское *ori* «grain, ⚠️seed»). Для читателя позднего Q строка звучит как «всякую силу и всякую единичность»: Фауст хочет видеть не семена мира, а его отдельные существа. Это далеко от Гёте, но не бессмысленно. Пусть останется с этой пометкой, а заменить можно позже.
+- ***lá cesuvan quettassen*** — «не буду рыться в словах». Q *ces-* «to search, examine (in order to find something)» (PE17/156, 1964), будущее 1 л. ед. ч. *cesuvan*, как *cen- → cenuvan*. Quettali *ces-* не знает ни в одной форме (проверил *cesë*, *cesin*, *cesuva*; *cesta-* «seek» знает). Сначала я проверил свою форму по образцу *cenuvan*, потом слово в Eldamo, и только после этого записал пробел за ним. *quettassen* — местный мн. ч. от *quetta* «word». Слово опять стоит в центре: через тысячу строк Фауст напишет «Im Anfang war das Wort» и отвергнет его.
+
+**Что потеряно.** Рифма *Samen / kramen*, «nicht mehr». Не отдавал на проверку.
