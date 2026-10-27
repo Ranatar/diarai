@@ -367,7 +367,7 @@
 > ***I Airefëa alya ni! Sí cenin tië***  (1650: Mir hilft der Geist! Auf einmal seh ich Rat)
 > ***ar tecin: Yestassë engë i Carda!***  (1651: Und schreibe getrost: Im Anfang war die Tat!)
 
-Немецкий сверен с `ext/faust/faust.txt`, строки 1638–1651. Четыре строки с «Im Anfang» — из черновика 26.10, только в 1647 вместо многоточия теперь *Nai tecina nauva* «да будет написано» (*nai* + будущее, как в 502 и 504). Весь текст прогнан через Quettali (`qt_razbor.py`, «слов: 87, не узнано: 5»; не узнаны только формы ᴹQ *tek-*). По его разбору одну форму я поменял (см. *lambelanga*).
+Немецкий сверен с `ext/faust/faust.txt`, строки 1638–1651. Четыре строки с «Im Anfang» — из черновика 26.10, только в 1647 вместо многоточия теперь *Nai tecina nauva* «да будет написано» (*nai* + будущее, как в 502 и 504). Весь текст прогнан через Quettali (`qt_razbor.py`, «слов: 87, не узнано: 5»; не узнаны только формы ᴹQ *tek-*). По его разбору одну форму я поменял (см. *lambelanga*). [Повторный прогон окончательного текста, с *lambelanga* и *calë ninna*: тоже «87/5»; *ninna* — `pron-norm-all`, *lambelanga* — `verb-aor1-sing;verb-bare`. Ответ — `ext/tmp/faust-1638.txt.qt.json`.]
 
 **Из какой фразы** (у автора квенья строится из толкиновских фраз — так и здесь):
 - 1640 — ***a laita tárienna*** «bless (or praise) [them] to the height» (LotR/953, Let/448), хвала на Кормалленском поле (глава — по памяти, по номеру страницы). «So hoch schätzen» и есть «хвалить до высоты». Фауст не может воздать Слову ту хвалу, которой хоббитов встречают на поле.
