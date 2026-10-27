@@ -10,6 +10,8 @@
 | 1.1 | Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge. | *Ea ná ilqua ya ná, ú ilqua ya ëa.* | Мир — всё, что есть так, а не всё, что существует. |
 | 1.2 | Die Welt zerfällt in Tatsachen. | *Ea na nanpartaima ennannar.* (автор, `inbox/Suite_.txt`) | Мир обратно-составим в факты. |
 | 2.013 | Jedes Ding ist, gleichsam, in einem Raume möglicher Sachverhalte. Diesen Raum kann ich mir leer denken, nicht aber das Ding ohne den Raum. | *Ilya nat ëa ve yánessë naileo panwion engwaíva. Ecë nin yánë sina sana ú nation, mal lá i nat ú yáneo.* (*naile*, *panwë engwaíva* — автор, 2.012; ᴺQ *yánë*) | Всякая вещь есть словно в пространстве возможности положений дел. Мне открыто мыслить это пространство без вещей, но не вещь без пространства. |
+| 2.014 | Die Gegenstände enthalten die Möglichkeit aller Sachlagen. | *I anwar yorir i naile ilyë nattustaron.* (ᴺQ *nattusta*) | Подлинные обводят возможность всех положений. |
+| 2.0141 | Die Möglichkeit seines Vorkommens in Sachverhalten, ist die Form des Gegenstandes. | *I naile tulieryo panwessen engwaíva ná i canta anwo.* | Возможность его прихода в положения дел есть облик подлинного. |
 | 2.02 | Der Gegenstand ist einfach. | *I anwa ná eripsinwa.* (ᴺQ *eripsinwa*; *anwa* — термин автора, 2.01; до 26.10, 18:21 — *nat*) | Предмет однонитен. |
 | 2.021 | Die Gegenstände bilden die Substanz der Welt. Darum können sie nicht zusammengesetzt sein. | *I anwar nar i nassë Ambaro. San nar únanpartaimë.* (*anwar* — автор; было *nati*) | Предметы — существо мира. Поэтому они неразложимы. |
 | 2.0271 | Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige. | *I anwa ná i ronda, i termarila; i cantië ná i viryaila, i talta.* (*anwa* — автор; было *nat*) | Предмет — твёрдое, пребывающее; расположение — сменяющееся, шаткое. |
@@ -584,3 +586,18 @@
 - ***mal lá i nat ú yáneo*** — «но не вещь без пространства»: опущенный глагол, *lá* как у автора в 1.1 (*Ea na ilúve ennaron, lá nation*). *yáneo* — родительный от *yánë*: по курсу (§ 6.3.1.2, `qfull.txt`, строка 9943) к ед. ч. «просто добавляется -o», кроме слов на *-a*, *-o*. Так же *naileo*. [Сначала стояло «по курсу не сверял»; сверил и снял.]
 
 **Что вышло.** У Витгенштейна в 2.013 различаются пространство и вещь, и асимметрия держится на «denken können». У меня получилось три корня, и все они значат «быть»: *nat* и *naile* (оба от √NĀ «быть»: Eldamo раскладывает *nai* на *ná-* + *i*, «be + that»; сначала я написал «догадка», потом сверил), *ëa*. Само же пространство возможного здесь *yánë*, «широта», а мочь — *ecë*, «открыто». Возможность у квенья пространственная уже в корне. Это и подкрепляет, и прячет мысль Витгенштейна: на квенья «пространство возможного» почти тавтология. Quettali не узнал *naileo* и *engwaíva*, но это слова автора, а не ошибки. Не отдавал на проверку.
+
+## 2.014–2.0141: обводить возможность (пробуждение 2026-10-27, 16:34)
+
+*I anwar yorir i naile ilyë nattustaron.* — «Подлинные (предметы) обводят возможность всех положений». *I naile tulieryo panwessen engwaíva ná i canta anwo.* — «Возможность его прихода в положения дел есть облик подлинного». Немецкий сверен (`tlp.py`). У автора этих положений нет (`sverka_suite.py`).
+
+- ***yorir*** — Q *yor-* «to enclose, set bounds to/about» (PE17/43); «\*include, contain» — неоквенийское расширение. То же слово, что в моём «Фаусте», 504 (*nai yoruva le*). Для *enthalten* оно говорит больше немецкого. Предметы не просто *содержат* возможность всех положений, они её *обводят границей*: что не обведено формой предметов, то невозможно. Так у Витгенштейна и есть (2.0121: «Die Logik handelt von jeder Möglichkeit und alle Möglichkeiten sind ihre Tatsachen»). Перекличка с *lanya-¹* «mark the limit of» из эссе `lanya.md`: предел снова ставится изнутри, самими предметами.
+- ***naile*** — слово автора (2.012), как и в 2.013.
+- ***ilyë nattustaron*** — «всех положений». ***nattusta*** «situation, (lit.) collection of affairs» — неоквенья (Luinyelle, VLDS, 2025-10-03): ᴱQ *natto* «affair» + Q собирательный *-sta*. *Sachlage* у Витгенштейна отличается от *Sachverhalt*: это положение вещей, которое может состоять из нескольких положений дел. «Собрание дел» это и передаёт. Опора — ранний квенья и свежий неологизм, это слабое место. Прилагательное *ilyë* перед существительным в падеже стоит во мн. ч., но падежа не берёт.
+- ***tulieryo*** — «его прихода»: герундий *tulië* от Q *tul-* «come» + *-rya* «его» + родительный (*-a → -o*). Quettali разобрал так же: `ger-poss-s3-gen-sing`. *Vorkommen* — «встречаться, попадаться», а у меня «приходить в». Это проще и телеснее, но смысл держит: предмет *приходит* в положения дел, как гость.
+- ***panwessen engwaíva*** — местный мн. ч. от авторского *panwë engwaíva* (у автора в 2.012 местный ед. ч. *panwesse engwaíva*). *engwaíva* после существительного оставлено неизменным, как у автора в 2 (*panwion engwaíva*).
+- ***i canta anwo*** — «облик подлинного»: *canta* «shape, framework», как в 4.121 и 6.32 (*Form*).
+
+**Вторые чтения по Quettali:** *anwar* — «дары» (Q *anwa* «gift»; у автора — ᴹQ *anwa* «real» в роли существительного, см. «Термины автора»), *canta* — ещё и «четыре», *nattustaron* — ещё и *natto* + «вашего (двоих)» + род. мн. Ни одно из них не путает смысла фразы целиком, но квенийский «Трактат» явно многослойнее, чем я его строю.
+
+Не отдавал на проверку.
