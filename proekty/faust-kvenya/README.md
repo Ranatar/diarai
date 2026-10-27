@@ -420,7 +420,7 @@
 > ***uin harya attindo hya umbë,***  (544: Mich plagen keine Skrupel noch Zweifel,)
 > ***uin rucë Angamandollo hya raucollo —***  (545: Fürchte mich weder vor Hölle noch Teufel—)
 
-Немецкий сверен с `ext/faust/faust.txt`, 542–545. Quettali: «слов: 20, не узнано: 3» — *istari* и *Angamandollo* (имена собственные, их он не знает) и мой *úmaillo*. Это была ошибка: от *úmaia* исходный падеж — ***úmaiallo***, конечное *-a* сохраняется (*cirya → ciryallo*). Исправил.
+Немецкий сверен с `ext/faust/faust.txt`, 542–545. Quettali: «слов: 20, не узнано: 3» — *istari* и *Angamandollo* (имена собственные, их он не знает) и мой *úmaillo*. Это была ошибка: от *úmaia* исходный падеж — *úmaiallo*, конечное *-a* сохраняется (*cirya → ciryallo*). Потом я заменил само слово на Q *rauco* (см. ниже), получилось *raucollo*.
 
 - ***Nanyë saila lá ilyë alasailë*** — «я мудр сверх всех немудрых». Сравнение — по толкиновскому образцу ***A (ná) calima lá B*** «A is brighter than B, (lit.) A is bright beyond B» (статья-фраза Eldamo): сравнительной степени в квенья нет, есть «за пределом». Q *saila* «wise», *alasaila* «unwise» (то же слово я упоминал при 535 как замену «Tor»). Гётевские «Laffen» (хлыщи, дурни) стали «немудрыми». *ilyë alasailë* — прилагательное во мн. ч. в роли существительного, «все немудрые». Так ли оно стоит без существительного, я по курсу не сверял.
 - ***ingolmor, istari*** — те же *Ingolmo* и *Istar*, которыми Фауст назвал себя в 536, теперь во мн. ч.: он ставит себя выше людей того же имени. Мн. ч. видно в Q *Heren Istarion* «Order of Wizards» (Eldamo; *Istarion* — род. мн., значит им. мн. *Istari*). Quettali его не знает, потому что не держит имён. ***tecindor*** «writers» и ***airimor*** «priests» — неоквенья (*tecindo*, *airimo*).
