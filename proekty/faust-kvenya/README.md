@@ -535,3 +535,16 @@
 - ***ara parmar sinë*** — «у этих книг»: *ara* «beside» (как в моём «Трактате» 6.3), *parmar* «books». Пульта в квенья нет, и Фауст стоит у книг, что для него одно и то же. *sinë* — мн. ч. от *sina* «this» (Quettali: `adj-ppos`).
 
 **Что потеряно.** Рифма *Mitternacht / herangewacht*, «manche», «Pult». Не отдавал на проверку.
+
+# «Ночь», строки 567–568 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
+
+> ***San, or parmar,***  (567: Dann über Büchern und Papier,)
+> ***lómëa málo, léline nin!***  (568: Trübsel'ger Freund, erschienst du mir!)
+
+Немецкий сверен. Quettali: «слов: 7, не узнано: 0».
+
+- ***San, or parmar*** — «Тогда, над книгами»: *san* «then», *or* «above» + мн. ч., как в толкиновском *or ilyë mahalmar* «above all thrones». «und Papier» опущено: бумаги в квенья нет, а *parma* у Страка в неоквенья — и «book», и (ᴱQ) «parchment».
+- ***lómëa málo*** — «сумрачный друг»: Q *lómëa* «shadowed, gloomy» (от *lómë* «night, dusk»), Q *málo* «friend, comrade». Луна — друг ночи, и слово для «печального» у неё ночное.
+- ***léline nin*** — «являлась мне». Q ***lelya-²*** «to appear (**of beautiful things**); to attract, enchant (with dative)» (PE17/151). Толкин сделал отдельный глагол для явления прекрасного, и луна являлась Фаусту именно так. *lēline* — засвидетельствованное прошедшее (Eldamo: `inflect form="past" variant="half-strong-past"`). **По Quettali:** в черновике стояло *lelyanetyë* (прош. вр. по образцу *harya → haryanë* + «ты»), но Quettali разобрал его как прошедшее от омонима *lelya-³* «?thicken & congeal»: «ты загустел мне». Взял засвидетельствованную форму без личного окончания, «ты» ясно из обращения.
+
+**Что потеряно.** Рифма *Papier / mir*, «Papier». Не отдавал на проверку.
