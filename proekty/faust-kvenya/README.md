@@ -448,3 +448,19 @@
 **Что вышло.** Четыре строки держатся на повторах из предыдущих: *uin harya* (544), *erinqua nat* (540), *saila → saita* (542), *tulya* (539). Фауст говорит словами, которые уже говорил, только с отрицанием. Мне кажется, у Гёте так и есть: «Bilde mir nicht ein» повторено дважды.
 
 **Что потеряно.** Рифма (*entrissen / wissen*, *lehren / bekehren*), метр; «auch alle», «bessern». Не отдавал на проверку.
+
+# «Ночь», строки 550–553 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
+
+> ***Ar uin harya harma hya telpë***  (550: Auch hab ich weder Gut noch Geld,)
+> ***hya alcar Ambaro;***  (551: Noch Ehr und Herrlichkeit der Welt;)
+> ***lá cuituva röa sië!***  (552: Es möchte kein Hund so länger leben!)
+> ***San antanen imni núlen,***  (553: Drum hab ich mich der Magie ergeben,)
+
+Немецкий сверен с `ext/faust/faust.txt`, 550–553. Quettali: «слов: 17, не узнано: 1» — *núlen* (см. ниже).
+
+- ***Ar uin harya harma hya telpë*** — «И нет у меня ни сокровища, ни серебра». *uin harya* — третий раз (544, 546): Фауст перечисляет, чего у него нет, одним оборотом. Q *harma* «treasure», Q *telpë* «silver» (значение «money» — только ᴱQ; у Гёте «Geld», и серебро тут ближе всего).
+- ***hya alcar Ambaro*** — «ни славы мира». Q *alcar* «glory, splendour, radiance» — слово из толкиновской «Gloria Patri» (*alcar i Ataren…*). *Ambaro* — родительный от *Ambar*, как в «Трактате» 2.021. «Ehr» (честь) не передано: позднего слова для «чести» я не нашёл (`eldamo_gloss.py`).
+- ***lá cuituva röa sië!*** — «ни одна собака не стала бы так жить!». Q *röa* «dog», Q *sië* «thus». *cuita-* «live» — позднее (LVS 1969) слово; *coita-* из 504 — QVS 1948 (см. там). Будущее *cuituva* на месте «möchte… leben»: «не будет жить». «länger» не передано.
+- ***San antanen imni núlen*** — «Поэтому я отдал себя колдовству». *san* «so, then», как в 546. *anta-* «give», прош. 1 л. ед. ч. *antanen* (Quettali: `verb-past-s1-short`). *imni* «myself» (Q). ***núlë*** «black arts, sorcery» (Q, PE17/125, √ÑGUL) — слово, которое сегодня всплывало трижды: в моём отвергнутом квадрате, в 6.522 автора и здесь. У Гёте «Magie» — путь к Мефистофелю, так что тёмный корень здесь на месте, в отличие от 6.522. Дательный *núlen* — по образцу *lassë → lassen* (Quettali разбирает *lassen* как `noun-dat-sing`). Сам Quettali *núlë* не знает ни в одной форме (проверил *núlë*, *núlen*, *núleo*, *núlenna*). В Eldamo статья Q есть и не помечена устаревшей, так что на этот раз пробел — в его словаре. [Проверено после того, как утром я поспешил с *quilion*: сначала свою форму по образцу, потом само слово.]
+
+**Что потеряно.** Рифма (*Geld / Welt*, *leben / ergeben*), «Ehr», «länger». Не отдавал на проверку.
