@@ -1,0 +1,44 @@
+
+>> tultaima tultima tulima tultāima
+   tultaima: tulta «send (from point of view of receiver)» [ima-adj-spos;ima-nadj-nom-sing] | tultaima «fetchable» [adj-spos;nadj-nom-sing]
+   ?? tultima  (mode=error)
+   ?? tulima  (mode=error)
+   ?? tult  (mode=error)
+   ?? ima  (mode=error)
+
+>> partaima partima parima nanpartaima
+   ?? partaima  (mode=error)
+   partima: parta «arrange» [ima-adj-spos;ima-nadj-nom-sing]
+   ?? parima  (mode=error)
+   ?? nanpartaima  (mode=error)
+
+>> fárima farima faraima
+   faarima: fara «hunt» [ima-adj-spos;ima-nadj-nom-sing]
+   ?? farima  (mode=error)
+   ?? faraima  (mode=error)
+
+>> cénima cenima
+   ceenima: cen «see» [ima-adj-spos;ima-nadj-nom-sing] | ceenima «visible» [adj-spos;nadj-nom-sing]
+   ?? cenima  (mode=error)
+
+>> nútima nútaima
+   nuutima: nuutima «lowerable» [adj-spos;nadj-nom-sing]
+   nuutaima: nuuta «lower» [ima-adj-spos;ima-nadj-nom-sing]
+
+>> lacalima lacaltaima
+   lacalima: lacalima «not possible to be kindled (made to shine)» [adj-spos;nadj-nom-sing]
+   lacaltaima: lacaltaima «not possible to be kindled» [adj-spos;nadj-nom-sing]
+
+>> férima feryaima
+   feerima: feerima «ready to hand» [adj-spos;nadj-nom-sing]
+   feryaima: ferya «make ready (promptly)» [ima-adj-spos;ima-nadj-nom-sing]
+
+>> istima istaima
+   istima: ista «know» [ima-adj-spos;ima-nadj-nom-sing] | istima «wise (in sense knowing very much)» [adj-spos;nadj-nom-sing]
+   ?? istaima  (mode=error)
+
+>> carima cárima
+   ?? carima  (mode=error)
+   caarima: car «do» [ima-adj-spos;ima-nadj-nom-sing] | caarima «feasible» [adj-spos;nadj-nom-sing]
+
+слов: 24, не узнано: 12
