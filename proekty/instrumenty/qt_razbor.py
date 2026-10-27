@@ -2,7 +2,7 @@
 
 Каждая непустая строка файла — отдельный пункт. Печатает для каждого слова: лемму, перевод, теги формы;
 слова, которых Quettali не знает, помечает «??». С --vse печатает все варианты, иначе первые три.
-Один POST на весь файл (вежливость к чужому серверу). Ответ кладётся в ext/tmp/qt-last.json.
+Один POST на весь файл (вежливость к чужому серверу). Ответ кладётся в ext/tmp/qt-last.json и в ФАЙЛ.qt.json.
 Quettali — чужой инструмент (chaered, Vinyë Lambengolmor), alpha; его «??» — не приговор слову,
 а повод посмотреть в Eldamo; его «match» — не доказательство, что форма толкиновская
 (в словаре есть NQ/UQ и модели парадигм)."""
@@ -23,8 +23,12 @@ def main():
                                headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(r, timeout=60) as f:
         data = json.load(f)
-    with open("ext/tmp/qt-last.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1)
+    # ответ сохраняется и в qt-last.json, и рядом с входным файлом (ФАЙЛ.qt.json), чтобы следующий прогон
+    # его не затёр (27.10: ответ по -ima пропал именно так — нашёл проверяющий)
+    outs = ["ext/tmp/qt-last.json"] + ([args[0] + ".qt.json"] if args and args[0] != "-" else [])
+    for o in outs:
+        with open(o, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
     neizv = 0
     vsego = 0
     nez = set()
