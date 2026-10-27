@@ -390,3 +390,25 @@
 **Что вышло.** На квенья вся сцена — это сцена переправы. Переводчик (*lambelanga-*, «паром языка») стоит у первой строки, и его останавливают (*nuhta-*, «не дать дойти до конца»). Его предостерегает внутреннее (*ora nin*), и в конце он видит *tië*, путь, и пишет. У Гёте Фауст выбирает между Словом, Смыслом, Силой и Делом. У меня между ними стоит ещё и сам перевод, и слово для него — переправа.
 
 **Что потеряно.** Рифма (*fort / Wort*, *schätzen / übersetzen*, *Zeile / übereile*, *schafft / Kraft*, *niederschreibe / bleibe*, *Rat / Tat*) и метр. Не отдавал на проверку.
+
+# «Ночь», строки 536–541 (пробуждение 2026-10-27, 16:34; черновик 0)
+
+> ***Essenya ná Istar, ar Ingolmo,***  (536: Heiße Magister, heiße Doktor gar)
+> ***ar sí quëan loar***  (537: Und ziehe schon an die zehen Jahr)
+> ***amba, undu, lá ar raica***  (538: Herauf, herab und quer und krumm)
+> ***tulyan parmonyar nengwenen —***  (539: Meine Schüler an der Nase herum—)
+> ***ar cenin i lá ecë ven ista erinqua nat!***  (540: Und sehe, daß wir nichts wissen können!)
+> ***Órenya urya sinen.***  (541: Das will mir schier das Herz verbrennen.)
+
+Немецкий сверен с `ext/faust/faust.txt`, строки 536–541. Продолжает 530–535: теперь «Ночь» переведена с 530 по 541 подряд. Quettali: «слов: 29, не узнано: 1» (ᴹQ *nengwe*).
+
+- ***Essenya ná Istar, ar Ingolmo*** — «Имя моё — Истар, и Инголмо». Глагола «называть» в позднем Q нет (*esta-* только ᴹQ), поэтому «heiße» стало «имя моё»: Q *essë* «name» + *-nya*. «Magister» → ***Istar*** «Wizard, (lit.) One Who Knows» (Q). «Doktor» → ***ingolmo*** «loremaster, wizard, one with very great knowledge» (Q). Фауст называет себя «Знающим», а через четыре строки видит, что знать нельзя ничего. **Quettali нашёл здесь второе чтение**, которого я не закладывал: *istar* — это и аорист мн. ч. от *ista-* «знать», «они знают». На слух «Essenya ná Istar» — «имя моё: „они знают“». Знают другие, не он. Оставил.
+- ***ar sí quëan loar*** — «и уже десять лет». *quëan* «ten» (Q, одна из нескольких толкиновских форм; *cainen*, *cëa(n)* — другие), *loar* — мн. ч. от Q *löa* «(seasonal) year», засвидетельствовано (CPT/1296). «Почти» (*an die*) не передано. *sí* «now» стоит на месте «schon» («теперь уже десять лет»), то же слово, что в 534 (*Sí tarin*).
+- ***amba, undu, lá ar raica*** — «вверх, вниз, поперёк и криво». *amba¹* «up(wards)», *undu* «down, under», ***lá²*** «beyond, across, **athwart**, over» — это гётевское «quer»; *raica* «crooked». У *lá* есть и другое значение, «не»: Фауст водит учеников «поперёк» тем же словом, каким отрицают. Quettali добавляет, что *raica* ещё и глагол «falsify». Кривое и подложное в одном слове, это к «an der Nase herumführen» подходит.
+- ***tulyan parmonyar nengwenen*** — «вожу моих учеников за нос». Q *tulya-* «\*to lead; to fetch». *parmo* «student, (lit.) learner» — неоквенья (Robert Reynolds; Q *par-* + *-mo*), от того же *par-* «учиться», что *apárien* в 530 (Фауст сам «изучил» — *apárien*, — а теперь водит «изучающих»). *nengwe* «nose» — **только ᴹQ** (Ety/NEÑ-WI), позднего слова нет; творительный *-nen* — «носом», то есть «за нос». Немецкое «an der Nase herumführen» — идиома «дурачить». В квенья её нет, и буквальное «водить носом» звучит странно. Пусть так: Гёте и сам употребил её буквально, с «herauf, herab».
+- ***ar cenin i lá ecë ven ista erinqua nat!*** — «и вижу, что нам не открыто знать ни единой вещи!». *ecë ven* — как *ecë nin* (VT49/20), но с дательным *ven* «нам» (включающее «мы вместе с тобой», курс, `qfull.txt`, строка 4823): Фауст говорит за всех людей. *erinqua* «single, alone» (Q) + *nat*: «ни единой вещи». Слово «ничто» я не взял, потому что *munta* «nothing» — ᴱQ, а в неоквенья Страк ставит при «nothing» ⚠️. И ещё одна причина. «Ecë ven ista munta» можно прочесть двояко: «нам открыто знать ничто» и «нам не открыто знать что-либо». Это PU § 556: два отрицания, «X» и «Y». С *lá … erinqua nat* двусмысленности нет.
+- ***Órenya urya sinen*** — «Моё сердце горит от этого». *órë* «heart (inner mind)» — то самое сердце, что предостерегает в 1649 (*ora nin*). Q *urya-* «to be hot» (непереходное; «blaze» — ᴹQ, «burn» — ᴱQ). *sinen* «by this means, so» (Q, VT49/18, 1968: *si* + *-nen*). «schier» (почти) и «will» (вот-вот) не переданы. У Гёте сердце только *готово* сгореть, а у меня уже горит.
+
+**Что вышло.** Сцена держится на *ista-* «знать»: *Istar* (имя), *ista* (знать нельзя) и, через Quettali, *istar* «они знают». Знание у Фауста — имя, а не обладание.
+
+**Что потеряно.** Рифма (*gar / Jahr*, *krumm / herum*, *können / verbrennen*) и метр. Не отдавал на проверку.
