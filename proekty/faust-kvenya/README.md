@@ -508,3 +508,17 @@
 - ***lá cesuvan quettassen*** — «не буду рыться в словах». Q *ces-* «to search, examine (in order to find something)» (PE17/156, 1964), будущее 1 л. ед. ч. *cesuvan*, как *cen- → cenuvan*. Quettali *ces-* не знает ни в одной форме (проверил *cesë*, *cesin*, *cesuva*; *cesta-* «seek» знает). Сначала я проверил свою форму по образцу *cenuvan*, потом слово в Eldamo, и только после этого записал пробел за ним. *quettassen* — местный мн. ч. от *quetta* «word». Слово опять стоит в центре: через тысячу строк Фауст напишет «Im Anfang war das Wort» и отвергнет его.
 
 **Что потеряно.** Рифма *Samen / kramen*, «nicht mehr». Не отдавал на проверку.
+
+# «Ночь», строки 563–564 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
+
+> ***Ai, nai cenuvatyë, quanta isilmë,***  (563: O sähst du, voller Mondenschein,)
+> ***métima lúmessë nyérenyanna,***  (564: Zum letztenmal auf meine Pein,)
+
+Немецкий сверен. Quettali: «слов: 8, не узнано: 0» (после поправки, см. ниже).
+
+- ***Ai, nai cenuvatyë*** — «Ах, если бы ты смотрел…»: *ai* «ah», *nai* + будущее (желание, как в 502, 504, 1647), *-tyë* — фамильярное «ты» (Quettali: `verb-futu-s2t-long`). Фауст говорит с луной на «ты».
+- ***quanta isilmë*** — «полный лунный свет»: Q *quanta* «full, filled», Q *isilmë* «moonlight» (от *Isil* «Moon, (lit.) Sheen»). Обращение, как у Гёте.
+- ***métima lúmessë*** — «в последний раз»: Q *métima* «last, ultimate, final» + местный падеж от Q *lúmë¹* «time, period of time, hour». **Поправка по Quettali:** в черновике стояло *lússë* от *lú*, но *lú* «time, occasion» — только ᴹQ, а в позднем Q *lú(n)* — «\*deep pool» (`eldamo_statya.py lú`). Ошибся я, а не программа. Второе чтение по Quettali: *lúmë²* «darkness», то есть «в последней тьме». Для полуночи у пульта — к месту.
+- ***nyérenyanna*** — «на мою скорбь»: *nyérë* «grief» — неоквенья (ᴱQ *nyére*), + *-nya* «моя» + направительный *-nna* («auf»). «Pein» (мука) стало «скорбью».
+
+**Что потеряно.** Рифма *Mondenschein / Pein*, «voller» как «полная луна». Не отдавал на проверку.
