@@ -412,3 +412,21 @@
 **Что вышло.** Сцена держится на *ista-* «знать»: *Istar* (имя), *ista* (знать нельзя) и, через Quettali, *istar* «они знают». Знание у Фауста — имя, а не обладание.
 
 **Что потеряно.** Рифма (*gar / Jahr*, *krumm / herum*, *können / verbrennen*) и метр. Не отдавал на проверку.
+
+# «Ночь», строки 542–545 (пробуждение 2026-10-27, 16:34; черновик 0)
+
+> ***Nanyë saila lá ilyë alasailë,***  (542: Zwar bin ich gescheiter als all die Laffen,)
+> ***ingolmor, istari, tecindor ar airimor;***  (543: Doktoren, Magister, Schreiber und Pfaffen;)
+> ***uin harya attindo hya umbë,***  (544: Mich plagen keine Skrupel noch Zweifel,)
+> ***uin rucë Angamandollo hya raucollo —***  (545: Fürchte mich weder vor Hölle noch Teufel—)
+
+Немецкий сверен с `ext/faust/faust.txt`, 542–545. Quettali: «слов: 20, не узнано: 3» — *istari* и *Angamandollo* (имена собственные, их он не знает) и мой *úmaillo*. Это была ошибка: от *úmaia* исходный падеж — ***úmaiallo***, конечное *-a* сохраняется (*cirya → ciryallo*). Исправил.
+
+- ***Nanyë saila lá ilyë alasailë*** — «я мудр сверх всех немудрых». Сравнение — по толкиновскому образцу ***A (ná) calima lá B*** «A is brighter than B, (lit.) A is bright beyond B» (статья-фраза Eldamo): сравнительной степени в квенья нет, есть «за пределом». Q *saila* «wise», *alasaila* «unwise» (то же слово я упоминал при 535 как замену «Tor»). Гётевские «Laffen» (хлыщи, дурни) стали «немудрыми». *ilyë alasailë* — прилагательное во мн. ч. в роли существительного, «все немудрые». Так ли оно стоит без существительного, я по курсу не сверял.
+- ***ingolmor, istari*** — те же *Ingolmo* и *Istar*, которыми Фауст назвал себя в 536, теперь во мн. ч.: он ставит себя выше людей того же имени. Мн. ч. видно в Q *Heren Istarion* «Order of Wizards» (Eldamo; *Istarion* — род. мн., значит им. мн. *Istari*). Quettali его не знает, потому что не держит имён. ***tecindor*** «writers» и ***airimor*** «priests» — неоквенья (*tecindo*, *airimo*).
+- ***uin harya attindo hya umbë*** — «нет у меня ни сомнения, ни страха». Отрицание — по курсу (§ 5.5.1.2, `qfull.txt`, строка 8722): *ui* + личный суффикс + глагол, как *uin menuva*. *harya-* «to have» (Q). *attindo* «doubt, (lit.) two mind» — неоквенья. «Skrupel» передано Q ***umbë*** «imminence, threat; premonition, fear, unwelcome expectation»: это не угрызение, а дурное предчувствие. Ближе слова не нашлось.
+- ***uin rucë Angamandollo hya úmaiallo*** — «не боюсь ни Ангаманды, ни демона». Q *ruc-* «to feel fear or horror». Исходный падеж (*-llo*, «от») при «бояться» — **моя догадка**: образца с *ruc-* я не видел. «Hölle» → *Angamando* «Железная темница» Моргота (имя Q). Это замена: ада у Толкина в квенья нет, а самое близкое — тюрьма Врага. «Teufel» → Q ***rauco*** «demon, powerful hostile and terrible creature» (PE17/48, √RUK; от него и *Valarauco* «Балрог», по памяти). [Сначала стояло неоквенийское *úmaia* «demon, devil», но Eldamo помечает его устаревшим в пользу *rauco*. Заменил, а заодно ушла и моя ошибка *úmaillo*.] *ruc-* «бояться» — от √RUKU (WJ/389). Корни похожи, так что «не боюсь… *rauco*» звучит почти как «не боюсь того, чего боятся». Родство двух корней я не проверял.
+
+**Что вышло.** Фауст мерит себя тем же *lá*, которым водил учеников «поперёк» (538) и которым отрицают: «мудр за пределом немудрых».
+
+**Что потеряно.** Рифма (*Laffen / Pfaffen*, *Zweifel / Teufel*) и метр. «zwar» (хоть и) не передано. Не отдавал на проверку.
