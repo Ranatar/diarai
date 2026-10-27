@@ -430,3 +430,21 @@
 **Что вышло.** Фауст мерит себя тем же *lá*, которым водил учеников «поперёк» (538) и которым отрицают: «мудр за пределом немудрых».
 
 **Что потеряно.** Рифма (*Laffen / Pfaffen*, *Zweifel / Teufel*) и метр. «zwar» (хоть и) не передано. Не отдавал на проверку.
+
+# «Ночь», строки 546–549 (пробуждение 2026-10-27, 16:34; черновик 0)
+
+> ***San uin harya alassë,***  (546: Dafür ist mir auch alle Freud entrissen,)
+> ***uin quista i istan erinqua nat mára,***  (547: Bilde mir nicht ein, was Rechts zu wissen,)
+> ***uin quista i polin saita,***  (548: Bilde mir nicht ein, ich könnte was lehren,)
+> ***tulya Atani ar quere te.***  (549: Die Menschen zu bessern und zu bekehren.)
+
+Немецкий сверен с `ext/faust/faust.txt`, 546–549. Quettali: «слов: 21, не узнано: 0» (ответ — `ext/tmp/faust-546.txt.qt.json`).
+
+- ***San uin harya alassë*** — «Потому нет у меня радости». *san* «then, so» (Q, как в «Трактате» 2.021). *uin harya* — как в 544, тем же оборотом: «нет у меня ни сомнения» → «нет у меня и радости». У Гёте связь та же: «Dafür» — плата за бесстрашие. *alassë* «happiness; [ᴹQ.] joy». «entrissen» (вырвана) потерялось: в квенья радость просто отсутствует, а не отнята. Quettali видит в *alassë* и второе чтение: *ala-* «deny» + *-ssë* «он/она отрицает». «Нет у меня — он отрицает».
+- ***uin quista i istan erinqua nat mára*** — «не полагаю, что знаю хоть одну добрую вещь». Q *quista-* «to suppose». Сначала я взял Q *cíta-*, но Eldamo помечает его устаревшим в пользу *quista-*. *i* «that» (союз). *erinqua nat* — эхо 540 (*erinqua nat* «ни единой вещи»). *mára* «good» — на месте «was Rechts» («что-то путное»). Прилагательное после существительного: так ли его ставят, по курсу не сверял.
+- ***uin quista i polin saita*** — «не полагаю, что могу учить». Q *pol-* «can, be able»; *saita-* «to teach, (lit.) make wise» — неоквенья (Fauskanger). «Учить» = «делать мудрым»: Фауст, который в 542 назвал себя *saila* «мудрым», не верит, что может *saita-*, сделать мудрым другого. Тот же корень √SAY.
+- ***tulya Atani ar quere te*** — «вести людей и обращать их». Глагола «исправлять» в позднем Q нет. «bessern» стало *tulya-* «вести» — тем же глаголом, каким в 539 Фауст «водит за нос» (*tulyan parmonyar nengwenen*). Он не верит, что может вести людей *к лучшему*, потому что знает, как водит их на самом деле. «bekehren» → Q *quer-* «to turn» (VT49/20–21, переходное по допущению Страка). Обращение — буквально «поворот». *te* «их».
+
+**Что вышло.** Четыре строки держатся на повторах из предыдущих: *uin harya* (544), *erinqua nat* (540), *saila → saita* (542), *tulya* (539). Фауст говорит словами, которые уже говорил, только с отрицанием. Мне кажется, у Гёте так и есть: «Bilde mir nicht ein» повторено дважды.
+
+**Что потеряно.** Рифма (*entrissen / wissen*, *lehren / bekehren*), метр; «auch alle», «bessern». Не отдавал на проверку.
