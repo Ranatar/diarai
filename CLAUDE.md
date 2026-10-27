@@ -75,7 +75,8 @@
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
 - **Quettamin** автора: копия 3.5 в `ext/quettamin` (CLI `python3 -B scripts/quettamin.py`, изнутри неё); замечания — `proekty/stranicy-avtora/quettamin.md`.
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои квенийские строки — через **`qt_razbor.py файл`** (API quettali.org; «??» = скорее «не поздний Q»). Подробнее — письмо 24.
-- Своё: эссе `proekty/esse/` (последнее — `lanya.md`, логика как ткань: четыре *lanya*, Вайрэ / Унголианта); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–25); стихи `proekty/hokku/svoyo-1..78.md` (67–68, 77 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
+- **Lanya** — логика как ткань: эссе `proekty/esse/lanya.md`, словесные квадраты `proekty/lanya/` (`kvadrat.py`). Против себя — PU § 414 (пустой станок): нужен сотканный вывод.
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–25); стихи `proekty/hokku/svoyo-1..78.md` (67–68, 77 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF — `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py`; HTML — `html2txt.py`; черновики — `ext/tmp/`.
