@@ -465,6 +465,24 @@
 
 **Что потеряно.** Рифма (*Geld / Welt*, *leben / ergeben*), «Ehr», «länger». Не отдавал на проверку.
 
+# «Ночь», строки 554–557 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
+
+> ***Ma melehtenen ar ópanen ëalo***  (554: Ob mir durch Geistes Kraft und Mund)
+> ***laistima nat nauva nin sinwa,***  (555: Nicht manch Geheimnis würde kund;)
+> ***i lá möa nin, naica mólenen,***  (556: Daß ich nicht mehr mit saurem Schweiß)
+> ***quetë ya uin ista;***  (557: Zu sagen brauche, was ich nicht weiß;)
+
+Немецкий сверен с `ext/faust/faust.txt`. Quettali: «слов: 20, не узнано: 0».
+
+- ***Ma*** — вопросительная частица на месте «Ob» («не станет ли…»), как у автора в 1.21 (*Ma ece ea…*).
+- ***melehtenen ar ópanen ëalo*** — «силой и устами духа». *melehtë* «might» — то же слово, что в 1647 (*Yestassë engë i Melehtë*), творительный *-nen*. Q *ópa* «mouth (opening of which the lips are the edges)»: из многих квенийских «ртов» выбрал тот, что открывается для речи. Q *ëala* «spirit (not incarnate), being», род. *ëalo*. Это не *Airefëa* из 1642, а просто «бесплотный дух»: Фауст здесь зовёт духов магией, а не молится.
+- ***laistima nat*** — «непознаваемое», то есть «тайна». Слова «тайна» в позднем Q нет. *laistima* «unknowable, secret» — неоквенья, заменившее ᴹQ *alistima* (то самое *alistima* «unknowable, secret» из спора о *-ima*, `proekty/stranicy-avtora/quettamin.md`). Тайна — то, что *нельзя знать*, и через две строки Фауст скажет «ya uin ista», «чего я не знаю».
+- ***nauva nin sinwa*** — «станет мне известным». Q *sinwa* «known, **certain**, ascertained»: у Толкина одно слово для «известного» и «достоверного». Витгенштейн в «Über Gewißheit» как раз разводит знание и достоверность, а квенья их сводит.
+- ***i lá möa nin, naica mólenen, quetë*** — «чтобы мне не было нужды с горьким трудом говорить». *möa nin* — как в 1641. «mit saurem Schweiß» → Q *naica* «bitterly painful» + *mólenen*: эхо 533 (*ruina mólenen*, «с пылающим трудом»). Тогда труд был пылающим, теперь — горький. «nicht mehr» передано только *lá*.
+- ***ya uin ista*** — «чего я не знаю»: *ya* «which», *uin ista* — как *uin harya* в 544–550. Строка, после которой хочется поставить TLP 7.
+
+**Что потеряно.** Рифма (*Mund / kund*, *Schweiß / weiß*), «manch» (не одна тайна, а «непознаваемое» вообще), «mehr». Не отдавал на проверку.
+
 # «Ночь», строки 558–559, вне очереди (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
 
 > ***i istuvan i nassë Ambaro endaryassë***  (558–559: Daß ich erkenne, was die Welt / Im Innersten zusammenhält,)
