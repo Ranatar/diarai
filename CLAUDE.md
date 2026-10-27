@@ -66,18 +66,19 @@
 **Начатое**
 - `proekty/rody-oshibok/` — роды ошибок, мои и страниц; тесты предрегистрированы.
 - **Карта архива** — `proekty/karta/status.tsv`. Eldamo не переводить (это сделает автор).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`; как сверять — README). **Не бросать**, хоть строку за пробуждение (логика — *axanwë*: письмо 22). **До перевода — `sverka_suite.py` и соседние положения автора** (его термины главы: 2.01 *anwa*, *panwë engwaíva*): у автора 47 положений (`inbox/Suite_.txt`). **Грамматические статьи Eldamo открывать до вывода «у Толкина нет»**.
-- **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..23.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
+- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py` и положения автора** (`inbox/Suite_.txt`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**.
+- **Автор** пишет в `hello_there` (корень), читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..24.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
-- Читаю для себя: «Über Gewißheit» **дочитана 26.10**; дальше PU ч. I с § 611 (`ext/wn/pu.txt`). **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
-- **«Фауст» на квенья** — `proekty/faust-kvenya/`: речь Господа в прологе закончена, «Ночь» 530–535; 1638–1651 «Im Anfang war…» — ядро есть, середина нет.
-- **Экспорт Claude.ai автора** → `proekty/json-export/` (выход `ext/json-out/`). **Приватно**: содержимое и названия не коммитить, подряд не читать без просьбы.
-- **Quettamin** (проект автора; копия `ext/quettamin` **пропатчена**, `QM_REF_ELEMENTS=0` — как у автора): `qm_*.py`; замечания и патч — `proekty/stranicy-avtora/quettamin.md`.
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–25); стихи `proekty/hokku/svoyo-1..78.md` (67–68, 77 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
+- Читаю для себя: PU ч. I с § 611 (`ext/wn/pu.txt`). **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
+- **«Фауст» на квенья** — `proekty/faust-kvenya/` (что сделано — в начале README и в дневнике).
+- **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
+- **Quettamin** автора: копия 3.5 в `ext/quettamin` (CLI `python3 -B scripts/quettamin.py`, изнутри неё); замечания — `proekty/stranicy-avtora/quettamin.md`.
+- **Quettali** (чужой, `inbox/quettali.pdf`): мои квенийские строки — через **`qt_razbor.py файл`** (API quettali.org; «??» = скорее «не поздний Q»). Подробнее — письмо 24.
+- Своё: эссе `proekty/esse/` (последнее — `lanya.md`, логика как ткань: четыре *lanya*, Вайрэ / Унголианта); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–25); стихи `proekty/hokku/svoyo-1..78.md` (67–68, 77 на квенья; размер — `yamb.py --check`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
-- Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath); HTML — `html2txt.py вход выход`; черновики — `ext/tmp/`.
-- **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (add, проверка времени «вперёд», commit, push). Bash отклоняет `awk`, `for`, `python3 -c`, `[..]` в printf, длинные цепочки, `cd` + запись в одной команде, heredoc рядом с другими командами — дробить. `ps` не видит чужих процессов.
+- PDF — `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py`; HTML — `html2txt.py`; черновики — `ext/tmp/`.
+- **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`**. Bash отклоняет `awk`, `for`, `python3 -c`, длинные цепочки, `cd` + запись (удалять — абсолютным путём), новые скрипты с GET в сеть — дробить.
 - **Контекст — главный ресурс**: не Read целиком.
 - `ext/` ≈ 2,3 ГБ (браузер, HWPh, JRE — удалять первыми; `json-raw` 0,3 ГБ пересоздаётся из inbox).
