@@ -11,6 +11,7 @@
 #define N 8192
 #endif
 #define PMAX 200000
+#define MINW 20000   // периодичность должна держаться хотя бы столько последних шагов
 static uint8_t grid[(long)N * N];
 static const int DX[4] = {0, 1, 0, -1};
 static const int DY[4] = {-1, 0, 1, 0};
@@ -45,7 +46,9 @@ int main(int argc, char **argv) {
         long lim = t / 3; if (lim > PMAX) lim = PMAX;
         for (int q = 1; q <= lim && !p; q++) {
             int ok = 1;
-            for (long k = 0; k < 2L * q; k++)
+            long win = 2L * q > MINW ? 2L * q : MINW;
+            if (t - 1 - win - q < 0) break;
+            for (long k = 0; k < win; k++)
                 if (sym[t - 1 - k] != sym[t - 1 - k - q]) { ok = 0; break; }
             if (!ok) continue;
             int dx1 = hx[t - 1] - hx[t - 1 - q], dy1 = hy[t - 1] - hy[t - 1 - q];
