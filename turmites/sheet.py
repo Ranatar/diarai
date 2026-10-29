@@ -11,7 +11,7 @@ dr = ImageDraw.Draw(sheet)
 with tempfile.TemporaryDirectory() as tmp:
     for i, r in enumerate(rules):
         p = os.path.join(tmp, f'{r}.pgm')
-        subprocess.run([os.path.join(here, 'render'), str(r), steps, p], check=True, capture_output=True)
+        subprocess.run([os.path.join(here, os.environ.get('RENDER', 'render')), str(r), steps, p], check=True, capture_output=True)
         im = Image.open(p)
         w, h = im.size
         k = (T - 8) / max(w, h)
