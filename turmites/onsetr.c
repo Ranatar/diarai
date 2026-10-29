@@ -12,7 +12,9 @@
 #define N 8192
 #endif
 #define R (1L << 23)        // длина буфера (степень двойки), 8M шагов
+#ifndef PMAX
 #define PMAX 200000
+#endif
 #ifndef MINW
 #define MINW 20000
 #endif
