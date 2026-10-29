@@ -6,6 +6,5 @@ lines = []
 for l in rep:
     r, rest = l.strip().split(' (', 1); peg, rest = rest.split(', правил', 1)
     on = int(rest.split('начало ')[1].split(',')[0]); per = rest.split('период ')[1].split(',')[0]
-    lines.append(f"- {r} (Пегг {peg}): {on:,} шагов, период {per}".replace(',', ' ', on > 999 and 2 or 0).replace(' шагов ', ' шагов, ') if False else
-                 f"- {r} (Пегг {peg}): {format(on, ',').replace(',', ' ')} шагов, период {per}")
+    lines.append(f"- {r} (Пегг {peg}): {format(on, ',').replace(',', ' ')} шагов, период {per}")
 open('NOTES.md', 'w').write(s[:a] + '\n'.join(lines) + '\n\n' + s[b:])
