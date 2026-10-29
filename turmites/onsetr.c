@@ -80,6 +80,22 @@ int main(int argc, char **argv) {
         fflush(stdout);
         int x0 = minx, x1 = maxx, y0 = miny, y1 = maxy;
         if (x0 < 0) x0 = 0; if (y0 < 0) y0 = 0; if (x1 >= N) x1 = N - 1; if (y1 >= N) y1 = N - 1;
+#ifdef THUMB
+        {   // миниатюра рамки: серое = доля единиц в блоке k×k; в stderr: rule ones w h
+            int w = x1 - x0 + 1, h = y1 - y0 + 1, k = (w > h ? w : h + 0) / THUMB + 1;
+            int tw = (w + k - 1) / k, th = (h + k - 1) / k; long ones = 0;
+            static unsigned cnt[THUMB + 2][THUMB + 2];
+            memset(cnt, 0, sizeof cnt);
+            for (int yy = y0; yy <= y1; yy++) for (int xx = x0; xx <= x1; xx++)
+                if (grid[(long)yy * N + xx]) { ones++; cnt[(yy - y0) / k][(xx - x0) / k]++; }
+            char fn[256]; snprintf(fn, sizeof fn, "%s/%d.pgm", getenv("THUMBDIR") ? getenv("THUMBDIR") : ".", rule);
+            FILE *f = fopen(fn, "wb");
+            if (f) { fprintf(f, "P5\n%d %d\n255\n", tw, th);
+                for (int a = 0; a < th; a++) for (int b = 0; b < tw; b++) fputc(255 - (int)(255L * cnt[a][b] / (k * k)), f);
+                fclose(f); }
+            fprintf(stderr, "%d %ld %d %d\n", rule, ones, w, h); fflush(stderr);
+        }
+#endif
         for (int yy = y0; yy <= y1; yy++) memset(&grid[(long)yy * N + x0], 0, x1 - x0 + 1);
     }
     return 0;
