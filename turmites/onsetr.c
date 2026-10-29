@@ -11,7 +11,10 @@
 #ifndef N
 #define N 8192
 #endif
-#define R (1L << 23)        // длина буфера (степень двойки), 8M шагов
+#ifndef RB
+#define RB 23
+#endif
+#define R (1L << RB)        // длина буфера, по умолчанию 8M шагов
 #ifndef PMAX
 #define PMAX 200000
 #endif

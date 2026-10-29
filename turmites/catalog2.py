@@ -5,7 +5,7 @@
 - growth.csv, out/growth[A-Z]*.txt — показатели роста (их ошибка с периодом не касалась).
 Виды: highway, loop, counter, slow, chaotic, ordered (растёт упорядоченно / упёрся в край без шоссе), unknown.
 Пишет catalog2.csv, печатает сводку. Нужные прогоны — см. NOTES.md."""
-import csv, glob, collections, math
+import os, csv, glob, collections, math
 from canon2 import CANON2
 from canon3 import CANON3
 
@@ -20,9 +20,10 @@ def rows(pattern):
 def deep_rows():
     """out/v2/deep28.txt: секции «поле 8192» и «поле 4096» (строки onset)."""
     o8, o4, cur = {}, {}, None
-    for l in open('out/v2/deep28.txt'):
+    for l in open('out/v2/deep28.txt').readlines() + open('out/v3/deep30.txt').readlines():
         if l.startswith('#'):
-            cur = o4 if '4096' in l else o8 if '8192' in l else cur
+            cur = (o4 if ('4096' in l or 'проверочное' in l) else
+                   o8 if ('8192' in l or 'основное' in l) else cur)
             continue
         p = l.split()
         if len(p) == 7 and cur is not None: cur[int(p[0])] = list(map(int, p))
@@ -54,6 +55,11 @@ def build():
     o8.update(d8); o4.update(d4)   # догонка до 2^28 важнее прогона до 2^24
     members = collections.defaultdict(list)
     for r in range(65536): members[CANON3[CANON2[r]]].append(r)
+    comp = {}
+    if os.path.exists('cmp/ordered_compress.txt'):
+        for l in open('cmp/ordered_compress.txt'):
+            p = l.split(); comp[int(p[0])] = (int(p[1]), int(p[2]), float(p[4]))
+    manual = {int(r['rep']): r for r in csv.DictReader(open('kinds_manual.csv'))} if os.path.exists('kinds_manual.csv') else {}
     cat = []
     for c, rs in sorted(members.items()):
         o = o8.get(c)
@@ -84,6 +90,13 @@ def build():
             rec['kind'] = 'chaotic' if g and g[1] < 0.45 else 'ordered'
         else:
             rec['kind'] = kind_by_growth(g[1]) if g else 'unknown'
+        # «упорядоченный», но узор не сжимается (cmp/compress.py, 2^22 шагов) — это хаос
+        z = comp.get(c)
+        if rec['kind'] == 'ordered' and z and min(z[0], z[1]) >= 20 and z[2] >= 0.4:
+            rec['kind'] = 'chaotic'
+        # исходы, которых onsetr не видит (двойное шоссе, челнок, клин): kinds_manual.csv
+        if c in manual:
+            rec['kind'] = manual[c]['kind']; rec['onset'] = manual[c]['onset']
         cat.append(rec)
     return cat
 
