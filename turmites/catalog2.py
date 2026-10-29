@@ -20,7 +20,7 @@ def rows(pattern):
 def deep_rows():
     """out/v2/deep28.txt: секции «поле 8192» и «поле 4096» (строки onset)."""
     o8, o4, cur = {}, {}, None
-    for l in open('out/v2/deep28.txt').readlines() + open('out/v3/deep30.txt').readlines():
+    for l in open('out/v2/deep28.txt').readlines() + open('out/v3/deep30.txt').readlines() + open('out/v4/deep32.txt').readlines():
         if l.startswith('#'):
             cur = (o4 if ('4096' in l or 'проверочное' in l) else
                    o8 if ('8192' in l or 'основное' in l) else cur)
