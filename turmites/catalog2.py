@@ -1,6 +1,7 @@
 """Каталог v2: строка на класс хода (canon3), только чистые данные.
 - out/v2/onset8k_*.txt — onset (с MINW) до 2^24 на поле 8192 для всех представителей canon3;
 - out/v2/onset4k_*.txt — тот же onset на поле 4096 для шоссе с началом > 10^6 (проверка края);
+- out/v2/deep28.txt — догонка нерешённых до 2^28 (onsetr на двух полях);
 - growth.csv, out/growth[A-Z]*.txt — показатели роста (их ошибка с периодом не касалась).
 Виды: highway, loop, counter, slow, chaotic, ordered (растёт упорядоченно / упёрся в край без шоссе), unknown.
 Пишет catalog2.csv, печатает сводку. Нужные прогоны — см. NOTES.md."""
@@ -15,6 +16,17 @@ def rows(pattern):
             p = l.split()
             if len(p) == 7: out[int(p[0])] = list(map(int, p))
     return out
+
+def deep_rows():
+    """out/v2/deep28.txt: секции «поле 8192» и «поле 4096» (строки onset)."""
+    o8, o4, cur = {}, {}, None
+    for l in open('out/v2/deep28.txt'):
+        if l.startswith('#'):
+            cur = o4 if '4096' in l else o8 if '8192' in l else cur
+            continue
+        p = l.split()
+        if len(p) == 7 and cur is not None: cur[int(p[0])] = list(map(int, p))
+    return o8, o4
 
 def growth_rows():
     g = {}
@@ -38,6 +50,8 @@ def kind_by_growth(a):
 
 def build():
     o8, o4, gro = rows('out/v2/onset8k_*.txt'), rows('out/v2/onset4k_*.txt'), growth_rows()
+    d8, d4 = deep_rows()
+    o8.update(d8); o4.update(d4)   # догонка до 2^28 важнее прогона до 2^24
     members = collections.defaultdict(list)
     for r in range(65536): members[CANON3[CANON2[r]]].append(r)
     cat = []
@@ -66,7 +80,8 @@ def build():
         elif p and not (dx or dy) and not esc:
             rec.update(kind='loop', onset=on, period=p)
         elif esc:
-            rec['kind'] = 'ordered'
+            # вышел без шоссе: упорядоченная фигура — или хаотическое пятно, которому мало поля
+            rec['kind'] = 'chaotic' if g and g[1] < 0.45 else 'ordered'
         else:
             rec['kind'] = kind_by_growth(g[1]) if g else 'unknown'
         cat.append(rec)
