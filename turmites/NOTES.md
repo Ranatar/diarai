@@ -98,6 +98,7 @@
 - `cmp/compress.py STEPS < rules` — бит на клетку после lzma; хаос ≥ 0,4, порядок < 0,05. Поправка в `catalog2.py`: «ordered» с ≥ 0,4 → «chaotic» (`cmp/ordered_compress.txt`).
 - `kinds_manual.csv` — ручные исходы (double, wedge, unary) с источником; `catalog2.py` их применяет последними. Догонка за 2^28 — `out/v3/deep30.txt` (секции «основное поле» / «проверочное поле»).
 - `render RULE STEPS out.pgm`, `sheet.py out.png STEPS rules...`, `zoo.py` (→ `ZOO.md`, `img/zoo/`).
+- `flight/fastfly2` (GEN=1) — то же + обобщённые полёты (циклы периода p со сносом по оси, сохраняющие цвет); сверен с fastfly. `flight/escapes.py DIR` — разбор выводов: «ПОДОЗР» = вышел за край при рамке < 0,7 поля (кандидат в шоссе → 32768 + onsetr). `TSTOP=t` — стоп с миниатюрой.
 - `flight/fastfly RULE MAXLOG [thumbdir]` — точный счёт с проскоком полётов по битовым строкам (поле 16384); для летунов в десятки–тысячи раз быстрее. `flight/flightscan3 MAXLOG < rules` — доля полёта, полётов на клетку, средний полёт.
 
 ## Уроки
