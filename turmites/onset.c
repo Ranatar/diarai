@@ -7,7 +7,9 @@
 #include <string.h>
 #include <stdint.h>
 
+#ifndef N
 #define N 8192
+#endif
 #define PMAX 200000
 static uint8_t grid[(long)N * N];
 static const int DX[4] = {0, 1, 0, -1};

@@ -16,10 +16,14 @@ def onset_rows():
             if per and (dx or dy):
                 if esc and (t - on) / per * max(abs(dx), abs(dy)) >= 2000:
                     kind = 'highway'
+                elif esc:
+                    kind = 'edge'   # упёрся в край без настоящего шоссе
                 else:
-                    continue  # край поля или незавершённое — не считаем
+                    continue  # мгновенная периодичность внутри хаоса — шум
             elif per:
                 kind = 'loop'
+            elif esc:
+                kind = 'edge'
             else:
                 continue
             prev = out.get(rule)
@@ -32,17 +36,19 @@ def growth_rows():
     for r in csv.DictReader(open('growth.csv')):
         if r['status'] == 'ok':
             g[int(r['rule'])] = (24, float(r['a_size']), float(r['b_ones']))
-    for f in glob.glob('out/growthC*.txt'):
+    import math
+    for f in sorted(glob.glob('out/growth[A-Z]*.txt')):
         for l in open(f):
             p = l.split()
-            if len(p) != 20: continue
             v = [tuple(map(int, q.split(':'))) for q in p[1:]]
             s = {k + 8: v[k] for k in range(len(v))}
-            if s[26][0] > 0:
-                import math
-                a = math.log2(s[26][0] / s[18][0]) / 8
-                b = math.log2(max(s[26][1], 1) / max(s[18][1], 1)) / 8
-                g[int(p[0])] = (26, a, b)
+            K = max(s)
+            if len(v) < 12 or s[K][0] <= 0: continue
+            a = math.log2(s[K][0] / s[K - 8][0]) / 8
+            b = math.log2(max(s[K][1], 1) / max(s[K - 8][1], 1)) / 8
+            r = int(p[0])
+            if r not in g or g[r][0] < K:
+                g[r] = (K, a, b)
     return g
 
 def build():
@@ -58,7 +64,7 @@ def build():
             next((ons[r] for r in rs if r in ons), None)
         g = next((gro[r] for r in rs if r in gro), None)
         kind = labs.most_common(1)[0][0]
-        if o:
+        if o and o[0] != 'edge':
             kind = o[0]
         elif g:
             a = g[1]
@@ -67,8 +73,10 @@ def build():
             kind = 'cycle'
         elif kind == 'growing':
             kind = 'growing?'
+        if o and o[0] == 'edge' and kind in ('highway', 'growing?', 'escaped-aperiodic'):
+            kind = 'ordered'
         cat.append(dict(rep=c, raw=len(rs), kind=kind, census=labs.most_common(1)[0][0],
-                        onset=o[5] if o else '', period=o[2] if o else '', dx=o[3] if o else '', dy=o[4] if o else '',
+                        onset=o[5] if o and o[0] != 'edge' else '', period=o[2] if o else '', dx=o[3] if o else '', dy=o[4] if o else '',
                         a=f'{g[1]:.3f}' if g else '', b=f'{g[2]:.3f}' if g else '', growth_to=g[0] if g else ''))
     return cat
 

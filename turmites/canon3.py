@@ -1,5 +1,5 @@
 """Эквивалентность по ходу: два класса canon2 склеиваются, если их строки хода (traj 8 4008)
-совпадают на окне длины 4000 при сдвигах 0..8. Это «одинаковый ход муравья», начиная с первых шагов."""
+совпадают на окне длины 4000 при сдвигах 0..8 (с точностью до зеркала L<->R). Это «одинаковый ход муравья», начиная с первых шагов."""
 import collections
 W = 4000
 par = {}
@@ -11,9 +11,12 @@ seqs = {}
 for l in open('out/traj.txt'):
     r, s = l.split(); seqs[int(r)] = s
 by = collections.defaultdict(list)
+MIR = str.maketrans('bdfh', 'dbhf')   # поворот 1 (R) <-> 3 (L) при цвете 0 и 1
 for r, s in seqs.items():
+    m = s.translate(MIR)
     for o in range(9):
         by[s[o:o + W]].append(r)
+        by[m[o:o + W]].append(r)
 for k, rs in by.items():
     for r in rs[1:]:
         a, b = find(rs[0]), find(r)
