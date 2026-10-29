@@ -13,7 +13,9 @@
 #endif
 #define R (1L << 23)        // длина буфера (степень двойки), 8M шагов
 #define PMAX 200000
+#ifndef MINW
 #define MINW 20000
+#endif
 static uint8_t grid[(long)N * N];
 static uint8_t sym[R];
 static int16_t hx[R], hy[R];

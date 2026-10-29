@@ -4,7 +4,9 @@
 #include <stdlib.h>
 #include <stdint.h>
 
+#ifndef N
 #define N 4096
+#endif
 static uint8_t grid[N * N];
 static const int DX[4] = {0, 1, 0, -1};
 static const int DY[4] = {-1, 0, 1, 0};
