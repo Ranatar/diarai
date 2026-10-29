@@ -23,7 +23,7 @@ for i, k in enumerate(ks):
         o.append(f'<rect x="{x}" y="{y(val)}" width="{bw}" height="{y(0)-y(val)}" rx="3" fill="{col}"><title>10^{k}: {val}</title></rect>')
         if val: o.append(f'<text x="{x+bw/2}" y="{y(val)-4}" text-anchor="middle" font-size="10" fill="#5f5e5a">{val}</text>')
     o.append(f'<text x="{x0}" y="{H-B+18}" text-anchor="middle" fill="#1d1d1b">10<tspan dy="-5" font-size="9">{k}</tspan></text>')
-o.append(f'<text x="{x0+8 - step*1.5}" y="{H-12}" text-anchor="middle" fill="#5f5e5a">мой прогон пока до 2^30 ≈ 1,07·10^9</text>')
+o.append(f'<text x="{x0+8 - step*1.5}" y="{H-12}" text-anchor="middle" fill="#5f5e5a">мой прогон: до 2^32 ≈ 4,3·10^9, идёт</text>')
 lx = W - 300
 o.append(f'<rect x="{lx}" y="58" width="12" height="12" rx="2" fill="#2a78d6"/><text x="{lx+18}" y="69" fill="#1d1d1b">моя перепись (2825 классов хода)</text>')
 o.append(f'<rect x="{lx}" y="78" width="12" height="12" rx="2" fill="#eb6834"/><text x="{lx+18}" y="89" fill="#1d1d1b">Еронимус, «уникальные» (вики Golly)</text>')
