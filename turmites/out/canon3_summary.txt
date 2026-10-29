@@ -1,0 +1,1 @@
+Counter({'highway': 1185, 'cycle': 1062, 'growing': 710, 'tiny': 125, 'escaped-aperiodic': 4})

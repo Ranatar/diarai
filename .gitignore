@@ -8,3 +8,5 @@ turmites/census
 turmites/render
 turmites/growth
 turmites/onset
+turmites/traj
+turmites/out/traj.txt
