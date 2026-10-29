@@ -46,7 +46,8 @@ int main(int argc, char **argv) {
         long lim = t / 3; if (lim > PMAX) lim = PMAX;
         for (int q = 1; q <= lim && !p; q++) {
             int ok = 1;
-            long win = 2L * q > MINW ? 2L * q : MINW;
+            long mw = MINW < t / 3 ? MINW : t / 3;
+            long win = 2L * q > mw ? 2L * q : mw;
             if (t - 1 - win - q < 0) break;
             for (long k = 0; k < win; k++)
                 if (sym[t - 1 - k] != sym[t - 1 - k - q]) { ok = 0; break; }

@@ -1,7 +1,7 @@
-"""Сводка и рекорды по catalog.csv -> печать (для NOTES.md)."""
+"""Сводка и рекорды по catalog2.csv -> печать (для NOTES.md)."""
 import csv, collections
 from pegg import to_pegg
-cat = list(csv.DictReader(open('catalog.csv')))
+cat = list(csv.DictReader(open('catalog2.csv')))
 P = lambda c: f"{c['rep']} ({to_pegg(int(c['rep']))}, правил: {c['raw']})"
 h = [c for c in cat if c['kind'] == 'highway']
 l = [c for c in cat if c['kind'] == 'loop']
