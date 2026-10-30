@@ -8,7 +8,7 @@
 #define N 16384
 #endif
 #define W (N/64)
-static uint64_t *R,*C; // R[y*W + x/64] бит x%64; C[x*W + y/64]
+static uint64_t *R,*C; static long hcnt[N], vcnt[N]; // R[y*W + x/64] бит x%64; C[x*W + y/64]
 static inline int get(int x,int y){return (R[(long)y*W+(x>>6)]>>(x&63))&1;}
 static inline void set(int x,int y,int v){
   uint64_t m=1ULL<<(x&63), m2=1ULL<<(y&63);
@@ -51,16 +51,19 @@ int main(int argc,char**argv){
           fputc(255-255*cnt/tot,f);} fclose(f);}
       k++;
     }
-    if(k>maxlog) break;
+    if(k>maxlog){ if(getenv("HIST")){ FILE*f=fopen(getenv("HOUT"),"w"); for(int yy=miny;yy<=maxy;yy++){ long pc=0; for(int w=0;w<W;w++) pc+=__builtin_popcountll(R[(long)yy*W+w]);
+        long pcx=0; int xx=yy-miny+minx; if(xx<=maxx) for(int w=0;w<W;w++) pcx+=__builtin_popcountll(C[(long)xx*W+w]);
+        fprintf(f,"%d %ld %ld %d %ld %ld\n",yy-N/2,hcnt[yy],pc,xx-N/2,vcnt[xx],pcx);} fclose(f);} break; }
     set(x,y,1); ones++; d=(d+1)&3;
     int qx=x+DX[d], qy=y+DY[d];
     if(!get(qx,qy)){ x=qx;y=qy;t+=1; continue; }
     long n; int ex,ey;
     if(DY[d]==0){ long e2=firstzero(R+(long)qy*W,qx,DX[d]); ex=e2; ey=qy; n=(e2-qx)*DX[d]; }
     else { long e2=firstzero(C+(long)qx*W,qy,DY[d]); ex=qx; ey=e2; n=(e2-qy)*DY[d]; }
-    set(ex,ey,1);
+    set(ex,ey,1); if(getenv("HIST") && t>=atol(getenv("HIST"))){ if(DY[d]==0) hcnt[ey]++; else vcnt[ex]++; }
     if(ex<minx)minx=ex;if(ex>maxx)maxx=ex;if(ey<miny)miny=ey;if(ey>maxy)maxy=ey;
     if(ex<=64||ex>=N-65||ey<=64||ey>=N-65){printf("edge at t=%ld\n",t);break;}
+    if(getenv("LOGCH") && t>=(1L<<atoi(getenv("LOGCH"))) ){ static long lc=0; if(lc++<200000){ long ob; if(DY[d]==0){ long e3=firstzero(R+(long)qy*W,x,-DX[d]); ob=(x-e3)*DX[d]; } else { long e3=firstzero(C+(long)qx*W,y,-DY[d]); ob=(y-e3)*DY[d]; } printf("C %d %ld %d %d %ld\n",d,n,ex-N/2,ey-N/2,ob); } }
     long kk=n/2; x=qx+kk*DX[d]; y=qy+kk*DY[d]; set(x,y,0);
     if(n&1) d=(d+2)&3;
     t+=(n+1)*(n+2)/2; chords++;
