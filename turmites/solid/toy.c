@@ -9,12 +9,13 @@ static uint8_t g[N*N];
 static uint64_t rs=88172645463325252ULL; static inline uint64_t rng(){rs^=rs<<13;rs^=rs>>7;rs^=rs<<17;return rs;}
 int main(int argc,char**argv){ double al=atof(argv[1]); long AR=atol(argv[2]); rs+=atol(argv[3])*2654435761ULL;
   int c=N/2; for(int y=c-2;y<=c+2;y++)for(int x=c-2;x<=c+2;x++) g[(long)y*N+x]=1;
-  long A=25; int x=c,y=c,o=0,minx=c-2,maxx=c+2,miny=c-2,maxy=c+2;
+  double Q=getenv("Q")?atof(getenv("Q")):0; long A=25; int x=c,y=c,o=0,minx=c-2,maxx=c+2,miny=c-2,maxy=c+2;
   while(A<AR){ int sg=(rng()>>20)&1?1:-1; int dx=o?0:sg, dy=o?sg:0; o^=1;
     int ex=x,ey=y,n=0; while(g[(long)ey*N+ex]){ex+=dx;ey+=dy;n++;}
     g[(long)ey*N+ex]=1; A++;
     if(ex<minx)minx=ex;if(ex>maxx)maxx=ex;if(ey<miny)miny=ey;if(ey>maxy)maxy=ey;
     if(minx<10||miny<10||maxx>N-10||maxy>N-10) break;
+    if(Q>0 && ((rng()>>11)%1000000)/1e6<Q){ do{ x=minx+(int)((rng()>>11)%(maxx-minx+1)); y=miny+(int)((rng()>>11)%(maxy-miny+1)); }while(!g[(long)y*N+x]); continue; }
     if(getenv("BETA")){ double b=atof(getenv("BETA")), J=getenv("J")?atof(getenv("J")):0; double u=((rng()>>11)%1000001)/1e6*2-1;
       long k=(long)((b+J*u)*n+0.5); if(k<1)k=1; if(k>n)k=n; x=ex-dx*k; y=ey-dy*k; continue; }
     if(al<0){ long k=n/2; if(k<1)k=1; x=ex-dx*k; y=ey-dy*k; continue; }
