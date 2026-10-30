@@ -98,6 +98,15 @@ def build():
         if c in manual:
             rec['kind'] = manual[c]['kind']; rec['onset'] = manual[c]['onset']
         cat.append(rec)
+    # двойники (6-е): классы с одинаковой последовательностью входов — solid/twins.txt; twin = наименьший класс группы
+    tw = {}
+    if os.path.exists('solid/twins.txt'):
+        for l in open('solid/twins.txt'):
+            if l.startswith('#') or ':' not in l: continue
+            g = [int(x) for x in l.split(':', 1)[1].split()]
+            for x in g: tw[x] = min(g)
+    for rec in cat:
+        r = int(rec['rep']); rec['twin'] = tw[r] if r in tw and tw[r] != r else ''
     return cat
 
 if __name__ == '__main__':
