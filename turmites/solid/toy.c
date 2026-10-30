@@ -12,14 +12,16 @@ int main(int argc,char**argv){ double al=atof(argv[1]); long AR=atol(argv[2]); r
   long A0=25; int S0=getenv("INIT")?atoi(getenv("INIT")+1):0; char IT=getenv("INIT")?getenv("INIT")[0]:0; // INIT=sR квадрат |x|,|y|<=R; dR круг; rR ромб |x|+|y|<=R
   if(IT){ A0=0; for(int y=c-S0;y<=c+S0;y++)for(int x=c-S0;x<=c+S0;x++){ int dx=x-c,dy=y-c; int in= IT=='s' || (IT=='d'&&dx*dx+dy*dy<=S0*S0) || (IT=='r'&&abs(dx)+abs(dy)<=S0); if(in){g[(long)y*N+x]=1;A0++;} } }
   double Q=getenv("Q")?atof(getenv("Q")):0; long A=A0; int x=c,y=c,o=0,minx=c-(IT?S0:2),maxx=c+(IT?S0:2),miny=c-(IT?S0:2),maxy=c+(IT?S0:2);
+  int PAR=getenv("PAR")?atoi(getenv("PAR")):0, pdx=1,pdy=0; long lastn=0;
   while(A<AR){ int sg=(rng()>>20)&1?1:-1; int dx=o?0:sg, dy=o?sg:0; o^=1;
+    if(PAR){ int r=(lastn&1)^(PAR==2); if(r){dx=-pdy;dy=pdx;}else{dx=pdy;dy=-pdx;} pdx=dx;pdy=dy; }
     int ex=x,ey=y,n=0; while(g[(long)ey*N+ex]){ex+=dx;ey+=dy;n++;}
-    g[(long)ey*N+ex]=1; A++;
+    g[(long)ey*N+ex]=1; A++; lastn=n;
     if(ex<minx)minx=ex;if(ex>maxx)maxx=ex;if(ey<miny)miny=ey;if(ey>maxy)maxy=ey;
     if(minx<10||miny<10||maxx>N-10||maxy>N-10) break;
     if(Q>0 && ((rng()>>11)%1000000)/1e6<Q){ do{ x=minx+(int)((rng()>>11)%(maxx-minx+1)); y=miny+(int)((rng()>>11)%(maxy-miny+1)); }while(!g[(long)y*N+x]); continue; }
     if(getenv("BETA")){ double b=atof(getenv("BETA")), J=getenv("J")?atof(getenv("J")):0; double u=((rng()>>11)%1000001)/1e6*2-1;
-      long k=(long)((b+J*u)*n+0.5); if(getenv("RR")) k=(long)((b+J*u)*n+((rng()>>11)%1000000)/1e6); if(k<1)k=1; if(k>n)k=n; x=ex-dx*k; y=ey-dy*k; continue; }
+      long k=(long)((b+J*u)*n+0.5); if(getenv("FLOOR")) k=(long)(b*n); if(getenv("CEIL")) k=n-(long)(b*n); if(getenv("RR")) k=(long)((b+J*u)*n+((rng()>>11)%1000000)/1e6); if(k<1)k=1; if(k>n)k=n; x=ex-dx*k; y=ey-dy*k; continue; }
     if(al<0){ long k=n/2; if(k<1)k=1; x=ex-dx*k; y=ey-dy*k; continue; }
     long km=(long)(al*n); if(km<1)km=1; long k=1+(long)((rng()>>11)%km); if(k>n)k=n;
     x=ex-dx*k; y=ey-dy*k; }
