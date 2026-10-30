@@ -19,7 +19,7 @@ int main(int argc,char**argv){ double al=atof(argv[1]); long AR=atol(argv[2]); r
     if(minx<10||miny<10||maxx>N-10||maxy>N-10) break;
     if(Q>0 && ((rng()>>11)%1000000)/1e6<Q){ do{ x=minx+(int)((rng()>>11)%(maxx-minx+1)); y=miny+(int)((rng()>>11)%(maxy-miny+1)); }while(!g[(long)y*N+x]); continue; }
     if(getenv("BETA")){ double b=atof(getenv("BETA")), J=getenv("J")?atof(getenv("J")):0; double u=((rng()>>11)%1000001)/1e6*2-1;
-      long k=(long)((b+J*u)*n+0.5); if(k<1)k=1; if(k>n)k=n; x=ex-dx*k; y=ey-dy*k; continue; }
+      long k=(long)((b+J*u)*n+0.5); if(getenv("RR")) k=(long)((b+J*u)*n+((rng()>>11)%1000000)/1e6); if(k<1)k=1; if(k>n)k=n; x=ex-dx*k; y=ey-dy*k; continue; }
     if(al<0){ long k=n/2; if(k<1)k=1; x=ex-dx*k; y=ey-dy*k; continue; }
     long km=(long)(al*n); if(km<1)km=1; long k=1+(long)((rng()>>11)%km); if(k>n)k=n;
     x=ex-dx*k; y=ey-dy*k; }
