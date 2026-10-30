@@ -1,0 +1,17 @@
+2^10 t=1024 ones=4 w=1 h=10 gl=0.0557 jumps=31
+2^11 t=2048 ones=4 w=1 h=11 gl=0.0615 jumps=63
+2^12 t=4096 ones=4 w=1 h=12 gl=0.0620 jumps=127
+2^13 t=8192 ones=4 w=1 h=13 gl=0.0623 jumps=255
+2^14 t=16384 ones=5 w=1 h=14 gl=0.0624 jumps=511
+2^15 t=32768 ones=4 w=1 h=15 gl=0.0624 jumps=1023
+2^16 t=65536 ones=3 w=1 h=16 gl=0.0625 jumps=2047
+2^17 t=131072 ones=3 w=1 h=17 gl=0.0625 jumps=4095
+2^18 t=262144 ones=3 w=1 h=18 gl=0.0625 jumps=8191
+2^19 t=524288 ones=4 w=1 h=19 gl=0.0625 jumps=16383
+2^20 t=1048576 ones=3 w=1 h=20 gl=0.0625 jumps=32767
+2^21 t=2097152 ones=2 w=1 h=21 gl=0.0625 jumps=65535
+2^22 t=4194304 ones=2 w=1 h=22 gl=0.0625 jumps=131071
+2^23 t=8388608 ones=3 w=1 h=23 gl=0.0625 jumps=262143
+2^24 t=16777216 ones=3 w=1 h=24 gl=0.0625 jumps=524287
+2^25 t=33554432 ones=4 w=1 h=25 gl=0.0625 jumps=1048575
+2^26 t=67108864 ones=4 w=1 h=26 gl=0.0625 jumps=2097151

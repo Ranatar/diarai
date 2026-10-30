@@ -48,7 +48,7 @@ int main(int argc,char**argv){
   for(int e=0;e<4;e++){int b=(rule>>(4*e))&15;wc[e]=b&1;tn[e]=(b>>1)&3;ns[e]=(b>>3)&1;}
   int x=N/2,y=N/2,d=0,s=0,minx=x,maxx=x,miny=y,maxy=y; long t=0,ones=0,gl=0,gl0=0,t0=0,jumps=0; int k=10;
   long tstop=getenv("TSTOP")?atol(getenv("TSTOP")):-1;
-  const int M=40;
+  const int M=40; long logt=getenv("LOG")?atol(getenv("LOG")):-1, logn=getenv("LOGN")?atol(getenv("LOGN")):200, lastt=0;
   for(;;){
     if(tstop>0 && t>=tstop){ printf("stop t=%ld ones=%ld w=%d h=%d\n",t,ones,maxx-minx+1,maxy-miny+1);
       if(td){ char fn[256]; sprintf(fn,"%s/%d-t%ld.pgm",td,rule,tstop); thumb(fn,minx,maxx,miny,maxy);} break; }
@@ -79,7 +79,9 @@ int main(int argc,char**argv){
       if(m<1){ for(int i=0;i<g->nh;i++) set(x+g->hx[i],y+g->hy[i],1-c); continue; }
       long mx=m*g->vx, my=m*g->vy;
       for(int i=0;i<g->nh;i++) set(x+mx+g->hx[i],y+my+g->hy[i],1-c);
-      x+=mx; y+=my; t+=m*g->p; gl+=m*g->p; jumps++;
+      if(logt>=0 && t>=logt && logn>0){ printf("J t=%ld dt=%ld x=%d y=%d v=%d,%d m=%ld s=%d d=%d nh=%d ones=%ld\n",t,t-lastt,x-N/2,y-N/2,g->vx,g->vy,m,s,d,g->nh,ones); logn--; }
+      x+=mx; y+=my; t+=m*g->p; gl+=m*g->p; jumps++; lastt=t;
+      if(logt>=0 && logn==0) return 0;
       if(x<minx)minx=x;if(x>maxx)maxx=x;if(y<miny)miny=y;if(y>maxy)maxy=y;
       goto next;
     }

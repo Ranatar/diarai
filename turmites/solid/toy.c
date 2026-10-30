@@ -1,0 +1,27 @@
+// Игрушка: тело растёт хордами. Точка p внутри; ориентация чередуется, знак случайный; от p до первой белой e,
+// e красим. Новая p = e - dir*k, k равномерно в [1, max(1, ALPHA*n)] (n — длина хорды). ALPHA=1 — точка где угодно на хорде,
+// малое ALPHA — поворот у самого края. ./toy ALPHA AREA SEED out.pgm
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+#define N 8192
+static uint8_t g[N*N];
+static uint64_t rs=88172645463325252ULL; static inline uint64_t rng(){rs^=rs<<13;rs^=rs>>7;rs^=rs<<17;return rs;}
+int main(int argc,char**argv){ double al=atof(argv[1]); long AR=atol(argv[2]); rs+=atol(argv[3])*2654435761ULL;
+  int c=N/2; for(int y=c-2;y<=c+2;y++)for(int x=c-2;x<=c+2;x++) g[(long)y*N+x]=1;
+  long A=25; int x=c,y=c,o=0,minx=c-2,maxx=c+2,miny=c-2,maxy=c+2;
+  while(A<AR){ int sg=(rng()>>20)&1?1:-1; int dx=o?0:sg, dy=o?sg:0; o^=1;
+    int ex=x,ey=y,n=0; while(g[(long)ey*N+ex]){ex+=dx;ey+=dy;n++;}
+    g[(long)ey*N+ex]=1; A++;
+    if(ex<minx)minx=ex;if(ex>maxx)maxx=ex;if(ey<miny)miny=ey;if(ey>maxy)maxy=ey;
+    if(minx<10||miny<10||maxx>N-10||maxy>N-10) break;
+    if(getenv("BETA")){ double b=atof(getenv("BETA")), J=getenv("J")?atof(getenv("J")):0; double u=((rng()>>11)%1000001)/1e6*2-1;
+      long k=(long)((b+J*u)*n+0.5); if(k<1)k=1; if(k>n)k=n; x=ex-dx*k; y=ey-dy*k; continue; }
+    if(al<0){ long k=n/2; if(k<1)k=1; x=ex-dx*k; y=ey-dy*k; continue; }
+    long km=(long)(al*n); if(km<1)km=1; long k=1+(long)((rng()>>11)%km); if(k>n)k=n;
+    x=ex-dx*k; y=ey-dy*k; }
+  FILE*f=fopen(argv[4],"wb"); int S=(maxx-minx>maxy-miny?maxx-minx:maxy-miny)+1, P=400;
+  fprintf(f,"P5\n%d %d\n255\n",P,P);
+  for(int i=0;i<P;i++)for(int j=0;j<P;j++){int cnt=0,tot=0;int x0=minx+(long)j*S/P,x1=minx+(long)(j+1)*S/P,y0=miny+(long)i*S/P,y1=miny+(long)(i+1)*S/P;
+    if(x1==x0)x1++; if(y1==y0)y1++; for(int yy=y0;yy<y1;yy++)for(int xx=x0;xx<x1;xx++){tot++;cnt+=g[(long)yy*N+xx];} fputc(255-255*cnt/tot,f);}
+  fclose(f); printf("alpha=%g A=%ld w=%d h=%d\n",al,A,maxx-minx+1,maxy-miny+1); return 0; }
