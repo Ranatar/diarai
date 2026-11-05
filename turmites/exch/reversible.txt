@@ -1,0 +1,587 @@
+395 counter 
+397 highway 4
+427 loop 0
+429 loop 0
+431 highway 20152
+459 loop 0
+461 loop 0
+905 counter 
+909 highway 3479363266
+937 highway 864930
+939 loop 0
+941 chaotic 
+969 highway 11257
+971 highway 0
+973 loop 0
+1001 chaotic 
+1003 chaotic 
+1005 highway 0
+1419 highway 2688241398
+1451 highway 20157
+1453 loop 0
+1455 highway 42433
+2261 counter 
+2707 chaotic 
+2709 loop 0
+2711 loop 0
+2741 chaotic 
+2743 highway 10913
+2771 ordered 
+2773 highway 2015870
+2775 chaotic 
+2803 chaotic 
+2805 loop 0
+2807 highway 38
+2842 highway 0
+2844 chaotic 
+2846 highway 23
+2874 chaotic 
+2876 loop 0
+2878 chaotic 
+2906 highway 1274
+2908 chaotic 
+2938 chaotic 
+2940 chaotic 
+2942 highway 3135020
+2949 highway 0
+2951 highway 0
+2981 chaotic 
+3011 chaotic 
+3015 highway 20
+3043 highway 1968996456
+3045 chaotic 
+3047 chaotic 
+3219 loop 0
+3221 loop 0
+3251 highway 20
+3253 loop 0
+3255 loop 0
+3283 chaotic 
+3285 highway 0
+3354 highway 15
+3356 counter 
+3386 chaotic 
+3388 chaotic 
+3390 ordered 
+3418 slow 
+3420 highway 0
+3491 highway 606
+3495 chaotic 
+3523 highway 0
+6665 chaotic 
+6667 highway 3523
+6669 highway 153836144
+6671 chaotic 
+6697 chaotic 
+6699 chaotic 
+6701 chaotic 
+6703 highway 207993
+6729 loop 0
+6731 chaotic 
+6733 highway 1996987
+6735 loop 0
+6761 loop 0
+6763 highway 32
+6765 loop 0
+6767 chaotic 
+6922 chaotic 
+6924 chaotic 
+6926 highway 23657008
+6954 loop 0
+6956 highway 21
+6958 ordered 
+6986 chaotic 
+6988 loop 0
+6990 chaotic 
+7018 chaotic 
+7020 loop 0
+7022 highway 979
+7177 highway 0
+7179 chaotic 
+7181 highway 0
+7209 loop 0
+7211 highway 354
+7213 highway 527855
+7215 loop 0
+7241 loop 0
+7243 loop 0
+7245 highway 0
+7434 chaotic 
+7436 highway 0
+7466 highway 12
+7468 loop 0
+7470 chaotic 
+7498 loop 0
+7500 loop 0
+8587 highway 217313
+8591 chaotic 
+8619 loop 0
+8621 highway 1
+8623 chaotic 
+8651 chaotic 
+8653 loop 0
+8655 highway 4180
+8683 highway 481
+8685 highway 1
+8687 counter 
+9097 loop 0
+9099 loop 0
+9101 highway 20156
+9129 loop 0
+9133 loop 0
+9161 highway 20154
+9163 loop 0
+9165 loop 0
+9193 counter 
+9197 counter 
+9609 loop 0
+9611 chaotic 
+9613 loop 0
+9643 loop 0
+9647 highway 0
+9707 highway 0
+9709 highway 0
+9711 counter 
+10121 highway 20153
+10125 highway 42434
+10127 chaotic 
+10153 chaotic 
+10185 highway 37382
+10189 loop 0
+10217 highway 1043
+10451 ordered 
+10453 highway 50
+10691 highway 240
+10899 highway 15602
+10901 highway 0
+10903 chaotic 
+10931 loop 0
+10933 loop 0
+10935 chaotic 
+10963 highway 86141256
+10965 highway 0
+10967 highway 273671
+10995 chaotic 
+10997 chaotic 
+11032 chaotic 
+11034 chaotic 
+11036 counter 
+11064 highway 17
+11066 loop 0
+11068 chaotic 
+11070 chaotic 
+11096 chaotic 
+11098 highway 5
+11100 loop 0
+11102 highway 0
+11130 chaotic 
+11132 highway 0
+11134 ordered 
+11141 highway 83
+11143 chaotic 
+11173 loop 0
+11175 loop 0
+11203 highway 20
+11207 highway 32
+11411 chaotic 
+11413 loop 0
+11415 loop 0
+11443 highway 0
+11447 counter 
+11475 chaotic 
+11477 highway 143
+11479 loop 0
+11509 loop 0
+11544 highway 110
+11546 highway 7
+11548 chaotic 
+11576 highway 236
+11578 loop 0
+11580 highway 0
+11608 slow 
+11610 loop 0
+11612 highway 143
+11640 ordered 
+11642 loop 0
+11644 loop 0
+11651 chaotic 
+11655 chaotic 
+11687 highway 848
+11715 chaotic 
+11719 highway 141
+11747 counter 
+11923 highway 73540104
+11925 loop 0
+11927 highway 629899
+11955 chaotic 
+11957 loop 0
+11959 loop 0
+11987 highway 3212815
+11989 ordered 
+11991 highway 0
+12019 chaotic 
+12021 chaotic 
+12056 highway 891098
+12058 highway 12
+12060 highway 0
+12090 chaotic 
+12092 chaotic 
+12124 loop 0
+12152 highway 54987
+12154 ordered 
+12156 highway 430502
+12163 highway 381
+12165 chaotic 
+12167 chaotic 
+12197 highway 2050
+12227 highway 0
+12261 counter 
+14859 chaotic 
+14861 chaotic 
+14863 chaotic 
+14891 loop 0
+14893 highway 0
+14895 chaotic 
+14923 loop 0
+14925 highway 3
+14927 chaotic 
+14955 highway 0
+14957 highway 2348665
+14959 chaotic 
+15112 chaotic 
+15114 counter 
+15116 chaotic 
+15144 loop 0
+15146 loop 0
+15148 loop 0
+15176 highway 559
+15178 loop 0
+15180 chaotic 
+15182 highway 0
+15210 highway 1088
+15212 loop 0
+15214 chaotic 
+15369 chaotic 
+15373 chaotic 
+15401 chaotic 
+15405 highway 0
+15407 highway 10
+15433 loop 0
+15437 highway 130
+15439 loop 0
+15465 loop 0
+15469 highway 0
+15624 highway 588280166
+15626 counter 
+15628 highway 0
+15656 highway 0
+15658 loop 0
+15660 highway 112758
+15688 loop 0
+15690 loop 0
+15692 loop 0
+15720 chaotic 
+15722 highway 7
+15724 loop 0
+15881 chaotic 
+15883 chaotic 
+15885 highway 0
+15887 chaotic 
+15913 highway 2226462098
+15915 chaotic 
+15917 chaotic 
+15919 chaotic 
+15945 loop 0
+15947 loop 0
+15949 ordered 
+15951 chaotic 
+15977 chaotic 
+15979 loop 0
+15981 chaotic 
+15983 chaotic 
+16136 chaotic 
+16138 counter 
+16140 highway 292996
+16142 chaotic 
+16168 highway 53
+16170 highway 16
+16172 loop 0
+16174 highway 277321
+16200 chaotic 
+16202 highway 1005
+16204 loop 0
+16206 counter 
+16232 chaotic 
+16234 chaotic 
+16236 loop 0
+16238 highway 33
+16779 highway 361
+16811 highway 20155
+16813 loop 0
+16815 highway 37377
+16843 loop 0
+16845 loop 0
+17289 loop 0
+17291 highway 33
+17293 loop 0
+17321 chaotic 
+17323 loop 0
+17325 loop 0
+17353 loop 0
+17357 loop 0
+17385 highway 78522
+17801 loop 0
+17803 loop 0
+17805 loop 0
+17833 loop 0
+17835 loop 0
+17837 loop 0
+17839 loop 0
+19093 ordered 
+19095 loop 0
+19123 highway 590
+19125 chaotic 
+19127 highway 4556163
+19155 chaotic 
+19157 loop 0
+19159 loop 0
+19187 chaotic 
+19189 highway 0
+19191 highway 0
+19224 chaotic 
+19226 highway 286082661
+19228 highway 3911
+19230 chaotic 
+19256 chaotic 
+19258 chaotic 
+19260 chaotic 
+19262 highway 1147
+19288 chaotic 
+19292 highway 785
+19294 chaotic 
+19320 loop 0
+19322 highway 25020
+19324 loop 0
+19326 highway 3133856577
+19331 chaotic 
+19335 highway 43
+19363 highway 10
+19367 highway 55
+19429 highway 0
+19431 highway 19
+19603 chaotic 
+19605 highway 0
+19635 highway 0
+19637 highway 837
+19639 chaotic 
+19667 highway 784
+19669 loop 0
+19736 ordered 
+19738 ordered 
+19740 highway 0
+19768 ordered 
+19772 loop 0
+19774 loop 0
+19802 highway 840
+19804 loop 0
+19843 loop 0
+19875 chaotic 
+19879 loop 0
+23049 ordered 
+23051 ordered 
+23053 chaotic 
+23083 chaotic 
+23085 highway 0
+23113 ordered 
+23115 chaotic 
+23117 loop 0
+23145 chaotic 
+23147 chaotic 
+23149 loop 0
+23304 highway 1554865
+23306 chaotic 
+23308 highway 121389232
+23310 chaotic 
+23336 chaotic 
+23338 loop 0
+23340 highway 4
+23342 highway 7178
+23368 highway 0
+23370 chaotic 
+23372 loop 0
+23374 highway 162
+23400 loop 0
+23402 loop 0
+23404 loop 0
+23406 loop 0
+23563 chaotic 
+23565 highway 0
+23595 chaotic 
+23597 highway 159
+23599 loop 0
+23627 highway 812
+23629 loop 0
+23816 highway 0
+23818 chaotic 
+23848 highway 19
+23852 loop 0
+23854 highway 0
+23880 loop 0
+23882 loop 0
+23884 loop 0
+32795 chaotic 
+32797 counter 
+32827 highway 543
+32829 highway 55916
+32831 chaotic 
+32859 highway 539
+32861 highway 0
+33035 chaotic 
+33037 highway 0
+33067 highway 85
+33069 highway 15208
+33071 chaotic 
+33099 highway 205123717
+33101 highway 0
+33305 chaotic 
+33307 highway 12
+33309 counter 
+33339 chaotic 
+33341 chaotic 
+33369 highway 356
+33371 highway 15
+33373 chaotic 
+33401 chaotic 
+33403 chaotic 
+33405 chaotic 
+33545 chaotic 
+33549 highway 3328
+33577 chaotic 
+33581 chaotic 
+33609 chaotic 
+33611 counter 
+33613 chaotic 
+33641 chaotic 
+33643 counter 
+33645 highway 641
+33821 counter 
+33849 ordered 
+33853 chaotic 
+33855 highway 200630021
+33883 chaotic 
+33885 highway 0
+34059 highway 5
+34089 highway 0
+34095 highway 0
+37162 chaotic 
+37166 chaotic 
+37194 highway 79
+37672 chaotic 
+37674 chaotic 
+37704 highway 8
+37706 highway 4
+37736 highway 209753327
+37738 highway 1462
+38184 chaotic 
+38186 chaotic 
+38188 highway 55
+38190 chaotic 
+38216 counter 
+38218 chaotic 
+38220 highway 0
+41019 chaotic 
+41021 highway 0
+41023 ordered 
+41051 chaotic 
+41053 highway 527852
+41055 ordered 
+41083 chaotic 
+41085 loop 0
+41087 highway 58839
+41227 chaotic 
+41229 highway 0
+41231 chaotic 
+41261 chaotic 
+41263 chaotic 
+41291 highway 28
+41293 highway 0
+41295 chaotic 
+41323 chaotic 
+41325 highway 901909281
+41327 chaotic 
+41529 highway 2
+41531 loop 0
+41533 highway 5
+41565 highway 0
+41593 chaotic 
+41595 highway 1117
+41597 highway 20082
+41737 highway 73
+41801 highway 924
+41803 loop 0
+41833 chaotic 
+41835 loop 0
+42041 loop 0
+42045 highway 490
+42047 highway 4890
+42075 loop 0
+42077 highway 158
+42079 loop 0
+42105 chaotic 
+42107 chaotic 
+42109 loop 0
+42249 highway 5354
+42251 chaotic 
+42255 highway 366
+42281 chaotic 
+42287 highway 0
+42345 highway 386001
+42347 chaotic 
+42553 ordered 
+42557 chaotic 
+42559 chaotic 
+42585 ordered 
+42589 highway 0
+42591 chaotic 
+42617 highway 1788443612
+42621 chaotic 
+42623 chaotic 
+42761 chaotic 
+42793 chaotic 
+42825 chaotic 
+42829 highway 0
+42831 highway 3
+42857 chaotic 
+42861 chaotic 
+45386 highway 197
+45388 ordered 
+45390 ordered 
+45896 chaotic 
+45898 loop 0
+46408 chaotic 
+46410 highway 0
+46412 loop 0
+46414 loop 0
+46920 ordered 
+46924 loop 0
+46926 loop 0
+49243 slow 
+49245 highway 0
+49419 chaotic 
+49421 highway 0
+49451 highway 6
+49453 loop 0
+49455 chaotic 
+49753 slow 
+49755 loop 0
+49757 highway 127
+49929 highway 571047908
+49933 highway 0
+49961 highway 0
+49965 highway 109312
+50025 chaotic 
+50029 loop 0
+50267 highway 812
+50269 loop 0
+50443 chaotic 
+50473 highway 11
