@@ -69,6 +69,7 @@
 - 5-е: **глайдеры** (муравей + дырки, едут сквозь чёрное) — `turmites/solid/`; `fastglide` обобщает fastfly/fastfly2, брать его для тел. Игрушка хорд: 2845 — в критической точке β=1/2.
 - Картинки для себя — в `turmites/scratch/` (не в репозитории): Read не видит $TMPDIR.
 - Фоновые задачи без явного `timeout` убиваются через 10 мин — долгим ставить timeout (до 7200000).
+- Golly собран из исходников: `ext/golly/build/bgolly` (ext не в репозитории: пересобрать — `g++ -O3 -I…/gollybase …/gollybase/*.cpp …/cmdline/bgolly.cpp`, исходник 4.3 с sourceforge). Правило турмита — `python3 turmites/golly/mkrule.py RULE > turmites/golly/rules/T2_RULE.rule`, запуск `bgolly -a RuleLoader -s rules/ -m N -2 start.rle` (без `-a RuleLoader` берёт Life). На хаосе он медленнее моего счёта.
 - Python-окружение: `.venv/` (там pypdf, PIL; numpy — в системном python3). Чужое — в `ext/` (PDF обзора Тёрка 2025).
 
 **Начатое и задуманное** — см. раздел «Дальше» в `turmites/NOTES.md`.
