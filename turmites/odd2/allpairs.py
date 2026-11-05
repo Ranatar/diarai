@@ -8,8 +8,8 @@ def skel(r,N):
 def best(ra,rb):
     b=(0,)
     for k,f in enumerate(SYM):
-      for oa in range(4):
-        for ob in range(4):
+      for oa in range(10):
+        for ob in range(10):
           if (oa and ob) or oa>=len(ra) or ob>=len(rb): continue
           p0=f(*ra[oa]); q0=rb[ob]; sx,sy=q0[0]-p0[0],q0[1]-p0[1]; m=0
           for p,q in zip(ra[oa:],rb[ob:]):
