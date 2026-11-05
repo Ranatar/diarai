@@ -50,3 +50,7 @@ turmites/solid/samein
 turmites/exch/exgrow
 turmites/exch/exview
 turmites/giant/ck/
+turmites/giant/big
+turmites/giant/big_e
+turmites/giant/tmp_*
+turmites/giant/last_*
