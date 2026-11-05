@@ -105,6 +105,21 @@ def build():
             if l.startswith('#') or ':' not in l: continue
             g = [int(x) for x in l.split(':', 1)[1].split()]
             for x in g: tw[x] = min(g)
+    # 7-е: калибровка направления и одинаковый скелет — odd2/links.txt (пары); замыкание объединением
+    if os.path.exists('odd2/links.txt'):
+        par = {}
+        def fd(x):
+            while par.get(x, x) != x: x = par[x]
+            return x
+        for x, m in tw.items():
+            a, b = fd(x), fd(m)
+            if a != b: par[max(a, b)] = min(a, b)
+        for l in open('odd2/links.txt'):
+            if l.startswith('#'): continue
+            a, b = (fd(int(v)) for v in l.split()[:2])
+            if a != b: par[max(a, b)] = min(a, b)
+        allr = set(tw) | set(par) | set(par.values())
+        tw = {x: fd(x) for x in allr}
     for rec in cat:
         r = int(rec['rep']); rec['twin'] = tw[r] if r in tw and tw[r] != r else ''
     return cat
