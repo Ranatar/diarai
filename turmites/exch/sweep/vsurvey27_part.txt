@@ -1,0 +1,8 @@
+45 L 638 rad -0.00006 tang -0.00002 msd 0.195 dens0 1.57 dens3 1.69 dens7 0.84
+47 L 1359 rad +0.00002 tang +0.00008 msd 0.909 dens0 1.33 dens3 1.28 dens7 1.14
+59 L 609 rad -0.00527 tang -0.00105 msd 9.854 dens0 1.75 dens3 1.40 dens7 0.96
+167 L 1402 rad -0.00007 tang -0.00005 msd 1.525 dens0 1.50 dens3 1.43 dens7 0.97
+303 L 1454 rad -0.00016 tang +0.00012 msd 1.716 dens0 1.73 dens3 1.76 dens7 0.81
+387 L 1765 rad +0.00016 tang -0.00012 msd 2.822 dens0 1.21 dens3 1.33 dens7 1.10
+521 L 1519 rad -0.00009 tang +0.00027 msd 2.181 dens0 1.53 dens3 1.37 dens7 1.06
+539 L 887 rad -0.11070 tang -0.02367 msd 103.906 dens0 1.34 dens3 1.33 dens7 1.08
