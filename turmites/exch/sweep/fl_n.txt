@@ -1,0 +1,7 @@
+before vx -0.00232 vy +0.00186 n 259074
+control vx -0.00217 vy +0.00176 n 454785
+control vx +0.00046 vy -0.00132 n 419264
+control vx +0.00055 vy +0.00057 n 604168
+control vx +0.00038 vy +0.00048 n 646242
+control vx +0.00001 vy +0.00164 n 430039
+control vx -0.00100 vy +0.00095 n 630460
