@@ -1,0 +1,12 @@
+L 1404 lag 256
+u 0.0 dens 1.299 drift/lag +0.00073 tang/lag +0.00012 msd/lag 0.652  n 1298605
+u 0.1 dens 1.511 drift/lag -0.00004 tang/lag -0.00017 msd/lag 0.652  n 4532127
+u 0.2 dens 1.383 drift/lag -0.00001 tang/lag -0.00029 msd/lag 0.659  n 6914518
+u 0.3 dens 1.465 drift/lag +0.00017 tang/lag -0.00000 msd/lag 0.659  n 10256118
+u 0.4 dens 1.503 drift/lag +0.00003 tang/lag -0.00020 msd/lag 0.663  n 13523640
+u 0.5 dens 1.516 drift/lag -0.00012 tang/lag -0.00005 msd/lag 0.657  n 16672614
+u 0.6 dens 1.274 drift/lag -0.00057 tang/lag -0.00056 msd/lag 0.655  n 16555663
+u 0.7 dens 0.913 drift/lag -0.00090 tang/lag -0.00111 msd/lag 0.648  n 13700371
+u 0.8 dens 0.577 drift/lag -0.00158 tang/lag -0.00102 msd/lag 0.639  n 9803955
+u 0.9 dens 0.290 drift/lag -0.00241 tang/lag -0.00182 msd/lag 0.627  n 5518247
+u 1.0 dens 0.058 drift/lag -0.00724 tang/lag -0.00477 msd/lag 0.571  n 1223858
