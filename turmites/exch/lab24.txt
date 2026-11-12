@@ -1,0 +1,21 @@
+6922 16384 A=1157 moved=0.936 mean=4.09 max=17 radial=-0.732 R=21 16777216 A=205579 moved=0.988 mean=9.15 max=59 radial=-0.351 R=281 
+6924 16384 A=1470 moved=0.888 mean=2.31 max=9 radial=-0.222 R=25 16777216 A=252484 moved=0.973 mean=5.12 max=32 radial=-0.088 R=312 
+6986 16384 A=418 moved=0.962 mean=3.53 max=16 radial=-0.952 R=13 16777216 A=120056 moved=0.986 mean=7.12 max=57 radial=-0.117 R=252 
+6990 16384 A=1128 moved=0.890 mean=1.82 max=3 radial=-0.065 R=23 16777216 A=85660 moved=0.876 mean=1.89 max=3 radial=-0.010 R=190 
+7018 16384 A=1319 moved=0.915 mean=3.45 max=15 radial=-0.503 R=25 16777216 A=233522 moved=0.985 mean=8.00 max=48 radial=-0.251 R=293 
+7434 16384 A=1019 moved=0.955 mean=3.77 max=16 radial=-0.593 R=20 16777216 A=184181 moved=0.990 mean=8.63 max=61 radial=-0.321 R=286 
+7470 16384 A=1352 moved=0.910 mean=1.82 max=3 radial=-0.070 R=25 16777216 A=215168 moved=0.879 mean=1.90 max=3 radial=-0.007 R=327 
+15112 16384 A=3558 moved=0.933 mean=2.49 max=12 radial=-0.075 R=40 16777216 A=1102319 moved=0.967 mean=4.12 max=33 radial=-0.025 R=757 
+15116 16384 A=843 moved=0.865 mean=2.97 max=15 radial=-0.641 R=18 16777216 A=150178 moved=0.978 mean=7.04 max=44 radial=-0.256 R=232 
+15180 16384 A=316 moved=0.899 mean=3.17 max=12 radial=-1.103 R=10 16777216 A=68231 moved=0.975 mean=6.83 max=40 radial=-0.278 R=183 
+15214 16384 A=2011 moved=0.961 mean=2.88 max=17 radial=-0.335 R=30 16777216 A=369826 moved=0.986 mean=6.91 max=62 radial=-0.174 R=374 
+16136 16384 A=3506 moved=0.913 mean=2.27 max=11 radial=-0.113 R=41 16777216 A=538236 moved=0.978 mean=5.20 max=35 radial=-0.065 R=428 
+16142 16384 A=2205 moved=0.908 mean=3.32 max=17 radial=-0.403 R=30 16777216 A=335760 moved=0.984 mean=8.10 max=62 radial=-0.221 R=356 
+16232 16384 A=2983 moved=0.931 mean=2.32 max=10 radial=-0.060 R=40 16777216 A=819964 moved=0.970 mean=4.17 max=33 radial=-0.034 R=668 
+16234 16384 A=1208 moved=0.767 mean=1.11 max=1 radial=-0.011 R=17 16777216 A=47508 moved=0.736 mean=1.13 max=1 radial=-0.005 R=109 
+23306 16384 A=1996 moved=0.854 mean=2.34 max=10 radial=-0.150 R=28 16777216 A=320089 moved=0.959 mean=5.05 max=33 radial=-0.082 R=351 
+23310 16384 A=2381 moved=0.823 mean=1.77 max=7 radial=-0.064 R=31 16777216 A=350935 moved=0.944 mean=4.01 max=30 radial=-0.050 R=370 
+23336 16384 A=2326 moved=0.733 mean=2.20 max=18 radial=-0.150 R=31 16777216 A=357667 moved=0.858 mean=3.84 max=35 radial=-0.052 R=369 
+23370 16384 A=537 moved=0.972 mean=2.64 max=10 radial=-0.392 R=15 16777216 A=165725 moved=0.980 mean=4.51 max=32 radial=-0.061 R=307 
+23818 16384 A=900 moved=0.906 mean=3.91 max=16 radial=-0.939 R=19 16777216 A=151678 moved=0.982 mean=8.69 max=57 radial=-0.361 R=244 
+6958 16384 A=6392 moved=0.975 mean=1.70 max=4 radial=-0.006 R=56 
