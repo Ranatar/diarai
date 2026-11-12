@@ -1,0 +1,12 @@
+L 1626 lag 256
+u 0.0 dens 3.647 drift/lag -0.00209 msd/lag 1.100  n 3647158
+u 0.1 dens 2.441 drift/lag -0.00138 msd/lag 1.101  n 7324347
+u 0.2 dens 1.817 drift/lag -0.00077 msd/lag 1.102  n 9085382
+u 0.3 dens 1.580 drift/lag -0.00010 msd/lag 1.108  n 11059574
+u 0.4 dens 1.548 drift/lag -0.00022 msd/lag 1.106  n 13934754
+u 0.5 dens 1.478 drift/lag -0.00014 msd/lag 1.104  n 16255189
+u 0.6 dens 1.301 drift/lag -0.00089 msd/lag 1.779  n 16913831
+u 0.7 dens 0.799 drift/lag -0.00132 msd/lag 2.379  n 11989822
+u 0.8 dens 0.433 drift/lag -0.00295 msd/lag 3.176  n 7358102
+u 0.9 dens 0.128 drift/lag -0.02421 msd/lag 6.752  n 2428834
+u 1.0 dens 0.000 drift/lag -0.22178 msd/lag 25.117  n 2752
