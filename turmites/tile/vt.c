@@ -60,6 +60,12 @@ int main(int argc,char**argv){
       for(long long k=0;k<nv;k++)f[vis[k]]=0;
       printf("%lld %016llx %lld %lld %lld\n",code,h,m,n,nv); }
     return 0; }
+  if(!strcmp(argv[1],"pos")){ /* ./vt pos CODE E0 LOG2N STEP -> t x y (центр плитки муравья) каждые STEP шагов */
+    long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=1LL<<atoi(argv[4]),S=atoll(argv[5]); int L=8192;
+    decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2;
+    for(long long n=0;n<N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p];
+      if(n%S==0){ double x=CEN[t][0]+(i-L/2)*A1[0]+(j-L/2)*A2[0], y=CEN[t][1]+(i-L/2)*A1[1]+(j-L/2)*A2[1]; printf("%lld %.2f %.2f\n",n,x,y);}
+      int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; if(i<2||j<2||i>=L-2||j>=L-2)break;} return 0; }
   if(!strcmp(argv[1],"dump")){ /* ./vt dump CODE E0 N -> t i j color по посещённым; последняя строка — муравей */
     long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=4096;
     decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2;
