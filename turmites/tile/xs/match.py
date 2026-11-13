@@ -9,7 +9,7 @@ for fn in sorted(glob.glob('*_e*.txt')):
     for l in open(fn):
         p=l.split()
         if len(p)<4: continue
-        c,h,n,nv=p; n=int(n); nv=int(nv)
+        c,h,n,nv=p[0],p[1],p[2],p[-1]; n=int(n); nv=int(nv)
         if n<NFULL or nv<MIN: continue
         g[h].append((til,int(e),int(c),nv)); full+=1
 print('правил-стартов с полным отпечатком и ≥',MIN,'плиток:',full,'; различных отпечатков:',len(g))
