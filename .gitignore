@@ -75,3 +75,9 @@ turmites/g510/lookg
 turmites/g510/tmg
 turmites/g510/cm/
 turmites/c26427/*.pkl
+turmites/c26427/ck_*
+turmites/c26427/bound_ck2
+turmites/c26427/topcell
+turmites/c26427/topseq
+turmites/c26427/cellhits
+turmites/c26427/bound_ck
