@@ -103,6 +103,27 @@ int main(int argc,char**argv){
       cnt[t][(i&1)|(j&1)<<1]+=c?-1:1;
       int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; if(i<2||j<2||i>=L-2||j>=L-2)break;}
     return 0; }
+  if(!strcmp(argv[1],"tm")){ /* ./vt tm CODE E0 N out.txt : полоса вдоль (1,-1): клетка ленты k=i, ряд m=i+j; печатает start, конфликты.
+      Вывод: s c side ns nc cnt; s = ((m-mlo)*NT + t)*12 + e при входе в клетку, c = биты (ряд, тип) клетки */
+    long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=4096;
+    decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2,mlo=0,mhi=0;
+    for(long long n=0;n<N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1; int m=(i-L/2)+(j-L/2); if(m<mlo)mlo=m; if(m>mhi)mhi=m;
+      int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; if(i<2||j<2||i>=L-2||j>=L-2)break;}
+    int R=mhi-mlo+1; if(R*NT>40){printf("ширина %d\n",R);return 1;}
+    memset(f,0,(size_t)L*L*NT); t=0;i=L/2;j=L/2;e=atoi(argv[3]);
+    #define HS2 (1<<22)
+    long long*hk=calloc(HS2,8),*hv=calloc(HS2,8),*hc=calloc(HS2,8); long long conf=0,start=-1,ein=-1,cont=0; int tile=0;
+    #define CONTK(K) ({long long c_=0; for(int r=0;r<R;r++){int ii=(K)+L/2, jj=(mlo+r)-(K)+L/2; for(int q=0;q<NT;q++) c_|=(long long)(f[((size_t)jj*L+ii)*NT+q]&1)<<(r*NT+q);} c_;})
+    for(long long n=0;n<N;n++){ int k=i-L/2, m=(i-L/2)+(j-L/2); long long s=((long long)(m-mlo)*NT+t)*12+e;
+      if(n==0){tile=k;ein=s;start=s;cont=CONTK(k);}
+      else if(k!=tile){ long long c2=CONTK(tile); int side=k>tile; long long key=(ein<<40|cont)+1;
+        unsigned h=(unsigned)((unsigned long long)key*11400714819323198485ull>>40)%HS2; while(hk[h]&&hk[h]!=key)h=(h+1)%HS2;
+        long long v=(long long)side<<60|s<<40|c2; if(hk[h]&&hv[h]!=v)conf++; hk[h]=key; hv[h]=v; hc[h]++; tile=k; ein=s; cont=CONTK(k); }
+      size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1; int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3];
+      if(i<2||j<2||i>=L-2||j>=L-2)break; }
+    FILE*o=fopen(argv[5],"w"); long long nk=0;
+    for(int h=0;h<HS2;h++) if(hk[h]){nk++; long long key=hk[h]-1,v=hv[h]; fprintf(o,"%lld %lld %lld %lld %lld %lld\n",key>>40,key&((1LL<<40)-1),(v>>60)&1,(v>>40)&((1LL<<20)-1),v&((1LL<<40)-1),hc[h]);}
+    fclose(o); printf("ряды %d (m от %d) start %lld строк %lld конфликтов %lld\n",R,mlo,start,nk,conf); return 0; }
   if(!strcmp(argv[1],"censusl")){ /* ./vt censusl LOG2N L E0 < codes -> как census, коды со входа */
     int lg=atoi(argv[2]),L=atoi(argv[3]),e0=atoi(argv[4]); long long N=1LL<<lg,code; unsigned char*f=malloc((size_t)L*L*NT);
     while(scanf("%lld",&code)==1){ decode(code); memset(f,0,(size_t)L*L*NT);
