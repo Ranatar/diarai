@@ -40,6 +40,6 @@ int main(int argc,char**argv){ long long N=atoll(argv[1]); setup(); decode(26427
   for(long long n=0;n<N;n++){ int b=tp[k]; int idx=q*MC+b; if(TS[idx]<0) oracle(q,b);
     int sd=TS[idx]; int nb=TC[idx]; tp[k]=nb; q=TN[idx]; int kk=k; k+=sd?1:-1; if(k>hi)hi=k;
     if((ph[b]<0)!=(ph[nb]<0) || k==hi){ int x=hi; while(x>=O && ph[tp[x]]>=0) x--; x++;
-      if(x!=bd || k>hi0){ bd=x; hi0=hi; printf("%lld hi %d bd %d |",n,hi-O,bd-O); for(int y=bd;y<=hi;y++)printf(" %d",ph[tp[y]]); printf("\n"); fflush(stdout);} } }
+      if(x!=bd || k>hi0){ bd=x; hi0=hi; printf("%lld hi %d bd %d k %d old %d new %d q %d |",n,hi-O,bd-O,kk-O,ph[b],nb,q); for(int y=bd;y<=hi;y++)printf(" %d",ph[tp[y]]); printf("\n"); fflush(stdout);} } }
   FILE*g=fopen("ids2.txt","w"); for(int i=0;i<ncv;i++)fprintf(g,"%d %lld\n",i,cv[i]); fclose(g);
   fprintf(stderr,"достроено %lld, содержимых %d\n",computed,ncv); return 0; }
