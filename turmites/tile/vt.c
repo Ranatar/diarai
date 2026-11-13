@@ -38,6 +38,15 @@ int main(int argc,char**argv){
       int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3];}
     static long long H[NT][4][4096]; for(int jj=0;jj<L;jj++)for(int ii=0;ii<L;ii++)for(int tt=0;tt<NT;tt++){unsigned short v=m[((size_t)jj*L+ii)*NT+tt]; if(v) H[tt][(ii&1)+2*(jj&1)][v]++;}
     for(int tt=0;tt<NT;tt++)for(int q=0;q<4;q++)for(int v=0;v<4096;v++)if(H[tt][q][v]){printf("t%d par%d set",tt,q); for(int b=0;b<12;b++)if(v>>b&1)printf(" %d",b); printf(" : %lld\n",H[tt][q][v]);} return 0; }
+  if(!strcmp(argv[1],"csig")){ /* ./vt csig N L E0 < codes -> code hash длина (отпечаток строки цветов с отметкой новых плиток) */
+    long long N=atoll(argv[2]); int L=atoi(argv[3]),e0=atoi(argv[4]); long long code; unsigned char*f=calloc((size_t)L*L*NT,1);
+    size_t*vis=malloc(sizeof(size_t)*(N+1));
+    while(scanf("%lld",&code)==1){ decode(code); long long nv=0; int t=0,i=L/2,j=L/2,e=e0; unsigned long long h=1469598103934665603ULL; long long n;
+      for(n=0;n<N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1; h^=(f[p]&2)?c:2+c; h*=1099511628211ULL; if(!(f[p]&2)){f[p]|=2;vis[nv++]=p;}
+        int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; if(i<2||j<2||i>=L-2||j>=L-2){n++;break;}}
+      for(long long k=0;k<nv;k++)f[vis[k]]=0;
+      printf("%lld %016llx %lld %lld\n",code,h,n,nv); }
+    return 0; }
   if(!strcmp(argv[1],"dump")){ /* ./vt dump CODE E0 N -> t i j color по посещённым; последняя строка — муравей */
     long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=4096;
     decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2;
@@ -62,7 +71,7 @@ int main(int argc,char**argv){
         if(i<2||j<2||i>=L-2||j>=L-2){edge=n+1;break;} }
       if(edge<0){printf("%lld -1 -1 -1 0 0 %lld %016llx\n",code,cells,h);fflush(stdout);continue;}
       long long E=edge,P=-1;
-      for(long long q=1;q<=PMAX&&4*q<E;q++){long long W=4*q<50000?50000:4*q; if(W>E)W=E; int ok=1; for(long long k=E-W;k<E-q;k++) if(s[k]!=s[k+q]){ok=0;break;} if(ok){P=q;break;}}
+      for(long long q=1;q<=PMAX&&4*q<E;q++){long long W=4*q<2000?2000:4*q; if(W>E)W=E; int ok=1; for(long long k=E-W;k<E-q;k++) if(s[k]!=s[k+q]){ok=0;break;} if(ok){P=q;break;}}
       long long on=-1; int di=0,dj=0;
       if(P>0){ on=E-P; while(on>0&&s[on-1]==s[on-1+P])on--; for(long long k=on;k<on+P;k++){di+=mv[2*k];dj+=mv[2*k+1];} }
       printf("%lld %lld %lld %lld %d %d %lld %016llx\n",code,E,P,on,di,dj,cells,h); fflush(stdout); }
