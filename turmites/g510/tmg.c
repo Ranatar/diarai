@@ -11,8 +11,8 @@ static int key[1<<16]; static long long cnt[1<<16];
 int main(int argc,char**argv){
   int code=atoi(argv[1]),d=atoi(argv[2]); long long N=atoll(argv[3]); int rows=atoi(argv[4]);
   int To[2]={code&7,(code>>3)&7},Ts[2]={2*((code>>6)&3),2*((code>>8)&3)};
-  int x=L/2,y=0; int tile=x>>1,ein=-1,cont=0; long long conf=0; int ns=0; static int seen[256];
-  #define CONT(T) ({int c_=0,b_=0; for(int yy=0;yy<rows;yy++){ c_|=f[yy][2*(T)+(yy&1)]<<b_; b_++; } c_;})
+  int Y0=argc>6?atoi(argv[6]):0; int x=L/2,y=-Y0; int tile=x>>1,ein=-1,cont=0; long long conf=0; int ns=0; static int seen[256];
+  #define CONT(T) ({int c_=0,b_=0; for(int yy=0;yy<rows;yy++){ c_|=f[yy][2*(T)+((yy+Y0)&1)]<<b_; b_++; } c_;})
   for(long long t=0;t<N;t++){
     if(y>0||y<=-rows){printf("вышел из полосы y=%d t=%lld\n",y,t);return 1;}
     int nt=x>>1;
