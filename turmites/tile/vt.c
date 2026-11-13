@@ -73,6 +73,14 @@ int main(int argc,char**argv){
       int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; if(i<2||j<2||i>=L-2||j>=L-2)break;}
     for(int jj=0;jj<L;jj++)for(int ii=0;ii<L;ii++)for(int tt=0;tt<NT;tt++){unsigned char v=f[((size_t)jj*L+ii)*NT+tt]; if(v&2)printf("%d %d %d %d\n",tt,ii-L/2,jj-L/2,v&1);}
     printf("A %d %d %d\n",t,i-L/2,j-L/2); return 0; }
+  if(!strcmp(argv[1],"ret")){ /* ./vt ret CODE E0 LOG2N -> первый возврат в начало (поле белое, та же плитка и ребро): n tiles; или -1 */
+    long long code=atoll(argv[2]); int e0=atoi(argv[3]),e=e0; long long N=1LL<<atoi(argv[4]); int L=4096;
+    decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2; long long cells=0,black=0;
+    for(long long n=1;n<=N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1; if(!(f[p]&2)){f[p]|=2;cells++;}
+      int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; black+=c?-1:1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3];
+      if(i<2||j<2||i>=L-2||j>=L-2){printf("edge %lld %lld\n",n,cells);return 0;}
+      if(black==0 && t==0 && i==L/2 && j==L/2 && e==e0){ printf("%lld %lld\n",n,cells); return 0; } }
+    printf("-1 %lld\n",cells); return 0; }
   if(!strcmp(argv[1],"new")){ /* ./vt new CODE E0 LOG2N -> моменты появления новых плиток: n t i j */
     long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=1LL<<atoi(argv[4]); int L=4096;
     decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2; long long cells=0;
