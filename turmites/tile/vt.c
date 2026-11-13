@@ -95,6 +95,14 @@ int main(int argc,char**argv){
       if(P>0){ on=E-P; while(on>0&&s[on-1]==s[on-1+P])on--; for(long long k=on;k<on+P;k++){di+=mv[2*k];dj+=mv[2*k+1];} }
       printf("%lld %lld %lld %lld %d %d %lld %016llx\n",code,E,P,on,di,dj,cells,h); fflush(stdout); }
     return 0; }
+  if(!strcmp(argv[1],"bt")){ /* ./vt bt CODE E0 N S -> каждые S шагов: n и число чёрных по (тип, i&1, j&1) */
+    long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]),S=atoll(argv[5]); int L=4096;
+    decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2; long long cnt[NT][4]; memset(cnt,0,sizeof cnt);
+    for(long long n=0;n<N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1;
+      if(n%S==0){printf("%lld",n); for(int a=0;a<NT;a++)for(int b=0;b<4;b++)printf(" %lld",cnt[a][b]); printf("\n");}
+      cnt[t][(i&1)|(j&1)<<1]+=c?-1:1;
+      int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; if(i<2||j<2||i>=L-2||j>=L-2)break;}
+    return 0; }
   if(!strcmp(argv[1],"censusl")){ /* ./vt censusl LOG2N L E0 < codes -> как census, коды со входа */
     int lg=atoi(argv[2]),L=atoi(argv[3]),e0=atoi(argv[4]); long long N=1LL<<lg,code; unsigned char*f=malloc((size_t)L*L*NT);
     while(scanf("%lld",&code)==1){ decode(code); memset(f,0,(size_t)L*L*NT);

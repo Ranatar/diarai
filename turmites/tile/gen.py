@@ -39,6 +39,26 @@ def tiling(name):
         c1=((a1[0]+a2[0])/3,(a1[1]+a2[1])/3); c2=(2*c1[0],2*c1[1])
         sec=[(c1,3,1/r3),(c2,3,1/r3),((a1[0]/2,a1[1]/2),4,math.sqrt(2)/2),((a2[0]/2,a2[1]/2),4,math.sqrt(2)/2),
              (((a2[0]-a1[0])/2+a1[0],(a2[1]-a1[1])/2+a1[1]),4,math.sqrt(2)/2)]
+    elif name=='33336':  # плосконосый трёхшестиугольный: все вершины — вершины шестиугольников, треугольники — тройки на расстоянии 1
+        a1=(2.5,r3/2); a2=(2.5*0.5-r3/2*r3/2, 2.5*r3/2+r3/2*0.5)
+        prim=[((0,0),6,1.0,0.0)]
+        V=[]
+        for i in range(-2,3):
+            for j in range(-2,3): V+=poly((i*a1[0]+j*a2[0],i*a1[1]+j*a2[1]),6,1.0,0.0)
+        det=a1[0]*a2[1]-a1[1]*a2[0]; seen=set(); sec=[]
+        near=lambda p,q:abs(math.dist(p,q)-1)<1e-6
+        for x in range(len(V)):
+            for y in range(x+1,len(V)):
+                if not near(V[x],V[y]): continue
+                for z in range(y+1,len(V)):
+                    if near(V[x],V[z]) and near(V[y],V[z]):
+                        c=((V[x][0]+V[y][0]+V[z][0])/3,(V[x][1]+V[y][1]+V[z][1])/3)
+                        u=(c[0]*a2[1]-c[1]*a2[0])/det; v=(a1[0]*c[1]-a1[1]*c[0])/det
+                        k=(round((u-math.floor(u+1e-9))*1e4)%10000,round((v-math.floor(v+1e-9))*1e4)%10000)
+                        if k in seen: continue
+                        seen.add(k); fu,fv=u-math.floor(u+1e-9),v-math.floor(v+1e-9)
+                        sec.append(((fu*a1[0]+fv*a2[0],fu*a1[1]+fv*a2[1]),3,1/r3))
+        assert len(sec)==8,len(sec)
     return a1,a2,prim,sec
 def build(name):
     a1,a2,prim,sec=tiling(name)
