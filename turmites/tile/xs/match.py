@@ -1,7 +1,8 @@
 # группы одинаковых отпечатков между паркетами: ./match.py [MINTILES]
 import glob, collections, sys, os
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)),sys.argv[2] if len(sys.argv)>2 else 'n100k'))
 MIN=int(sys.argv[1]) if len(sys.argv)>1 else 500
+NFULL=int(sys.argv[3]) if len(sys.argv)>3 else 100000
 g=collections.defaultdict(list); full=0
 for fn in sorted(glob.glob('*_e*.txt')):
     til,e=fn[:-4].split('_e')
@@ -9,7 +10,7 @@ for fn in sorted(glob.glob('*_e*.txt')):
         p=l.split()
         if len(p)<4: continue
         c,h,n,nv=p; n=int(n); nv=int(nv)
-        if n<100000 or nv<MIN: continue
+        if n<NFULL or nv<MIN: continue
         g[h].append((til,int(e),int(c),nv)); full+=1
 print('правил-стартов с полным отпечатком и ≥',MIN,'плиток:',full,'; различных отпечатков:',len(g))
 cross=[(h,v) for h,v in g.items() if len(set(x[0] for x in v))>1]
