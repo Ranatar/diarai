@@ -9,6 +9,6 @@ while read code D a b; do
   if [ $rows -gt 15 ]; then echo "$code $D: высота $rows (растёт не по x)"; continue; fi
   r=$(./tmg $code $D 30000000 $rows cm/tm_${code}_$D.txt $ytop 2>&1 | tail -1)
   case "$r" in *вышел*) echo "$code $D: $r"; continue;; esac
-  st=$(head -1 cm/tm_${code}_$D.txt | awk '{print $1}')
+  st=$((ytop*8+D))
   echo "$code $D rows=$rows ($r) $(timeout 300 python3 cmat.py cm/tm_${code}_$D.txt $st 2000000 2>&1 | tail -1)"
 done < counters.txt
