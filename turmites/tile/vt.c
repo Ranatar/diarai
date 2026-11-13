@@ -47,6 +47,19 @@ int main(int argc,char**argv){
       for(long long k=0;k<nv;k++)f[vis[k]]=0;
       printf("%lld %016llx %lld %lld\n",code,h,n,nv); }
     return 0; }
+  if(!strcmp(argv[1],"csig2")){ /* ./vt csig2 M L E0 < codes -> code hash длина_сжатой шагов плиток
+     сжатая строка: пропускаем пассивные плитки (выход не зависит от цвета), подряд идущие посещения одной плитки — одно (цвет первого) */
+    long long M=atoll(argv[2]); int L=atoi(argv[3]),e0=atoi(argv[4]); long long code; unsigned char*f=calloc((size_t)L*L*NT,1);
+    long long NMAX=5*M; size_t*vis=malloc(sizeof(size_t)*(NMAX+1));
+    while(scanf("%lld",&code)==1){ decode(code); long long nv=0,m=0,n; int t=0,i=L/2,j=L/2,e=e0; unsigned long long h=1469598103934665603ULL; size_t last=(size_t)-1;
+      for(n=0;n<NMAX&&m<M;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1;
+        if(OFF[t][0]!=OFF[t][1] && p!=last){ h^=(f[p]&2)?c:2+c; h*=1099511628211ULL; m++; }
+        if(OFF[t][0]!=OFF[t][1]) last=p;
+        if(!(f[p]&2)){f[p]|=2;vis[nv++]=p;}
+        int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; if(i<2||j<2||i>=L-2||j>=L-2){n++;break;}}
+      for(long long k=0;k<nv;k++)f[vis[k]]=0;
+      printf("%lld %016llx %lld %lld %lld\n",code,h,m,n,nv); }
+    return 0; }
   if(!strcmp(argv[1],"dump")){ /* ./vt dump CODE E0 N -> t i j color по посещённым; последняя строка — муравей */
     long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=4096;
     decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2;

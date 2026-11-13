@@ -6,7 +6,7 @@ for fn in glob.glob(f'{D}/*_e*.txt'):
     til,e=os.path.basename(fn)[:-4].split('_e')
     for l in open(fn):
         p=l.split()
-        if len(p)<4 or int(p[2])<NF or int(p[3])<MIN: continue
+        if len(p)<4 or int(p[2])<NF or int(p[-1])<MIN: continue
         g[p[1]].add(f'{til}/{e}')
 keys=sorted({k for s in g.values() for k in s}, key=lambda k:(len(k),k))
 tot=collections.Counter(k for s in g.values() for k in s)
