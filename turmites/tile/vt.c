@@ -20,6 +20,24 @@ int main(int argc,char**argv){
     decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2; long long black=0; printf("0\n");
     for(long long n=1;n<=N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]; int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; black+=c?-1:1;
       const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3]; printf("%lld\n",black);} return 0; }
+  if(!strcmp(argv[1],"colors")){ /* ./vt colors CODE E0 N -> строка цветов 0/1 и признак «новая плитка» */
+    long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=4096;
+    decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2;
+    for(long long n=0;n<N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1; putchar(f[p]&2? '0'+c : 'a'+c); f[p]|=2;
+      int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3];} putchar('\n'); return 0; }
+  if(!strcmp(argv[1],"stat")){ /* ./vt stat CODE E0 N -> частоты (тип, ребро входа, цвет) */
+    long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=4096; static long long h[NT][12][2];
+    decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2;
+    for(long long n=0;n<N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1; h[t][e][c]++;
+      int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3];}
+    for(int tt=0;tt<NT;tt++){printf("type %d (%d):",tt,SIDES[tt]); for(int ee=0;ee<SIDES[tt];ee++)printf(" %lld/%lld",h[tt][ee][0],h[tt][ee][1]); printf("\n");} return 0; }
+  if(!strcmp(argv[1],"esets")){ /* ./vt esets CODE E0 N -> гистограмма множеств рёбер входа по плиткам (с учётом типа и чётности i,j) */
+    long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=2048;
+    decode(code); unsigned short*m=calloc((size_t)L*L*NT,2); int t=0,i=L/2,j=L/2; unsigned char*f=calloc((size_t)L*L*NT,1);
+    for(long long n=0;n<N;n++){ size_t p=((size_t)j*L+i)*NT+t; int c=f[p]&1; m[p]|=1<<e;
+      int ex=(e+OFF[t][c])%SIDES[t]; f[p]^=1; const int*a=ADJ[t][ex]; t=a[0]; i+=a[1]; j+=a[2]; e=a[3];}
+    static long long H[NT][4][4096]; for(int jj=0;jj<L;jj++)for(int ii=0;ii<L;ii++)for(int tt=0;tt<NT;tt++){unsigned short v=m[((size_t)jj*L+ii)*NT+tt]; if(v) H[tt][(ii&1)+2*(jj&1)][v]++;}
+    for(int tt=0;tt<NT;tt++)for(int q=0;q<4;q++)for(int v=0;v<4096;v++)if(H[tt][q][v]){printf("t%d par%d set",tt,q); for(int b=0;b<12;b++)if(v>>b&1)printf(" %d",b); printf(" : %lld\n",H[tt][q][v]);} return 0; }
   if(!strcmp(argv[1],"dump")){ /* ./vt dump CODE E0 N -> t i j color по посещённым; последняя строка — муравей */
     long long code=atoll(argv[2]); int e=atoi(argv[3]); long long N=atoll(argv[4]); int L=4096;
     decode(code); unsigned char*f=calloc((size_t)L*L*NT,1); int t=0,i=L/2,j=L/2;
@@ -44,7 +62,7 @@ int main(int argc,char**argv){
         if(i<2||j<2||i>=L-2||j>=L-2){edge=n+1;break;} }
       if(edge<0){printf("%lld -1 -1 -1 0 0 %lld %016llx\n",code,cells,h);fflush(stdout);continue;}
       long long E=edge,P=-1;
-      for(long long q=1;q<=PMAX&&4*q<E;q++){int ok=1; for(long long k=E-4*q;k<E-q;k++) if(s[k]!=s[k+q]){ok=0;break;} if(ok){P=q;break;}}
+      for(long long q=1;q<=PMAX&&4*q<E;q++){long long W=4*q<50000?50000:4*q; if(W>E)W=E; int ok=1; for(long long k=E-W;k<E-q;k++) if(s[k]!=s[k+q]){ok=0;break;} if(ok){P=q;break;}}
       long long on=-1; int di=0,dj=0;
       if(P>0){ on=E-P; while(on>0&&s[on-1]==s[on-1+P])on--; for(long long k=on;k<on+P;k++){di+=mv[2*k];dj+=mv[2*k+1];} }
       printf("%lld %lld %lld %lld %d %d %lld %016llx\n",code,E,P,on,di,dj,cells,h); fflush(stdout); }
