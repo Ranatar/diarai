@@ -615,3 +615,25 @@
 - ***ya asto tupë*** — ᴹQ *asto* «dust» (позднего слова для «пыли» в Eldamo нет; ᴹQ *mulo* — тоже «dust»), Q *tup-* «to cover», аорист *tupë*. Тот же глагол, что в «Намариэ»: *ar hísië untúpa Calaciryo míri* «и туман покрывает самоцветы Калакирьи». Там туман покрывает самоцветы, здесь пыль покрывает книги.
 
 **Что потеряно.** Рифма *Bücherhauf / hinauf* (582) и *bedeckt / steckt* (583) — следующие строки ещё не переведены. Не отдавал на проверку.
+
+# «Ночь», строки 582–587 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***ya tenna i tára rondo***  (582: Den bis ans hohe Gewölb hinauf)
+> ***hyalin usquëa pelë;***  (583: Ein angeraucht Papier umsteckt;)
+> ***quanta cilino ar colcaron,***  (584: Mit Gläsern, Büchsen rings umstellt,)
+> ***nirina carmainen,***  (585: Mit Instrumenten vollgepfropft,)
+> ***ar autë atarion mir nirina —***  (586: Urväter Hausrat drein gestopft—)
+> ***Sina ná Ambaretya! Sina estaina Ambar!***  (587: Das ist deine Welt! das heißt eine Welt!)
+
+Обратный перевод: «которую до высокого свода / обходит закопчённая бумага; / полная стекла и ящиков, / набитая инструментами, / и имущество отцов втиснуто внутрь — / Это твой мир! Это зовётся миром!»
+
+Немецкий сверен (`grep -n` по `faust.txt`: 582–587, 588 пустая). Quettali: не узнал *usquëa*, *Ambaretya*, *estaina* (ᴹQ); *armar* из черновика прочёл как Q *arma* «луч солнца», и я заменил его.
+
+- ***ya tenna i tára rondo*** — «которую (груду книг) вплоть до высокого свода». Q *tenna¹* «until, up to, as far as» — омоним авторского *tenna* «мысль» из «Трактата»: груда книг доходит «вплоть до» свода, и тем же словом автор называет мысль. Это омонимия, а не замысел. Q *tára¹* «lofty, tall, high» (PE17/186), Q *rondo¹* «vaulted or arched roof, vaulted hall».
+- ***hyalin usquëa pelë*** — нкв. *hyalin* «paper» (Quettali: «paper»), *usquëa* — прилагательное от *usquë*: в ᴹQ «reek, smoke», в позднем Q «dusk, dim light». Здесь годится и то и другое: бумага и закопчённая, и потемневшая. Это единственное место сцены, где мне не мешает двусмысленность *usquë*. Q *pel-* «to go round, encircle» (SA/pel), аорист *pelë*: бумага «обходит» груду, как *umsteckt*.
+- ***quanta cilino ar colcaron*** — «полная стекла и ящиков». «Полный чего-то» у Толкина — *quanta* + родительный: *Aia María quanta Eruanno* «Радуйся, Мария, благодати полная» (Eldamo, фраза). Q *cilin* «glass», род. *cilino*; нкв. *colca* «box», род. мн. *colcaron*. **Сдвиг:** «rings umstellt» («обставленная кругом») стало «полной».
+- ***nirina carmainen*** — «набитая инструментами». Q *nir-* «to press, urge, thrust, force (in a given direction)» (PE22/165), страдательное причастие *nirina* (как *car- → carina*); Q *carma²* «tool, implement, means, weapon», творительный мн. ч. *carmainen*. Quettali даёт у *carma* ещё «deed» и «helm»: инструменты Фауста — заодно и его «дела».
+- ***ar autë atarion mir nirina*** — «и имущество отцов втиснуто внутрь». нкв. *autë* «property, goods» (из ᴱQ) вместо ᴹQ *armar* «goods», потому что поздний читатель услышал бы Q *arma* «луч солнца». *atarion* — род. мн. от Q *atar* «father»; «Ur-» потеряно. ᴹQ *mir* «to the inside, into» (позднего «внутрь» в Eldamo нет). *nirina* — тот же глагол, что в 585: у Гёте *vollgepfropft* и *gestopft* — тоже почти одно слово.
+- ***Sina ná Ambaretya! Sina estaina Ambar!*** — «Это твой мир! Это зовётся миром!» Q *Ambar* «world» + *-tya* «твой» с соединительным *e* (курс: «как правило это e, но для суффиксов -nya, -nta» — *i*; ср. мой 5.63 *Ambarinya*). ᴹQ ***estaina*** «named» (PE22/124; от ᴹQ *esta-¹* «to name»), позднего глагола «называть» в Eldamo нет. **Сопоставление (моё):** в «Трактате» 5.63 «Ich bin meine Welt» у меня *Inyë ná Ambarinya*. Фауст говорит себе *Sina ná Ambaretya* — с горечью, о келье. У Витгенштейна «мой мир» — граница, у Гёте «твой мир» — темница. Это две разные вещи, и одна квенийская конструкция их только сближает. О влиянии речи нет.
+
+**Что потеряно.** Рифмы (*hinauf / Bücherhauf*, *umsteckt / bedeckt*, *umstellt / Welt*, *vollgepfropft / gestopft*), «Büchsen» как «банки» (стали «ящиками»), «Ur-» в «Urväter». Не отдавал на проверку.
