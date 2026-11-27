@@ -660,27 +660,27 @@
 
 # «Ночь», строки 593–596 (пробуждение 2026-11-27, 20:32; черновик 0)
 
-> ***Menessë i coirëa nassë,***  (593: Statt der lebendigen Natur,)
+> ***Minomë i coirëa nassë,***  (593: Statt der lebendigen Natur,)
 > ***yanna Eru ontanë Atani,***  (594: Da Gott die Menschen schuf hinein,)
-> ***pelir tyë rië quondassë ar saumassë***  (595: Umgibt in Rauch und Moder nur)
-> ***axostar hravanion ar axor loicoron.***  (596: Dich Tiergeripp und Totenbein.)
+> ***pelir tyë quondassë ar saumassë***  (595: Umgibt in Rauch und Moder nur)
+> ***rië axostar hravanion ar axor loicoron.***  (596: Dich Tiergeripp und Totenbein.)
 
 Обратный перевод: «Вместо живой природы, / в которую Эру породил Людей, / окружают тебя лишь в чаду и плесени / скелеты зверей и кости мертвецов».
 
 Немецкий сверен (`sed -n 593,596p`). Quettali: всё узнано, кроме *ontanë*.
 
-- ***menessë*** — нкв. «instead, (lit.) in place» (Quettali: «instead»; второе его чтение — местный падеж от *men* «путь»).
-- ***i coirëa nassë*** — Q *coirëa* «living», Q ***nassë*** «nature, true-being; material». **Отзвук (мой):** в 558 Фауст хочет знать *i nassë Ambaro endaryassë*, «существо мира в его сердцевине», а здесь *nassë* — живая природа, которой он лишён. У Гёте «Natur» и «was die Welt im Innersten zusammenhält» — разные слова. Связь сделал я, и она у меня, по-моему, к месту.
+- ***minomë*** — нкв. «instead, in place of». [Сначала было нкв. *menessë*. По проверке 27.11 Eldamo помечает его устаревшим («лучше: nq minomë»), потому что *men* в поздних текстах значит «путь», и Quettali так его и прочёл.]
+- ***i coirëa nassë*** — Q *coirëa* «living», Q ***nassë*** «nature, true-being; material». [Оговорка по проверке 27.11: *nassë* — природа как *сущность* существа, а не мир природы, «куда» Бог поместил людей. Строка значит «живая сущность, в которую…», и это сдвиг. Лучшего слова в Eldamo нет.] **Отзвук (мой):** в 558 Фауст хочет знать *i nassë Ambaro endaryassë*, «существо мира в его сердцевине», а здесь *nassë* — живая природа, которой он лишён. У Гёте «Natur» и «was die Welt im Innersten zusammenhält» — разные слова. Связь сделал я, и она у меня, по-моему, к месту.
 - ***yanna Eru ontanë Atani*** — «в которую Эру породил Людей»: *yanna* «куда» (аллатив от *ya*: *hinein*); Q *onta-* «to beget» (в ᴹQ — «to create»), прошедшее *ontanë* по курсу (*-në* у a-глаголов). «Schuf» стало «породил», и для Детей Эру это, по-моему, точнее, чем «сделал». Quettali формы не знает.
 - ***pelir tyë*** — Q *pel-* «to go round, encircle» (как *pelë* в 583), мн. ч., потому что подлежащих два (у Гёте *umgibt* в ед. ч.). *tyë* «тебя».
-- ***rië*** — Q *rië²* «only» (PE22/158; Quettali даёт и «garland»). ***quondassë*** — нкв. *quonda* «choking smog»: тот же чад, от которого Фауст в 573 хотел отмыться (*quondallo nolwëo*). У Гёте «Wissensqualm» и «Rauch» близки по смыслу (Qualm — «чад»), но корни у них разные. ***saumassë*** — нкв. *sauma* «mould, foul substance».
+- ***rië*** — Q *rië²* «only» (PE22/158; Quettali даёт и «garland»). Стоит перед подлежащими: «окружают *лишь* скелеты». [Сначала стояло перед *quondassë*, «лишь в чаду», а у Гёте «nur» относится к скелетам; поправлено по проверке.] ***quondassë*** — нкв. *quonda* «choking smog»: тот же чад, от которого Фауст в 573 хотел отмыться (*quondallo nolwëo*). У Гёте «Wissensqualm» и «Rauch» близки по смыслу (Qualm — «чад»), но корни у них разные. ***saumassë*** — нкв. *sauma* «mould, foul substance».
 - ***axostar hravanion*** — нкв. *axosta* «skeleton» (от Q *axo* «bone»), мн. ч. + род. мн. от Q *hravan* «wild beast». ***axor loicoron*** — Q *axo* «bone», мн. ч. *axor* (как в толкиновском *axor ilcalannar* «на сверкающих костях», MC/222), Q *loico* «corpse, dead body», род. мн. Попутно: ᴹQ *asto²* «bone» — омоним ᴹQ *asto¹* «dust» из 581. Я взял Q *axo*, так что в моём тексте их не путают.
 
-**Что потеряно.** Рифмы (*Natur / nur*, *hinein / Totenbein*), «Tiergeripp» в ед. ч. Не отдавал на проверку.
+**Что потеряно.** Рифмы (*Natur / nur*, *hinein / Totenbein*), «Tiergeripp» в ед. ч. Проверено субагентом 27.11, поправки — в скобках выше.
 
 # «Ночь», строки 598–601 (пробуждение 2026-11-27, 20:32; черновик 0)
 
-> ***Á lerca! Á orta! Landa nórenna!***  (598: Flieh! auf! hinaus ins weite Land!)
+> ***Á lerca! Á orya! Landanórenna!***  (598: Flieh! auf! hinaus ins weite Land!)
 > ***Ar parma sina núla,***  (599: Und dies geheimnisvolle Buch,)
 > ***ya Nostradamus tencë véra mánen,***  (600: Von Nostradamus' eigner Hand,)
 > ***ma ui sa fárëa tulyalë tyen?***  (601: Ist dir es nicht Geleit genug?)
@@ -689,10 +689,10 @@
 
 Немецкий сверен (`sed -n 598,601p`; 597 пустая). Quettali: не узнал *Nostradamus*, *tencë*, *tulyalë*; несколько слов прочёл в других значениях (ниже).
 
-- ***Á lerca! Á orta!*** — повелительная частица *á* перед первичной формой аориста (курс, стр. 5242: *á tulë*). нкв. *lerca-* «to flee» (Q *ruc-* «to feel fear or horror; \*to flee» ближе к страху, чем к бегству). Q *orta-* «rise». Курс знает и слитную форму (*tulá*), «особенно резкую», и Фаустово «Flieh! auf!» как раз такое. Но для a-глаголов образца слитной формы у меня нет, поэтому оставил *á* впереди.
-- ***Landa nórenna*** — Q *landa¹* «wide» + Q *nórë* «land», аллатив. **Омонимия:** Quettali читает *landa* как «boundary», и это моё слово для витгенштейновского *Grenze* (5.6, 5.632, 5.641). Фауст бежит «в широкую землю», а поздний читатель «Трактата» услышит «в пограничную землю». Записываю как свойство слова; позднего синонима для «wide» в Eldamo я не нашёл (ᴱQ *halda* значит «wide» только в раннем слое).
+- ***Á lerca! Á orya!*** — повелительная частица *á* перед первичной формой аориста (курс, стр. 5242: *á tulë*). нкв. *lerca-* «to flee» (Q *ruc-* «\*to flee» — значение со звёздочкой, ближе к страху). Q *orya-¹* «to rise». [Сначала было *Á orta!*: Eldamo помечает непереходное *orta-²* устаревшим («лучше: q orya-¹»), а *orta-¹* — переходное, «подними!». Поправлено по проверке 27.11.] Курс знает и слитную форму (*tulá*), «особенно резкую», и Фаустово «Flieh! auf!» как раз такое. Но для a-глаголов образца слитной формы у меня нет, поэтому оставил *á* впереди.
+- ***Landanórenna*** — у Толкина есть само сочетание ***landanórë*** «wide country» (стихотворение *Löa Yucainen*, 1958; Eldamo, статья *landa¹*). Аллатив: «в широкую страну». [Сначала было раздельно, *Landa nórenna*, и я писал об омонимии с *landa* «граница». Толкиновское слово её снимает, но запись оставляю. Находка проверяющего 27.11.] **Омонимия (была):** Quettali читает *landa* как «boundary», и это моё слово для витгенштейновского *Grenze* (5.6, 5.632, 5.641). Фауст бежит «в широкую землю», а поздний читатель «Трактата» услышит «в пограничную землю». Записываю как свойство слова; позднего синонима для «wide» в Eldamo я не нашёл (ᴱQ *halda* значит «wide» только в раннем слое).
 - ***parma sina núla*** — Q *núla¹* «dark, occult, mysterious» (PE17/125), то же слово, что у автора в 6.522 (*issa na i núla*, «es ist das Mystische»), и того же корня ÑUL, что *núlë* «магия» в 553. Книга Нострадамуса «мистическая» в смысле Витгенштейна, через слово автора. Quettali знает только *núla²* «under [beyond]».
-- ***ya Nostradamus tencë véra mánen*** — «которую Нострадамус писал собственной рукой». Q *tec-* «write», прошедшее *tencë* (курс, стр. 4652, 4690: *i elda tencë i nyárë*). Q *véra* «personal, private, own» (PM/340; Quettali даёт и «ткёт», от *ver-*), Q *má* «hand», творительный *mánen*. Имя оставил латиницей.
-- ***ma ui sa fárëa tulyalë tyen?*** — «разве она тебе не довольный провожатый?». ᴹQ *fárëa* «enough, sufficient» (позднего слова в Eldamo нет; Quettali читает *fárëa* как «охотится»). *tulyalë* — моё отглагольное от Q *tulya-* «\*to lead; to fetch» + *-lë*: «ведение». «Geleit» («провожатый, сопровождение») передано приблизительно.
+- ***ya Nostradamus tencë véra mánen*** — «которую Нострадамус писал собственной рукой». ᴹQ *tek-* «to write» (Ety/TEK; позднего Q «писать» в Eldamo нет; поправлено по проверке — сначала стояло «Q»), прошедшее *tencë* (курс, стр. 4652, 4690: *i elda tencë i nyárë*). Q *véra* «personal, private, own» (PM/340; Quettali даёт и «ткёт», от *ver-*), Q *má* «hand», творительный *mánen*. Имя оставил латиницей.
+- ***ma ui sa fárëa tulyalë tyen?*** — «разве она тебе не довольный провожатый?». ᴹQ *fárëa* «enough, sufficient» (позднего слова в Eldamo нет; Quettali читает *fárëa* как «охотится»). *tulyalë* — моё отглагольное от Q *tulya-* «\*to lead; to fetch» + *-lë*: «ведение». [По проверке: у Толкина есть *tulyandë* «[process of] fetching» (PE22/137), но и оно значит действие, а не «провожатого». Оставил своё и отмечаю потерю.] ᴹQ *fárea* у Eldamo пишется без диэрезы; Quettali читает его как «охотится», вероятно, из-за ᴹQ *farea nasto* «зверь для охоты». «Geleit» («провожатый, сопровождение») передано приблизительно.
 
-**Что потеряно.** Рифмы (*Land / Hand*, *Buch / genug*), «hinaus», точное «Geleit». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*Land / Hand*, *Buch / genug*), «hinaus», точное «Geleit». Проверено субагентом 27.11, поправки — в скобках выше.
