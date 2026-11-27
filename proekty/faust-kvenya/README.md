@@ -548,3 +548,32 @@
 - ***léline nin*** — «являлась мне». Q ***lelya-²*** «to appear (**of beautiful things**); to attract, enchant (with dative)» (PE17/151). Толкин сделал отдельный глагол для явления прекрасного, и луна являлась Фаусту именно так. *lēline* — засвидетельствованное прошедшее (Eldamo: `inflect form="past" variant="half-strong-past"`). **По Quettali:** в черновике стояло *lelyanetyë* (прош. вр. по образцу *harya → haryanë* + «ты»), но Quettali разобрал его как прошедшее от омонима *lelya-³* «?thicken & congeal»: «ты загустел мне». Взял засвидетельствованную форму без личного окончания, «ты» ясно из обращения. [По проверке: ответ Quettali с *lelyanetyë* не сохранился (`faust-567.txt.qt.json` перезаписан окончательным прогоном), так что это моя запись, не подтверждённая файлом. И ещё: дательный в статье относится к «attract, enchant», значит, *léline nin* можно прочесть и как «очаровала меня». Для луны Фауста это тоже верно.]
 
 **Что потеряно.** Рифма *Papier / mir*, «Papier». Не отдавал на проверку.
+
+# «Ночь», строки 569–574 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***Ai, nai lelyuvan ingorissen***  (569: Ach! könnt ich doch auf Bergeshöhn)
+> ***melda calatyassë,***  (570: In deinem lieben Lichte gehn,)
+> ***os felcor viluvan as fairi,***  (571: Um Bergeshöhle mit Geistern schweben,)
+> ***palistissen lómetyassë lanyuvan,***  (572: Auf Wiesen in deinem Dämmer weben,)
+> ***lehta ilya quondallo nolwëo,***  (573: Von allem Wissensqualm entladen,)
+> ***rossetyassë hwaluvan imni málëa!***  (574: In deinem Tau gesund mich baden!)
+
+Обратный перевод: «Ах, если бы я пошёл по вершинам / в твоём милом свете, / вокруг пещер парил бы с духами, / на лугах в твоих сумерках ткал бы, / освобождённый от всякого чада премудрости, / в твоей росе омыл бы себя здоровым!»
+
+Немецкий сверен (`ext/faust/faust.txt`, 569–574). Quettali (`qt_razbor.py`, с черновыми вариантами): не узнал *viluvan* (ᴹQ) и *nolwëo* (ᴹQ), остальное узнал.
+
+- ***nai lelyuvan*** — пожелание: *nai* + будущее, как *nai hiruvalyë* в «Намариэ» (и как моё 563 *nai cenuvatyë*). Q ***lelya-¹*** «to go, proceed, travel». Это омоним *lelya-²* «являться (о прекрасном)» из 568 (*léline nin*), и Quettali так и даёт оба чтения *lelyuvan*: «пойду» и «явлюсь». Отзвук вышел сам, я его не подгонял: «ты являлась мне» → «если бы я мог идти в твоём свете». Записываю как омонимию, а не как смысл (`notes/porog.md`).
+- ***ingorissen*** — Q *ingor* «summit of a mountain» (PM/340), местный мн. ч. согласной основы на *-issen* (курс: *mindon-innar*, соединительный *i* у согласных основ). Quettali: `noun-loc-plur`.
+- ***melda calatyassë*** — Q *melda* «dear, beloved», Q *cala* «light» + *-tya* «твой» (на «ты», как *cenuvatyë* в 563) + *-ssë*.
+- ***os felcor*** — нкв. *os* «around» (Бичан, ABNW; Фаускангер в NQNT), Q *felco* «cave, mine, underground dwelling». Q *felya* в позднем значении — «рудник, тоннель», то есть рукотворное, а Фаустовы пещеры природные.
+- ***viluvan*** — ᴹQ *vil-* «to fly» (Ety/WIL; корень «fly, float in air» — как раз *schweben*). Позднего глагола нет. Quettali формы не знает.
+- ***as fairi*** — Q *as* «with», Q *fairë* «spirit (disembodied), phantom», мн. ч. *fairi* (MC/221).
+- ***palistissen*** — нкв. *palis* «sward, green, lawn» (из ᴱQ, QL/71, основа *palist-*), местный мн. ч. Quettali: `noun-loc-plur`; мой первый вариант *palisissen* он не узнал. Позднего слова для «луга» нет (нкв. *salquenor* «grassland» тяжелее).
+- ***lómetyassë*** — Q *lómë* «night, dusk» + *-tya* + *-ssë*: «в твоих сумерках». Луна в 568 была *lómëa málo* «сумрачный друг», и её «Dämmer» — то же *lómë*.
+- ***lanyuvan*** — ᴹQ ***lanya-*** «to weave» (Ety/LAN). Eldamo советует для «ткать» именно его: позднее Q *were-* Толкин зачеркнул (PE17/33 → √WIR). **Риск:** поздний Q *lanya-¹* значит «ставить предел» (VT42/8), и Quettali читает *lanyuvan* как «bound». Для Фауста, который хочет вырваться из своей кельи, это обратный смысл. Это та же пара слов, что в моём эссе `proekty/esse/lanya.md` (основа и кромка). Там я её уже разбирал, здесь лишь отмечаю: читатель, знающий только поздний квенья, услышит «буду ставить пределы на лугах».
+- ***lehta*** — Q *lehta* «free, released» вместо первого *lerina*: у Толкина *lerina* — «free (of things)» (PE17/160), о вещах, а не о людях. *entladen* — «разгруженный», *lehta* — «отпущенный».
+- ***ilya quondallo nolwëo*** — «от всякого чада премудрости». нкв. *quonda* «choking smog, smoke» + отделительный *-llo*. Q *usquë* я не взял: в позднем квенья оно значит «сумерки, тусклый свет» (ᴹQ — «чад»), а сумерки здесь — лунные, желанные. ᴹQ *ñolwë* «wisdom, (secret) lore» (Ety/ÑGOL; в современном написании *nolwë*), родительный *nolwëo*. Корень ÑGOL — тот же, что у *núlë* «магия» в 552, так что Фауст хочет отмыться от той самой премудрости, ради которой предался магии.
+- ***rossetyassë*** — Q *rossë* «(fine) rain», в ᴹQ также «dew» (Ety/ROS). Для позднего квенья это «в твоём мелком дожде». Роса — ᴹQ.
+- ***hwaluvan imni málëa*** — Q *hwal-* «to wash» (нкв. *sov-* «bathe» под звёздочкой), *imni* «себя» (как в 553 *antanen imni*), нкв. *málëa* «healthy». «gesund mich baden» — результат, а не состояние, и квенийского образца для такого приложения у меня нет. Это калька с немецкого.
+
+**Что потеряно.** Рифмы (*Bergeshöhn / gehn*, *schweben / weben*, *entladen / baden*), «lieben» стало *melda*, «Bergeshöhle» — просто «пещеры». Не отдавал на проверку.
