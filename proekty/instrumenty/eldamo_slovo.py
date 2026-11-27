@@ -22,9 +22,10 @@ for m in re.finditer(r'<word\b([^>]*)>', text):
     chunk = text[m.end():m.end() + 1500]
     refs = re.findall(r'<ref\b[^>]*v="([^"]*)"[^>]*source="([^"]*)"', chunk)[:3]
     # 27.11: пометка «устарело» (<deprecated> внутри статьи — по eldamo-schema.xsd; так же в eldamo_statya.py)
-    end = text.find("</word>", m.end())
-    own = text[m.end():end if end > 0 else m.end() + 3000]
-    own = re.sub(r"<word\b.*?</word>", "", own, flags=re.S)
+    # только теги самой статьи: до первого вложенного <word или закрывающего </word> (как в eldamo_statya.py).
+    # Первая версия (27.11) брала до первого </word> и цепляла чужие теги: ложные «УСТАРЕЛО» у cilin, melda, mando.
+    ends = [x for x in (text.find("<word", m.end()), text.find("</word>", m.end())) if x > 0]
+    own = text[m.end():min(ends) if ends else m.end() + 3000]
     dep = [dict(re.findall(r'(\w+)="([^"]*)"', d)) for d in re.findall(r'<deprecated\b([^>]*)/?>', own)]
     ust = ("  ⚠УСТАРЕЛО→ " + ", ".join("%s %s" % (d.get("l", "?"), d.get("v", "—")) for d in dep)) if dep else ""
     print("%-5s %-20s %-30s %s%s" % (attrs.get("l", "?"), v, attrs.get("gloss", ""), "; ".join("%s (%s)" % r for r in refs), ust))
