@@ -91,7 +91,7 @@ def satz_qu(text, obryv=None):
 SATZ_QU = {}
 for k in range(1, 8):
     mode = satz_de[k][1]
-    SATZ_QU[k] = (satz_qu(tekst[k], obryv="I !ú" if k == 7 else None), mode)
+    SATZ_QU[k] = (satz_qu(tekst[k], obryv="I ú" if k == 7 else None), mode)
 
 # --- ритм и высоты, как motto() автора
 D = 62
