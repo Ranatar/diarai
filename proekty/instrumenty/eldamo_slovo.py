@@ -1,4 +1,4 @@
-"""eldamo_slovo.py слово [язык] — найти в inbox/eldamo/src/data/eldamo-data.xml словарные статьи <word v="…">,
+"""[27.11: если слово не найдено среди слов, ищет его в заметках Eldamo.] eldamo_slovo.py слово [язык] — найти в inbox/eldamo/src/data/eldamo-data.xml словарные статьи <word v="…">,
 чьё v начинается со «слово» (без учёта регистра и диакритики), и напечатать язык, v, gloss и первые cite.
 2026-10-18. Нужен для разбора имён (например, «Ránatar Maivandion»)."""
 import re, sys, unicodedata, os
@@ -26,3 +26,26 @@ for m in re.finditer(r'<word\b([^>]*)>', text):
     if n >= 25:
         break
 print("найдено (до 25):", n)
+
+# 2026-11-27: если среди слов ничего нет — искать слово в заметках (<notes>) Eldamo. Повод: *lanina* «woven»
+# стоит только в заметке к нкв. *vírina* («Another possibility is lanina…»), и Quettali его знает, а я не нашёл.
+if n == 0:
+    w = sys.argv[1]
+    k = 0
+    for m in re.finditer(r'<word\b([^>]*)>(.*?)</word>', text, re.S):
+        body = m.group(2)
+        nm = re.search(r'<notes><!\[CDATA\[(.*?)\]\]></notes>', body, re.S)
+        if not nm:
+            continue
+        plain = re.sub(r"<[^>]+>", "", nm.group(1))
+        hit = re.search(r"\b%s\b" % re.escape(w), plain, re.I)
+        if not hit:
+            continue
+        attrs = dict(re.findall(r'(\w+)="([^"]*)"', m.group(1)))
+        a = max(0, hit.start() - 80)
+        print("  в заметке к %s %s «%s»: …%s…" % (attrs.get("l", "?"), attrs.get("v", ""), attrs.get("gloss", ""),
+                                                 plain[a:hit.end() + 80].replace("\n", " ")))
+        k += 1
+        if k >= 10:
+            break
+    print("в заметках:", k)
