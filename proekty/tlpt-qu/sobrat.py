@@ -27,7 +27,7 @@ for l in open(os.path.join(root, "inbox", "Suite_.txt"), encoding="utf-8"):
     avtor[num] = m.group(2).strip()
 
 # 2. я: | номер [уточнение] | немецкий | квенья (пометки) | обратно |
-moi = {}
+moi, avtor_var = {}, {}
 v_tablice = False
 for l in open(os.path.join(root, "proekty", "tractatus-quenya", "stranica.md"), encoding="utf-8"):
     # только первая (сводная) таблица: ниже есть другие таблицы с номерами строк в первом столбце
@@ -39,9 +39,14 @@ for l in open(os.path.join(root, "proekty", "tractatus-quenya", "stranica.md"), 
     if not m:
         continue
     num, utochn, kv, obr = (x.strip() for x in m.groups())
-    if "(автор" in kv:          # строка автора, взятая мной как есть, — она уже есть в Suite
-        continue
     kursiv = re.findall(r"\*([^*]+)\*", kv)
+    if "(автор" in kv:
+        # строка автора, взятая мной как есть. Если она совпадает с Suite — пропускаю; если нет (7: доклад
+        # «Философские термины на квэнья» против Suite 2022) — это второй вариант автора, его не терять.
+        norm = lambda x: re.sub(r"[\W_]+", " ", x).strip().lower()
+        if kursiv and norm(kursiv[0]) != norm(avtor.get(num, "")):
+            avtor_var.setdefault(num, []).append(kursiv[0].strip())
+        continue
     tekst = kursiv[0].strip() if kursiv else kv
     pomety = kv.replace("*" + kursiv[0] + "*", "", 1).strip() if kursiv else ""
     moi.setdefault(num, []).append({"utochn": utochn, "tekst": tekst, "pomety": pomety, "obr": obr})
@@ -54,6 +59,8 @@ for num in nums:
     elif my:
         v = my[0]
         texts[num] = ("[…] " if v["utochn"] else "") + v["tekst"]
+    for x in avtor_var.get(num, []):
+        comments.append({"covers": [num], "text": "Вариант автора (доклад «Философские термины на квэнья»): *" + x + "*"})
     for i, v in enumerate(my):
         if not a and i == 0:
             head = "Черновик Третьего" + (" (" + v["utochn"].strip("() ") + ")" if v["utochn"] else "") + "."
