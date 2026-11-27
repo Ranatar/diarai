@@ -696,3 +696,21 @@
 - ***ma ui sa fárëa tulyalë tyen?*** — «разве она тебе не довольный провожатый?». ᴹQ *fárëa* «enough, sufficient» (позднего слова в Eldamo нет; Quettali читает *fárëa* как «охотится»). *tulyalë* — моё отглагольное от Q *tulya-* «\*to lead; to fetch» + *-lë*: «ведение». [По проверке: у Толкина есть *tulyandë* «[process of] fetching» (PE22/137), но и оно значит действие, а не «провожатого». Оставил своё и отмечаю потерю.] ᴹQ *fárea* у Eldamo пишется без диэрезы; Quettali читает его как «охотится», вероятно, из-за ᴹQ *farea nasto* «зверь для охоты». «Geleit» («провожатый, сопровождение») передано приблизительно.
 
 **Что потеряно.** Рифмы (*Land / Hand*, *Buch / genug*), «hinaus», точное «Geleit». Проверено субагентом 27.11, поправки — в скобках выше.
+
+# «Ночь», строки 602–605 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***San istuvatyë i tië elenion,***  (602: Erkennest dann der Sterne Lauf,)
+> ***ar íre i nassë tyë nolya,***  (603: Und wenn Natur dich Unterweist,)
+> ***san i melehtë fëo orya tyen,***  (604: Dann geht die Seelenkraft dir auf,)
+> ***manen fëa quetë hyana fëanna.***  (605: Wie spricht ein Geist zum andren Geist.)
+
+Обратный перевод: «Тогда узнаешь путь звёзд, / и когда природа тебя наставит, / тогда сила души взойдёт тебе — / как дух говорит другому духу».
+
+Немецкий сверен (`sed -n 602,605p`). Quettali: не узнал ᴹQ *nolya*; *íre* «когда» читает и как «желание». Все слова прогнаны через `eldamo_slovo.py` с пометкой «УСТАРЕЛО».
+
+- ***istuvatyë i tië elenion*** — Q *ista-* «to know», будущее + *-tyë*; Q *tië* «path, road, way, line»; *elenion* — род. мн. от *elen* «star». «Erkennen» стало «узнать».
+- ***íre i nassë tyë nolya*** — *íre* «когда»; Q *nassë* — как в 593: у Гёте здесь опять «Natur», и я держу одно слово (с той же оговоркой: *nassë* — природа как сущность, а не окружающий мир). ᴹQ ***nolya-*** «to teach» (PE23/94). Сначала я взял нкв. *nolta-*, но пометка «УСТАРЕЛО → mq nolya-» указала на толкиновское. Корень ÑGOL — тот же, что у *ñolwë* «премудрость» в 573: Фауст хотел отмыться от «чада премудрости», а наставлять его будет природа, тем же корнем.
+- ***i melehtë fëo orya tyen*** — Q *melehtë* «might, power (inherent)» (как в 554), *fëo* — род. от *fëa* «soul» (как в моём «Трактате» 6.4312), Q *orya-¹* «to rise» (то же, что *Á orya!* в 598): сила души «восходит», как светило. *tyen* — «тебе».
+- ***manen fëa quetë hyana fëanna*** — Q *manen* «how» (PM/395), *fëa* «spirit, soul», Q *quet-* «говорить», Q *hyana* «other», аллатив *fëanna* «к духу». **Почему не *carpa-*:** Q *carpa-* — «to talk, speak, **use tongue**» (и Eldamo его помечает «УСТАРЕЛО → nq pahta-»), а дух говорит с духом без языка. У Толкина для этого есть термин: Q ***ósanwë*** «communication of thought, interchange of thought; (lit.) thinking together» (MR/415; «Ósanwe-kenta», «Исследование об общении мыслей»). Я его в строку не ввёл, чтобы не толковать Гёте Толкином, но строка 605 у Гёте и есть *ósanwë*. «Geist» — *fëa*, а не *fairë* («дух бесплотный», 571): Фауст говорит о живом духе.
+
+**Что потеряно.** Рифмы (*Lauf / auf*, *unterweist / Geist*). Не отдавал на проверку.
