@@ -19,7 +19,7 @@ LONG = ast.literal_eval(re.search(r"^LONG = (\[.*?\])", src, re.M).group(1))
 lines = [l.strip() for l in open(sys.argv[1], encoding="utf-8") if l.strip()]
 assert len(lines) == len(SYL) == len(LONG) == 17, (len(lines), len(SYL), len(LONG))
 
-ne_syl = ne_long = 0
+ne_syl = ne_long = sdvig = 0
 for i, l in enumerate(lines):
     slogi, udar = [], set()
     for w, n, s in kv_udar.line_scheme(l):
@@ -34,6 +34,8 @@ for i, l in enumerate(lines):
     ok_long = (LONG[i] in udar) if ok_syl else None
     if ok_long is False:
         ne_long += 1
+        if udar and LONG[i] == min(udar) + 1:
+            sdvig += 1
     print("%2d  слогов: моё %2d, piece %2d %s | LONG=%d → «%s» %s | ударные: %s | %s" % (
         i + 1, n, SYL[i], "  " if ok_syl else "≠", LONG[i],
         slogi[LONG[i]] if LONG[i] < n else "?",
@@ -41,3 +43,4 @@ for i, l in enumerate(lines):
         ",".join(str(x) for x in sorted(udar)), l))
 print("строк: %d; не совпало число слогов: %d; LONG на безударном (из строк с совпавшим числом): %d" % (
     len(lines), ne_syl, ne_long))
+print("из них LONG ровно на слог позже первого ударного слога строки (как при счёте с 1): %d" % sdvig)
