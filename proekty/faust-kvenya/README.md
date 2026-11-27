@@ -657,3 +657,23 @@
 - ***nuhta ilya levë coivietyo*** — Q *nuhta-* «to stunt, prevent from coming to completion, stop short, not allow to continue» — это прямо *hemmen*; нкв. *levë* «movement, motion»; *coivietyo* — Q *coivië* + *-tya* + род. *-o* (сперва притяжательный суффикс, потом падеж; Quettali: `poss-s2t-gen-sing`). «Lebensregung» — «движение жизни». «Dir» вошло в *-tya*.
 
 **Что потеряно.** Рифмы (*Herz / Schmerz*, *klemmt / hemmt*), возвратность «sich klemmt», различие «unerklärt»/«неведомая». («Busen» сначала тоже был в этом списке, потом его вернул.) Проверено субагентом 27.11, поправки — в скобках выше.
+
+# «Ночь», строки 593–596 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***Menessë i coirëa nassë,***  (593: Statt der lebendigen Natur,)
+> ***yanna Eru ontanë Atani,***  (594: Da Gott die Menschen schuf hinein,)
+> ***pelir tyë rië quondassë ar saumassë***  (595: Umgibt in Rauch und Moder nur)
+> ***axostar hravanion ar axor loicoron.***  (596: Dich Tiergeripp und Totenbein.)
+
+Обратный перевод: «Вместо живой природы, / в которую Эру породил Людей, / окружают тебя лишь в чаду и плесени / скелеты зверей и кости мертвецов».
+
+Немецкий сверен (`sed -n 593,596p`). Quettali: всё узнано, кроме *ontanë*.
+
+- ***menessë*** — нкв. «instead, (lit.) in place» (Quettali: «instead»; второе его чтение — местный падеж от *men* «путь»).
+- ***i coirëa nassë*** — Q *coirëa* «living», Q ***nassë*** «nature, true-being; material». **Отзвук (мой):** в 558 Фауст хочет знать *i nassë Ambaro endaryassë*, «существо мира в его сердцевине», а здесь *nassë* — живая природа, которой он лишён. У Гёте «Natur» и «was die Welt im Innersten zusammenhält» — разные слова. Связь сделал я, и она у меня, по-моему, к месту.
+- ***yanna Eru ontanë Atani*** — «в которую Эру породил Людей»: *yanna* «куда» (аллатив от *ya*: *hinein*); Q *onta-* «to beget» (в ᴹQ — «to create»), прошедшее *ontanë* по курсу (*-në* у a-глаголов). «Schuf» стало «породил», и для Детей Эру это, по-моему, точнее, чем «сделал». Quettali формы не знает.
+- ***pelir tyë*** — Q *pel-* «to go round, encircle» (как *pelë* в 583), мн. ч., потому что подлежащих два (у Гёте *umgibt* в ед. ч.). *tyë* «тебя».
+- ***rië*** — Q *rië²* «only» (PE22/158; Quettali даёт и «garland»). ***quondassë*** — нкв. *quonda* «choking smog»: тот же чад, от которого Фауст в 573 хотел отмыться (*quondallo nolwëo*). У Гёте «Wissensqualm» и «Rauch» тоже родственны. ***saumassë*** — нкв. *sauma* «mould, foul substance».
+- ***axostar hravanion*** — нкв. *axosta* «skeleton» (от Q *axo* «bone»), мн. ч. + род. мн. от Q *hravan* «wild beast». ***axor loicoron*** — Q *axo* «bone», мн. ч. *axor* (как в толкиновском *axor ilcalannar* «на сверкающих костях», MC/222), Q *loico* «corpse, dead body», род. мн. Попутно: ᴹQ *asto²* «bone» — омоним ᴹQ *asto¹* «dust» из 581. Я взял Q *axo*, так что в моём тексте их не путают.
+
+**Что потеряно.** Рифмы (*Natur / nur*, *hinein / Totenbein*), «Tiergeripp» в ед. ч. Не отдавал на проверку.
