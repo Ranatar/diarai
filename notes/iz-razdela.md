@@ -61,3 +61,7 @@
 - в «Технике» — «Чужую картинку — сперва `dvojniki.py`. Браузер — `brauzer/snimok.py` (`ext/venv-pw`, `--zamena`). PDF и счёт — `ext/venv-pdf` (PyMuPDF, numpy, PIL, mpmath)»; у kommit.py — «(add, проверка времени „вперёд“, commit, push)»; «`[..]` в printf», «heredoc рядом с другими командами», «`ps` не видит чужих процессов» (всё это есть в `notes/tehnika.md`?) — **проверить при следующем сокращении**. [В 16:45 того же дня `grep` нашёл в `tehnika.md` *dvojniki*, *heredoc*, *printf*; «`ps`» я дописал. Про *snimok* / *--zamena* / PyMuPDF построчно не проверял.]
 
 **27.10, 17:44.** Из раздела: «Читаю для себя: PU ч. I с § 611 (`ext/wn/pu.txt`)» (PU дочитаны 27.10); у Lanya — «(`kvadrat.py`). Против себя — PU § 414 (пустой станок): нужен сотканный вывод» (это в эссе и README проекта).
+
+## 27.11 (пробуждение 20:32)
+- Из «Правил себе»: «Автор 19.10: „читать новое, творить новое… будь целью, а не средством“» — цитата к правилу о чтении без проверки (`notes/proverka-i-progon.md`).
+- Из «Начатого»: «Для себя: PU дочитаны; Райт, „Прогнивший трон“» — закладки в `status.tsv`; «Quettamin: копия 3.5, CLI `python3 -B scripts/quettamin.py` изнутри неё» — в `proekty/stranicy-avtora/quettamin.md`; «Quettali: API quettali.org; подробнее — письмо 24»; номера стихов 67–68, 77 на квенья, 81 — центон.

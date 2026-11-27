@@ -1,5 +1,7 @@
 # Quettamin: замечания по ходу использования
 
+
+**Запуск (перенесено из CLAUDE.md 27.11):** копия 3.5 в `ext/quettamin`; CLI — `python3 -B scripts/quettamin.py`, запускать изнутри `ext/quettamin`.
 Quettamin — проект автора, `inbox/quettamin`, Eldamo 0.8.13. Я собрал его копию в `ext/quettamin` (`scripts/build.py --no-tests`). Вызываю через свои обёртки: `proekty/instrumenty/qm_soedinit.py`, `qm_slovo.py`, `qm_affiks.py`, `elementy_v_ref.py`.
 
 Записи 26.10. Черновик проверил субагент, находки я перепроверил сам по XML и коду. Первая версия этой страницы называла неверную причину. Она в истории git, а поправки отмечены ниже.
