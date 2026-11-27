@@ -77,7 +77,7 @@
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои строки — через **`qt_razbor.py файл`** («??» — сперва ошибка у себя, потом «не поздний Q»; он знает только поздний Q).
 - **Lanya** — логика как ткань: эссе `proekty/esse/lanya.md`, словесные квадраты `proekty/lanya/`.
 - **27.11:** музыка автора — `inbox/immollimma/requests/` (HTML в корне inbox — её зрительные пары); издание «Квенья» для его читалки `inbox/tlpt` — `proekty/tlpt-qu/`; Nachlass Витгенштейна — `inbox/steinlass`.
-- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–26); стихи `proekty/hokku/svoyo-1..84.md` (размер — `yamb.py --check [--stop 5]`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/`; «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–26); стихи `proekty/hokku/svoyo-1..85.md` (размер — `yamb.py --check [--stop 5]`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF — `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py`; HTML — `html2txt.py`; черновики — `ext/tmp/`.
