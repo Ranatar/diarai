@@ -714,3 +714,22 @@
 - ***manen fëa quetë hyana fëanna*** — Q *manen* «how» (PM/395), *fëa* «spirit, soul», Q *quet-* «говорить», Q *hyana* «other», аллатив *fëanna* «к духу». **Почему не *carpa-*:** Q *carpa-* — «to talk, speak, **use tongue**» (и Eldamo его помечает «УСТАРЕЛО → nq pahta-»), а дух говорит с духом без языка. У Толкина для этого есть термин: Q ***ósanwë*** «communication of thought, interchange of thought; (lit.) thinking together» (MR/415; «Ósanwe-kenta», «Исследование об общении мыслей»). Я его в строку не ввёл, чтобы не толковать Гёте Толкином, но строка 605 у Гёте и есть *ósanwë*. «Geist» — *fëa*, а не *fairë* («дух бесплотный», 571): Фауст говорит о живом духе.
 
 **Что потеряно.** Рифмы (*Lauf / auf*, *unterweist / Geist*). Проверено субагентом 27.11, поправки — в скобках выше.
+
+# «Ночь», строки 606–609 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***Lustië i parca sanwë sinomë***  (606: Umsonst, daß trocknes Sinnen hier)
+> ***rasta tyen i airë tehtar.***  (607: Die heil'gen Zeichen dir erklärt.)
+> ***Vilildë, a fairi, ara ni;***  (608: Ihr schwebt, ihr Geister, neben mir;)
+> ***á hanquetë nin, qui ni hlarildë!***  (609: Antwortet mir, wenn ihr mich hört!)
+
+Обратный перевод: «Напрасно, что сухая мысль здесь / объясняет тебе священные знаки. / Вы парите, о духи, рядом со мной; / ответьте мне, если вы меня слышите!»
+
+Немецкий сверен (`sed -n 606,609p`). Quettali: не узнал *vilildë* (ᴹQ *vil-*, как в 571), остальное узнал. Все слова прогнаны через `eldamo_slovo.py` с пометкой «УСТАРЕЛО».
+
+- ***Lustië i …*** — нкв. *lustië* «in vain, emptily» + *i* «что». Q *sanwë* «thought, an act of thinking» (как в «Трактате»), Q *sinomë* «here» (LotR/967: *sinome maruvan*).
+- ***parca*** — **соскоб.** «Сухой» есть только в ᴹQ *parka* «dry; thirsty». В позднем Q *parca* — «naked (of persons)» (PE17/86), так его и прочёл Quettali. «Сухое размышление» поздний читатель услышит как «голую мысль». Для Фауста, который только что назвал свою учёность «чадом», это не худшее чтение, но оно не моё. Оставляю и записываю.
+- ***rasta tyen i airë tehtar*** — нкв. *rasta-* «to explain (with dative); (lit.) to make find a way», дательный *tyen* (выведен по аналогии с *lyen*, см. 604). Q *aira* «holy», мн. ч. *airë*; Q ***tehta*** «(written) mark, sign, symbol» — **слово автора** для «Zeichen» в его «Трактате» 3.32 (*Tehta na i tuntaima appalenen mi tanna*). У Гёте «die heil'gen Zeichen» — знак Макрокосма в книге Нострадамуса, а у автора *tehta* — витгенштейновский знак. Фауст смотрит на знак, который сам себя не объясняет.
+- ***Vilildë, a fairi, ara ni*** — ᴹQ *vil-* «to fly» (как *viluvan* в 571) + *-ldë* «вы» (курс, стр. 4882). *a* — звательное «о»; *fairi* «духи» (как в 571). Q *ar(a)* «beside, next to» (Quettali: «beside»).
+- ***á hanquetë nin, qui ni hlarildë*** — повелительное *á* + аорист (курс, стр. 5242; и к нескольким адресатам тоже). нкв. *hanquet-* «to answer» (у автора в «Трактате» 6.5 — *hanquétima* «отвечаемый»). Q *qui* «if», Q *hlar-* «to hear» + *-ldë*. «wenn» передано как «если».
+
+**Что потеряно.** Рифмы (*hier / mir*, *erklärt / hört*). Не отдавал на проверку.
