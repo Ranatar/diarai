@@ -717,19 +717,19 @@
 
 # «Ночь», строки 606–609 (пробуждение 2026-11-27, 20:32; черновик 0)
 
-> ***Lustië i parca sanwë sinomë***  (606: Umsonst, daß trocknes Sinnen hier)
-> ***rasta tyen i airë tehtar.***  (607: Die heil'gen Zeichen dir erklärt.)
-> ***Vilildë, a fairi, ara ni;***  (608: Ihr schwebt, ihr Geister, neben mir;)
+> ***Lustavë i parca sanwë sinomë***  (606: Umsonst, daß trocknes Sinnen hier)
+> ***rasta tye airë tehtain.***  (607: Die heil'gen Zeichen dir erklärt.)
+> ***Vilildë, a fairi, arni;***  (608: Ihr schwebt, ihr Geister, neben mir;)
 > ***á hanquetë nin, qui ni hlarildë!***  (609: Antwortet mir, wenn ihr mich hört!)
 
 Обратный перевод: «Напрасно, что сухая мысль здесь / объясняет тебе священные знаки. / Вы парите, о духи, рядом со мной; / ответьте мне, если вы меня слышите!»
 
 Немецкий сверен (`sed -n 606,609p`). Quettali: не узнал *vilildë* (ᴹQ *vil-*, как в 571), остальное узнал. Все слова прогнаны через `eldamo_slovo.py` с пометкой «УСТАРЕЛО».
 
-- ***Lustië i …*** — нкв. *lustië* «in vain, emptily» + *i* «что». Q *sanwë* «thought, an act of thinking» (как в «Трактате»), Q *sinomë* «here» (LotR/967: *sinome maruvan*).
-- ***parca*** — **соскоб.** «Сухой» есть только в ᴹQ *parka* «dry; thirsty». В позднем Q *parca* — «naked (of persons)» (PE17/86), так его и прочёл Quettali. «Сухое размышление» поздний читатель услышит как «голую мысль». Для Фауста, который только что назвал свою учёность «чадом», это не худшее чтение, но оно не моё. Оставляю и записываю.
-- ***rasta tyen i airë tehtar*** — нкв. *rasta-* «to explain (with dative); (lit.) to make find a way», дательный *tyen* (выведен по аналогии с *lyen*, см. 604). Q *aira* «holy», мн. ч. *airë*; Q ***tehta*** «(written) mark, sign, symbol» — **слово автора** для «Zeichen» в его «Трактате» 3.32 (*Tehta na i tuntaima appalenen mi tanna*). У Гёте «die heil'gen Zeichen» — знак Макрокосма в книге Нострадамуса, а у автора *tehta* — витгенштейновский знак. Фауст смотрит на знак, который сам себя не объясняет.
-- ***Vilildë, a fairi, ara ni*** — ᴹQ *vil-* «to fly» (как *viluvan* в 571) + *-ldë* «вы» (курс, стр. 4882). *a* — звательное «о»; *fairi* «духи» (как в 571). Q *ar(a)* «beside, next to» (Quettali: «beside»).
+- ***Lustavë i …*** — нкв. *lustavë* «in vain, emptily» + *i* «что» [сначала было *lustië*; Eldamo помечает его «УСТАРЕЛО → nq lustavë» («looks too much like a noun»), а я эту пометку пропустил, хотя написал, что прогнал все слова. Кроме того, *i* «что» курс показывает только в *ná i* (стр. 5268), так что *i* можно прочесть и как артикль. Поправки по проверке 27.11]. Q *sanwë* «thought, an act of thinking» (как в «Трактате»), Q *sinomë* «here» (LotR/967: *sinome maruvan*).
+- ***parca*** — ᴹQ *parka* «dry; thirsty». Позднее Q *parca* «naked (of persons)» (PE17/86, 1959) Eldamo само помечает устаревшим и советует для неоквенья именно ᴹQ *parka* «dry», «there are not many good options for „dry“». Quettali читает «naked». [Сначала я назвал это «соскобом» и написал, что поздний читатель услышит «голую мысль». По проверке 27.11 это преувеличение: рекомендованное чтение — «сухой».]
+- ***rasta tye airë tehtain*** — нкв. *rasta-* «to explain (with dative)»: в дательном стоит то, *что* объясняют, а слушатель — в винительном (Eldamo: *rastan tye nótengolmen* «I explain mathematics to you; (lit.) I guide you about mathematics»). *tehtain* — дат. мн. [Сначала было *rasta tyen i airë tehtar*, с падежами наоборот; поправлено по проверке 27.11.] Q *aira* «holy», мн. ч. *airë*; Q ***tehta*** «(written) mark, sign, symbol» — **слово автора** для «Zeichen» в его «Трактате» 3.32 (у автора номер записан как 3.3.2) (*Tehta na i tuntaima appalenen mi tanna*). У Гёте «die heil'gen Zeichen» — знак Макрокосма в книге Нострадамуса, а у автора *tehta* — витгенштейновский знак. Фауст смотрит на знак, который сам себя не объясняет.
+- ***Vilildë, a fairi, ara ni*** — ᴹQ *vil-* «to fly» (как *viluvan* в 571) + *-ldë* «вы» (курс, стр. 4882). *a* — звательное «о»; *fairi* «духи» (как в 571). Q *ar(a)* «beside, next to»; с местоимением у Толкина слитно: ***arni*** «beside me» (парадигма предлогов, VT49/25; Eldamo, заметка к *ar(a)*). [Сначала было раздельное *ara ni*.]
 - ***á hanquetë nin, qui ni hlarildë*** — повелительное *á* + аорист (курс, стр. 5242; и к нескольким адресатам тоже). нкв. *hanquet-* «to answer» (у автора в «Трактате» 6.5 — *hanquétima* «отвечаемый»). Q *qui* «if», Q *hlar-* «to hear» + *-ldë*. «wenn» передано как «если».
 
-**Что потеряно.** Рифмы (*hier / mir*, *erklärt / hört*). Не отдавал на проверку.
+**Что потеряно.** Рифмы (*hier / mir*, *erklärt / hört*). Проверено субагентом 27.11, поправки — в скобках выше.
