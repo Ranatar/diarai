@@ -851,3 +851,17 @@
 Обратный перевод: «Два разных символа могут иметь один и тот же знак: тогда они обозначают разным способом». Положение взято не случайно: всё сегодняшнее утро было о нём. *talca* и ᴹQ *talka*, «¬V» и «V¬», ξ(t) и ξ(s), два «Y», перевёрнутый электрон — это знаки, общие для двух символов (`proekty/esse/tablica.md`). А 3.325 просит языка, где такого не бывает. Uscript, кажется, такой язык и строит: «We are mixing math and programming notation so the = symbols is overloaded. Here we create a new symbol to distinguish usage types» (ключ стр. 12).
 
 (Проверено, см. выше.)
+
+## 3.1. «Im Satz drückt sich der Gedanke sinnlich wahrnehmbar aus.»
+*(27.11, пробуждение 20:32. `sverka_suite.py`: у автора 3.1 нет, но есть 3 (*Lillea emma ennaron na tenna*), 4 (*I tenna na tanalinqua eques*) и 3.32 (*Tehta na i tuntaima appalenen mi tanna*). Повод — музыка автора к «Трактату» (`inbox/immollimma/requests/tractatus/plan.md`): в ней мысль тоже «чувственно воспринимаема».)*
+
+> ***Equessessë i tenna ola tuntaima appalenen.***
+> «В предложении мысль становится ощутимой чувством».
+
+- ***eques*** «Satz» и ***tenna*** «Gedanke» — **слова автора** (его 3, 4, 4.001). У Толкина Q *eques* — «saying, dictum», мн. ч. *equessi* (WJ/392); Q *tenna³* — «thought, notion, idea» (PE19/97). Quettali читает *tenna* как «until» или «letter»: у слова три омонима, но толкиновское значение «мысль» засвидетельствовано.
+- *equessessë* — местный падеж от основы *equess-* (мн. ч. *equessi*, WJ/392) + *-essë* после согласного. Quettali формы не узнал («ecwessesse», mode=error). Это моя форма по правилу, образца с этим словом нет. У автора в 6.4 мн. ч. *equesi* с одним *s*; я иду за Толкином.
+- ***tuntaima appalenen*** — **слова автора** из 3.32 для «sinnlich wahrnehmbar». нкв. *tunta-* «notice, perceive» (от ᴱQ, QL/95) + *-ima*; нкв. *appalë* «sense of touch, sensation» в творительном. Оговорка, как в `proekty/elfijskoe/orbis-slovar.md`: *appalë* скорее «осязание», чем «чувственное вообще».
+- ***ola*** — Q *ola-* «to become» (PE22/133 *olōlie* «has become»; поздний глагол, сменивший ᴹQ *ol-*), аорист a-глагола — основа. **Потеря:** «drückt sich aus» стало «становится». Отдельного глагола «выражать» у Толкина нет (`eldamo_gloss.py express`: только нкв. *quettalë* «expression» как существительное). *tana-* «показывать» не годится: в 4.1212, 5.62 и 6.522 он у меня стоит для *zeigen*, а у Витгенштейна «выражать» и «показывать» — разные вещи. ᴹQ *panta-* «unfurl, open» и нкв. *apanta-* «reveal» снова свели бы выражение к показу. «Становится ощутимой» сохраняет главное для 3.1: мысль переходит в чувственно воспринимаемое.
+- Quettali: *ola* = «become» [verb-aor1-sing], *tuntaima* = *tunta* + *-ima*; не узнал *equessessë* и *appalenen* (нкв. слово автора).
+
+Обратный перевод: «В предложении мысль становится ощутимой чувством».

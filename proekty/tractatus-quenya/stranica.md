@@ -86,6 +86,7 @@
 | 7′ | — | *I úquétima ná avaquétima.* | Невозможное сказать — не должно быть сказано. |
 | 5.62 (вторая фраза, конец) | … nur lässt es sich nicht sagen, sondern es zeigt sich. | *Ananta sa ná úquétima, mal tana insa.* (ᴹQ *ananta*; добавлено в таблицу 27.11, разбор — `perevod.md`, 21.10) | И всё же это несказуемо, а показывает себя. |
 | 3.321 (без скобки) | Zwei verschiedene Symbole können also das Zeichen miteinander gemein haben—sie bezeichnen dann auf verschiedene Art und Weise. | *Tanna atta alavéla ecit samë imya tehta: tá tëat alavéla lénen.* (*tanna*, *tehta* — автор, 3.32; ᴺQ *alavéla*; добавлено в таблицу 27.11, разбор — `perevod.md`, 21.10) | Два разных символа могут иметь один и тот же знак: тогда они обозначают разным способом. |
+| 3.1 | Im Satz drückt sich der Gedanke sinnlich wahrnehmbar aus. | *Equessessë i tenna ola tuntaima appalenen.* (*eques*, *tenna*, *tuntaima appalenen* — автор, 3, 4, 3.32; «drückt sich aus» → *ola* «становится», потеря; 27.11) | В предложении мысль становится ощутимой чувством. |
 
 ## Пять находок по пути
 1. **7 у Толкина.** В WJ/370 он сам противопоставляет *úquétima* («невозможно сказать») и *avaquétima* («не должно быть сказано»): это *kann nicht* и *muss* положения 7. Курс (§5.5) говорит о том же: отрицание на *u* отрицает факт, на *va* — решение.
