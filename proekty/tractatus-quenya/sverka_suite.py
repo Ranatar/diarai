@@ -12,7 +12,14 @@ import json, os, re, sys
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 tlp = json.load(open(os.path.join(root, "ext", "tractatus", "tlp.json"), encoding="utf-8"))
 moi = {}
+v_tablice = False
 for l in open(os.path.join(root, "proekty", "tractatus-quenya", "stranica.md"), encoding="utf-8"):
+    # только первая (сводная) таблица. До 2026-11-27 читались все таблицы, и под «1» попадала
+    # строка 1 из таблицы «Лебедь остаётся лебедем» (*Alqua lemya alqua*); нашлось при сборке proekty/tlpt-qu.
+    if l.startswith("|"):
+        v_tablice = True
+    elif v_tablice:
+        break
     m = re.match(r"\|\s*(\d(?:\.\d+)?)[^|]*\|[^|]*\|([^|]*)\|", l)
     if m:
         moi.setdefault(m.group(1), []).append(m.group(2).strip())
