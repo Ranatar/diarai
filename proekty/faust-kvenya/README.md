@@ -597,3 +597,19 @@
 - ***ter quilina cilin*** — «сквозь расписное стекло». Q *ter* «through»; нкв. *quilya-* «to colour, *paint», страдательное причастие *quilina*: у глаголов на *-ya* суффикс заменяет *ya* (курс, стр. 13656: *ferya- → ferina*; `notes/kvenya-formy.md`). [Сначала стояло *quilyaina* — ошибка формы, поймал проверяющий 27.11. Ещё одна поправка: «Quettali даёт Q-значение adorn» — Q-статьи *quilya-* в Eldamo нет, есть только нкв.; «adorn» — пометка самого Quettali. И расхождение: Quettali принимал *quilyainë* (`pas-adj`), а *quilina* не узнаёт. Значит, у него для глаголов на *-ya* другое правило, чем в курсе. Иду за курсом (*ferya- → ferina*, PE17/181), как велит моё правило о формах.]; Q *cilin* «glass» (PE17/37). Мн. ч. от *cilin* я не знаю: основа в Eldamo не указана, а из *cilintilla*, *cilintír* (PE17/37) её не выведешь. Поэтому ед. ч. как собирательное, и «Scheiben» теряют множественность.
 
 **Что потеряно.** Рифмы (*noch / Mauerloch*, *Himmelslicht / bricht*), «bricht», множественное «Scheiben». Проверено субагентом 27.11; поправки — в скобках выше.
+
+# «Ночь», строки 579–580 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***Lanina hamnanen sina parmaron,***  (579: Beschränkt mit diesem Bücherhauf,)
+> ***ya hlóci nwarir, ya asto tupë,***  (580: Den Würme nagen, Staub bedeckt,)
+
+Обратный перевод: «Ограниченный этой грудой книг, / которую точат черви, которую покрывает пыль».
+
+Немецкий сверен. Quettali: не узнал *nwarir*; *asto* читает как род. от *asta* «month».
+
+- ***lanina*** — страдательное причастие от позднего Q ***lanya-¹*** «to bound, enclose, separate from, mark the limit of» (VT42/8): у глаголов на *-ya* *ya* заменяется (*ferya- → ferina*, курс, стр. 13656). «Beschränkt» — ровно «ограниченный пределом». **Оговорка, и она важна.** Quettali читает *lanina* как «woven». Это из Eldamo, но не из статьи, а из заметки к нкв. *vírina* «woven» (Фаускангер): «Another possibility is *lanina* "woven", the passive participle of [ᴹQ.] *lanya-* "to weave"». Мой `eldamo_slovo.py` заметок не ищет и слова не нашёл, `grep` по XML нашёл. Выходит перекрёст с 572. Там Фауст хочет *lanyuvan* «буду ткать» (ᴹQ), а поздний читатель слышит «буду ставить предел». Здесь он *lanina* «ограничен», а читатель по заметке Eldamo слышит «соткан». Я этого не искал: «beschränkt» просто перевёл поздним словом. Записываю как свойство слова, а не как свою находку (`notes/porog.md`).
+- ***hamnanen sina parmaron*** — Q *hamna* «pile, (artificial) mound» (в ᴹQ «heap»), творительный *-nen*: «грудой»; *sina* «this» после существительного; *parmaron* — род. мн. от *parma* «book». «mit diesem Bücherhauf» — «этой грудой книг».
+- ***ya hlóci nwarir*** — Q *hlócë* «reptile, snake, serpent, worm» (мн. ч. *hlóci*; Quettali: «snake»): у Толкина червь и змей — одно слово, так что книги Фауста точат маленькие драконы. Q *nwar-* «to fret, wear away» (в ᴹQ *nwara-* — «gnaw»), аорист мн. ч. *nwarir*; Quettali формы не знает.
+- ***ya asto tupë*** — ᴹQ *asto* «dust» (позднего слова для «пыли» в Eldamo нет; ᴹQ *mulo* — тоже «dust»), Q *tup-* «to cover», аорист *tupë*. Тот же глагол, что в «Намариэ»: *ar hísië untúpa Calaciryo míri* «и туман покрывает самоцветы Калакирьи». Там туман покрывает самоцветы, здесь пыль покрывает книги.
+
+**Что потеряно.** Рифма *Bücherhauf / hinauf* (581) и *bedeckt / steckt* (582) — следующие строки ещё не переведены. Не отдавал на проверку.
