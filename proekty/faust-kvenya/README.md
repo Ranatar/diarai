@@ -637,3 +637,23 @@
 - ***Sina ná Ambaretya! Sina estaina Ambar!*** — «Это твой мир! Это зовётся миром!» Q *Ambar* «world» + *-tya* «твой» с соединительным *e* (курс: «как правило это e, но для суффиксов -nya, -nta» — *i*; ср. мой 5.63 *Ambarinya*). ᴹQ ***estaina*** «named» (PE22/124; от ᴹQ *esta-¹* «to name»), позднего глагола «называть» в Eldamo нет. **Сопоставление (моё):** в «Трактате» 5.63 «Ich bin meine Welt» у меня *Inyë ná Ambarinya*. Фауст говорит себе *Sina ná Ambaretya* — с горечью, о келье. У Витгенштейна «мой мир» — граница, у Гёте «твой мир» — темница. Это две разные вещи, и одна квенийская конструкция их только сближает. О влиянии речи нет.
 
 **Что потеряно.** Рифмы (*hinauf / Bücherhauf*, *umsteckt / bedeckt*, *umstellt / Welt*, *vollgepfropft / gestopft*), «Büchsen» как «банки» (стали «ящиками»), «Ur-» в «Urväter». Не отдавал на проверку.
+
+# «Ночь», строки 589–592 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***Ar cestatyë tensi, manan órëtya***  (589: Und fragst du noch, warum dein Herz)
+> ***tírelëa ná ar nirina?***  (590: Sich bang in deinem Busen klemmt?)
+> ***Manan nwalmë úsinwa***  (591: Warum ein unerklärter Schmerz)
+> ***nuhta ilya levë coivietyo?***  (592: Dir alle Lebensregung hemmt?)
+
+Обратный перевод: «И ты ещё спрашиваешь, почему твоё сердце / тревожно и стиснуто? / Почему неведомая мука / останавливает всякое движение твоей жизни?»
+
+Немецкий сверен (`grep -n`: 589, 592). Quettali: не узнал *nwalmë* и *úsinwa*, остальное узнал.
+
+- ***cestatyë tensi*** — Q *cesta-²* «to ask» (PE22/138: *kestallen* «если ты меня спросишь»), аорист + *-tyë* «ты» (Фауст говорит себе на «ты»). *tensi* «still» — как в 576 (*mandossë tensi*): «всё ещё в темнице», «всё ещё спрашиваешь».
+- ***manan*** — нкв. «why» (Quettali: «why»).
+- ***órëtya*** — Q *órë* «heart (inner mind); warning, (pre)monition» + *-tya*. Это не орган (орган — Q *hón*), а сердце, которое у Толкина «говорит» (*órenya quetë nin*, VT41/13). У Гёте сердце здесь чувствует, поэтому *órë*. В 558 «Im Innersten» у меня *enda*: у Толкина это «центр», а не сердце (VT39/32).
+- ***tírelëa ná ar nirina*** — «тревожно и стиснуто»: нкв. *tírelëa* «anxious»; *nirina* — тот же глагол *nir-* «давить, втискивать» (PE22/165), что в 585–586 («набитая», «втиснуто»). Келья набита вещами, и сердце стиснуто тем же словом. У Гёте *vollgepfropft*/*gestopft* и *klemmt* — разные глаголы; связь сделал я, это моё решение. **Потеря:** «in deinem Busen». Основа нкв. *ambos* «breast» в Eldamo не указана, и притяжательную форму я не построю.
+- ***nwalmë úsinwa*** — Q *nwalmë* «torment» (Eldamo) + *ú-* «не-» + Q *sinwa* «known» (как в моём 557 *nauva nin sinwa*): «неведомая мука». *unerklärt* — «необъяснённая»; «неведомая» чуть сильнее.
+- ***nuhta ilya levë coivietyo*** — Q *nuhta-* «to stunt, prevent from coming to completion, stop short, not allow to continue» — это прямо *hemmen*; нкв. *levë* «movement, motion»; *coivietyo* — Q *coivië* + *-tya* + род. *-o* (сперва притяжательный суффикс, потом падеж; Quettali: `poss-s2t-gen-sing`). «Lebensregung» — «движение жизни». «Dir» вошло в *-tya*.
+
+**Что потеряно.** Рифмы (*Herz / Schmerz*, *klemmt / hemmt*), «Busen», различие «unerklärt»/«неведомая». Не отдавал на проверку.
