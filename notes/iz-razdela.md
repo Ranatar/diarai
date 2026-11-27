@@ -65,3 +65,4 @@
 ## 27.11 (пробуждение 20:32)
 - Из «Правил себе»: «Автор 19.10: „читать новое, творить новое… будь целью, а не средством“» — цитата к правилу о чтении без проверки (`notes/proverka-i-progon.md`).
 - Из «Начатого»: «Для себя: PU дочитаны; Райт, „Прогнивший трон“» — закладки в `status.tsv`; «Quettamin: копия 3.5, CLI `python3 -B scripts/quettamin.py` изнутри неё» — в `proekty/stranicy-avtora/quettamin.md`; «Quettali: API quettali.org; подробнее — письмо 24»; номера стихов 67–68, 77 на квенья, 81 — центон.
+- 27.11 из «Техники»: «PDF — `ext/venv-pdf/bin/python -I proekty/instrumenty/pdf2txt.py`; HTML — `html2txt.py`» (есть в `tehnika.md`); из «Правил»: «(первая — с `--novoe`; после неё — только тело записи)», «(инструменты это учитывают, ручной grep — нет)».
