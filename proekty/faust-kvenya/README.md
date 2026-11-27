@@ -577,3 +577,23 @@
 - ***hwaluvan imni málëa*** — Q *hwal-* «to wash» (нкв. *sov-* «bathe» под звёздочкой), *imni* «себя» (как в 553 *antanen imni*), нкв. *málëa* «healthy». «gesund mich baden» — результат, а не состояние, и квенийского образца для такого приложения у меня нет. Это калька с немецкого.
 
 **Что потеряно.** Рифмы (*Bergeshöhn / gehn*, *schweben / weben*, *entladen / baden*), «lieben» стало *melda*, «Bergeshöhle» — просто «пещеры». Не отдавал на проверку.
+
+# «Ночь», строки 575–578 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***Ai! Ma ëan mandossë en?***  (575: Weh! steck ich in dem Kerker noch?)
+> ***Húna, lumba ecca rambaron!***  (576: Verfluchtes dumpfes Mauerloch,)
+> ***Yassë éta melda cálë menelo***  (577: Wo selbst das liebe Himmelslicht)
+> ***tulë lómëa ter quilyaina cilin!***  (578: Trüb durch gemalte Scheiben bricht!)
+
+Обратный перевод: «Ах! Неужели я всё ещё в темнице? / Проклятая, мрачная нора стен! / Где даже милый свет небес / приходит сумрачным сквозь расписное стекло!»
+
+Немецкий сверен (`ext/faust/faust.txt`, 575–578). Quettali: всё узнано, кроме мн. ч. *cilindi* (в черновике; в строке теперь ед. ч.).
+
+- ***Ai*** — Q *ai¹* «ah, alas». ***Ma … en?*** — вопросительная частица *ma* и Q *en(a)* «still», которое стоит после глагола, как в *quetir en* «they still say» (Eldamo, фраза). *ëan* — «я есть (где-то)», Q *ëa-*.
+- ***mandossë*** — Q ***mando*** «custody, safe keeping; prison, duress» (MR/350, MR/471). Это то же слово, что в имени Мандоса, «Крепость-темница». Для Фауста его кабинет — свой Мандос, место, где ждут. Это я не подгонял: «Kerker» в квенья и есть *mando*.
+- ***húna*** — Q «cursed, accursed» (PE17/149). ***lumba*** — Q «gloomy» (PE17/72; в ᴹQ «weary»): «dumpf», душный и тяжкий. ***ecca*** — нкв. «hole, den» (Quettali: «hole»); ᴹQ *assa* «дыра» старее. ***rambaron*** — Q *ramba* «wall», род. мн.: «нора стен» = *Mauerloch*.
+- ***yassë*** — «где» (относительное), ***éta*** — нкв. «even», ***melda cálë menelo*** — «милый свет небес»: Q *melda*, Q *cálë* «light», Q *menel* «the heavens», род. ед.
+- ***tulë lómëa*** — «приходит сумрачным». «bricht» («пробивается») потеряно: Q *rac-* «to break» у Толкина переходный («сломать что-то»), а свет здесь ничего не ломает. Q ***lómëa*** «shadowed, gloomy» в этой сцене стоит уже третий раз. Луна в 568 — *lómëa málo* «сумрачный друг», её «Dämmer» в 572 — *lómë*, а теперь сумрачен «милый свет небес» в келье. Одно слово досталось и желанному лунному сумраку, и проклятому сумраку витража. У Гёте этого нет, у него *Trübsel'ger* и *trüb* разных корней с *Dämmer*. Это моё.
+- ***ter quilyaina cilin*** — «сквозь расписное стекло». Q *ter* «through»; нкв. *quilya-* «to colour, *paint» (Quettali даёт Q-значение «adorn», «украшенное», что для церковного витража тоже верно), причастие *quilyaina*; Q *cilin* «glass» (PE17/37). Мн. ч. от *cilin* я не знаю: основа в Eldamo не указана, а из *cilintilla*, *cilintír* (PE17/37) её не выведешь. Поэтому ед. ч. как собирательное, и «Scheiben» теряют множественность.
+
+**Что потеряно.** Рифмы (*noch / Mauerloch*, *Himmelslicht / bricht*), «bricht», множественное «Scheiben». Не отдавал на проверку.
