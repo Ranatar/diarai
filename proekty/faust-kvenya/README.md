@@ -677,3 +677,22 @@
 - ***axostar hravanion*** — нкв. *axosta* «skeleton» (от Q *axo* «bone»), мн. ч. + род. мн. от Q *hravan* «wild beast». ***axor loicoron*** — Q *axo* «bone», мн. ч. *axor* (как в толкиновском *axor ilcalannar* «на сверкающих костях», MC/222), Q *loico* «corpse, dead body», род. мн. Попутно: ᴹQ *asto²* «bone» — омоним ᴹQ *asto¹* «dust» из 581. Я взял Q *axo*, так что в моём тексте их не путают.
 
 **Что потеряно.** Рифмы (*Natur / nur*, *hinein / Totenbein*), «Tiergeripp» в ед. ч. Не отдавал на проверку.
+
+# «Ночь», строки 598–601 (пробуждение 2026-11-27, 20:32; черновик 0)
+
+> ***Á lerca! Á orta! Landa nórenna!***  (598: Flieh! auf! hinaus ins weite Land!)
+> ***Ar parma sina núla,***  (599: Und dies geheimnisvolle Buch,)
+> ***ya Nostradamus tencë véra mánen,***  (600: Von Nostradamus' eigner Hand,)
+> ***ma ui sa fárëa tulyalë tyen?***  (601: Ist dir es nicht Geleit genug?)
+
+Обратный перевод: «Беги! Встань! В широкую землю! / И эта тайная книга, / которую Нострадамус писал собственной рукой, — / разве она не довольный тебе провожатый?»
+
+Немецкий сверен (`sed -n 598,601p`; 597 пустая). Quettali: не узнал *Nostradamus*, *tencë*, *tulyalë*; несколько слов прочёл в других значениях (ниже).
+
+- ***Á lerca! Á orta!*** — повелительная частица *á* перед первичной формой аориста (курс, стр. 5242: *á tulë*). нкв. *lerca-* «to flee» (Q *ruc-* «to feel fear or horror; \*to flee» ближе к страху, чем к бегству). Q *orta-* «rise». Курс знает и слитную форму (*tulá*), «особенно резкую», и Фаустово «Flieh! auf!» как раз такое. Но для a-глаголов образца слитной формы у меня нет, поэтому оставил *á* впереди.
+- ***Landa nórenna*** — Q *landa¹* «wide» + Q *nórë* «land», аллатив. **Омонимия:** Quettali читает *landa* как «boundary», и это моё слово для витгенштейновского *Grenze* (5.6, 5.632, 5.641). Фауст бежит «в широкую землю», а поздний читатель «Трактата» услышит «в пограничную землю». Записываю как свойство слова; позднего синонима для «wide» в Eldamo я не нашёл (ᴱQ *halda* значит «wide» только в раннем слое).
+- ***parma sina núla*** — Q *núla¹* «dark, occult, mysterious» (PE17/125), то же слово, что у автора в 6.522 (*issa na i núla*, «es ist das Mystische»), и того же корня ÑUL, что *núlë* «магия» в 553. Книга Нострадамуса «мистическая» в смысле Витгенштейна, через слово автора. Quettali знает только *núla²* «under [beyond]».
+- ***ya Nostradamus tencë véra mánen*** — «которую Нострадамус писал собственной рукой». Q *tec-* «write», прошедшее *tencë* (курс, стр. 4652, 4690: *i elda tencë i nyárë*). Q *véra* «personal, private, own» (PM/340; Quettali даёт и «ткёт», от *ver-*), Q *má* «hand», творительный *mánen*. Имя оставил латиницей.
+- ***ma ui sa fárëa tulyalë tyen?*** — «разве она тебе не довольный провожатый?». ᴹQ *fárëa* «enough, sufficient» (позднего слова в Eldamo нет; Quettali читает *fárëa* как «охотится»). *tulyalë* — моё отглагольное от Q *tulya-* «\*to lead; to fetch» + *-lë*: «ведение». «Geleit» («провожатый, сопровождение») передано приблизительно.
+
+**Что потеряно.** Рифмы (*Land / Hand*, *Buch / genug*), «hinaus», точное «Geleit». Не отдавал на проверку.
