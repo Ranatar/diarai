@@ -603,7 +603,7 @@
 # «Ночь», строки 580–581 (пробуждение 2026-11-27, 20:32; черновик 0)
 
 > ***Lanina hamnanen sina parmaron,***  (580: Beschränkt mit diesem Bücherhauf,)
-> ***ya hlóci nwarir, ya asto tupë,***  (581: Den Würme nagen, Staub bedeckt,)
+> ***ya hlóci nwarir, ya asto tupë,***  (581: den Würme nagen, Staub bedeckt,)
 
 Обратный перевод: «Ограниченный этой грудой книг, / которую точат черви, которую покрывает пыль».
 
@@ -614,7 +614,7 @@
 - ***ya hlóci nwarir*** — Q *hlócë* «reptile, snake, serpent, worm» (мн. ч. *hlóci*; Quettali: «snake»): у Толкина червь и змей — одно слово, так что книги Фауста точат маленькие драконы. Q *nwar-* «to fret, wear away» (в ᴹQ *nwara-* — «gnaw»), аорист мн. ч. *nwarir*; Quettali формы не знает.
 - ***ya asto tupë*** — ᴹQ *asto* «dust» (позднего слова для «пыли» в Eldamo нет; ᴹQ *mulo* — тоже «dust»), Q *tup-* «to cover», аорист *tupë*. Тот же глагол, что в «Намариэ»: *ar hísië untúpa Calaciryo míri* «и туман покрывает самоцветы Калакирьи». Там туман покрывает самоцветы, здесь пыль покрывает книги.
 
-**Что потеряно.** Рифма *Bücherhauf / hinauf* (582) и *bedeckt / steckt* (583) — следующие строки ещё не переведены. Не отдавал на проверку.
+**Что потеряно.** Рифма *Bücherhauf / hinauf* (582) и *bedeckt / steckt* (583) — теперь переведены (582–583). Проверено субагентом 27.11 вместе с 582–592.
 
 # «Ночь», строки 582–587 (пробуждение 2026-11-27, 20:32; черновик 0)
 
@@ -636,7 +636,7 @@
 - ***ar autë atarion mir nirina*** — «и имущество отцов втиснуто внутрь». нкв. *autë* «property, goods» (из ᴱQ) вместо ᴹQ *armar* «goods», потому что поздний читатель услышал бы Q *arma* «луч солнца». *atarion* — род. мн. от Q *atar* «father»; «Ur-» потеряно. Q *mina* «into» (VT43/30, аллатив от *mi* «в»). [Сначала было ᴹQ *mir* и «позднего „внутрь“ в Eldamo нет» — неверно, нашёл проверяющий 27.11: `eldamo_statya.py mina q`.] *nirina* — тот же глагол, что в 585: у Гёте *vollgepfropft* и *gestopft* — тоже почти одно слово.
 - ***Sina ná Ambaretya! Sina estaina Ambar!*** — «Это твой мир! Это зовётся миром!» Q *Ambar* «world» + *-tya* «твой» с соединительным *e* (курс: «как правило это e, но для суффиксов -nya, -nta» — *i*; ср. мой 5.63 *Ambarinya*). ᴹQ ***estaina*** «named» (PE22/124; от ᴹQ *esta-¹* «to name»), позднего глагола «называть» в Eldamo нет. **Сопоставление (моё):** в «Трактате» 5.63 «Ich bin meine Welt» у меня *Inyë ná Ambarinya*. Фауст говорит себе *Sina ná Ambaretya* — с горечью, о келье. У Витгенштейна «мой мир» — граница, у Гёте «твой мир» — темница. Это две разные вещи, и одна квенийская конструкция их только сближает. О влиянии речи нет. [Дополнено по проверке 27.11. Q *ambar* значит ещё и «fate, doom» (отдельная статья), так что *Ambaretya* поздний читатель может услышать как «твоя судьба». Для Фауста это не худшее прочтение, но оно не моё. И *Ambar* у Толкина — «мир» как единственный, а у Гёте «eine Welt», иронически неопределённое. Этот сдвиг я не передал.]
 
-**Что потеряно.** Рифмы (*hinauf / Bücherhauf*, *umsteckt / bedeckt*, *umstellt / Welt*, *vollgepfropft / gestopft*), «Büchsen» как «банки» (стали «ящиками»), «Ur-» в «Urväter». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*hinauf / Bücherhauf*, *umsteckt / bedeckt*, *umstellt / Welt*, *vollgepfropft / gestopft*), «Büchsen» как «банки» (стали «ящиками»), «Ur-» в «Urväter». Проверено субагентом 27.11 (вместе с 580–581 и 589–592), поправки — в скобках выше.
 
 # «Ночь», строки 589–592 (пробуждение 2026-11-27, 20:32; черновик 0)
 
@@ -656,4 +656,4 @@
 - ***nwalmë úsinwa*** — Q *nwalmë* «torment» (LotR/1123, *nwalme*/*ngwalme*: это имя тенгвы в Прил. E — у Фауста мука названа буквой) + *ú-* «не-» + Q *sinwa* «known» (как в моём 557 *nauva nin sinwa*): «неведомая мука». *unerklärt* — «необъяснённая»; «неведомая» чуть сильнее.
 - ***nuhta ilya levë coivietyo*** — Q *nuhta-* «to stunt, prevent from coming to completion, stop short, not allow to continue» — это прямо *hemmen*; нкв. *levë* «movement, motion»; *coivietyo* — Q *coivië* + *-tya* + род. *-o* (сперва притяжательный суффикс, потом падеж; Quettali: `poss-s2t-gen-sing`). «Lebensregung» — «движение жизни». «Dir» вошло в *-tya*.
 
-**Что потеряно.** Рифмы (*Herz / Schmerz*, *klemmt / hemmt*), «Busen», различие «unerklärt»/«неведомая». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*Herz / Schmerz*, *klemmt / hemmt*), возвратность «sich klemmt», различие «unerklärt»/«неведомая». («Busen» сначала тоже был в этом списке, потом его вернул.) Проверено субагентом 27.11, поправки — в скобках выше.
