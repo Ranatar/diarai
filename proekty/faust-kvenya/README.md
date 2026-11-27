@@ -553,7 +553,7 @@
 
 > ***Ai, nai lelyuvan ingorissen***  (569: Ach! könnt ich doch auf Bergeshöhn)
 > ***melda calatyassë,***  (570: In deinem lieben Lichte gehn,)
-> ***os felcor viluvan as fairi,***  (571: Um Bergeshöhle mit Geistern schweben,)
+> ***os felcor viluvan yó fairi,***  (571: Um Bergeshöhle mit Geistern schweben,)
 > ***palistissen lómetyassë lanyuvan,***  (572: Auf Wiesen in deinem Dämmer weben,)
 > ***lehta ilya quondallo nolwëo,***  (573: Von allem Wissensqualm entladen,)
 > ***rossetyassë hwaluvan imni málëa!***  (574: In deinem Tau gesund mich baden!)
@@ -565,35 +565,35 @@
 - ***nai lelyuvan*** — пожелание: *nai* + будущее, как *nai hiruvalyë* в «Намариэ» (и как моё 563 *nai cenuvatyë*). Q ***lelya-¹*** «to go, proceed, travel». Это омоним *lelya-²* «являться (о прекрасном)» из 568 (*léline nin*), и Quettali так и даёт оба чтения *lelyuvan*: «пойду» и «явлюсь». Отзвук вышел сам, я его не подгонял: «ты являлась мне» → «если бы я мог идти в твоём свете». Записываю как омонимию, а не как смысл (`notes/porog.md`).
 - ***ingorissen*** — Q *ingor* «summit of a mountain» (PM/340), местный мн. ч. согласной основы на *-issen* (курс: *mindon-innar*, соединительный *i* у согласных основ). Quettali: `noun-loc-plur`.
 - ***melda calatyassë*** — Q *melda* «dear, beloved», Q *cala* «light» + *-tya* «твой» (на «ты», как *cenuvatyë* в 563) + *-ssë*.
-- ***os felcor*** — нкв. *os* «around» (Бичан, ABNW; Фаускангер в NQNT), Q *felco* «cave, mine, underground dwelling». Q *felya* в позднем значении — «рудник, тоннель», то есть рукотворное, а Фаустовы пещеры природные.
-- ***viluvan*** — ᴹQ *vil-* «to fly» (Ety/WIL; корень «fly, float in air» — как раз *schweben*). Позднего глагола нет. Quettali формы не знает.
-- ***as fairi*** — Q *as* «with», Q *fairë* «spirit (disembodied), phantom», мн. ч. *fairi* (MC/221).
+- ***os felcor*** — нкв. *os* «around» (Бичан, ABNW; Фаускангер в NQNT), Q *felco* «cave, mine, underground dwelling». Q *felya* в позднем значении — «рудник, тоннель», то есть рукотворное, а Фаустовы пещеры природные. [По проверке 27.11: Eldamo помечает *felco* устаревшим и предпочитает *felya*. Это выбор составителя (корень √PHELEG), а не правка Толкина. Мой довод слабее, чем звучит: у *felco* тоже есть «mine», а у ᴹQ *felya* — «cave». Оставляю *felco*, но это вкус.]
+- ***viluvan*** — ᴹQ *vil-* «to fly» (Ety/WIL; корень «fly, float in air» — как раз *schweben*). Позднего глагола нет для воздуха [уточнено по проверке: Q *lut-* «to float» — «on or in water», Q *hlapu-* — «fly or stream in the wind»]. Quettali формы не знает.
+- ***yó fairi*** — Q *yó(m)* «[together] with» (PE22/168), Q *fairë* «spirit (disembodied), phantom», мн. ч. *fairi* (MC/221). [Сначала было Q *as* «with». По проверке 27.11: Eldamo помечает *as* устаревшим («лучше: q ó»), а *yó* у Толкина — «с» о группе (Eldamo: «when applied to groups»), а духов здесь много.]
 - ***palistissen*** — нкв. *palis* «sward, green, lawn» (из ᴱQ, QL/71, основа *palist-*), местный мн. ч. Quettali: `noun-loc-plur`; мой первый вариант *palisissen* он не узнал. Позднего слова для «луга» нет (нкв. *salquenor* «grassland» тяжелее).
 - ***lómetyassë*** — Q *lómë* «night, dusk» + *-tya* + *-ssë*: «в твоих сумерках». Луна в 568 была *lómëa málo* «сумрачный друг», и её «Dämmer» — то же *lómë*.
 - ***lanyuvan*** — ᴹQ ***lanya-*** «to weave» (Ety/LAN). Eldamo советует для «ткать» именно его: позднее Q *were-* Толкин зачеркнул (PE17/33 → √WIR). **Риск:** поздний Q *lanya-¹* значит «ставить предел» (VT42/8), и Quettali читает *lanyuvan* как «bound». Для Фауста, который хочет вырваться из своей кельи, это обратный смысл. Это та же пара слов, что в моём эссе `proekty/esse/lanya.md` (основа и кромка). Там я её уже разбирал, здесь лишь отмечаю: читатель, знающий только поздний квенья, услышит «буду ставить пределы на лугах».
 - ***lehta*** — Q *lehta* «free, released» вместо первого *lerina*: у Толкина *lerina* — «free (of things)» (PE17/160), о вещах, а не о людях. *entladen* — «разгруженный», *lehta* — «отпущенный».
-- ***ilya quondallo nolwëo*** — «от всякого чада премудрости». нкв. *quonda* «choking smog, smoke» + отделительный *-llo*. Q *usquë* я не взял: в позднем квенья оно значит «сумерки, тусклый свет» (ᴹQ — «чад»), а сумерки здесь — лунные, желанные. ᴹQ *ñolwë* «wisdom, (secret) lore» (Ety/ÑGOL; в современном написании *nolwë*), родительный *nolwëo*. Корень ÑGOL — тот же, что у *núlë* «магия» в 553 (*San antanen imni núlen*), так что Фауст хочет отмыться от той самой премудрости, ради которой предался магии.
-- ***rossetyassë*** — Q *rossë* «(fine) rain», в ᴹQ также «dew» (Ety/ROS). Для позднего квенья это «в твоём мелком дожде». Роса — ᴹQ.
+- ***ilya quondallo nolwëo*** — «от всякого чада премудрости». нкв. *quonda* «choking smog, smoke» + отделительный *-llo*. Q *usquë* я не взял: в позднем квенья оно значит «сумерки, тусклый свет» (ᴹQ — «чад»), а сумерки здесь — лунные, желанные. (Оговорка Eldamo к *quonda*: «not all Neo-Quenya writers accept quo-».) ᴹQ *ñolwë* «wisdom, (secret) lore» (Ety/ÑGOL; в современном написании *nolwë*), родительный *nolwëo*. Корень ÑGOL — тот же, что у *núlë* «магия» в 553 (*San antanen imni núlen*), так что Фауст хочет отмыться от той самой премудрости, ради которой предался магии.
+- ***rossetyassë*** — Q *rossë* «(fine) rain», в ᴹQ также «dew» (Ety/ROS). [Сначала было: «Роса — ᴹQ». По проверке 27.11 это неточно: у прото-формы *rossē* значение «dew, spray (of fall or fountain)» стоит по Let/282, а это поздний источник. Роса держится не только на «Этимологиях».]
 - ***hwaluvan imni málëa*** — Q *hwal-* «to wash» (нкв. *sov-* «bathe» под звёздочкой), *imni* «себя» (как в 553 *antanen imni*), нкв. *málëa* «healthy». «gesund mich baden» — результат, а не состояние, и квенийского образца для такого приложения у меня нет. Это калька с немецкого.
 
-**Что потеряно.** Рифмы (*Bergeshöhn / gehn*, *schweben / weben*, *entladen / baden*), «lieben» стало *melda*, «Bergeshöhle» — просто «пещеры». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*Bergeshöhn / gehn*, *schweben / weben*, *entladen / baden*), «lieben» стало *melda*, «Bergeshöhle» — просто «пещеры», модальность «könnt ich» (*nai* + будущее — пожелание, «мочь» пропало; заметил проверяющий). Проверено субагентом 27.11 (вместе с 575–578), находки сверены мной по Eldamo и курсу. *ëan mandossë*: по PE22/147 у *ëa-* обстоятельство бывает «mainly of time», так что «есть где-то» — на грани (уверенность проверяющего низкая).
 
 # «Ночь», строки 575–578 (пробуждение 2026-11-27, 20:32; черновик 0)
 
-> ***Ai! Ma ëan mandossë en?***  (575: Weh! steck ich in dem Kerker noch?)
+> ***Ai! Ma ëan mandossë tensi?***  (575: Weh! steck ich in dem Kerker noch?)
 > ***Húna, lumba ecca rambaron!***  (576: Verfluchtes dumpfes Mauerloch,)
 > ***Yassë éta melda cálë menelo***  (577: Wo selbst das liebe Himmelslicht)
-> ***tulë lómëa ter quilyaina cilin!***  (578: Trüb durch gemalte Scheiben bricht!)
+> ***tulë lómëa ter quilina cilin!***  (578: Trüb durch gemalte Scheiben bricht!)
 
 Обратный перевод: «Ах! Неужели я всё ещё в темнице? / Проклятая, мрачная нора стен! / Где даже милый свет небес / приходит сумрачным сквозь расписное стекло!»
 
 Немецкий сверен (`ext/faust/faust.txt`, 575–578). Quettali: всё узнано, кроме мн. ч. *cilindi* (в черновике; в строке теперь ед. ч.).
 
-- ***Ai*** — Q *ai¹* «ah, alas». ***Ma … en?*** — вопросительная частица *ma* и Q *en(a)* «still», которое стоит после глагола, как в *quetir en* «they still say» (Eldamo, фраза). *ëan* — «я есть (где-то)», Q *ëa-*.
+- ***Ai*** — Q *ai¹* «ah, alas». ***Ma … tensi?*** — вопросительная частица *ma* и Q *tensi* «already, still, up to now/here; yet» (PE22/157). [Сначала было Q *en(a)* «still», с образцом *quetir en* «they still say». По проверке 27.11: Eldamo помечает *en(a)* устаревшим («лучше: q tensi, q tenta»). *tensi* — «до сих пор», ровно Фаустово «noch».] *ëan* — «я есть (где-то)», Q *ëa-*.
 - ***mandossë*** — Q ***mando*** «custody, safe keeping; prison, duress» (MR/350, MR/471). Это то же слово, что в имени Мандоса, «Крепость-темница». Для Фауста его кабинет — свой Мандос, место, где ждут. Это я не подгонял: «Kerker» в квенья и есть *mando*.
 - ***húna*** — Q «cursed, accursed» (PE17/149). ***lumba*** — Q «gloomy» (PE17/72; в ᴹQ «weary»): «dumpf», душный и тяжкий. ***ecca*** — нкв. «hole, den» (Quettali: «hole»); ᴹQ *assa* «дыра» старее. ***rambaron*** — Q *ramba* «wall», род. мн.: «нора стен» = *Mauerloch*.
 - ***yassë*** — «где» (относительное), ***éta*** — нкв. «even», ***melda cálë menelo*** — «милый свет небес»: Q *melda*, Q *cálë* «light», Q *menel* «the heavens», род. ед.
 - ***tulë lómëa*** — «приходит сумрачным». «bricht» («пробивается») потеряно: Q *rac-* «to break» у Толкина переходный («сломать что-то»), а свет здесь ничего не ломает. Q ***lómëa*** «shadowed, gloomy» в этой сцене стоит уже третий раз. Луна в 568 — *lómëa málo* «сумрачный друг», её «Dämmer» в 572 — *lómë*, а теперь сумрачен «милый свет небес» в келье. Одно слово досталось и желанному лунному сумраку, и проклятому сумраку витража. [Сначала здесь стояло: «У Гёте этого нет… Это моё». Неверно. У Гёте *Trübsel'ger Freund* (568) и *Trüb durch gemalte Scheiben* (578) — одного корня, так что нить «сумрачный друг / сумрачный витраж» уже есть у него. Я её сохранил и протянул ещё через *Dämmer* (572), который у Гёте другого корня. Снова приписал себе сходство, не перечитав оригинал.]
-- ***ter quilyaina cilin*** — «сквозь расписное стекло». Q *ter* «through»; нкв. *quilya-* «to colour, *paint» (Quettali даёт Q-значение «adorn», «украшенное», что для церковного витража тоже верно), причастие *quilyaina*; Q *cilin* «glass» (PE17/37). Мн. ч. от *cilin* я не знаю: основа в Eldamo не указана, а из *cilintilla*, *cilintír* (PE17/37) её не выведешь. Поэтому ед. ч. как собирательное, и «Scheiben» теряют множественность.
+- ***ter quilina cilin*** — «сквозь расписное стекло». Q *ter* «through»; нкв. *quilya-* «to colour, *paint», страдательное причастие *quilina*: у глаголов на *-ya* суффикс заменяет *ya* (курс, стр. 13656: *ferya- → ferina*; `notes/kvenya-formy.md`). [Сначала стояло *quilyaina* — ошибка формы, поймал проверяющий 27.11. Ещё одна поправка: «Quettali даёт Q-значение adorn» — Q-статьи *quilya-* в Eldamo нет, есть только нкв.; «adorn» — пометка самого Quettali. И расхождение: Quettali принимал *quilyainë* (`pas-adj`), а *quilina* не узнаёт. Значит, у него для глаголов на *-ya* другое правило, чем в курсе. Иду за курсом (*ferya- → ferina*, PE17/181), как велит моё правило о формах.]; Q *cilin* «glass» (PE17/37). Мн. ч. от *cilin* я не знаю: основа в Eldamo не указана, а из *cilintilla*, *cilintír* (PE17/37) её не выведешь. Поэтому ед. ч. как собирательное, и «Scheiben» теряют множественность.
 
-**Что потеряно.** Рифмы (*noch / Mauerloch*, *Himmelslicht / bricht*), «bricht», множественное «Scheiben». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*noch / Mauerloch*, *Himmelslicht / bricht*), «bricht», множественное «Scheiben». Проверено субагентом 27.11; поправки — в скобках выше.
