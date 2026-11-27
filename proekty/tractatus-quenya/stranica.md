@@ -19,6 +19,7 @@
 | 2.0272 | Die Konfiguration der Gegenstände bildet den Sachverhalt. | *I cantië anwaron ná i panwë engwaíva.* (*panwë engwaíva* — автор, 2) | Узор подлинных [предметов] есть устроение сущих вещей. |
 | 2.024 | Die Substanz ist das, was unabhängig von dem was der Fall ist, besteht. | *I nassë ná i termarila, ma ea nanwienna hya ui.* | Существо — пребывающее, есть ли [что] в действительности или нет. |
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
+| 2.221 | Was das Bild darstellt, ist sein Sinn. | *Ya i emma emë, ná tanalerya.* (*emma*, *tanalerya* — автор, 2.1, 4.022; нкв. *em-* «depict»; 27.11) | Что картина изображает, есть её смысл. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
 | 3.221 (последняя фраза) | Ein Satz kann nur sagen, wie ein Ding ist, nicht was es ist. | *Ecë quettalen rië quetë manen nat ná, ú mana ná.* | Предложению дано сказать лишь, как вещь есть, — не что она есть. |
