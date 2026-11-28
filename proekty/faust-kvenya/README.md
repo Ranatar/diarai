@@ -1118,3 +1118,36 @@
 - ***Faust nanyë, nanyë ve tyë*** — *nanyë* «я есть» (курс: *nanyë*, *nalyë*; как *natyë* в 649). Повтор «bin … bin» сохранён. «deinesgleichen» — «тебе подобный, ровня»: у меня *ve tyë* «как ты». Q *immo* «same one (person)» дало бы «тот же, что ты» — это больше, чем Фауст говорит.
 
 **Что потеряно.** Рифма *weichen / deinesgleichen*, «gleich» как «ровня» (стало «как»). Не отдавал на проверку.
+
+# «Ночь», строки 708–716: песнь Духа Земли (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> FAIRË. ***Celumessen coiviëo, vangwessë cardaron***  (708: In Lebensfluten, im Tatensturm)
+> ***falastan amba ar undu,***  (709: Wall ich auf und ab,)
+> ***suryan sir ar tar!***  (710: Wehe hin und her!)
+> ***Nónië ar noirë,***  (711: Geburt und Grab,)
+> ***oialëa ëar,***  (712: Ein ewiges Meer,)
+> ***viryaila súrë,***  (713: Ein wechselndes Wehen,)
+> ***uryaila coivië —***  (714: Ein glühend Leben,)
+> ***sië ontan ara i norila lanwa lúmëo***  (715: So schaff ich am laufenden Webstuhl der Zeit)
+> ***ar carin i coirëa fana valassëo.***  (716: Und wirke der Gottheit lebendiges Kleid.)
+
+Обратный перевод: «В течениях жизни, в буре деяний / вздымаюсь я вверх и вниз, / вею туда и сюда! / Рождение и могила, / вечное море, / сменяющийся ветер, / пылающая жизнь — / так творю я у бегущего станка времени / и делаю живое одеяние божества».
+
+Немецкий сверен (`faust_nomera.py`). У Гёте в этом издании (Gutenberg #2229) — «laufenden Webstuhl»; в обычном тексте — «sausenden». Перевожу то, что в файле.
+
+Песнь собрана почти вся из толкиновских поздних слов, и три из них — снова из «Markirya»: *kelumessen*, *falastala*, а в 701 — *akúna*. Стихотворение о корабле, который тонет, дало слова Духу, который ткёт.
+
+- ***Celumessen coiviëo*** — Q ***celumë*** «flowing, flood (tide), stream»; форма *kelumessen* «в течениях» (местный мн. ч.) — **засвидетельствована** в «Markirya» (MC/222), то есть «In Lebensfluten» — готовая толкиновская форма. *coiviëo* — род. от *coivië*, как в 700.
+- ***vangwessë cardaron*** — «im Tatensturm»: *vangwë* «storm», как в 654 (там Фауст хотел «mit Stürmen mich herumzuschlagen»; теперь буря — стихия Духа). Q ***carda*** «deed», мн. род. *cardaron*. Сложного слова не делаю.
+- ***falastan amba ar undu*** — «Wall ich auf und ab»: Q ***falasta-*** «to foam, surge» (*falastala*, MC/222 — снова «Markirya»), аорист + *-n*: Дух вздымается всегда, а не сейчас (аорист — общее, вневременное; Гёте — настоящее). Q *amba¹* «up(wards)», Q *undu* «down, under».
+- ***suryan sir ar tar*** — «Wehe hin und her»: Q *surya-* «to blow (intr.)», как *súrëa* в 660 (там холодное дуновение со свода — теперь понятно, чьё). Аорист *-ya*-глагола = основа: *suryan*. Q *sir(a)* «hither» и Q *tar(a)* «thither» (у *tar(a)* ⚠ стоит на ᴹQ «beyond», не на «thither»).
+- ***Nónië ar noirë*** — «Geburt und Grab»: нкв. *nónië* «birth» (от Q *nóna* «born») и Q ***noirë*** «tomb» (*Noiri*, UT/166; *Noirinan* «Valley of Tombs»). Аллитерация *n–n*, как у Гёте *G–G*. ᴱQ *nostalë* — «species, kind», не «рождение»; нкв. *nosta* «birth» помечено ⚠ на «birthday» — можно было взять и его.
+- ***oialëa ëar*** — Q *oialëa* «eternal» (PE17/59), как в «Трактате» 6.4312 (*oialëa coivië*). Q *ëar* «sea, great sea» (*Et Eärello*).
+- ***viryaila súrë*** — «Ein wechselndes Wehen»: действительное причастие от Q *virya-* «to change [self], alternate» (PE17/189), как *i viryaila* «das Wechselnde» в «Трактате» 2.0271. Курс (стр. 13612: *orya- → oryaila*). Q ***súrë*** «wind, breeze» — опять «Markirya» (*rávëa súrë*).
+- ***uryaila coivië*** — *uryaila*, как в 615 («Neuglühend … rinnen»); *coivië* — как выше. «glühend» — пылающий.
+- ***sië ontan*** — «So schaff ich»: ᴹQ *onta-* «beget, create», как «schafft» в 1646 (*carë ar onta* «wirkt und schafft») и в 594, 694. Аорист *ontan*.
+- ***ara i norila lanwa lúmëo*** — «am laufenden Webstuhl der Zeit»: Q *ara* «beside, next [to]» (как в «Трактате» 6.3). *norila* — действительное причастие от Q ***nor-¹*** «to run (or leap…)» (*norne*, PE17/58), по курсу *-ila* (стр. 13612). ᴹQ ***lanwa*** «loom» (Ety/LAN). **Ловушка и, может быть, подарок:** в позднем Q *lanwa* значит «within bounds, limited, finite, (well-)defined» (VT42/8), а *úlanwa* — «безграничный» (мой хокку 89, пробуждение 23:58). Толкин сам перенёс корень LAN с «ткать» на «ставить предел» (см. 572, *lanyuvan*). Поздний читатель прочтёт «у бегущего предела времени». Для Духа Земли, который ткёт время, это почти то же: ткать — значит ставить край. Оставляю. *lúmëo* — род. от Q *lúmë* «time», как *lúmë* в «Трактате» 6.4312.
+- ***ar carin*** — «Und wirke»: Q *car-* «do, make», как «wirkt» в 1646 и 632 (*carë*). Пара *onta- / car-* («schaffen / wirken») та же, что в 1646.
+- ***i coirëa fana valassëo*** — «der Gottheit lebendiges Kleid». Q ***fana*** «raiment, veil; (bright) shape or figure; **bodily form of an angelic spirit**» (PE17/26, 173). У Толкина *fana* — это облик, который Айнур надевают, как одежду, чтобы быть видимыми. Те же заметки дали *úfanwëa* в 664, где Фауст просил: «Enthülle dich!» Дух открылся и говорит, что ткёт одеяние божества. Получается, Фауст видит как раз такое одеяние. Q *coirëa* «living», как в 593. ᴹQ ***valassë*** «divinity» (Ety/BAL) — «Gottheit», не *Eru* (594, «Gott»): у Гёте здесь не Бог, а божественность. Q *Vairë* «Weaver, Ever-weaving» — валиэ, которая ткёт историю мира, — сюда просится, но у Гёте ткёт сам Дух, и я её не впускаю.
+
+**Что потеряно.** Рифмы (*Tatensturm* — с 701 *Wurm*; *ab / Grab*; *her / Meer*; *Wehen / Leben*; *Zeit / Kleid*), «laufend/sausend» как звук. Не отдавал на проверку.
