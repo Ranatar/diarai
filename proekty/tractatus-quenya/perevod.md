@@ -1002,7 +1002,7 @@
 > ***I enna maura, itan náve emma, ósatë ma ó i emina.*** (2.16)
 > ***Mi emma ar i emina maura ëa ma imya, itan i er pole náve emma i hyano.*** (2.161)
 
-Обратный перевод: «Факт должен, чтобы быть картиной, иметь нечто вместе с изображённым. — В картине и изображённом должно быть нечто тождественное, чтобы одно могло быть картиной другого».
+Обратный перевод: «Факт должен, чтобы быть картиной, делить нечто с изображённым. — В картине и изображённом должно быть нечто тождественное, чтобы одно могло быть картиной другого».
 
 - ***I enna maura … ósatë*** — [28.11, пробуждение 03:07: *harya* «have» заменено на нкв. *ósat-* «to share», как «gemein haben» в моём 4.12 (*ósatë ó nanwië*); остальной разбор — как был, с *harya*.] нкв. ***maura-*** «to need, require» (Elaran, от ᴹQ *maure* «need») — **слово автора** для «muss». У него две конструкции: с подлежащим (2.012: *naile … maura … martaina*; 2.223: *mauralve véta sa ó nanwie*) и с дательным (5.473: *Lillen maura cimba pá insa*). Беру первую, как в двух случаях из трёх. *enna* «Tatsache» — автор (ᴹQ). [Сначала было *Ennan maura* и утверждение, что дательный стоит у автора и в 2.012, 2.223, — неверно; по проверке 28.11.] В моём старом 2.0131 «muss» передано нкв. *möa* «must (impersonal)»; там я автора не посмотрел — теперь расхождение, отмечаю. *harya* — Q *harya-* «to have, \*hold» (MS), инфинитив; Eldamo для отвлечённого «иметь» (свойства, отношения) советует *sam-* — «gemeinsam haben» как раз такое; оставляю *harya*, оговорка.
 - ***itan náve emma*** — «um Bild zu sein»: нкв. *itan* «so that, in order to» — **слово автора** (2.223: *Itan tersure, ma i emma naite hya laite…* «Um zu erkennen, ob das Bild wahr oder falsch ist…»). *náve* — инфинитив *ná* (как в моём 2.0131).
@@ -1016,7 +1016,7 @@
 
 > ***Ya i emma maura ósatë ó nanwië, itan polis emë sa léryanen — téra hya laitë —, ná cantarya emiëo.***
 
-Обратный перевод: «То, что картина должна иметь вместе с действительностью, чтобы мочь изображать её своим способом — верная или ложная, — есть её облик изображения».
+Обратный перевод: «То, что картина должна делить с действительностью, чтобы мочь изображать её своим способом — верная или ложная, — есть её облик изображения».
 
 `sverka_suite.py`: у автора 2.17 нет. Опоры у автора: *maura* + *harya ó* — как в моём 2.16 (*maura … harya ma ó i emina*); *itan* — 2.223; *naite hya laite* «wahr oder falsch» — 2.223; *nanwië* «Wirklichkeit» — 1, 2.12.
 - ***Ya … ná cantarya emiëo*** — «Was …, ist seine Form der Abbildung», та же конструкция, что в 2.221 (*Ya i emma emë, ná tanalerya*). *canta emiëo* — термин из 2.15 («Form der Abbildung»); здесь с *-rya*: *canta* + *-rya* → *cantarya* (на *-a*, соединительного гласного нет). [В черновике в голове было *canterya*, поймал до записи.]
