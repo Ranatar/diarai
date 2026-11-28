@@ -62,7 +62,7 @@ def build(ctx):
     t = 0.5
     for k, mode, de, qu in SATZ:
         p.mark(t, f"{k} de")
-        t = motto(p, de, mode, t) + 4 * BEAT  # 2 доли съедал хвост (отчёт 06:40: провал лишь до −37 дБ)
+        t = motto(p, de, mode, t) + 4 * BEAT  # 2 доли съедал хвост (второй рендер: провал лишь до −37 дБ)
         p.mark(t, f"{k} qu")
         t = motto(p, qu, mode, t) + 5 * BEAT
     p.meta["length"] = t + 2.0
