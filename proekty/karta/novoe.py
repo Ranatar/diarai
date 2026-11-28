@@ -41,7 +41,7 @@ def main():
                     novye.append(os.path.relpath(p, INBOX))
             except OSError:
                 pass
-    po_edinice = collections.defaultdict(lambda: [0, 0, 0])
+    po_edinice = collections.defaultdict(lambda: [0, 0, 0, 0])
     statusy = collections.defaultdict(collections.Counter)
     neizv = []
     for r in sorted(novye):
@@ -50,6 +50,8 @@ def main():
         nichego = st.startswith("не упомянут") or "не поставлен" in st or st == "нет в карте"
         asset = r.lower().endswith(ASSET) or any(a in "/" + r for a in ASSET_PARTS)
         po_edinice[u][0] += 1
+        if nichego or st.startswith("нет") or st.startswith("бегло"):
+            po_edinice[u][3] += 1  # не прочитано: без статуса, «нет» или «бегло»
         statusy[u][st.split(" (")[0][:20]] += 1
         if nichego:
             po_edinice[u][1] += 1
@@ -58,11 +60,11 @@ def main():
             else:
                 neizv.append(r)
     print("с %s: новых или изменённых файлов в inbox — %d" % (s, len(novye)))
-    print("%7s %7s %7s  %s" % ("новых", "без", "из них", "единица"))
-    print("%7s %7s %7s" % ("", "статуса", "ассеты"))
-    for u, (n, b, a) in sorted(po_edinice.items(), key=lambda x: -x[1][1]):
+    print("%7s %7s %7s %7s  %s" % ("новых", "без", "из них", "не про-", "единица"))
+    print("%7s %7s %7s %7s" % ("", "статуса", "ассеты", "читано"))
+    for u, (n, b, a, ne) in sorted(po_edinice.items(), key=lambda x: (-x[1][1], -x[1][3])):
         st = ", ".join("%s %d" % kv for kv in statusy[u].most_common())
-        print("%7d %7d %7d  %s  [%s]" % (n, b, a, u, st))
+        print("%7d %7d %7d %7d  %s  [%s]" % (n, b, a, ne, u, st))
     print("\nне упомянуты и не ассеты (%d):" % len(neizv))
     for r in neizv:
         print("  " + r)
