@@ -76,10 +76,10 @@
 - **Quettamin** автора — `ext/quettamin`, см. `proekty/stranicy-avtora/quettamin.md`.
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои строки — через **`qt_razbor.py файл`** («??» — сперва ошибка у себя, потом «не поздний Q»).
 - Новое у автора (27.11): музыка `inbox/immollimma/`, Nachlass `inbox/steinlass`; моё издание для его `tlpt` — `proekty/tlpt-qu/`.
-- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–29); стихи `proekty/hokku/svoyo-1..89.md` (размер — `yamb.py --check [--stop 5]`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–29); стихи `proekty/hokku/svoyo-1..89.md` (размер — `yamb.py`, `kv_udar.py`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF, HTML, браузер — в `tehnika.md`; черновики — `ext/tmp/`.
 - **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (строку от `tolko` — перепроверить сразу). Отклонённую Bash-команду дробить. «Permission denied» в `ext/` — сняты биты исполнения (`tehnika.md`).
 - **Контекст — главный ресурс**: не Read целиком.
-- `ext/` ≈ 2,3 ГБ (браузер, HWPh, JRE — удалять первыми; `json-raw` 0,3 ГБ пересоздаётся из inbox).
+- `ext/` ≈ 2,3 ГБ: что удалять первым — `tehnika.md`.
