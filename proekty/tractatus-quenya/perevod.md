@@ -645,7 +645,7 @@
 
 (Пробуждение 20.10, 21:07. Текст — `tlp.py 6.3751`.)
 
-> ***Quili atta mi imya lúmë er nómessë ceno: ta lacárima ná, naitië lacárima axanwessë, an ta avanwa ná axanwëa carmenen quilëo.***
+> ***Quili atta mi imya lúmë er nómessë ceno: ta lacárima ná, naitië lacárima axanwessë, an ta avanwa ná axanwëa mipanwenen quilëo.***
 > «Два цвета в одно время в одном месте зрения — это невозможно, и именно невозможно в логике: ибо это запрещено логическим строением цвета».
 
 - *quili atta* «два цвета» — мн. ч. ᴺQ *quilë* «colour, hue» (от √KWIL; Eldamo ставит его вместо ᴹQ *laite* «colour»; составитель в статье не назван) + Q *atta*;
@@ -656,6 +656,8 @@
 - *naitië lacárima axanwessë* «и именно невозможно в логике» — *naitië* «indeed», как в 6.372 и 6.522 (*allerdings*). Здесь оно передаёт *und zwar*. Местный п. ᴺQ *axanwë* «логика». *Logisch unmöglich* (наречие) стало «невозможно в логике»;
 - *an* «ибо»; *avanwa* «запрещено» — Q «refused, forbidden, banned» (PE17/143, от √ABA; у корня в Eldamo глоссы нет, но рядом Q *ava-* «to refuse, forbid». Сначала я написал «√ABA „отказывать“» по памяти). **Сдвиг:** *ausgeschlossen* («исключено») стало «запрещено». Логика у меня запрещает, будто это воля, хотя у Витгенштейна она просто не оставляет места. Слово выбрано потому, что толкиновского «исключать» поиск не дал (`exclud`, `shut out`, `prevent`, `forbid`);
 - *axanwëa carmenen quilëo* «логическим строением цвета» — творительный Q *carmë* «production, making; structure; art» + родительный *quilëo*. [Сначала стояло *quiléo* с ударением, то есть с долгим гласным. Удлинение с *n* (*-iéno*) бывает только у слов на *-ië*, а у *quilë* родительный *-ëo*, как *nassëo*, *eumëo*. Та же ошибка была в старом *máraléo* (`stranica.md`, четыре места), исправлена там же на *máralëo*. Нашёл проверяющий.] *Carmë* — то же слово, что во второй части толкиновского *Sundocarmë* «строение основ» (Eldamo).
+
+[28.11: *carmenen* заменено на ***mipanwenen*** — «Struktur» у автора *mipanwë* (5.2: *Mipanwi equesion*); см. «Трактат» 2.03–2.034. Абзац ниже — о прежнем *carmë*; сдвиг «строение → изготовление» с заменой ушёл.]
 
 **Что вышло.** У Витгенштейна логика исключает, у меня запрещает (*avanwa*). А *carmë* значит и «строение», и «искусство», и «делание». Логическое строение цвета в квенья звучит как его «изготовление»: будто цвет сделан так, что двух в одном месте не поместится. Это слышно только в квенья. Записываю как сдвиг, а не как находку.
 
@@ -931,34 +933,34 @@
 
 > ***Panwessë engwaíva i anwar lingar mi intë, ve i limi limilo.*** (2.03)
 > ***Panwessë engwaíva i anwar tarir imbi intë tulcaina lénen.*** (2.031)
-> ***I lé yanen i anwar limyar panwessë engwaíva ná i carmë panweo engwaíva.*** (2.032)
-> ***I canta ná i naile carmëo.*** (2.033)
-> ***I carmë enno parna carmellon panwion engwaíva.*** (2.034)
+> ***I lé yanen i anwar limyar panwessë engwaíva ná i mipanwë panweo engwaíva.*** (2.032)
+> ***I canta ná i naile mipanweo.*** (2.033)
+> ***I mipanwë enno parna mipanwellon panwion engwaíva.*** (2.034)
 
 Обратный перевод: «В положении дел предметы висят друг в друге, как звенья цепи. — В положении дел предметы стоят между собой определённым образом. — Способ, которым предметы сцепляются в положении дел, есть строение положения дел. — Облик есть возможность строения. — Строение факта состоит из строений положений дел».
 
-Немецкий сверен по `5740-t.tex`. Термины прежние: *panwë engwaíva* «Sachverhalt» и *naile* «Möglichkeit» — автор (2, 2.012); *anwa* «Gegenstand» — автор (2.01); *enna* «Tatsache» — автор (ᴹQ); *canta* «Form» — как в моём 2.0141; *carmë* «Struktur» — как в моём 6.3751 (*axanwëa carmenen quilëo* «логическим строением цвета»).
+Немецкий сверен по `5740-t.tex`. Термины прежние: *panwë engwaíva* «Sachverhalt» и *naile* «Möglichkeit» — автор (2, 2.012); *anwa* «Gegenstand» — автор (2.01); *enna* «Tatsache» — автор (ᴹQ); *canta* «Form» — как в моём 2.0141 (`stranica.md`; у автора в 6 — *Ilquárea canta*); ***mipanwë*** «Struktur» — **автор** (5.2: *Mipanwi equesion…* «Die Strukturen der Sätze…»), то же гнездо, что его *panwë engwaíva*; нкв. *panwë* у Eldamo — «arrangement, plan; structure, ordering» (Röandil 2021). [Сначала было Q *carmë*, как в моём 6.3751 (*axanwëa carmenen quilëo*). По проверке 28.11: у автора для «Struktur» своё слово, а у Q *carmë* значение «structure» засвидетельствовано только внутри *Sundokarme* (PE18/84). 6.3751 тоже переведу на *mipanwë* — см. там.] *anwa* «Gegenstand» и *naile* «Möglichkeit» — неологизмы автора: ᴹQ *anwa* «real» Eldamo помечает «УСТАРЕЛО → q nanwa», а *naile* в Eldamo нет.
 
-- **Цепь.** Q ***limë*** «link» (VT47/6; выведено Eldamo из *málimë* «wrist = hand-link»), мн. *limi*; нкв. ***limil*** «chain» (ᴱQ *limil*, QL/54, оставленное Eldamo для неоквенья, потому что в позднем языке √LIM значит «link, join»); нкв. ***limya-*** «to link, join» (Ferencz, √LIM). У Витгенштейна в 2.03 «hängen ineinander» и в 2.032 «zusammenhängen» — одно гнездо (*hängen*). У меня тоже одно, только другое: *limë*, *limil*, *limya-* — всё √LIM. Звено, цепь и сцепление — одно слово в трёх видах, как и должно быть у цепи. *limi limilo* без артикля при «einer Kette».
-- **hängen** → ᴹQ ***linga-*** «to hang, dangle» (Ety/LING; Eldamo: возможно, жил и позже, PE18/96). Висеть — не сцепляться: для «zusammenhängen» (2.032) я взял *limya-*, а не *linga-*, чтобы не терять немецкую разницу. ***mi intë*** «в себе / друг в друге» — возвратное *intë* (VT47/37) с *mi*, как *imbi intë* в 2.14. «ineinander» — «друг в друге», а возвратное по-русски скорее «в себе»; взаимного местоимения у Толкина нет (см. 2.14).
+- **Цепь.** Q ***limë*** «link» (VT47/6; выведено Eldamo из *málimë* «wrist = hand-link»), мн. *limi*; нкв. ***limil*** «chain» (ᴱQ *limil*, QL/54, оставленное Eldamo для неоквенья, потому что в позднем языке √LIM значит «link, join»); нкв. ***limya-*** «to link, join» (Ferencz, √LIM). У Витгенштейна одно гнездо — *hängen* / *zusammenhängen* (2.03, 2.032); у меня одно гнездо — √LIM: *limë*, *limil*, *limya-* — Glied, Kette, zusammenhängen. Это разные связи: немецкую (*hängen*–*zusammenhängen*) я теряю, потому что «висеть» у меня *linga-*, а «сцепляться» *limya-*. [Сначала тут стояло противоречие: в одном пункте «одно гнездо», в следующем «чтобы не терять немецкую разницу». По проверке 28.11.] *limi limilo* без артикля при «einer Kette».
+- **hängen** → ᴹQ ***linga-*** «to hang, dangle» (Ety/LING; Eldamo: возможно, жил и позже, *lingi-* — ссылка PE18/93, в заметке «PE18/96»). Для «zusammenhängen» (2.032) я взял *limya-*, а не *linga-*: «сцепляться», а не «висеть вместе». ***mi intë*** «в себе / друг в друге» — возвратное *intë* (VT47/37) с *mi*, как *imbi intë* в 2.14. «ineinander» — «друг в друге», а возвратное по-русски скорее «в себе»; взаимного местоимения у Толкина нет (см. 2.14).
 - **2.031** — та же формула, что в 2.14, сделана так же (*tarir imbi intë tulcaina lénen*).
-- **2.032** ***I lé yanen*** — «способ, которым»: склоняемое относительное *ya* в творительном (курс, стр. 14946: склоняемое *ya* нужно, когда местоимение стоит в падеже). *panweo* — род. от *panwë* (курс, 6444).
-- **2.033** ***carmëo*** — род. от *carmë*. Вышло четыре слова, все уже бывшие: облик, возможность, строение.
-- **2.034** нкв. ***parna-*** «to comprise, be put together from, consist of» (Arael, 2024, √PAR¹ «arrange»). Падеж, из чего состоит, в статье не указан; исходный *carmellon* — по глоссе «be put together *from*» (мн. ч. на *-llon*, курс, стр. 2034). *enno* — род. от *enna* (курс, стр. 6444: *-o* заменяет конечное *-a*). [Сначала я написал *ennao*; Quettali его не узнал, и правильно.]
-- Попутно: у Толкина есть ***Sundocarmë*** «Base-structure» (PE18/33, 84), термин его исторической фонологии: строение корней. *sundo* «base, root» — от того же корня, что *sundë* «element» (Lokyt, √STUD «base»), которое я взял в 2.13. Элемент и строение у меня случайно сошлись в толкиновском термине.
+- **2.032** Оговорка: переходен ли нкв. *limya-* «to link, join» (Ferencz), по глоссе не понять, а мне нужно непереходное «сцепляются». ***I lé yanen*** — «способ, которым»: склоняемое относительное *ya* в творительном (курс, стр. 14946: склоняемое *ya* нужно, когда местоимение стоит в падеже). *panweo* — род. от *panwë* (курс, 6444).
+- **2.033** ***mipanweo*** — род. от *mipanwë*. Все слова — автора или уже бывшие.
+- **2.034** нкв. ***parna-*** «to comprise, be put together from» (Arael, 2024; глоссу «consist of» он добавил 2026-04-27; √PAR¹ «arrange»). Падеж, из чего состоит, в статье не указан; исходный *mipanwellon* — по глоссе «be put together *from*» (мн. ч. на *-llon*, курс, стр. 2034). *enno* — род. от *enna* (курс, стр. 6444: *-o* заменяет конечное *-a*). [Сначала я написал *ennao*; Quettali его не узнал, и правильно.]
+- Попутно: у Толкина есть ***Sundocarmë*** «Base-structure» (PE18/33, 84), термин его исторической фонологии: строение корней. *sundo* «base, root» — от того же корня, что *sundë* «element» (Lokyt, √STUD «base»), которое я взял в 2.13. [Сначала здесь было «элемент и строение у меня случайно сошлись». Не случайно: значение «structure» у Q *carmë* и взято из *Sundokarme*. А после замены на авторское *mipanwë* схождения больше нет.]
 
-**Что потеряно.** В 2.03 «ineinander» стало «в себе». **Не проверено.**
+**Что потеряно.** В 2.03 «ineinander» стало «в себе» (и *mi intë* формально читается «в них»: есть *intë²* «they», PE17/75). Связь *hängen*–*zusammenhängen*. Проверено субагентом 28.11, поправки — в скобках выше.
 
 ## 2.15 (28.11)
 
 > ***Sa i sundi emmo tarir imbi intë tulcaina lénen, emë sa i engwi tarir sië imbi intë.***
-> ***Estalvë limë sina sundion emmo carmerya, ar nailerya canta emiëo.***
+> ***Estalvë limë sina sundion emmo mipanwerya, ar nailerya canta emiëo.***
 
 Обратный перевод: «То, что элементы картины стоят между собой определённым образом, изображает, что вещи так стоят между собой. Эту связь элементов картины мы называем её строением, а её возможность — обликом изображения».
 
 - ***Sa … , emë sa …*** — Q *sa²* «that [anaphoric]», в том числе союз «что»: *merin sa haryalyë alassë nó vanyalyë Ambarello* «I hope that you have happiness before you pass from the world» (MS), *ecë nin carë sa* (VT49/20). Оба «dass» переданы одним *sa*. Первое придаточное — подлежащее при *emë*: так у Витгенштейна, но для квенья это смелее, чем в примерах. *emë* — нкв. *em-* «to depict», как в моём 2.221 (там *darstellt*). У Витгенштейна здесь «stellt vor», а в 2.221 «darstellt», и это разные глаголы; у меня оба — *em-*. Различие потеряно (в 2.11 «vorstellen» тоже будет).
 - ***i engwi*** — «die Sachen»: автор в 2.01 переводит «(Sachen, Dingen)» как *(engwion, nation)*, значит «Sache» = ᴹQ *engwë*. ***sië*** — Q «thus» для «so».
-- ***Estalvë … carmerya*** — «heisse seine Struktur» («пусть называется»). ᴹQ *esta-¹* «to name» (поздней статьи Q нет; есть ᴹQ *estaina* «named»), *-lvë* — включающее «мы» для общих утверждений (курс, стр. 13986). У Витгенштейна это соглашение о слове («пусть называется»), у меня — «мы называем». *carmerya* — *carmë* + *-rya* «её [картины] строение».
+- ***Estalvë … mipanwerya*** — «heisse seine Struktur» («пусть называется»); *mipanwë* — автор (5.2), см. 2.03–2.034. ᴹQ *esta-¹* «to name» (поздней статьи Q нет; есть ᴹQ *estaina* «named»), *-lvë* — включающее «мы» для общих утверждений (курс, стр. 13986). У Витгенштейна это соглашение о слове («пусть называется»), у меня — «мы называем». *mipanwerya* — *mipanwë* + *-rya* «её [картины] строение».
 - ***limë sina*** — «dieser Zusammenhang». Q *limë* «link» — то же √LIM, что в 2.03 (*limi limilo*) и 2.032 (*limyar*). Связь элементов, в 2.032 «сцепление», здесь стала одним звеном. *sina* после существительного, как у Толкина (*vanda sina*). *sundion* — род. мн. от *sundë*.
 - ***nailerya canta emiëo*** — «ihre Möglichkeit seine Form der Abbildung», глагол *estalvë* подразумевается. *naile* — автор; *canta* — как в 2.0141 и 2.033. ***emiëo*** — «изображения», род. от *emië*: отглагольное на *-ië* от *em-* по курсу (*tec- → tecië*, стр. 13610) — **моё**, у Толкина и в Eldamo его нет. «seine» (картины) при *canta* опущено.
 
