@@ -1248,3 +1248,23 @@
 - ***ve ta lúmelissen tulë*** — «Wie das denn wohl zuzeiten kommen mag»: *ve* «как», *ta* «это», нкв. *lúmelissen* «sometimes, at times» (мн. частичный местный от *lúmë*), Q *tul-* «come», аорист *tulë*. «denn wohl … mag» (ирония «пожалуй, может») потеряно.
 
 **Что потеряно.** Рифмы (*hören / lehren*; *ist* — с 751 нет), «mag», «wohl». Не отдавал на проверку.
+
+# «Ночь», строки 754–757 (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> WAGNER. ***Ai! íre quen ná sië nahtina mi parmasan,***  (754: Ach! wenn man so in sein Museum gebannt ist,)
+> ***ar Ambar ná sen hraicénima, rië asaressë,***  (755: Und sieht die Welt kaum einen Feiertag,)
+> ***rië palantírenen, rië haia,***  (756: Kaum durch ein Fernglas, nur von weitem,)
+> ***manen mauya quenen tulya sa mirquetiénen?***  (757: Wie soll man sie durch Überredung leiten?)
+
+Обратный перевод: «ВАГНЕР. Ах! когда человек так заточён в книгохранилище, / и Мир ему едва виден, только в праздник, / только через палантир, только издали, — / как должно человеку вести его убеждением?»
+
+Немецкий сверен (`faust_nomera.py`).
+
+- ***íre quen ná sië nahtina*** — *íre* «when», Q ***quén*** «person, individual; one, somebody» — немецкое безличное «man». Q ***nahta-²*** «to confine, oppress» (PE17/166, √NAKH), страдательное *nahtina* по курсу (стр. 13651: *nahta- → nahtina* — правда, это омоним *nahta-* «убивать»; у *nahta-²* формы у Толкина нет). «gebannt» («заколдован, прикован») стало «заточён». Выведено.
+- ***mi parmasan*** — «in sein Museum»: нкв. *parmasan* «library [room]» (без своих ссылок; *parma* «книга» + *sambë*?). «Museum» у Гёте — учёный кабинет, «обитель муз». «sein» опущено.
+- ***Ambar ná sen hraicénima*** — «sieht die Welt kaum»: Q ***hraicénima*** «scarcely visible, hard to see» (*hrai-* «hard, difficult» + *cénima* «visible», как в 672). «kaum» сидит в самом слове, а «sieht» стало «виден ему» — дательный *sen*. *Ambar* — обитаемый Мир, как в 719. ***rië asaressë*** — Q ***asar*** «fixed time, festival» (WJ/399), местный падеж: «только в праздник». *rië* — как в «Трактате» (честное «только»: Вагнер знает весь ряд дней и вынимает из него праздники).
+- ***rië palantírenen*** — «Kaum durch ein Fernglas»: Q ***palantír*** «far-gazer, far-seer, (lit.) that which looks far away» (LotR/594, 597; Let/427) + творительный *-nen*. У Гёте подзорная труба, у Толкина — видящий камень. Есть и нкв. *palantilla* «telescope», но *palantír* — толкиновское слово, и «Fern-glas» в нём читается дословно: «даль-смотрящий». Слово несёт с собой Денетора и Сарумана, которые тоже смотрели на мир издали и видели не то. Вагнер этого не знает. ***rië haia*** — Q *haia* «afar» (ᴹQ — «far (off), far away»).
+- ***manen mauya quenen tulya sa*** — «Wie soll man sie … leiten?»: *mauya* + дательный, как в 669, 704, 737; *quenen* — дательный от *quén*. Q ***tulya-*** «\*to lead; to fetch». *sa* — Мир (неодушевлённое).
+- ***mirquetiénen*** — «durch Überredung»: нкв. *mirquet-* «to persuade, (lit.) into-talk» + *-ië* (отглагольное, курс, стр. 13610: *tec- → tecië*) + творительный *-nen*. Выведено.
+
+**Что потеряно.** Рифмы (*gebannt ist / Feiertag*; *weitem / leiten*), «sein Museum». Не отдавал на проверку.
