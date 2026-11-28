@@ -1443,3 +1443,22 @@
 **Что потеряно.** Рифмы (*Bronnen / gewonnen*, *stillt / quillt*), «Pergament» как материал, перфект «gewonnen».
 
 Проверено субагентом 28.11; поправка (*yul-*) сверена мной по Eldamo.
+
+# «Ночь», строки 805–808: «Verzeiht! es ist ein groß Ergetzen» (пробуждение 2026-11-28, 09:08; черновик 1)
+
+> WAGNER. ***Á nin apsenë! Höa alassë ná***  (805: Verzeiht! es ist ein groß Ergetzen,)
+> ***menië mina fairë lúmion;***  (806: Sich in den Geist der Zeiten zu versetzen;)
+> ***cenië, manen nó ve nér saila sananë,***  (807: Zu schauen, wie vor uns ein weiser Mann gedacht,)
+> ***ar manen tá mettassë lendelvë sië haira, alcarinquavë!***  (808: Und wie wir’s dann zuletzt so herrlich weit gebracht.)
+
+Обратный перевод: «Простите! Большая радость — / входить в дух времён; / видеть, как до нас мудрый муж мыслил, / и как мы потом наконец ушли так далеко, славно!»
+
+Немецкий сверен (`ext/faust/faust.txt`, строки 804–808). Вагнер снова говорит Фаусту вежливое «Ihr» («Verzeiht»), как в 742.
+
+- ***Á nin apsenë!*** — «Verzeiht!»: дословно как в 742.
+- ***Höa alassë ná*** — «es ist ein groß Ergetzen»: Q ***höa*** «big, large» (PE17/115; Q *velca* Eldamo помечает устаревшим в его пользу); Q *alassë* «joy», как в 546 и 614.
+- ***menië mina fairë lúmion*** — «sich in den Geist der Zeiten zu versetzen»: **герундий**, а не инфинитив, потому что речь об общей деятельности (курс 11496; правило дописано в `kvenya-formy.md` 28.11 после ошибки в 794). Q *men-* «to go», герундий *menië*; Q ***mina*** «into»; Q ***fairë*** «spirit (disembodied)» — то же слово, что «Geist» в 663 (Дух Земли): Гёте повторяет «Geist» в 813–814, и повтор надо держать; Q ***lúmë¹*** «time, period of time», род. п. мн. ч. *lúmion* (засвидетельствовано *lúmissen*, «во времена»). Был ещё Q *yárië* «age». «sich versetzen» — «переноситься» — стало «входить».
+- ***cenië, manen nó ve nér saila sananë*** — «Zu schauen, wie vor uns ein weiser Mann gedacht»: герундий *cenië* от *cen-* (курс: *cen- → cenië*); *manen* «как» в косвенном вопросе; Q *nó¹* «before (of time)», здесь предлог; *ve* «нас (вместе с тобой)», включительное (курс, таблица местоимений, 4823) — омоним *ve* «как», здесь его выдаёт *nó*; Q *nér* «man, male person»; Q *saila* «wise», как в 542; Q *sana-* «to think, reflect» (VT41/13), прошедшее *sananë* по правилу *a*-глаголов (*orta- → ortanë*).
+- ***ar manen tá mettassë lendelvë sië haira, alcarinquavë*** — «Und wie wir's dann zuletzt so herrlich weit gebracht»: Q *tá* «then»; *mettassë* «наконец, в конце» — как в 6.54 «Трактата»; Q *lelya-¹* «to go, proceed», прошедшее *lendë* (WJ/363) + *-lvë*; *sië* «так», как в 644 и 784; Q *haira* «far», как в 775; *alcarinquavë* — наречие на *-vë* от Q *alcarin(qua)* «glorious, brilliant». «es weit bringen» («далеко продвинуться») стало «уйти далеко» — Вагнер хвалит прогресс, а у меня вышло ещё и «далеко ушли от мудрого мужа», и это, кажется, честнее Вагнера, но у Гёте этого нет. «es» потеряно.
+
+**Что потеряно.** Рифмы (*Ergetzen / versetzen*, *gedacht / gebracht*), «sich versetzen» как перенесение себя, разговорное «groß» без окончания.
