@@ -1268,3 +1268,21 @@
 - ***mirquetiénen*** — «durch Überredung»: нкв. *mirquet-* «to persuade, (lit.) into-talk» + *-ië* (отглагольное, курс, стр. 13610: *tec- → tecië*) + творительный *-nen*. Выведено.
 
 **Что потеряно.** Рифмы (*gebannt ist / Feiertag*; *weitem / leiten*), «sein Museum». Не отдавал на проверку.
+
+# «Ночь», строки 760–763: «Wenn ihr’s nicht fühlt» (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> FAUST. ***Qui uilyë felë sa, uilyë faruva sa,***  (760: Wenn ihr’s nicht fühlt, ihr werdet’s nicht erjagen,)
+> ***qui ta ui nirë et fëallo***  (761: Wenn es nicht aus der Seele dringt)
+> ***ar asiénen yára ar taura***  (762: Und mit urkräftigem Behagen)
+> ***nirë i hondor ilyë hlarindoron.***  (763: Die Herzen aller Hörer zwingt.)
+
+Обратный перевод: «ФАУСТ. Если вы этого не чувствуете, вы этого не настигнете охотой, / если оно не рвётся из души / и с отрадой древней и могучей / не теснит сердца всех слушателей».
+
+Немецкий сверен (`faust_nomera.py`).
+
+- ***Qui uilyë felë sa*** — Фауст отвечает Вагнеру на «ihr», и я беру вежливое *-lyë*, как у Вагнера в 742–743. *ui* + личное окончание + глагол без окончания — курс §5.5.1.2 (стр. 8722: *uin menuva*). нкв. *fel-*, как в 614, 650, 663. ***uilyë faruva sa*** — «ihr werdet’s nicht erjagen»: Q ***fara-*** «to hunt» (PE22/138, 164), будущее *faruva*. «erjagen» — «добыть охотой», *fara-* — только «охотиться». Сдвиг невелик.
+- ***qui ta ui nirë et fëallo*** — «Wenn es nicht aus der Seele dringt»: Q ***nir-*** «to press, urge, thrust, force (in a given direction)» (PE22/165), как в 643 и 698. *et* + отделительный — «out of», как *Et Eärello* (LotR/967; курс, стр. 2052: *et i cöallo* «прочь из дома»). *fëa* «душа», как в 691, 604.
+- ***ar asiénen yára ar taura*** — «Und mit urkräftigem Behagen»: Q ***asië*** «ease, comfort» в творительном. «ur-kräftig» разложено на два прилагательных: Q *yára* «old, ancient» (ур- — изначальный) и Q *taura* «(very) mighty», как в 691. После существительного, через *ar* — выведено.
+- ***nirë i hondor ilyë hlarindoron*** — «Die Herzen aller Hörer zwingt»: снова ***nir-*** — у Гёте здесь другой глагол, «zwingt», но Толкин сам пишет, что *nir-* — давление человека на других «by mind and ‘will’ as well as by physical strength». «dringt» и «zwingt» стали одним словом, и, кажется, к лучшему: то, что рвётся из души, и есть то, что теснит сердца. *hondor* — мн. ч. *hondo* «сердце чувств», как в 665, 668. нкв. ***hlarindo*** «hearer» (от *hlar-*, как в 690, 742), род. мн. *hlarindoron*.
+
+**Что потеряно.** Рифмы (*erjagen / Behagen*, *dringt / zwingt*), «dringt/zwingt» как два глагола, «ur-» как приставка. Не отдавал на проверку.
