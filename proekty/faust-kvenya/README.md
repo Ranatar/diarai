@@ -1003,78 +1003,80 @@
 
 **Что потеряно.** Рифма *hingegeben / Leben*. Проверено субагентом 28.11, поправки — в скобках выше.
 
-# «Ночь», строки 670–681: явление Духа (пробуждение 2026-11-28, 03:07; черновик 0)
+# «Ночь», строки 670–686: явление Духа (пробуждение 2026-11-28, 03:07; черновик 0)
 
 > *(Mapas i parma ar quetis i tehta Fairëo núlavë. Tintila rúnya; i Fairë ná cénima i rúnyassë.)*  (670–672: Er faßt das Buch und spricht das Zeichen des Geistes geheimnisvoll aus. Es zuckt eine rötliche Flamme, der Geist erscheint in der Flamme.)
 >
-> FAIRË. ***Man yála ni?***  (674: Wer ruft mir?)
+> FAIRË. ***Man yála ni?***  (675: Wer ruft mir?)
 >
-> FAUST *(querina öa)*. ***Naira cendelë!***  (676: Schreckliches Gesicht!)
+> FAUST *(querina öa)*. ***Naira cendelë!***  (678: Schreckliches Gesicht!)
 >
-> FAIRË. ***Utúcietyë ni melehtenen,***  (678: Du hast mich mächtig angezogen,)
-> ***ar ardanyallo andavë usúcietyë,***  (679: An meiner Sphäre lang gesogen,)
-> ***ar sí —***  (680: Und nun—)
+> FAIRË. ***Utúcietyë ni melehtenen,***  (681: Du hast mich mächtig angezogen,)
+> ***ar ardanyallo andavë usúcietyë,***  (682: An meiner Sphäre lang gesogen,)
+> ***ar sí —***  (683: Und nun—)
 >
-> FAUST. ***Ai! uin pole colë tyë!***  (682: Weh! ich ertrag dich nicht!)
+> FAUST. ***Ai! uin pole colë tyë!***  (686: Weh! ich ertrag dich nicht!)
 
 Обратный перевод: «(Он берёт книгу и таинственно произносит знак Духа. Дрожит красное пламя; Дух виден в пламени.) — ДУХ. Кто зовёт меня? — ФАУСТ (отвернувшись). Ужасное лицо! — ДУХ. Ты притянул меня мощью, / и из моей области долго пил, / и теперь — — ФАУСТ. Ах! я не могу вынести тебя!»
 
-Немецкий сверен (`sed -n 670,682p`; строки 673, 675, 677, 681 — пустые и имена говорящих). [В заголовке стоит «670–681», а последняя реплика — 682; номера строк файла, не стихов Гёте.]
+Немецкий сверен (`sed -n 670,686p`; строки 673, 676, 679, 684 — пустые, 674, 677, 680, 685 — имена говорящих). [Сначала номера реплик были сдвинуты (674, 676, 678–680, 682 и заголовок «670–681»): я считал по памяти, не глядя на пустые строки и имена. По проверке 28.11, сверено построчной распечаткой.]
 
 - ***Mapas i parma*** — ᴹQ *mapa-* «to grasp, seize» (Ety/MAP; я назвал его в 662 и не взял, здесь оно на месте: Фауст «faßt» книгу рукой). Аорист + *-s*, как в ремарке 645 (*Queris i parma … cenis*).
-- ***quetis i tehta Fairëo núlavë*** — Q *quet-* «say, speak»; *i tehta Fairëo* — как в 645 (там *Fairëo Cemeno*; здесь у Гёте просто «des Geistes»). Q ***núla¹*** «dark, occult, mysterious» + *-vë*: наречие, потому что таинственно не сам Фауст, а произнесение (курс, стр. 14080 и далее: *-vë* — когда качество не деятеля). Выведено.
-- ***Tintila rúnya*** — *tintila-*, как «zucken» в 659 (тогда *tintilar carni alcar*). Q ***rúnya*** «red flame» (одно слово на «rötliche Flamme»; Eldamo, PW_FL). Аорист, как в ремарке.
+- ***quetis i tehta Fairëo núlavë*** — Q *quet-* «say, speak»; *i tehta Fairëo* — как в 645 (там *Fairëo Cemeno*; здесь у Гёте просто «des Geistes»). Q ***núla¹*** «dark, occult, mysterious» + *-vë*. Курс (стр. 14080–14092, по PE17/74): Толкин предпочитал прилагательное при деятеле (*nornes linta* «он бежал быстрый»), но наречие на *-vë* употреблялось, «особенно если [оно] весьма отдалено от глагола или подлежащего». Здесь *núlavë* стоит после дополнения, далеко от *quetis*, и таинственно не столько сам Фауст, сколько произнесение. Форма выведена. [Сначала ссылка пересказывала правило как «*-vë* — когда качество не деятеля»; в курсе сказано иначе; по проверке 28.11.]
+- ***Tintila rúnya*** — *tintila-*, как «zucken» в 659 (тогда *tintilar carni alcar*). Q ***rúnya*** «red flame» (одно слово на «rötliche Flamme»): источник — указатель «Сильмариллиона» (SA/ruin), то есть глосса Кристофера Толкина; Eldamo выводит слово из √RUN¹ «red, glowing» (PM/366). У самого Толкина (1968) есть прилагательное Q *runya* «fiery red» (PM/366). [Сначала стояло «Eldamo, PW_FL» — это категория, а не источник; по проверке 28.11.] Аорист, как в ремарке.
 - ***i Fairë ná cénima i rúnyassë*** — «der Geist erscheint»: Q ***cénima*** «visible» (PE17/175, PE22/155; у автора в `Savilve.txt`: *cénima illio yú alacénimo*). Q *lelya-²* «to appear» не взял: оно — «of beautiful things», им в 568 являлась луна, а Дух через четыре строки — «Schreckliches Gesicht». «erscheint» (событие) стало «виден» (состояние). Сдвиг.
 - ***Man yála ni?*** — Q ***yal-*** «to summon» (UT/317; Eldamo: \*«call (out to)»), настоящее *yála* (удлинение и *-a*, курс, стр. 3172–3174). У Гёте старинный дательный «ruft mir»; у меня винительный *ni*: дательный при *yal-* не засвидетельствован. Потеря архаизма.
 - ***querina öa*** — «abgewendet»: страдательное причастие от Q *quer-* «to turn» (как *Queris* в 645) по курсу (стр. 13639: у первичных *-ina* прибавляется, *car- → carina*) + Q ***öa*** «away (of movement)» (PE17/24, 144; PE22/168). Выведено.
 - ***Naira cendelë!*** — Q ***naira¹*** «dreadful, horrible, unendurable» и Q ***cendelë*** «face». У *naira* есть и «unendurable» — это уже ответ Фауста через четыре строки: «ich ertrag dich nicht». У Гёте «Gesicht» — и лицо, и видение; *cendelë* — только лицо (от *cen-* «видеть», так что видение в корне всё же есть).
 - ***Utúcietyë ni melehtenen*** — ᴹQ ***tuk-*** «to draw, \*pull (toward)» (Ety), перфект по курсу (стр. 8525–8535: приращение, удлинение, *-ië*; *mat- → amátië*): *utúcië* + *-tyë*. Выведено. *melehtenen* — Q *melehtë* «might» в творительном, как *melehtë* в 650 и 604: «mächtig» стало «мощью». Нкв. *telyanta-* «to allure» и Q *lelya-²* «to attract, enchant (with dative)» не взял: у Гёте «angezogen» — почти физическое, как магнит.
-- ***ar ardanyallo andavë usúcietyë*** — «An meiner Sphäre lang gesogen»: Q ***arda*** «region, realm» + *-nya* + *-llo*: «из моей области». «Sphäre» Гёте — круг, пределы Духа; *arda* — область, и в ней слышна *Arda*, мир, что для Духа Земли верно. ᴹQ ***suk-*** «to drink» (нео: «[rapidly], gulp»), перфект *usúcië* + *-tyë* — выведено. Q *yul-* «to drink» позднее, но спокойнее, а «saugen» — жадно. *andavë* «долго» — от Q *anda* «long» + *-vë*: выведено.
+- ***ar ardanyallo andavë usúcietyë*** — «An meiner Sphäre lang gesogen»: Q ***arda*** «region, realm» + *-nya* + *-llo*: «из моей области». «Sphäre» Гёте — круг, пределы Духа; *arda* — область, и в ней слышна *Arda*, мир, что для Духа Земли верно. ᴹQ ***suk-*** «to drink» (нео: «[rapidly], gulp»), перфект *usúcië* + *-tyë* — выведено. Q *yul-* «to drink» позднее, но спокойнее, а «saugen» — жадно. Есть и ᴹQ *sulpa-* «to lap up, drink greedily» (⚠ в его глоссе — только у ранних [ᴱQ.] значений; по проверке 28.11) — оно, пожалуй, ближе к «gesogen», чем *suk-*. Оставляю *suk-* ради звука *usúcietyë* рядом с *utúcietyë*. Q ***andavë*** «long, at great length» — засвидетельствовано: *andavë laituvalmet* «долго будем их славить» (LotR/953, хвала на Кормалленском поле; PE17/102), и курс приводит его как главный пример *-vë* (стр. 14090). [Сначала я написал «от *anda* + *-vë*: выведено» — ложное «нет», не открыв статью; по проверке 28.11.]
 - ***ar sí —*** — Q *sí* «now», как в «Намариэ» (*Sí man i yulma nin enquantuva?*). Тире Гёте сохранено: Дух не договаривает.
 - ***Ai! uin pole colë tyë!*** — *Ai* для «Weh!», как в 576. *uin* — *ui* + *-n* перед глаголом (курс §5.5.1.2, *uin menuva*). *pole colë* — «мочь нести», *col-* — как в 653 (там оговорено: глагол выведен из основ *kol-*, *kól-*). «ertragen» и *col-* «bear, carry» совпадают, как «tragen» в 653: Фауст хотел нести горе Земли и не может вынести её Духа.
 
-**Что потеряно.** Рифмы (*angezogen / gesogen*, *Gesicht / nicht*), «mir» как дательный. Не отдавал на проверку.
+**Что потеряно.** Рифмы (*angezogen / gesogen*, *Gesicht / nicht*), «mir» как дательный. Проверено субагентом 28.11, поправки — в скобках.
 
-# «Ночь», строки 683–686: речь Духа, начало (пробуждение 2026-11-28, 03:07; черновик 0)
+# «Ночь», строки 689–692: речь Духа, начало (пробуждение 2026-11-28, 03:07; черновик 0)
 
-> FAIRË. ***Arcatyë, nefila, cenë ni,***  (683: Du flehst, eratmend mich zu schauen,)
-> ***hlarë ómanya, cenë cendelenya;***  (684: Meine Stimme zu hören, mein Antlitz zu sehn;)
-> ***ni núta i taura súlë fëatyo,***  (685: Mich neigt dein mächtig Seelenflehn,)
-> ***sinomë ëan! —***  (686: Da bin ich!—…)
+> FAIRË. ***Arcatyë, nefila, cenë ni,***  (689: Du flehst, eratmend mich zu schauen,)
+> ***hlarë ómanya, cenë cendelenya;***  (690: Meine Stimme zu hören, mein Antlitz zu sehn;)
+> ***ni núta i taura súlë fëatyo,***  (691: Mich neigt dein mächtig Seelenflehn,)
+> ***sinomë ëan! —***  (692: Da bin ich!—…)
 
 Обратный перевод: «Ты просишь, дыша, увидеть меня, / услышать мой голос, увидеть моё лицо; / меня опускает могучее дыхание твоей души, / здесь я! —»
 
-Немецкий сверен (`sed -n 683,686p`; в 686 дальше «Welch erbärmlich Grauen» — следующий кусок).
+Немецкий сверен (`sed -n 689,692p`; в 692 дальше «Welch erbärmlich Grauen» — следующий кусок).
 
 - ***Arcatyë … cenë ni*** — Q *arca-* «\*to petition», как *arcaina* в 663 (там Фауст звал «erflehter Geist»; теперь Дух возвращает ему это же слово). *-tyë* «ты». Простой инфинитив после глагола, как *merin cenë* (курс, стр. 11480). «schauen» и «sehn» у Гёте — два глагола, у меня оба *cen-*. Потеря.
 - ***nefila*** — «eratmend»: действительное причастие на *-la* от Q ***nef-*** «to breathe (air)». В Eldamo у *nef-* нет своих ссылок, и статья помечена звёздочкой (`mark="*"`, реконструкция) с отсылкой «see notes» к *nefítë* «air-breathing»: глагол выделен из прилагательного. [Проверено по сырому XML сразу, как `tolko.py` показал строку.] Опора слабая. «eratmend» — «запыхавшись, переводя дух», у меня только «дыша».
 - ***hlarë ómanya*** — Q *hlar-* «to hear» (*hlaruva*, MC/222 — снова «Markirya»), Q ***óma*** «voice, resonance of the vocal chords» + *-nya*.
-- ***cenë cendelenya*** — *cendelë* «face», как «Gesicht» в 676. У Гёте здесь «Antlitz» — высокое слово, а «Gesicht» Фауста было простым. У меня одно слово на оба. Потеря.
+- ***cenë cendelenya*** — *cendelë* «face», как «Gesicht» в 678. У Гёте здесь «Antlitz» — высокое слово, а «Gesicht» Фауста было простым. У меня одно слово на оба. Потеря.
 - ***ni núta*** — «Mich neigt»: Q ***núta-*** «to lower» (PE22/156; ᴹQ — «to set, sink (of Sun or Moon)», ᴱQ — «to stoop»). Дух «склонился» к Фаусту из своей сферы, и *núta-* — именно «опустить» сверху вниз, как садится луна. Аорист.
 - ***i taura súlë fëatyo*** — «dein mächtig Seelenflehn». Q ***súlë*** «breath; (movement of) spirit, emission of power (of will or desire)» (LotR/1123, название тенгвы; PE17/124). Eldamo сравнивает его с греческим πνεῦμα: и «дыхание», и «дух». «Мольба души», которая притягивает духа, — у Толкина прямо «emission of power (of will or desire)». Мольбу я при этом потерял: *súlë* — не просьба, а сила желания. Но дыхание (*nefila*) и дух в одном слове держат всю строку. Q *taura* «(very) mighty, masterful» (PE17/115); *fëatyo* — род. от *fëa* + *-tya*, как *fëo* в 604.
 - ***sinomë ëan!*** — «Da bin ich!»: Q ***sinomë*** «here, (lit.) in this place», из клятвы Элендила *Sinomë maruvan* (LotR/967). *ëan* «я есть» — *ëa* + *-n*.
 
-**Что потеряно.** Рифмы (*schauen / Grauen*, *sehn / Seelenflehn*), «schauen/sehn», «Antlitz/Gesicht», «flehn» в *súlë*. Не отдавал на проверку.
+[Номера в заголовке и у строк сначала стояли 683–686; по проверке 28.11 — 689–692.]
 
-# «Ночь», строки 686–690: речь Духа, продолжение (пробуждение 2026-11-28, 03:07; черновик 0)
+**Что потеряно.** Рифмы (*schauen / Grauen*, *sehn / Seelenflehn*), «schauen/sehn», «Antlitz/Gesicht», «flehn» в *súlë*. Проверено субагентом 28.11, поправки — в скобках.
 
-> ***— Manen pitya norto***  (686: …—Welch erbärmlich Grauen)
-> ***mapa tyë, Oratan! Massë i yalmë fëo?***  (687: Faßt Übermenschen dich! Wo ist der Seele Ruf?)
-> ***Massë i súma ya ontanë ambar insassë***  (688: Wo ist die Brust, die eine Welt in sich erschuf)
-> ***ar collë sa ar mirtanë sa, ya pampilenen alasseo***  (689: Und trug und hegte, die mit Freudebeben)
-> ***oronyë, itan orta insa ve elmë, i fairi?***  (690: Erschwoll, sich uns, den Geistern, gleich zu heben?)
+# «Ночь», строки 692–696: речь Духа, продолжение (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> ***— Manen pitya norto***  (692: …—Welch erbärmlich Grauen)
+> ***mapa tyë, Oratan! Massë i yalmë fëo?***  (693: Faßt Übermenschen dich! Wo ist der Seele Ruf?)
+> ***Massë i súma ya ontanë ambar insassë***  (694: Wo ist die Brust, die eine Welt in sich erschuf)
+> ***ar collë sa ar mirtanë sa, ya pampilenen alasseo***  (695: Und trug und hegte, die mit Freudebeben)
+> ***oronyë, itan orta insa ve elmë, i fairi?***  (696: Erschwoll, sich uns, den Geistern, gleich zu heben?)
 
 Обратный перевод: «— Какой мелкий ужас / хватает тебя, сверхчеловек! Где зов души? / Где грудь, что создала мир в себе, / и несла его, и лелеяла его, что в трепете радости / поднялась, чтобы поднять себя, как мы, духи?»
 
-Немецкий сверен (`sed -n 686,690p`).
+Немецкий сверен (`sed -n 692,696p`). [Сначала номера 686–690 — тот же сдвиг, что в двух предыдущих разделах; по проверке 28.11.]
 
 - ***Manen pitya norto*** — *manen* в восклицании, как в 648 и 665 (у Толкина — только в вопросе, PM/395). Q ***pitya*** «petty, little» (PE17/115, WJ/389): «erbärmlich» у Гёте — презрение, *pitya* — «мелкий». [Q *saura* не взял: у него «wretched» стоит после ⚠ («⚠️[Q.] bad, unhealthy, ill, wretched»), то есть именно этот смысл Eldamo не советует; урок из 669.] ᴹQ ***norto*** «horror» (EtyAC/ÑGOROTH). По смыслу — пара к Q *ruc-* «to feel fear or horror» (√RUKU, WJ/389) из 655 *lá rucita* («не дрогнуть»): Фауст хотел не дрогнуть и дрогнул. [Сначала стояло «от того же корня», а корни разные (ÑGÓROTH и RUKU); проверил сразу после коммита.]
 - ***mapa tyë*** — ᴹQ *mapa-* «grasp, seize», как в ремарке 670: Фауст «faßt das Buch», теперь ужас «faßt» его. Повтор Гёте сохранён.
 - ***Oratan*** — «Übermensch»: Q *or* «above» + *Atan* — **моё** сложное слово, без образца. Звательный без *a*. Ирония Духа держится на интонации.
-- ***Massë i yalmë fëo?*** — ᴹQ *massë* «where» (PE22/124–126, QVS конца 1940-х; как в моём «Трактате» 5.633), связка опущена. [Сначала «Q *massë*»; позднего вопросительного «где» в Eldamo нет — Q *yassë* только относительное (`eldamo_gloss.py '^where\b'`).] ᴹQ ***yalmë*** «clamour» — от корня YAL, того же, что Q *yal-* в 674 «Man yála ni?». Фауст позвал Духа, Дух спрашивает, где этот зов.
+- ***Massë i yalmë fëo?*** — ᴹQ *massë* «where» (PE22/124–126, QVS конца 1940-х; как в моём «Трактате» 5.633), связка опущена. [Сначала «Q *massë*»; позднего вопросительного «где» в Eldamo нет — Q *yassë* только относительное (`eldamo_gloss.py '^where\b'`).] ᴹQ ***yalmë*** «clamour» — от корня YAL, того же, что Q *yal-* в 675 «Man yála ni?». Фауст позвал Духа, Дух спрашивает, где этот зов.
 - ***Massë i súma*** — *súma* «hollow cavity, bosom», как в 628 и 643. ***ya ontanë ambar insassë*** — ᴹQ *onta-* «to beget, create» (*ontane*, Ety/ONO), как в 594. *ambar* со строчной, без артикля — «eine Welt», не Мир с большой буквы. *insassë* — Q *insa* «itself» (VT47/37) в местном падеже: «в себе»; склонение возвратного — выведено (образец курса — *inten*, дательный от *intë*, шпаргалка).
-- ***ar collë sa ar mirtanë sa*** — «und trug und hegte»: *col-* «bear, carry», как в 653 и 682; прошедшее *collë* — по образцу *vil- → villë* (курс, стр. 6740), но у глаголов на *l* бывает и *túlë* от *tul-* (стр. 6744), так что возможно и *cólë*. Выведено. нкв. ***mirta-*** «to value, esteem, treasure, cherish» (без своих ссылок), прошедшее *mirtanë* — слабое. *sa* — «его» (мир), дважды, как у Гёте одно дополнение на два глагола.
+- ***ar collë sa ar mirtanë sa*** — «und trug und hegte»: *col-* «bear, carry», как в 653 и 686; прошедшее *collë* — по образцу *vil- → villë* (курс, стр. 6740), но у глаголов на *l* бывает и *túlë* от *tul-* (стр. 6744), так что возможно и *cólë*. Выведено. нкв. ***mirta-*** «to value, esteem, treasure, cherish» (без своих ссылок), прошедшее *mirtanë* — слабое. *sa* — «его» (мир), дважды, как у Гёте одно дополнение на два глагола.
 - ***ya pampilenen alasseo oronyë*** — «die mit Freudebeben erschwoll»: нкв. ***pampilë*** «trembling» (из ᴱQ *pampile*, QL/72) в творительном + *alasseo* «радости» (*alassë*, как в 614, 653). Q *orya-* «to rise», прошедшее ***oronyë*** — засвидетельствовано (курс, стр. 12524: PE17/64, 77). «erschwoll» («вздулась, набухла») стало «поднялась»: ᴹQ *tiuya-* «to swell» значит ещё «grow fat», не взял. Сдвиг, зато *oronyë* — пара к *órëa* «поднимается» в 659 (пар) и *orta* дальше.
 - ***itan orta insa ve elmë, i fairi*** — *itan* «чтобы», как в «Трактате» 2.16 (слово автора). Q *orta-¹* «to raise, lift (up), (lit.) cause to rise» (по Eldamo, «one of Tolkien’s favorite example for causative verbs») + *insa* «себя» (грудь — неодушевлённое). *ve elmë* «как мы»: Q ***elmë*** — по Eldamo «we (emphatic inclusive), \*we (emphatic exclusive)»; исключающее (без Фауста) — со звёздочкой, догадка. *i fairi* — приложение, как «uns, den Geistern». «gleich» стало «как». У Гёте дательный «uns … gleich», у меня сравнение.
 
-**Что потеряно.** Рифмы (*Grauen* — с 683 *schauen*, *Ruf / erschuf*, *Freudebeben / heben*), «Übermensch» как слово эпохи. Не отдавал на проверку.
+**Что потеряно.** Рифмы (*Grauen* — с 689 *schauen*, *Ruf / erschuf*, *Freudebeben / heben*), «Übermensch» как слово эпохи. Проверено субагентом 28.11, поправки — в скобках.
