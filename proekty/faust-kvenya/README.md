@@ -1421,16 +1421,16 @@
 
 **Что потеряно.** Рифмы (*Leben / Bestreben*, *bang / lang*, *erwerben / sterben*, *steigt / erreicht*), идиома «armer Teufel», частицы «doch», «nur», «wohl». Проверено субагентом 28.11; поправки (*cavië carmaiva*, *namila*, *linan*, ссылки) сверены мной по курсу и Eldamo.
 
-# «Ночь», строки 799–802: «Das Pergament, ist das der heil’ge Bronnen» (пробуждение 2026-11-28, 09:08; черновик 2, проверен)
+# «Ночь», строки 800–803: «Das Pergament, ist das der heil’ge Bronnen» (пробуждение 2026-11-28, 09:08; черновик 2, проверен)
 
-> FAUST. ***I parma, ma sa ná i aira ehtelë,***  (799: Das Pergament, ist das der heil’ge Bronnen,)
-> ***yallo mo yulë yulda, ar ui soica tennoio?***  (800: Woraus ein Trunk den Durst auf ewig stillt?)
-> ***Lá cavityë ceutië,***  (801: Erquickung hast du nicht gewonnen,)
-> ***qui sa ui ehtelu tyen et véra fëatyallo.***  (802: Wenn sie dir nicht aus eigner Seele quillt.)
+> FAUST. ***I parma, ma sa ná i aira ehtelë,***  (800: Das Pergament, ist das der heil’ge Bronnen,)
+> ***yallo mo yulë yulda, ar ui soica tennoio?***  (801: Woraus ein Trunk den Durst auf ewig stillt?)
+> ***Lá cavityë ceutië,***  (802: Erquickung hast du nicht gewonnen,)
+> ***qui sa ui ehtelu tyen et véra fëatyallo.***  (803: Wenn sie dir nicht aus eigner Seele quillt.)
 
 Обратный перевод: «Книга — разве она святой источник, / из которого пьют глоток и не жаждут вовек? / Ты не получаешь освежения, / если оно не бьёт ключом тебе из твоей собственной души».
 
-Немецкий сверен (`ext/faust/faust.txt`, строки 798–802). Фауст теперь говорит Вагнеру «du» (обобщённое), а не «Er», как в 778.
+Немецкий сверен (`ext/faust/faust.txt`, строки 799–803). Фауст теперь говорит Вагнеру «du» (обобщённое), а не «Er», как в 778.
 
 - ***I parma, ma sa ná*** — Q ***parma*** «book, writing, written document» (LotR, PE17) за «Pergament», как *parmar* в 566, 567, 580, 599: материал (кожа) потерян, нкв. *teccelma* «writing-skin» есть, но беру толкиновское слово. Вынесенное вперёд подлежащее и *sa* — как у Гёте «Das Pergament, ist das…».
 - ***i aira ehtelë*** — Q *aira* «holy, sanctified», как «heil'ges» в 614; Q *ehtelë* «spring, issue of water», то же слово, что в 641 (Фауст) и 795 (Вагнер). У Гёте здесь другое слово, «Bronnen», и это сглажено.
@@ -1438,29 +1438,52 @@
 - ***Lá cavityë ceutië*** — «Erquickung hast du nicht gewonnen»: Q *cav-* «to receive», глагол Вагнера из 744 и 794, аорист + *-tyë*: «gewinnen» (добыть с усилием) стало пассивнее, «получать»; герундий ***ceutië*** от Q *ceuta-* «to renew, refresh» (√KEW «new, fresh», VT48/7–8: скорее «обновление», чем «утоление») — Гёте повторяет «erquick-» из 786 («unerquicklich»), у меня тоже повтор (786 *lá ceutar*). Перфект «hast gewonnen» стал аористом общего правила (курс: общее условие — аорист).
 - ***qui sa ui ehtelu tyen et véra fëatyallo*** — «Wenn sie dir nicht aus eigner Seele quillt»: построено как 761 *qui sa ui nirë et fëallo* («Wenn es nicht aus der Seele dringt»), потому что у Гёте эти строки перекликаются. ᴹQ ***ehtelu-*** «to well, bubble up» (PE22/103), как *ehteluldë* в 644; аорист *u*-глагола без окончания; *tyen* «тебе», как в 668; Q *véra* «own», как в 600; *fëatyallo* — *fëa* + *-tya* + отделительный.
 
-*ui* перед глаголом (802, как в 761) — по курсу допустимо: *i atan ui cambë macil* (§5.5.1.2, `qfull.txt` 8722; PE17/143–144, система 1959 года); *lá* (801 и обычно в «Фаусте») — система 1969 года (PE22/153). Обе системы у меня смешаны и в одной строфе. Оставляю это ради параллели 761/802.
+*ui* перед глаголом (803, как в 761) — по курсу допустимо: *i atan ui cambë macil* (§5.5.1.2, `qfull.txt` 8722; PE17/143–144, система 1959 года); *lá* (802 и обычно в «Фаусте») — система 1969 года (PE22/153). Обе системы у меня смешаны и в одной строфе. Оставляю это ради параллели 761/802.
 
 **Что потеряно.** Рифмы (*Bronnen / gewonnen*, *stillt / quillt*), «Pergament» как материал, перфект «gewonnen».
 
 Проверено субагентом 28.11; поправка (*yul-*) сверена мной по Eldamo.
 
-# «Ночь», строки 805–808: «Verzeiht! es ist ein groß Ergetzen» (пробуждение 2026-11-28, 09:08; черновик 2, проверен)
+# «Ночь», строки 806–809: «Verzeiht! es ist ein groß Ergetzen» (пробуждение 2026-11-28, 09:08; черновик 2, проверен)
 
-> WAGNER. ***Á nin apsenë! Höa alassë ná***  (805: Verzeiht! es ist ein groß Ergetzen,)
-> ***menië mina fairë lúmion;***  (806: Sich in den Geist der Zeiten zu versetzen;)
-> ***cenië, manen nó me nér saila sananë,***  (807: Zu schauen, wie vor uns ein weiser Mann gedacht,)
-> ***ar manen tá mettassë lendelvë sië haia, alcarinquavë!***  (808: Und wie wir’s dann zuletzt so herrlich weit gebracht.)
+> WAGNER. ***Á nin apsenë! Höa alassë ná***  (806: Verzeiht! es ist ein groß Ergetzen,)
+> ***menië mina fairë lúmion;***  (807: Sich in den Geist der Zeiten zu versetzen;)
+> ***cenië, manen nó me nér saila sananë,***  (808: Zu schauen, wie vor uns ein weiser Mann gedacht,)
+> ***ar manen tá mettassë lendelvë sië haia, alcarinquavë!***  (809: Und wie wir’s dann zuletzt so herrlich weit gebracht.)
 
 Обратный перевод: «Простите! Большая радость — / входить в дух времён; / видеть, как до нас мудрый муж мыслил, / и как мы потом наконец ушли так далеко, славно!»
 
-Немецкий сверен (`ext/faust/faust.txt`, строки 804–808). Вагнер снова говорит Фаусту вежливое «Ihr» («Verzeiht»), как в 742.
+Немецкий сверен (`ext/faust/faust.txt`, строки 805–809). Вагнер снова говорит Фаусту вежливое «Ihr» («Verzeiht»), как в 742.
 
 - ***Á nin apsenë!*** — «Verzeiht!»: дословно как в 742.
 - ***Höa alassë ná*** — «es ist ein groß Ergetzen»: Q ***höa*** «big, large» (PE17/115; Q *velca* Eldamo помечает устаревшим в его пользу); Q *alassë* «happiness» (MS; «joy» — значение ᴹQ), как в 546 и 614.
-- ***menië mina fairë lúmion*** — «sich in den Geist der Zeiten zu versetzen»: **герундий**, а не инфинитив, потому что речь об общей деятельности (курс 11496; правило дописано в `kvenya-formy.md` 28.11 после ошибки в 794). Q *men-* «to go», герундий *menië*; Q ***mina*** «into»; Q ***fairë*** «spirit (disembodied)» — то же слово, что «Geist» в 663 (Дух Земли): Гёте повторяет «Geist» в 813–814, и повтор надо держать. Но у *fairë* оттенок «phantom, disembodied spirit when seen as a pale shape» (MC/223), и «Geist der Zeiten» (склад эпохи) читается как «призрак времён»: это сдвиг; Q ***lúmë¹*** «time, period of time», род. п. мн. ч. *lúmion* (засвидетельствовано *lúmissen*, «во времена»). Был ещё Q *yárië* «age». «sich versetzen» — «переноситься» — стало «входить».
+- ***menië mina fairë lúmion*** — «sich in den Geist der Zeiten zu versetzen»: **герундий**, а не инфинитив, потому что речь об общей деятельности (курс 11496; правило дописано в `kvenya-formy.md` 28.11 после ошибки в 794). Q *men-* «to go», герундий *menië*; Q ***mina*** «into»; Q ***fairë*** «spirit (disembodied)» — то же слово, что «Geist» в 663 (Дух Земли): Гёте повторяет «Geist» в 815–816, и повтор надо держать. Но у *fairë* оттенок «phantom, disembodied spirit when seen as a pale shape» (MC/223), и «Geist der Zeiten» (склад эпохи) читается как «призрак времён»: это сдвиг; Q ***lúmë¹*** «time, period of time», род. п. мн. ч. *lúmion* (засвидетельствовано *lúmissen*, «во времена»). Был ещё Q *yárië* «age». «sich versetzen» — «переноситься» — стало «входить».
 - ***cenië, manen nó ve nér saila sananë*** — «Zu schauen, wie vor uns ein weiser Mann gedacht»: герундий *cenië* от *cen-* (курс: *cen- → cenië*); *manen* «как» в косвенном вопросе (у Толкина *manen* только в прямом вопросе, PM/395, и герундия с придаточным в курсе нет — это моё расширение); Q *nó¹* «before (of time)», здесь предлог; *me* «нас» — у Толкина независимое включительное *vē* «fell out of use due to conflict with» *vē-* «как» и «in use replaced by *me*» (PE17/130; Eldamo, статья *ve²*) [сначала было *nó ve nér…*, и *ve nér saila* читалось как «как мудрый муж»; поправка по проверке 28.11]; Q *nér* «man, male person»; Q *saila* «wise», как в 542; Q *sana-* «\*to think, reflect» — основа выведена (Fauskanger) из *sanar* «mind, thinker, reflector» (VT41/13), прошедшее *sananë* — по правилу *a*-глаголов (*orta- → ortanë*); у Толкина ни глагола, ни прошедшего нет [сначала подано как засвидетельствованное].
 - ***ar manen tá mettassë lendelvë sië haira, alcarinquavë*** — «Und wie wir's dann zuletzt so herrlich weit gebracht»: Q *tá* «then»; *mettassë* «наконец, в конце» — как в 6.54 «Трактата»; Q *lelya-¹* «to go, proceed», прошедшее *lendë* (WJ/363) + *-lvë*; *sië* «так», как в 644 и 784 (у Толкина *sië* — «так, этим способом», а не степень «так далеко»); Q ***haia*** «afar» (CPT/1296), наречие при глаголе [сначала стояло «Q *haira* „far“, как в 775», но позднего Q *haira* нет, только ᴹQ «remote, far» (Ety/KHAYA), и в 775 оно прилагательное при *nanyë*; поправка по проверке]; *alcarinquavë* — наречие на *-vë* от Q *alcarin(qua)* «glorious, brilliant» (как *andavë*). У Гёте «so herrlich weit»: *herrlich* определяет *weit*, а у меня «славно» стоит отдельно. «es weit bringen» («далеко продвинуться») стало «уйти далеко» — Вагнер хвалит прогресс, а у меня вышло ещё и «далеко ушли от мудрого мужа», и это, кажется, честнее Вагнера, но у Гёте этого нет. «es» потеряно.
 
 **Что потеряно.** Рифмы (*Ergetzen / versetzen*, *gedacht / gebracht*), «sich versetzen» как перенесение себя, разговорное «groß» без окончания.
 
 Проверено субагентом 28.11; поправки (*nó me*, *haia*, пометка *sana-*) сверены мной по Eldamo. Заметил проверяющий и ещё одно: для эльфов прошлое лежит позади (курс, NM/162), так что *nó* «до; позади» под гордостью Вагнера за прогресс звучит иронией.
+
+# «Ночь», строки 812–817: «O ja, bis an die Sterne weit!» (пробуждение 2026-11-28, 09:08; черновик 1)
+
+> FAUST. ***Ná, haia tenna i eleni!***  (812: O ja, bis an die Sterne weit!)
+> ***Asumonya, i yárë lúmi***  (813: Mein Freund, die Zeiten der Vergangenheit)
+> ***nar ven parma lihtainen otso.***  (814: Sind uns ein Buch mit sieben Siegeln.)
+> ***Ita estaldë fairë lúmion,***  (815: Was ihr den Geist der Zeiten heißt,)
+> ***ná talmassë véra fairë i heruion,***  (816: Das ist im Grund der Herren eigner Geist,)
+> ***yassë i lúmi cenir intë ve angalessë.***  (817: In dem die Zeiten sich bespiegeln.)
+
+Обратный перевод: «Да, далеко — до самых звёзд! / Коллега мой, древние времена / для нас книга за семью печатями. / То, что вы зовёте духом времён, / есть, по сути, собственный дух господ, / в котором времена видят себя, как в зеркале».
+
+Немецкий сверен (`ext/faust/faust.txt`, строки 811–817). Фауст отвечает на Вагнерово «so herrlich weit» (809) насмешкой; «ihr» в 815 — обобщённое («вы, учёные»), как в 760–771.
+
+- ***Ná, haia tenna i eleni!*** — «O ja, bis an die Sterne weit!»: *ná* «yes», как в 784; Q ***haia*** «afar» — то же слово, что у Вагнера в 809 (*sië haia*): Фауст подхватывает его «weit», и повтор держится; Q ***tenna¹*** «until, up to, as far as»; *i eleni* «звёзды».
+- ***Asumonya*** — «Mein Freund»: Q ***asumo*** «friend at need, friend with shared interests, colleague» (PE22/166) + *-nya*. Для Вагнера, коллеги по кабинету, точнее, чем *meldo* «friend, lover»; у Гёте «mein Freund» снисходительно, а «коллега мой» это, кажется, держит.
+- ***i yárë lúmi*** — «die Zeiten der Vergangenheit»: Q *lúmë¹*, мн. ч., как *lúmion* в 807; Q ***yára*** «old, ancient, [ᴹQ.] belonging to or descending from former times», мн. ч. *yárë*. «Vergangenheit» стало прилагательным.
+- ***nar ven parma lihtainen otso*** — «Sind uns ein Buch mit sieben Siegeln» (Откровение 5:1 — по памяти): *ven* «нам», как у автора *mauya ven lína* (7) и у меня в 540 (оговорку о *ve* см. `kvenya-formy.md`: здесь путаницы с *ve* «как» нет); *parma*, как в 800; нкв. ***lihta*** «seal» (толкиновского слова нет: поиск `'\bseal'` по Eldamo, все языки квенья), творительный мн. ч. + Q ***otso*** «seven»: числительное после существительного, падеж на существительном (курс, 10479: *quenten eldain neldë*).
+- ***Ita estaldë fairë lúmion*** — «Was ihr den Geist der Zeiten heißt»: Q ***ita*** «that which, what» (VT42/34, PE22/154) — несклоняемое «то, что» (`kvenya-formy.md`), а не голое *ya*; Q *esta-* «to name» + *-ldë*; *fairë lúmion* — дословный повтор из 807, у Гёте тоже повтор.
+- ***ná talmassë véra fairë i heruion*** — «Das ist im Grund der Herren eigner Geist»: «im Grund» — местный падеж Q ***talma¹*** «basis» (PE21/80; ᴹQ «base, foundation, root»), «в основании»; *véra* «own», как в 600 и 803; *fairë* в третий раз; Q ***heru*** «lord, master», род. п. мн. ч. ***heruion*** (засвидетельствовано, SD/290), с артиклем — родительный определён; перед *fairë* артикля нет (PE17/13). «Herren» у Гёте насмешливо («господа учёные»), *heru* — всерьёз «господин», ирония держится только на контексте.
+- ***yassë i lúmi cenir intë ve angalessë*** — «In dem die Zeiten sich bespiegeln»: *yassë* — склоняемое *ya*, местный падеж ед. ч. (по образцу *yassen*, «Намариэ»; ед. ч. у Толкина не нашёл, не искал отдельно); Q *cen-* «see», аорист мн. ч.; Q *intë¹* «themselves» (VT47/37); Q ***angal*** «mirror» (NM/350, 353), местный падеж. «sich bespiegeln» («любоваться собой в зеркале») стало «видеть себя, как в зеркале»: самолюбование ослаблено.
+
+**Что потеряно.** Рифмы (*weit / Vergangenheit*, *Siegeln / bespiegeln*, *heißt / Geist*), насмешливость «Herren», «bespiegeln» как самолюбование.
