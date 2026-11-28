@@ -1,0 +1,43 @@
+# Досмотр: артикль при слове с родительным (28.11, пробуждение 05:47)
+
+Правило: «артикль = ‘the’ [i] как правило не употреблялся, когда существительное определено притяжательным [-va] или родительным [-o] падежом» (Толкин, PE17/13; курс `ext/tmp/qfull.txt` стр. 10321). Исключение курса: слово как отвлечённое понятие (*i coimas in Eldaron*, PM/403). Автор следует правилу: 1.1 *Ea na ilúve ennaron*, 4.001 *Iluve equesion*, 2.012 *naile panweo engwaíva*. Нашёл проверяющий 3.01–3.02; уже поправлены 2.014, 2.203, 3.01, 3.02, 4.001.
+
+Кандидаты — узкий поиск (`i` + слово + слово в род./притяж. п.), есть ложные срабатывания (*ú* + род. п., *-íva* как часть термина автора, родительный при другом слове). Решать по одному, с обратным переводом, и отмечать в строке «[сначала …]»:
+
+- [ ] 2.013 — *i nat ú yáneo*
+- [ ] 2.0131 (вторая фраза) — *I yánë quileron*
+- [ ] 2.0141 — *I naile tulieryo*
+- [ ] 2.0141 — *i canta anwo*
+- [ ] 2.021 — *i nassë Ambaro*
+- [ ] 2.0272 — *I cantië anwaron*
+- [ ] 2.0272 — *i panwë engwaíva*
+- [ ] 2.03 — *i limi limilo*
+- [ ] 2.032 — *i mipanwë panweo engwaíva*
+- [ ] 2.033 — *i naile mipanweo*
+- [ ] 2.034 — *I mipanwë enno*
+- [ ] 2.13 — *i sundi emmo*
+- [ ] 2.131 — *i sundi emmo*
+- [ ] 2.15 — *i sundi emmo*
+- [ ] 2.15121 — *i telustë tilli sárion*
+- [ ] 2.18 — *i canta nanwiéno*
+- [ ] 2.181 — *i canta emiëo*
+- [ ] 2.2 — *i axanwëa canta emiëo*
+- [ ] 3 — *I axanwëaⁿ emma ennaron*
+- [ ] 3.001 — *I panwë engwaíva*
+- [ ] 4.024 (первая фраза) — *I hanyië quettaléva*
+- [ ] 4.12 (первая фраза) — *i ilúvë nanwiéno*
+- [ ] 4.121 (две последние фразы) — *i axanwëa canta nanwiéno*
+- [ ] 5.61 — *i landar Ambaro*
+- [ ] 5.641 (последняя фраза) — *I Inyë ingolëo*
+- [ ] 5.641 (последняя фраза) — *i ingolë indo*
+- [ ] 6.11 (без скобки) — *i quettaler axanwëo*
+- [ ] 6.374 — *i quistaina limë ermava*
+- [ ] 6.371 — *i estainë sanyi nassëo*
+- [ ] 6.32 — *I axan cahtaron*
+- [ ] 6.41 — *i tëalenⁿ Ambaro*
+- [ ] 6.423 — *I níra ve colindo*
+- [ ] 6.4312 (1-я фраза) — *I oialëa coivië fëo*
+- [ ] 6.4312 (последняя фраза) — *I leryalë i renquenno*
+- [ ] 6.45 — *I felmë Ambaro*
+- [ ] 6.521 — *i leryalëⁿ hrangwëoⁿ coiviéno*
+- [ ] 6.53 — *I téra lé ingolëo*
