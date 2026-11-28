@@ -1043,3 +1043,22 @@
 - ***tanas sa*** — «es weist sie auf»: *tana-* «show» — у меня оно под «zeigen» (4.022 автора *Eques tana tanalerya*; моё 4.1212 *tánima*). У Витгенштейна здесь «aufweisen», а не «zeigen»: одно слово на оба — потеря. *sa* — «его» (облик), как в 2.17 *emë sa* (там — действительность).
 
 **Что потеряно.** «aufweisen» против «zeigen». Не отдавал на проверку.
+
+## 2.173–2.174 (28.11, пробуждение 03:07)
+
+> ***I emma emë anwarya etsello (cennomerya ná cantarya emiëo); epetai i emma emë anwarya téra hya laitë.*** (2.173)
+> ***Mal i emma ui pole panya insa etsessë cantaryo emiëo.*** (2.174)
+
+Обратный перевод: «Картина изображает свой предмет извне (её точка взгляда есть её облик изображения); вследствие этого картина изображает свой предмет верная или ложная. — Но картина не может поставить себя вне своего облика изображения».
+
+`sverka_suite.py`: у автора 2.173–2.174 нет.
+- ***emë*** — «stellt … dar». Здесь у Витгенштейна «darstellen» и «Form der **Darstellung**», а в 2.17–2.172 — «abbilden» и «Form der **Abbildung**». У меня оба — *em-* / *emië*, как уже в 2.221 (*Ya i emma emë*). Потеря, и сознательная. Сначала я взял нкв. *apanta-* «to open, reveal, show, display», но его «show» сливается с *tana-* «zeigen», а Витгенштейн в 2.172 и 4.121 противопоставляет как раз «darstellen/abbilden» и «zeigen/aufweisen». Лучше склеить два «изображать», чем «изображать» с «показывать».
+- ***anwarya*** — «sein Objekt». У Витгенштейна здесь «Objekt», а не «Gegenstand»; у меня, как у автора (2.01), «Gegenstand» — *anwa*, и «Objekt» стало им же. Потеря.
+- ***etsello*** — «von ausserhalb»: ᴹQ ***etse*** «outside, exterior» (EtyAC/ET) + *-llo*. Позднего Q-слова для «снаружи» нет: `eldamo_gloss.py '\boutside…'` даёт Q *ava¹* «\*outer» (по Eldamo это ᴹQ «outside, beyond» и прилагательное) и Q *ar(a)* «beside» (с пометкой «⚠️out»). Форма *etsello* — выведено.
+- ***cennomerya*** — «sein Standpunkt»: нкв. ***cennomë*** «point of view, vista» (статья без ссылок и автора). По составу это *cen-* «видеть» + *nómë* «место», «место, откуда видят», и *nómë* — то же, что в моём 2.131 *mi nómë*. Скобки Витгенштейна сохранены.
+- ***epetai*** — «darum»: Q ***epetai*** «consequently; (lit.) following which (fact)» (VT49/8, 12; у Толкина *epetai i hyarma ú ten ulca…*). Позднее слово с толкиновским примером.
+- ***téra hya laitë*** — как в 2.17.
+- ***panya insa*** — «sich … stellen»: ᴹQ ***panya-*** «to fix, set» (Ety/PAN), инфинитив после *pole*. Q *insa* «itself» — возвратное для неодушевлённого (VT47/37; шпаргалка, «Возвратные»). [В шпаргалке записан урок прошлого пробуждения: не путать с выразительными.]
+- ***etsessë cantaryo emiëo*** — «ausserhalb seiner Form der Darstellung»: местный *etsessë* «во внешнем» + родительный *cantaryo* (*canta* + *-rya* + *-o*, курс, стр. 2060: *hestoryo*). Конструкция «местный падеж существительного + родительный» вместо предлога — выведено. Это то же «вне», что и в 2.173 *etsello*, только «где», а не «откуда»: у Витгенштейна тоже одно слово *ausserhalb*.
+
+**Что потеряно.** «Darstellung/Abbildung», «Objekt/Gegenstand». Не отдавал на проверку.
