@@ -1594,3 +1594,21 @@
 - ***mauya ven pusta sa sí*** — безличное *mauya* + дательный (курс §10.4.1.1, как в «Трактате» 3.03 и у автора в 7); *ven* «нам» — включающее «мы», Фауст и Вагнер (двойственное было бы точнее; дательной формы двойственного у меня нет); ᴹQ *pusta-* «to stop, put a stop to» (Ety/PUS); Q *sa* «it»; Q *sí* «now» («Намариэ»: *an sí Tintallë…*). «Diesmal» — «на этот раз», у меня «теперь».
 
 **Что потеряно.** Рифма *Nacht / fortgewacht* (840), «diesmal» с его обещанием продолжить, вежливое «Euch».
+
+# «Ночь», строки 840–843: «Ich hätte gern nur immer fortgewacht» (пробуждение 2026-11-28, 12:07; черновик 1, не проверен)
+
+> WAGNER. ***Mernen lemya cuiva voro,***  (840: Ich hätte gern nur immer fortgewacht,)
+> ***itan lanquetë ó le sië istimavë.***  (841: Um so gelehrt mit Euch mich zu besprechen.)
+> ***Mal enar, ve i minya aurë Asaro,***  (842: Doch morgen, als am ersten Ostertage,)
+> ***á lavë nin maquetta hya atta.***  (843: Erlaubt mir ein’ und andre Frage.)
+
+Обратный перевод: «Я хотел бы всё бодрствовать и бодрствовать, / чтобы так учёно беседовать с Вами. / Но завтра, как в первый день праздника, / позвольте мне вопрос-другой».
+
+Немецкий сверен (`sed -n 840,843p ext/faust/faust.txt`).
+
+- ***Mernen*** — прошедшее ᴹQ *mer-* «to wish» (как *merin* Вагнера в 744): «hätte gern», а сослагательность потеряна. ᴹQ ***lemya-*** «to remain, tarry» (EtyAC/LEB) + нкв. ***cuiva*** «awake»; ᴹQ ***voro*** «ever, continually» (Ety/BOR). «Fortgewacht» — «бодрствовать дальше», у меня «оставаться бодрым всегда».
+- ***itan lanquetë ó le*** — *itan* «чтобы», как в «Трактате» 2.16 (слово автора); нкв. *lanquet-* «to converse, debate, \*discuss»; Q ***ó le*** «с Вами» — вежливое *le*, как у Толкина *vá meninyë ó le* (PE22/162), и как «Euch» у Гёте. ***sië istimavë*** — «так учёно»: Q *istima* «learned» (PE22/156) + наречное *-vë* (курс, стр. 14182).
+- ***Mal enar*** — ᴹQ *enar* «tomorrow»: у Eldamo это основная статья, а Q *entar* (PE22/139) отнесено к ней как вытесненное. ***ve i minya aurë Asaro*** — Q *minya* «first», Q *aurë* «day», Q *asar* «fixed time, festival», родительный *Asaro*. **Пасхи нет**, осталось «первый день праздника». Христианское в «Фаусте» — Пасха, колокола, хор в 737–807 — по-квенийски выходит без имени.
+- ***á lavë nin*** — повелительное *á* + основа (курс; ср. *á carë*), ᴹQ ***lav-²*** «to yield, allow, grant» с дательным *nin*. ***maquetta hya atta*** — нкв. *maquetta* «question», как в моём «Трактате» 6.51; «ein’ und andre Frage» — «вопрос или два».
+
+**Что потеряно.** Рифмы (*fortgewacht / Nacht*, *besprechen*, *Ostertage / Frage*), сослагательное «hätte», сама Пасха.
