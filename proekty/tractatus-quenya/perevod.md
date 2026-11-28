@@ -999,15 +999,15 @@
 
 ## 2.16–2.161 (28.11)
 
-> ***Ennan maura, itan náve emma, harya ma ó i emina.*** (2.16)
+> ***I enna maura, itan náve emma, harya ma ó i emina.*** (2.16)
 > ***Mi emma ar i emina maura ëa ma imya, itan i er pole náve emma i hyano.*** (2.161)
 
-Обратный перевод: «Факту должно, чтобы быть картиной, иметь нечто вместе с изображённым. — В картине и изображённом должно быть нечто тождественное, чтобы одно могло быть картиной другого».
+Обратный перевод: «Факт должен, чтобы быть картиной, иметь нечто вместе с изображённым. — В картине и изображённом должно быть нечто тождественное, чтобы одно могло быть картиной другого».
 
-- ***Ennan maura … harya*** — **конструкция автора**: дательный того, кому должно, + *maura* + инфинитив (5.473: *Lillen maura cimba pá insa* «Die Logik muss für sich selbst sorgen»; ещё 2.012, 2.223 *mauralve*). *enna* «Tatsache» — автор (ᴹQ), дательный *ennan*. В моём старом 2.0131 «muss» передано Q *möa*; там я автора не посмотрел — теперь расхождение, отмечаю. *harya* — Q *harya-* «to have, \*hold», инфинитив.
+- ***I enna maura … harya*** — нкв. ***maura-*** «to need, require» (Elaran, от ᴹQ *maure* «need») — **слово автора** для «muss». У него две конструкции: с подлежащим (2.012: *naile … maura … martaina*; 2.223: *mauralve véta sa ó nanwie*) и с дательным (5.473: *Lillen maura cimba pá insa*). Беру первую, как в двух случаях из трёх. *enna* «Tatsache» — автор (ᴹQ). [Сначала было *Ennan maura* и утверждение, что дательный стоит у автора и в 2.012, 2.223, — неверно; по проверке 28.11.] В моём старом 2.0131 «muss» передано нкв. *möa* «must (impersonal)»; там я автора не посмотрел — теперь расхождение, отмечаю. *harya* — Q *harya-* «to have, \*hold» (MS), инфинитив; Eldamo для отвлечённого «иметь» (свойства, отношения) советует *sam-* — «gemeinsam haben» как раз такое; оставляю *harya*, оговорка.
 - ***itan náve emma*** — «um Bild zu sein»: нкв. *itan* «so that, in order to» — **слово автора** (2.223: *Itan tersure, ma i emma naite hya laite…* «Um zu erkennen, ob das Bild wahr oder falsch ist…»). *náve* — инфинитив *ná* (как в моём 2.0131).
-- ***ma ó i emina*** — *ma* «что-то» (курс, стр. 2134). Q ***ó*** «[together] with» (PE22/162: *vá meninye ó le* «I won't come with you»; по Eldamo — именно «вместе с»): «gemeinsam haben mit» = «иметь вместе с». ***i emina*** «изображённое» — страдательное от нкв. *em-* «depict» по курсу (*tec- → tecina*) — выведено; у Витгенштейна «das Abgebildete» от «abbilden», у меня от того же *em-*, что *emma* и *emë* (2.221).
-- ***Mi emma ar i emina*** — *mi* один на оба слова, как «In Bild und Abgebildetem». ***maura ëa ma imya*** — здесь без дательного: «должно существовать нечто тождественное»; *maura* + инфинитив Q *ëa* «exist» — выведено по образцу автора. Q ***imya*** «same, identical, self-same» (PE23/134, VT47/37).
-- ***itan i er pole náve emma i hyano*** — Q *er* «one», *pole* — аорист *pol-* «мочь» (у автора 2.012: *Qui i nat pole ea…*), *hyano* — род. от *hyana* «other» (как в 605, 632). «überhaupt» потеряно.
+- ***ma ó i emina*** — *ma* «что-то» (курс, стр. 2134). Q ***ó*** «[together] with» (PE22/162: *vá meninye ó le* «I won't come with you»; Eldamo: «it seems likely» — «вместе с», догадка). Главная опора — сам автор: 2.223 *véta sa ó nanwie* «mit der Wirklichkeit vergleichen»: «gemeinsam haben mit» = «иметь вместе с». ***i emina*** «изображённое» — страдательное от нкв. *em-* «depict» по курсу (*tec- → tecina*) — выведено; у Витгенштейна «das Abgebildete» от «abbilden», у меня от того же *em-*, что *emma* и *emë* (2.221).
+- ***Mi emma ar i emina*** — *mi* один на оба слова, как «In Bild und Abgebildetem». ***maura ëa ma imya*** — здесь без дательного: «должно существовать нечто тождественное»; *maura* с подлежащим (*ma*) и инфинитивом Q *ëa* «exist» — выведено; ближе всего авторское 2.012 (*naile … maura*). Q ***imya*** «same, identical, self-same» (PE23/134, VT47/37).
+- ***itan i er pole náve emma i hyano*** — Q *er* «one», *pole* — аорист *pol-* «мочь» (у автора 2.012: *Qui i nat pole ea…*), *hyano* — род. от *hyana* «other» (*hyana* — как в моём «Фаусте» 605, 632; родительный — выведен). *i er* «одно» с артиклем как существительное — выведено; ср. «Фауст» 632 *er mí hyana* «Eins in dem andern». «überhaupt» потеряно.
 
-**Что потеряно.** «überhaupt»; «gemeinsam» стало «вместе с». **Не проверено.**
+**Что потеряно.** «überhaupt»; «gemeinsam» стало «вместе с». Проверено субагентом 28.11, поправки — в скобках выше.
