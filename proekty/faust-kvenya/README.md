@@ -1557,14 +1557,16 @@
 
 **Что потеряно.** Рифма *heißt / Geist* (826) и *nennen / erkennen* (827); поговорочность 831 («называть вещи своими именами», то есть говорить прямо и с риском — 832–835). Проверено субагентом 28.11; поправка (*yalë*) сверена мной.
 
-# «Ночь», строки 832–835: «Die wenigen, die was davon erkannt» (пробуждение 2026-11-28, 12:07; черновик 1, не проверен)
+# «Ночь», строки 832–835: «Die wenigen, die was davon erkannt» (пробуждение 2026-11-28, 12:07; черновик 2, проверен)
 
 > FAUST. ***I sempar i sinter ma pá ta,***  (832: Die wenigen, die was davon erkannt,)
 > ***i, faren alasailë, lá tirner quanta hondonta,***  (833: Die töricht g’nug ihr volles Herz nicht wahrten,)
-> ***pantaner felmenta, ceninta i rimben —***  (834: Dem Pöbel ihr Gefühl, ihr Schauen offenbarten,)
+> ***pantaner felmenta, cenienta i rimben —***  (834: Dem Pöbel ihr Gefühl, ihr Schauen offenbarten,)
 > ***mo illumë tarwestanë ar urtanë te.***  (835: Hat man von je gekreuzigt und verbrannt.)
 
-Обратный перевод: «Тех немногих, кто знал что-то об этом, / кто, довольно неразумные, не стерегли своего полного сердца, / раскрыли свои чувства, своё зрение толпе, — / их всегда распинали и сжигали».
+Обратный перевод: «Тех немногих, кто знал что-то об этом, / кто, довольно неразумные, не стерегли своего полного сердца, / раскрыли свои чувства, своё видение толпе, — / их всегда распинали и сжигали».
+
+Проверено субагентом 28.11: *cenienta* (вместо *ceninta*) принято; в 833 он отметил, что *quanta* — ещё и глагол «to fill», и *tirner quanta* можно на миг прочесть как два глагола; оставил *quanta hondonta*, порядок после существительного ничем не лучше (по курсу не сверено ни то, ни другое).
 
 Немецкий сверен (`grep -n`, строки 832–835 `ext/faust/faust.txt`).
 
@@ -1572,7 +1574,7 @@
 - ***i sinter ma pá ta*** — несклоняемое относительное *i* (курс, §1.2.6.2: сказуемое во мн. ч., если относится ко мн. ч.); прошедшее *ista-* — *sintë* (Ety/IS, PE17/77, VT48/25), мн. ч. *sinter*; *ma pá ta* — тот же оборот, что у Вагнера в 827 (заготовлен там же).
 - ***faren alasailë*** — ᴹQ *faren* «enough» (наречие) и Q ***alasaila*** «unwise» (PE22/154, VT41/13), мн. ч. *-ë*. «Töricht g’nug» — с упрёком, а *alasaila* у Толкина — трезвое суждение (*alasaila ná lá carë…* «неразумно не делать…»). Упрёк мягче.
 - ***lá tirner quanta hondonta*** — Q *tir-* «to watch (over), guard, heed», прошедшее мн. ч. *tirner*; отрицание *lá* перед глаголом, как у Толкина *lá caritas* (там же, VT41/13); Q *quanta* «full» перед существительным; *hondo* — как в 618 и 826; *-nta* «их» — курс, таблица притяжательных суффиксов (строки 4928, 11312).
-- ***pantaner felmenta, ceninta i rimben*** — ᴹQ *panta-* «to unfurl, spread out, open»: раскрыть, как раскрывают знамя или ладонь; «offenbarten» без религиозного оттенка. [Нкв. *apanta-* «reveal» ближе к слову, но *panta-* — толкиновское.] Q *felmë* «\*impulse, emotion» (VT41/13; глосса со звёздочкой) + *-nta*. Q ***cen*** «sight» (MR/230) + *-inta* (соединительное *i* перед *-nta*, курс, строка 4928); «Schauen» — как «Ich schau» Фауста в 622 (*Cenin*). Q *rimbë* «host, great number, crowd», дательный *rimben*. «Pöbel» — презрительное слово, а *rimbë* нейтрально: презрение потеряно.
+- ***pantaner felmenta, ceninta i rimben*** — ᴹQ *panta-* «to unfurl, spread out, open»: раскрыть, как раскрывают знамя или ладонь; «offenbarten» без религиозного оттенка. [Нкв. *apanta-* «reveal» ближе к слову, но *panta-* — толкиновское.] Q *felmë* «\*impulse, emotion» (VT41/13; глосса со звёздочкой) + *-nta*. ***cenienta*** — герундий *cenië* «видение» от Q *cen-* «to see, behold» (курс, стр. 11508: *cen- → cenië*; *cenië savië* «видеть — значит верить», 11520) + *-nta*; «Schauen» — как «Ich schau» Фауста в 622 (*Cenin*). [28.11, 12:42, по проверке: было *ceninta* от Q *cen* «sight, *sense of sight*» (MR/230) — открыли толпе своё *зрение*, способность, а у Гёте — то, что они узрели.] Q *rimbë* «host, great number, crowd», дательный *rimben*. «Pöbel» — презрительное слово, а *rimbë* нейтрально: презрение потеряно.
 - ***mo illumë tarwestanë ar urtanë te*** — Q *mo* «one» (безличное «man», как мой «Трактат» 3.144); Q *illumë* «\*always» (*ono alyë eterúna me illumë…*, молитва); нкв. *tarwesta-* «to crucify» и нкв. *urta-* «to burn» (Толкиновское *urya-* — непереходное «be hot»); *te* «их». «Hat … gekreuzigt» — перфект, у меня простое прошедшее.
 
 **Что потеряно.** Рифмы (*erkannt / verbrannt*, *wahrten / offenbarten*), «von je» (у меня «всегда», а не «испокон»), презрение в «Pöbel», упрёк в «töricht g’nug». Сохранён синтаксис Гёте: длинное подлежащее, которое в 835 подхватывается местоимением (*te*).
