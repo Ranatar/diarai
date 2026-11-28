@@ -1131,9 +1131,9 @@
 Обратный перевод: «В согласии или несогласии её смысла с действительностью есть её истинность или ложность».
 
 `sverka_suite.py`: у автора 2.222 нет. `moyo_slovo.py 'Sinn'`, `-q 'tanal|naitie|laitil'` (теперь и по Suite автора).
-- ***Mi náquetië hya únáquetië*** — «In der Übereinstimmung oder Nichtübereinstimmung»: отглагольное от Q *náquet-* «agree (on fact), (lit.) say ‘it is’» (как в 2.21) на *-ië* (курс, стр. 13610: *tec- → tecië*); *ú-* «не-» перед существительным — выведено. *mi* «в» — как в 2.161.
+- ***Mi náquetië hya únáquetië*** — «In der Übereinstimmung oder Nichtübereinstimmung»: отглагольное от Q *náquet-* «agree (on fact), (lit.) say ‘it is’» (как в 2.21) на *-ië* (курс, стр. 13610: *tec- → tecië*); *ú-* «не-» перед существительным засвидетельствовано (Q *úmárë* «not good = evil», PE22/152; *únat*; по проверке 28.11), но у *ú-* есть и оттенок «плохо, трудно»; альтернатива — Q *la-*. Сама форма *náquetië* — выведена (параллель — нкв. *sáquetië* «agreement»). *mi* «в» — как в 2.161.
 - ***tanaleryo*** — «seines Sinnes»: *tanalë* — **слово автора** (4.022 *Eques tana tanalerya*; у меня 2.221 *tanalerya*), *-rya* + родительный *-o* (курс, стр. 2054–2060). В 6.41 «Sinn» у меня *tëalen* — разнобой старый, там «смысл мира», здесь «смысл картины»; оставляю как было, записано.
 - ***ó nanwië*** — «mit der Wirklichkeit», как в 2.17, 2.21.
-- ***ëa naitierya hya laitilerya*** — «besteht seine Wahrheit oder Falschheit»: *naitierya* — **дословно автор**, Suite 3.04 (*yava naile tankata naitierya*); *laitilë* «falsehood» — нкв. Страка (пара к *laitë*), + *-rya*. «besteht» — *ëa* «есть, существует»; в 2.14 «besteht darin» у меня *ná*, но здесь при местном *mi* — *ëa*. Выведено.
+- ***ëa naitierya hya laitilerya*** — «besteht seine Wahrheit oder Falschheit»: *naitierya* — **дословно автор**, Suite 3.04 (*yava naile tankata naitierya*); *laitilë* «falsehood» — нкв. Страка (пара к *laitë*), + *-rya*. «besteht» — *ëa* «есть, существует»; в 2.14 «besteht darin» у меня *ná*, но здесь при местном *mi* — *ëa*. Выведено. Пара *naitierya / laitilerya* несимметрична по суффиксу (*-ië* у автора, *-lë* у Страка), а в 2.21 — прилагательные *naitë / laitë*; оставляю, как есть. [По проверке 28.11: *ëa* у Толкина — реальное существование (PE22/166), здесь употреблено метафорически.]
 
-**Что потеряно.** «bestehen in» как «состоять в». Не отдавал на проверку.
+**Что потеряно.** «bestehen in» как «состоять в». Проверено субагентом 28.11, поправки — в скобках.
