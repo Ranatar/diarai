@@ -797,3 +797,26 @@
 - ***ya i nolmo quetë*** — *ya* «что» (курс, стр. 2138). Q *ita* «that which, what» я не взял: в ссылках статьи стоят *tai*, *sai* (PE22/154), и как Eldamo пришло к *ita*, я не выяснял. Q ***nolmo*** «wise person» (PM/360: *ñolmo*), корень ÑGOL, тот же, что в *ñolwë* (573) и *nolyuva* (603). Природа «наставит» Фауста (603), и вот мудрец того же корня. Кто этот «Weise», у Гёте не сказано; комментаторы спорят (по памяти: Нострадамус или Сведенборг), я это не проверял.
 
 **Что потеряно.** Рифмы (*licht / spricht*, *Zügen / liegen*). **Не проверено.**
+
+# «Ночь», строки 625–628 (пробуждение 2026-11-27, 23:58; черновик 0)
+
+Слова «мудреца» (у Гёте в кавычках).
+
+> ***I már fairion lá pahta;***  (625: Die Geisterwelt ist nicht verschlossen;)
+> ***tuntelya pahta, hondolya vanwa!***  (626: Dein Sinn ist zu, dein Herz ist tot!)
+> ***Á orya, á hwalë, a parmo, mína,***  (627: Auf, bade, Schüler, unverdrossen)
+> ***fírima súmalya amaurëassë!***  (628: Die ird'sche Brust im Morgenrot!)
+
+Обратный перевод: «Обитель духов не заперта; / твоё чувство закрыто, твоё сердце мертво! / Встань, омой, ученик, рвущийся в путь, / смертную грудь твою в рассвете!»
+
+Немецкий сверен (`sed -n 625,628p`). Слова прогнаны через `eldamo_slovo.py`. Quettali не узнал только *amaurëassë*, а это как раз форма из Толкина.
+
+- ***I már fairion*** — Q *már* «home, dwelling, habitation» для «-welt». *Ambar* у Толкина — «The World, Earth», то есть мир живых, а мир духов — другая «обитель». *fairion* — род. мн. от Q *fairë* «дух бесплотный» (*fairi*, как в 571 и 608).
+- ***lá pahta*** — квазиглагол *lá* вместо *ná* при отрицании (курс, стр. 8760: *i mindon lá laica*); Q ***pahta¹*** «closed, shut, private» (PE17/171, VT39/23). То же *pahta* — в 626 «zu»: у Гёте «verschlossen» и «zu» — одно и то же. Мир не заперт, а заперт ты сам.
+- ***tuntelya pahta, hondolya vanwa!*** — нкв. *tuntë* «sense», как *tuntenyar* в 613: там блаженство текло через «все мои чувства», здесь у ученика «чувство закрыто». *hondo* — как в 618. Q ***vanwa*** «gone, lost, departed… passed away, dead»: «tot» как «ушедшее». Связка опущена (у Гёте «ist» стоит).
+- ***Á orya*** — «Auf!» передано так же, как в 598. Q ***hwal-*** «to wash» (PE23/126: *hwalilmien*), повелительное *á hwalë* (курс, стр. 5242). нкв. *sov-* «\*to bathe» я не взял: оно от ᴱQ (QL/86) и со звёздочкой.
+- ***a parmo*** — нкв. *parmo* «student, (lit.) learner». Корень тот же, что у *apárien* в 530: «я изучил… [по книгам]» (*apárien parmanen*). Фауст, выучивший всё по книгам, назван здесь «учеником», и это слово одного корня с *parma* «книга».
+- ***mína*** — Q «desiring to start, eager to go» (VT39/11) для «unverdrossen» («неутомимо, не унывая»). Сдвиг: у Гёте «без досады», у меня «рвущийся в путь». Слова «неутомимый» у Толкина я не нашёл (`tire|fatig|exhaust|weari|toil|unflag|eager|zeal` по q, nq, mq: только нкв. *lumbarya-* «to tire» и нкв. *caira* «eager [to do]»). Q *mína* лучше: ученик должен рваться к рассвету.
+- ***fírima súmalya amaurëassë*** — Q ***fírima*** «mortal, \*(lit.) able to die» для «ird'sche»: у Гёте «земная», у меня «смертная». У Толкина *Fírimar* — люди (S/102), так что «земное» в его мире и есть «смертное». Q ***súma*** «hollow cavity, bosom» — из «Markirya» (MC/222: *ringa súmaryassë* «in her cold bosom»). ***amaurëassë*** — «на рассвете», тоже из «Markirya» (MC/222: *amaurëasse*, от *amaurëa* «dawn, early day, morning»). Обе формы взяты из одного толкиновского стихотворения о корабле. «Morgen*rot*» — красное — потеряно.
+
+**Что потеряно.** Рифмы (*verschlossen / unverdrossen*, *tot / Morgenrot*), «Rot» утреннего света, «irdisch» стало «смертным». **Не проверено.**
