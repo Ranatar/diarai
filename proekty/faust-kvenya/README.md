@@ -1034,3 +1034,24 @@
 - ***Ai! uin pole colë tyë!*** — *Ai* для «Weh!», как в 576. *uin* — *ui* + *-n* перед глаголом (курс §5.5.1.2, *uin menuva*). *pole colë* — «мочь нести», *col-* — как в 653 (там оговорено: глагол выведен из основ *kol-*, *kól-*). «ertragen» и *col-* «bear, carry» совпадают, как «tragen» в 653: Фауст хотел нести горе Земли и не может вынести её Духа.
 
 **Что потеряно.** Рифмы (*angezogen / gesogen*, *Gesicht / nicht*), «mir» как дательный. Не отдавал на проверку.
+
+# «Ночь», строки 683–686: речь Духа, начало (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> FAIRË. ***Arcatyë, nefila, cenë ni,***  (683: Du flehst, eratmend mich zu schauen,)
+> ***hlarë ómanya, cenë cendelenya;***  (684: Meine Stimme zu hören, mein Antlitz zu sehn;)
+> ***ni núta i taura súlë fëatyo,***  (685: Mich neigt dein mächtig Seelenflehn,)
+> ***sinomë ëan! —***  (686: Da bin ich!—…)
+
+Обратный перевод: «Ты просишь, дыша, увидеть меня, / услышать мой голос, увидеть моё лицо; / меня опускает могучее дыхание твоей души, / здесь я! —»
+
+Немецкий сверен (`sed -n 683,686p`; в 686 дальше «Welch erbärmlich Grauen» — следующий кусок).
+
+- ***Arcatyë … cenë ni*** — Q *arca-* «\*to petition», как *arcaina* в 663 (там Фауст звал «erflehter Geist»; теперь Дух возвращает ему это же слово). *-tyë* «ты». Простой инфинитив после глагола, как *merin cenë* (курс, стр. 11480). «schauen» и «sehn» у Гёте — два глагола, у меня оба *cen-*. Потеря.
+- ***nefila*** — «eratmend»: действительное причастие на *-la* от Q ***nef-*** «to breathe (air)». В Eldamo у *nef-* нет ни своих ссылок, ни заметок: похоже, глагол выделен из *nefítë* «air-breathing» и *yulunefítë*. Опора слабая. «eratmend» — «запыхавшись, переводя дух», у меня только «дыша».
+- ***hlarë ómanya*** — Q *hlar-* «to hear» (*hlaruva*, MC/222 — снова «Markirya»), Q ***óma*** «voice, resonance of the vocal chords» + *-nya*.
+- ***cenë cendelenya*** — *cendelë* «face», как «Gesicht» в 676. У Гёте здесь «Antlitz» — высокое слово, а «Gesicht» Фауста было простым. У меня одно слово на оба. Потеря.
+- ***ni núta*** — «Mich neigt»: Q ***núta-*** «to lower» (PE22/156; ᴹQ — «to set, sink (of Sun or Moon)», ᴱQ — «to stoop»). Дух «склонился» к Фаусту из своей сферы, и *núta-* — именно «опустить» сверху вниз, как садится луна. Аорист.
+- ***i taura súlë fëatyo*** — «dein mächtig Seelenflehn». Q ***súlë*** «breath; (movement of) spirit, emission of power (of will or desire)» (LotR/1123, название тенгвы; PE17/124). Eldamo сравнивает его с греческим πνεῦμα: и «дыхание», и «дух». «Мольба души», которая притягивает духа, — у Толкина прямо «emission of power (of will or desire)». Мольбу я при этом потерял: *súlë* — не просьба, а сила желания. Но дыхание (*nefila*) и дух в одном слове держат всю строку. Q *taura* «(very) mighty, masterful» (PE17/115); *fëatyo* — род. от *fëa* + *-tya*, как *fëo* в 604.
+- ***sinomë ëan!*** — «Da bin ich!»: Q ***sinomë*** «here, (lit.) in this place», из клятвы Элендила *Sinomë maruvan* (LotR/967). *ëan* «я есть» — *ëa* + *-n*.
+
+**Что потеряно.** Рифмы (*schauen / Grauen*, *sehn / Seelenflehn*), «schauen/sehn», «Antlitz/Gesicht», «flehn» в *súlë*. Не отдавал на проверку.
