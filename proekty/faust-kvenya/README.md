@@ -848,3 +848,28 @@
 - ***ar lindalenen lindar ter Ilu*** — «harmonisch … durchklingen»: Q ***lindalë*** «music» (S/15; ср. Q *Ainulindalë* «Music of the Ainur»; что ссылка S/15 — это заголовок «Ainulindalë», я заключил по странице, не проверял), творительный; Q *linda-* «\*to sing, make music» (Minor-Doc 1975: *linduvanye*; значение со звёздочкой). ***Ilu*** — как в 610 (*i tehta Iluo*): позднее *ilu* — «больше, чем *ëa*», вместе с духами (VT39/20). Знак Макрокосма показал Фаусту, как силы небес «музыкой поют сквозь Всё», а у Толкина мир и начался с *lindalë* айнур. «all das» потеряно.
 
 **Что потеряно.** Рифмы (*webt / lebt*, *steigen / reichen*, *Schwingen / dringen / durchklingen*), «all das All», «auf und nieder» стало «восходят и нисходят» (это близко). «sich reichen» — «подают себе», а не «друг другу». **Не проверено.**
+
+# «Ночь», строки 639–644 (пробуждение 2026-11-27, 23:58; черновик 0)
+
+> ***Ehten! Mal ai! rië ehten!***  (639: Welch Schauspiel! Aber ach! ein Schauspiel nur!)
+> ***Massë mapan tye, úlanwa nassë?***  (640: Wo fass ich dich, unendliche Natur?)
+> ***Massë, a titti? A ehteli ilya coiviëo,***  (641: Euch Brüste, wo? Ihr Quellen alles Lebens,)
+> ***yassen Menel ar Cemen lingar,***  (642: An denen Himmel und Erde hängt,)
+> ***yannar i hwirina súma nirë,***  (643: Dahin die welke Brust sich drängt—)
+> ***celuldë, sohtaldë, ar soica nanyë sië lustavë?***  (644: Ihr quellt, ihr tränkt, und schmacht ich so vergebens?)
+
+Обратный перевод: «Зрелище! Но увы! только зрелище! / Где мне схватить тебя, безграничная природа? / Где вы, груди? О родники всей жизни, / на которых висят Небо и Земля, / к которым теснится увядшая грудь, — / вы бьёте ключом, вы поите, а я так напрасно жажду?»
+
+Немецкий сверен (`sed -n 639,644p`). Слова прогнаны через `eldamo_slovo.py`.
+
+- ***Ehten!*** — нкв. *ehten* «outlook, sight, view, spectacle» (от ᴹQ *ehtar*, Ety/EK). «Welch» — восклицание — не передано. ***Mal ai! rië ehten!*** — здесь Q *ai* «ah, alas» уместно: «Aber ach!» (в 612 я его заменил на *A!*, потому что там восторг). *rië* «only» — как в 624 (PE22/158).
+- ***Massë mapan tye*** — *massë* «где» (курс, стр. 12952; у Толкина ᴹQ *masse*, QVS, PE22/124). ᴹQ *mapa-* «to grasp, seize» (Ety/MAP), аорист 1 л. *mapan*; нкв. *nap-* «grasp (with fingers)» мельче. *tye* — «тебя».
+- ***úlanwa nassë*** — нкв. ***úlanwa*** «infinity, infinite»: *ú-* + Q ***lanwa*** «within bounds, limited, finite» (VT42/8), от √LAN «граница» — того же корня, что *lanya-¹* «отграничивать» в моём эссе «Lanya». А ᴹQ *lanwa* значило «loom», «ткацкий станок» (Ety/LAN). В 631 всё «ткёт себя» (*lanya*), а в 640 природа *ú-lanwa* — без края, и в старом значении без станка. Это я заметил, а не Гёте задумал. *nassë* — как в 593, 603, 620.
+- ***Massë, a titti?*** — нкв. *tittë* «breast [of a woman], ⚠️teat» (из ранних PE13), мн. ч. *titti*: у Гёте — груди природы-кормилицы. Вопрос перестроен: «Где, о груди?»
+- ***A ehteli ilya coiviëo*** — Q ***ehtelë*** «spring, issue of water» (SA/kel), мн. ч. *ehteli*; *ilya coiviëo* «всей жизни» (Q *coivië*, как в 614).
+- ***yassen Menel ar Cemen lingar*** — ***yassen*** «в которых / на которых» — форма из «Намариэ» (*yassen tintilar i eleni*). Q *Menel* «the heavens», Q *cemen* «the earth» (как в 636). ᴹQ *linga-* «to hang», как в моём «Трактате» 2.03 (*lingar mi intë*): там предметы висят друг в друге, здесь Небо и Земля висят на родниках. Глагол во мн. ч. (у Гёте «hängt», ед. ч.).
+- ***yannar i hwirina súma nirë*** — *yannar* — направительный мн. ч. от *ya*, по образцу *yassen* — **выведено**. Q *hwirya-* «to wither» (CPT/1296, 1298: *ilyama menta hwirya*), страдательное *hwirina* «увядшая» — по правилу курса для глаголов на *-ya* (стр. 13654–13658: *ferya- → ferina*, *perya- → perina*). нкв. *hessa* «withered, ⚠️dead» (из ᴱQ) не взял. *súma* — как в 628 («die ird'sche Brust», «Markirya»). Q ***nir-*** «to press, urge, thrust, force (in a given direction)» (PE22/165) — с направлением, как *yannar*.
+- ***celuldë, sohtaldë*** — «Ihr quellt, ihr tränkt»: ᴹQ ***kelu-*** «to (begin to) flow, spring forth (of water)» (корень KELU «well up, flow out swiftly», PE18/86), аорист *u*-глагола без окончания (курс, стр. 3130: *haru*) + *-ldë* «вы» (курс, стр. 4882) — **выведено**; нкв. *sohta-* «to give to drink, drench» (из ᴱQ, QL/85).
+- ***ar soica nanyë sië lustavë?*** — «schmacht ich»: Q ***soica*** «thirsty» (VT39/11) + *nanyë* «я есмь»: «я жажду» стало «я жаждущий». *sië* «так» (Q «thus»), *lustavë* «напрасно» (как в 606).
+
+**Что потеряно.** Рифмы (*nur / Natur*, *Lebens / vergebens*, *hängt / drängt*), «Welch», «sich drängt» как возвратное. **Не проверено.**
