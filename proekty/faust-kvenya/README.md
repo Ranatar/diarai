@@ -733,3 +733,25 @@
 - ***á hanquetë nin, qui ni hlarildë*** — повелительное *á* + аорист (курс, стр. 5242; и к нескольким адресатам тоже). нкв. *hanquet-* «to answer» (у автора в «Трактате» 6.5 — *hanquétima* «отвечаемый»). Q *qui* «if», Q *hlar-* «to hear» + *-ldë*. «wenn» передано как «если».
 
 **Что потеряно.** Рифмы (*hier / mir*, *erklärt / hört*). Проверено субагентом 27.11, поправки — в скобках выше.
+
+# «Ночь», ремарка 610 и строки 612–615 (пробуждение 2026-11-27, 23:58; черновик 0)
+
+> ***(Pantas i parma ar cenis i tehta Iluo.)***  (610: Er schlägt das Buch auf und erblickt das Zeichen des Makrokosmus.)
+> ***Ai! Almarë sirë sina cenessë***  (612: Ha! welche Wonne fließt in diesem Blick)
+> ***ú pusto nin ter ilyë tuntenyar!***  (613: Auf einmal mir durch alle meine Sinnen!)
+> ***Felin vinya, aira alassë coiviëo,***  (614: Ich fühle junges, heil'ges Lebensglück)
+> ***ceura, uryaila, sirila ter tuo ar sercë.***  (615: Neuglühend mir durch Nerv' und Adern rinnen.)
+
+Обратный перевод: «(Он раскрывает книгу и видит знак Всего.) / Ах! блаженство течёт в этом взгляде / сразу ко мне через все мои чувства! / Я чувствую юную, святую радость жизни, / обновлённую, пылающую, текущую через жилы и кровь».
+
+Немецкий сверен (`sed -n 610,615p ext/faust/faust.txt`; 611 — пустая строка). Слова прогнаны через `eldamo_slovo.py`.
+
+- ***Pantas i parma*** — ᴹQ *panta-* «to unfurl, spread out, open» (Ety/PAT), аорист + *-s*. Есть Q *latya-* «to open anything (so as to allow entry)», но это открыть, чтобы войти, а книгу раскрывают. Есть и толкиновское Q *cesë parma* «to look in a book» (PE17/156), но *ces-* значит «искать, рассматривать, чтобы найти», а Фауст ничего не ищет, знак попадается ему сам. ***cenis*** — Q *cen-* «to see, behold».
+- ***i tehta Iluo*** — «Makrokosmus» = «великий мир». Q *Eä* «Creation, the (Material) Universe, Cosmos» было бы точнее, но его родительного у Толкина нет, и в курсе нет (поиск по `kurs-02.txt`), а по правилу для *-a* (*Varda → Vardo*) вышло бы \**Eo*. Q *ilu* «everything, all, the whole; [ᴹQ.] universe» в родительном засвидетельствовано: ᴹQ *mettan Iluo* «to the end of the Universe». *tehta* — то же слово автора, что в 607: Фауст говорил о «священных знаках», а теперь видит один из них.
+- ***Ai!*** вместо «Ha!» (как *ai* в 530). ᴹQ ***almarë*** «blessedness, bliss» (Ety/GALA) для «Wonne»: *alassë* нужно в 614 для «-glück». ᴹQ ***sir-*** «to flow» (Ety/SIR), аорист *sirë*. ***sina cenessë*** — Q *cen* «sight» (нкв. *cénë* помечено «УСТАРЕЛО → q cen»), местный падеж; *sina* перед существительным, как в курсе (стр. 15176, *sina cirma*).
+- ***ú pusto*** — нкв. «immediately, at once, (lit.) without pause» для «auf einmal». *nin* — дательный (курс, 6372). ***tuntenyar*** — нкв. *tuntë* «sense (one of the five)» + *-nya* + мн. ч.
+- ***Felin*** — нкв. *fel-* «to feel (emotions)». Q *vinya* «young, new», Q *aira* «holy» (как *airë* в 607), Q *alassë* «happiness», Q *coivië* «life», род. *coiviëo* (как *Oiolossëo*).
+- ***ceura, uryaila, sirila*** — три определения к *alassë*. Q *ceura* «renewed» для «Neu-», Q *urya-* «to be hot» (ᴹQ «to blaze»), причастие на *-ila* по курсу (стр. 13614: *orya- → oryaila*); *sir- → sirila*. Немецкое «rinnen» у меня — причастие при *felin*: «чувствую радость, текущую».
+- ***ter tuo ar sercë*** — ᴹQ *tuo* «muscle, sinew; vigour», Q *sercë* «blood». Слов «нерв» и «жила (сосуд)» нет; нкв. *sercelumë* «blood flow» есть, но это ток, а не русло. Quettali читает *tuo* как род. от *toa* «дерево (материал)».
+
+**Что потеряно.** Рифмы (*Blick / -glück*, *Sinnen / rinnen*), «welche» (восклицание стало утверждением), «Nerv' und Adern» — «жилы и кровь». **Не проверено.**
