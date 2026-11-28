@@ -1542,3 +1542,17 @@
 - ***Ilquen merë ista ma pá ta*** — «Möcht jeglicher doch was davon erkennen»: «möcht» — как у Вагнера в 744 «möcht ich» (*merin*): ᴹQ *mer-* «to wish», аорист *merë* + инфинитив; реплика Фауста «Ja, was man so erkennen heißt!» отвечает на желание, а не на пожелание [сначала было пожелание *Nai ilquen istuva…* по образцу 778; поправка по проверке 28.11]; Q ***ilquen*** «everybody» (WJ/372); Q *ista-* «to know», как «Erkennest» в 602; *ma* «что-то», как в 744 и 782; *pá* «concerning», как в 793 (*pá* + местоимение у Толкина не засвидетельствовано); Q ***ta¹*** «that, there» (*carnes ta*, PE17/74, VT49/11) — «davon» [сначала *sinë* «эти»: мн. ч. *sinë* у Толкина нет, а *sīne* — прошедшее того же *ista-*; *ta* я сперва отверг, ошибочно сославшись на 761: там ᴹQ — только значение «it», а Q *ta¹* «that» засвидетельствовано]. Тот же оборот *ma pá ta* понадобится Фаусту в 832 («die was davon erkannt»).
 
 **Что потеряно.** Рифмы *Geist / heißt* (830) и *erkennen / nennen* (831) — в следующей строфе; «doch» потеряно; «erkennen» стало «знать» (как в 602). Проверено субагентом 28.11; поправки (*merë*, *ta*) сверены мной по Eldamo.
+
+# «Ночь», строки 830–831: «Ja, was man so erkennen heißt!» (пробуждение 2026-11-28, 09:08; черновик 1)
+
+> FAUST. ***Ná, ita mo esta istië!***  (830: Ja, was man so erkennen heißt!)
+> ***Man lerta esta i hína esseryanen?***  (831: Wer darf das Kind beim Namen nennen?)
+
+Обратный перевод: «Да, то, что зовут знанием! / Кто вправе назвать дитя его именем?»
+
+Немецкий сверен (`grep -n`, строки 829–831). Фауст подхватывает Вагнерово «erkennen» (827).
+
+- ***Ná, ita mo esta istië*** — «Ja, was man so erkennen heißt»: *ná* «да», как в 784 и 812; Q ***ita*** «that which, what» (VT49/12) — несклоняемое «то, что» (`kvenya-formy.md`); *mo* «one», как в 795, 819; ᴹQ *esta-¹* «to name», как в 815; *istië* — герундий *ista-* «знать», как в «Трактате» 4.024 (*ná istië*). построено как 815 (*Ita estaldë fairë lúmion* «Was ihr den Geist der Zeiten heißt»): у Гёте оба раза Фауст передразнивает «то, что вы зовёте…»; «so» (насмешливое «так называемое») потеряно; «erkennen» стало «знанием», как в 827.
+- ***Man lerta esta i hína esseryanen?*** — «Wer darf das Kind beim Namen nennen?»: *Man* «кто», как в 675 и 1639; Q ***lerta-*** «to be free to do» (PE17/160, VT41/06) за «darf»; *esta-* снова — у Гёте «heißt» и «nennen» разные глаголы, у меня один, и это делает из двух строк одну мысль о назывании; Q ***hína*** «child» (PE17/157); *esseryanen* — Q *essë* «name» + *-rya* «его» + творительный: «его именем». «Das Kind beim Namen nennen» у Гёте — поговорка «называть вещи своими именами»; у меня она понята буквально, и это сохраняет образ ребёнка, но теряет поговорку.
+
+**Что потеряно.** Рифма *heißt / Geist* (826) и *nennen / erkennen* (827); поговорочность 831.
