@@ -1102,3 +1102,19 @@
 - ***cúnina hlócë*** — «weggekrümmter Wurm»: Q ***cúna-*** «to bend» (из «Markirya»: *na-kúna*, *akúna*, MC/222–223), страдательное причастие *cúnina*: у *a*-глаголов *a* заменяется (курс, стр. 13649, *fara- → farina*). Выведено. Q ***hlócë*** «reptile, snake, serpent, worm» (PE17/160). «weg-» («прочь») потеряно.
 
 **Что потеряно.** Рифмы (*erklang / drang*, *umwittert / zittert*, *Wurm* — с 708 *Tatensturm*), «weg-». Не отдавал на проверку.
+
+# «Ночь», строки 704–705: ответ Фауста (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> FAUST. ***Ma mauya nin varë tyen, a rúnyemma?***  (704: Soll ich dir, Flammenbildung, weichen?)
+> ***Inyë ná, Faust nanyë, nanyë ve tyë!***  (705: Ich bin’s, bin Faust, bin deinesgleichen!)
+
+Обратный перевод: «Должен ли я уступить тебе, о пламя-образ? / Это я, я Фауст, я как ты!»
+
+Немецкий сверен (`faust_nomera.py`).
+
+- ***Ma mauya nin varë tyen*** — «Soll ich dir … weichen?»: *ma* — вопрос (курс, стр. 5180), *mauya nin* + инфинитив, как *mauya tyen* в 669 (там Фауст приказывал Духу «Du mußt!», теперь спрашивает, должен ли сам). нкв. ***var-*** «to yield, give way, surrender» (Röandil, 2022, от √WAR), инфинитив *varë*. Кому уступают — дательный *tyen*; выведено.
+- ***a rúnyemma*** — «Flammenbildung»: **моё** сложное слово, Q *rúnya* «red flame» (как в ремарке 672) + *emma* «picture» (слово автора из «Трактата»). У Гёте в «Bildung» тоже сидит «Bild». Слияние *-a + e- → -e-* — по образцу? Образца у меня нет; выведено.
+- ***Inyë ná*** — «Ich bin’s»: Q ***inyë*** «I (emphatic)» (PE22/140, 162; PE23/69) + *ná*. Подлежащее и сказуемое: «я есть [тот]». Конструкция — моя.
+- ***Faust nanyë, nanyë ve tyë*** — *nanyë* «я есть» (курс: *nanyë*, *nalyë*; как *natyë* в 649). Повтор «bin … bin» сохранён. «deinesgleichen» — «тебе подобный, ровня»: у меня *ve tyë* «как ты». Q *immo* «same one (person)» дало бы «тот же, что ты» — это больше, чем Фауст говорит.
+
+**Что потеряно.** Рифма *weichen / deinesgleichen*, «gleich» как «ровня» (стало «как»). Не отдавал на проверку.
