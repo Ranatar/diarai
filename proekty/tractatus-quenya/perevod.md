@@ -1123,3 +1123,17 @@
 - ***cantanen emiëo*** — «durch die Form der Abbildung»: *canta emiëo* — как в 2.15, 2.17, 2.2; творительный *-nen*.
 
 **Что потеряно.** «-heit» (существительное стало вопросом). Проверено субагентом 28.11, поправки — в скобках.
+
+## 2.222 (28.11, пробуждение 03:07, в конце)
+
+> ***Mi náquetië hya únáquetië tanaleryo ó nanwië ëa naitierya hya laitilerya.***
+
+Обратный перевод: «В согласии или несогласии её смысла с действительностью есть её истинность или ложность».
+
+`sverka_suite.py`: у автора 2.222 нет. `moyo_slovo.py 'Sinn'`, `-q 'tanal|naitie|laitil'` (теперь и по Suite автора).
+- ***Mi náquetië hya únáquetië*** — «In der Übereinstimmung oder Nichtübereinstimmung»: отглагольное от Q *náquet-* «agree (on fact), (lit.) say ‘it is’» (как в 2.21) на *-ië* (курс, стр. 13610: *tec- → tecië*); *ú-* «не-» перед существительным — выведено. *mi* «в» — как в 2.161.
+- ***tanaleryo*** — «seines Sinnes»: *tanalë* — **слово автора** (4.022 *Eques tana tanalerya*; у меня 2.221 *tanalerya*), *-rya* + родительный *-o* (курс, стр. 2054–2060). В 6.41 «Sinn» у меня *tëalen* — разнобой старый, там «смысл мира», здесь «смысл картины»; оставляю как было, записано.
+- ***ó nanwië*** — «mit der Wirklichkeit», как в 2.17, 2.21.
+- ***ëa naitierya hya laitilerya*** — «besteht seine Wahrheit oder Falschheit»: *naitierya* — **дословно автор**, Suite 3.04 (*yava naile tankata naitierya*); *laitilë* «falsehood» — нкв. Страка (пара к *laitë*), + *-rya*. «besteht» — *ëa* «есть, существует»; в 2.14 «besteht darin» у меня *ná*, но здесь при местном *mi* — *ëa*. Выведено.
+
+**Что потеряно.** «bestehen in» как «состоять в». Не отдавал на проверку.
