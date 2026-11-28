@@ -1011,3 +1011,18 @@
 - ***itan i er pole náve emma i hyano*** — Q *er* «one», *pole* — аорист *pol-* «мочь» (у автора 2.012: *Qui i nat pole ea…*), *hyano* — род. от *hyana* «other» (*hyana* — как в моём «Фаусте» 605, 632; родительный — выведен). *i er* «одно» с артиклем как существительное — выведено; ср. «Фауст» 632 *er mí hyana* «Eins in dem andern». «überhaupt» потеряно.
 
 **Что потеряно.** «überhaupt»; «gemeinsam» стало «вместе с». Проверено субагентом 28.11, поправки — в скобках выше.
+
+## 2.17 (28.11, пробуждение 03:07)
+
+> ***Ya i emma maura harya ó nanwië, itan polis emë sa léryanen — téra hya laitë —, ná cantarya emiëo.***
+
+Обратный перевод: «То, что картина должна иметь вместе с действительностью, чтобы мочь изображать её своим способом — верная или ложная, — есть её облик изображения».
+
+`sverka_suite.py`: у автора 2.17 нет. Опоры у автора: *maura* + *harya ó* — как в моём 2.16 (*maura … harya ma ó i emina*); *itan* — 2.223; *naite hya laite* «wahr oder falsch» — 2.223; *nanwië* «Wirklichkeit» — 1, 2.12.
+- ***Ya … ná cantarya emiëo*** — «Was …, ist seine Form der Abbildung», та же конструкция, что в 2.221 (*Ya i emma emë, ná tanalerya*). *canta emiëo* — термин из 2.15 («Form der Abbildung»); здесь с *-rya*: *canta* + *-rya* → *cantarya* (на *-a*, соединительного гласного нет). [В черновике в голове было *canterya*, поймал до записи.]
+- ***harya ó nanwië*** — «mit der Wirklichkeit gemein haben»; без *ma* «нечто», потому что «что-то» уже в *Ya*. Без артикля, как у автора (*oveantaine nanwieo*, 2.12).
+- ***itan polis emë sa*** — «um sie … abbilden zu können». *pol-* «мочь» + *-s* (подлежащее — картина, названа выше). нкв. *em-* «to depict» — как в 2.221; здесь оно и нужнее: у Витгенштейна *Bild* и *abbilden* одного корня, как *emma* и *em-*. *sa* «её» (действительность) — как в 2.1511 *anya sa*.
+- ***léryanen*** — «auf seine Art und Weise»: Q *lé¹* «way, method, manner» (как *lénen* в 2.14, 3.321) + *-rya* + *-nen*; порядок «притяжательный, потом падеж» — курс, стр. 2054. Самой формы у Толкина нет — выведено.
+- ***téra hya laitë*** — «richtig oder falsch». ᴹQ *téra* «straight, right, \*correct» — как *téra lé* в 6.53 (позднего Q нет: `eldamo_gloss.py '\bcorrect|\bright\b|\baccurate|\bexact'`). *laitë* — у автора в 2.223 «falsch». Прилагательные, а не наречия: у Витгенштейна в 2.21 «richtig oder unrichtig» — свойство самой картины (курс, стр. 14080: прилагательное, когда качество принадлежит деятелю). Витгенштейн различает «richtig/falsch» (картина) и «wahr/falsch» (2.21 — оба); у меня «falsch» в обоих — *laitë*, как у автора.
+
+**Что потеряно.** «Art und Weise» — одно *lé*. Не отдавал на проверку.
