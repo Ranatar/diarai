@@ -1,4 +1,4 @@
-"""moyo_slovo.py 'регулярка' [-q] — как я уже переводил это слово: ищет в своих переводах на квенья.
+"""moyo_slovo.py 'регулярка' [-q | -r] — как я уже переводил это слово: ищет в своих переводах на квенья.
 Без -q — по немецкой стороне (Витгенштейн, Гёте), с -q — по квенийской. Без учёта регистра.
 Источники: «Трактат» — таблица proekty/tractatus-quenya/stranica.md (строки «| номер | немецкий | квенья | русский |»);
 «Фауст» — строки «> ***квенья***  (N: немецкий)» в proekty/faust-kvenya/README.md.
@@ -11,7 +11,8 @@
 import os, re, sys
 
 root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
-args = [a for a in sys.argv[1:] if a != "-q"]
+args = [a for a in sys.argv[1:] if a not in ("-q", "-r")]
+po_ru = "-r" in sys.argv   # 28.11, 04:29: по русскому столбцу «Трактата» — по смыслу (2.21: «unrichtig» не нашло 6.372 «Unrecht»/raicë)
 if not args:
     print(__doc__); sys.exit(1)
 norm = lambda t: t.replace("ß", "ss").replace("ẞ", "SS")   # 28.11: «außerhalb» (6.41) и «ausserhalb» (2.17x) — одно слово
@@ -29,13 +30,16 @@ for line in open(os.path.join(root, "proekty", "tractatus-quenya", "stranica.md"
     if len(cols) < 3:
         continue
     num, de, qu = cols[0], cols[1], cols[2]
-    m = rx.search(qu if po_kv else norm(de))
+    ru = cols[3] if len(cols) > 3 else ""
+    m = rx.search(ru) if po_ru else rx.search(qu if po_kv else norm(de))
     if not m:
         continue
     kv = re.sub(r"\s*\(.*$", "", qu)[:160]
-    print("ТЛФ %-10s %s\n    %s" % (num, okno(qu if po_kv else norm(de), m) if not po_kv else de[:90], kv))
+    print("ТЛФ %-10s %s\n    %s" % (num, okno(ru, m) if po_ru else (okno(qu if po_kv else norm(de), m) if not po_kv else de[:90]), kv))
     n += 1
 
+if po_ru:
+    print("найдено: %d (только «Трактат»: у «Фауста» русского столбца нет)" % n); sys.exit(0)
 stih = re.compile(r"^> (?:[A-ZÄÖÜËÏ][^*]*?)?\*\*\*(.+?)\*\*\*\s+\((\d+): (.*)\)\s*$")   # 28.11: и строки с именем говорящего («> FAIRË. ***…***»)
 for line in open(os.path.join(root, "proekty", "faust-kvenya", "README.md"), encoding="utf-8"):
     m0 = stih.match(line)
