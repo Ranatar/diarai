@@ -660,7 +660,7 @@
 
 # «Ночь», строки 593–596 (пробуждение 2026-11-27, 20:32; черновик 0)
 
-> ***Minomë i coirëa nassë,***  (593: Statt der lebendigen Natur,)
+> ***Minomë i coirëa nassëo,***  (593: Statt der lebendigen Natur,)
 > ***yanna Eru ontanë Atani,***  (594: Da Gott die Menschen schuf hinein,)
 > ***pelir tyë quondassë ar saumassë***  (595: Umgibt in Rauch und Moder nur)
 > ***rië axostar hravanion ar axor loicoron.***  (596: Dich Tiergeripp und Totenbein.)
@@ -669,7 +669,7 @@
 
 Немецкий сверен (`sed -n 593,596p`). Quettali: всё узнано, кроме *ontanë*.
 
-- ***minomë*** — нкв. «instead, in place of». [Сначала было нкв. *menessë*. По проверке 27.11 Eldamo помечает его устаревшим («лучше: nq minomë»), потому что *men* в поздних текстах значит «путь», и Quettali так его и прочёл.]
+- ***minomë*** — нкв. «instead, in place of». [Сначала было нкв. *menessë*. По проверке 27.11 Eldamo помечает его устаревшим («лучше: nq minomë»), потому что *men* в поздних текстах значит «путь», и Quettali так его и прочёл.] [28.11: было *Minomë i coirëa nassë*, с именительным. Падеж дополнения при *minomë* в Eldamo не указан; слово Ференца составлено из *mi* + *nómë* «на месте», поэтому дополнение — родительный «на месте чего», как в моём «Трактате» 2.131 *mi nómë anwaron*. Выведено, но теперь оба места решены одинаково.]
 - ***i coirëa nassë*** — Q *coirëa* «living», Q ***nassë*** «nature, true-being; material». [Оговорка по проверке 27.11: *nassë* — природа как *сущность* существа, а не мир природы, «куда» Бог поместил людей. Строка значит «живая сущность, в которую…», и это сдвиг. Лучшего слова в Eldamo нет.] **Отзвук (мой):** в 558 Фауст хочет знать *i nassë Ambaro endaryassë*, «существо мира в его сердцевине», а здесь *nassë* — живая природа, которой он лишён. У Гёте «Natur» и «was die Welt im Innersten zusammenhält» — разные слова. Связь сделал я, и она у меня, по-моему, к месту.
 - ***yanna Eru ontanë Atani*** — «в которую Эру породил Людей»: *yanna* «куда» (аллатив от *ya*: *hinein*); Q *onta-* «to beget» (в ᴹQ — «to create»), прошедшее *ontanë* по курсу (*-në* у a-глаголов). «Schuf» стало «породил», и для Детей Эру это, по-моему, точнее, чем «сделал». Quettali формы не знает.
 - ***pelir tyë*** — Q *pel-* «to go round, encircle» (как *pelë* в 583), мн. ч., потому что подлежащих два (у Гёте *umgibt* в ед. ч.). *tyë* «тебя».
