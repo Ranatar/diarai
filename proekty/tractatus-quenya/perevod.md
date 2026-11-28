@@ -996,3 +996,18 @@
 **Что вышло.** Три положения сцеплены прежними словами: *limë* (2.03–2.15), *hanquet-* (2.13), *appa-* (2.15121). Новое только *leper* — и оно толкиновское.
 
 **Что потеряно.** «Zusammenhang» (2.15) и «abbildende Beziehung» (2.1513) у меня одно *limë*; «Nach dieser Auffassung». Проверено субагентом 28.11, поправки — в скобках выше.
+
+## 2.16–2.161 (28.11)
+
+> ***Ennan maura, itan náve emma, harya ma ó i emina.*** (2.16)
+> ***Mi emma ar i emina maura ëa ma imya, itan i er pole náve emma i hyano.*** (2.161)
+
+Обратный перевод: «Факту должно, чтобы быть картиной, иметь нечто вместе с изображённым. — В картине и изображённом должно быть нечто тождественное, чтобы одно могло быть картиной другого».
+
+- ***Ennan maura … harya*** — **конструкция автора**: дательный того, кому должно, + *maura* + инфинитив (5.473: *Lillen maura cimba pá insa* «Die Logik muss für sich selbst sorgen»; ещё 2.012, 2.223 *mauralve*). *enna* «Tatsache» — автор (ᴹQ), дательный *ennan*. В моём старом 2.0131 «muss» передано Q *möa*; там я автора не посмотрел — теперь расхождение, отмечаю. *harya* — Q *harya-* «to have, \*hold», инфинитив.
+- ***itan náve emma*** — «um Bild zu sein»: нкв. *itan* «so that, in order to» — **слово автора** (2.223: *Itan tersure, ma i emma naite hya laite…* «Um zu erkennen, ob das Bild wahr oder falsch ist…»). *náve* — инфинитив *ná* (как в моём 2.0131).
+- ***ma ó i emina*** — *ma* «что-то» (курс, стр. 2134). Q ***ó*** «[together] with» (PE22/162: *vá meninye ó le* «I won't come with you»; по Eldamo — именно «вместе с»): «gemeinsam haben mit» = «иметь вместе с». ***i emina*** «изображённое» — страдательное от нкв. *em-* «depict» по курсу (*tec- → tecina*) — выведено; у Витгенштейна «das Abgebildete» от «abbilden», у меня от того же *em-*, что *emma* и *emë* (2.221).
+- ***Mi emma ar i emina*** — *mi* один на оба слова, как «In Bild und Abgebildetem». ***maura ëa ma imya*** — здесь без дательного: «должно существовать нечто тождественное»; *maura* + инфинитив Q *ëa* «exist» — выведено по образцу автора. Q ***imya*** «same, identical, self-same» (PE23/134, VT47/37).
+- ***itan i er pole náve emma i hyano*** — Q *er* «one», *pole* — аорист *pol-* «мочь» (у автора 2.012: *Qui i nat pole ea…*), *hyano* — род. от *hyana* «other» (как в 605, 632). «überhaupt» потеряно.
+
+**Что потеряно.** «überhaupt»; «gemeinsam» стало «вместе с». **Не проверено.**
