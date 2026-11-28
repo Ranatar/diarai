@@ -1306,11 +1306,11 @@
 
 **Что потеряно.** Рифмы (*zusammen / Flammen*, *Schmaus / ’raus*), «Ragout» как иностранное словечко. Проверено субагентом 28.11, поправки — в скобках.
 
-# «Ночь», строки 768–771: «Bewundrung von Kindern und Affen» (пробуждение 2026-11-28, 05:47; черновик 0)
+# «Ночь», строки 768–771: «Bewundrung von Kindern und Affen» (пробуждение 2026-11-28, 05:47; черновик 1)
 
 > ***Elmenda hínion ar maimunion,***  (768: Bewundrung von Kindern und Affen,)
 > ***qui orë carpingaldan sanna;***  (769: Wenn euch darnach der Gaumen steht;)
-> ***mal úlumë uildë caruva hondo hondonna,***  (770: Doch werdet ihr nie Herz zu Herzen schaffen,)
+> ***mal allumë caruvaldë hondo hondonna,***  (770: Doch werdet ihr nie Herz zu Herzen schaffen,)
 > ***qui sa ui tulë hondoldallo.***  (771: Wenn es euch nicht von Herzen geht.)
 
 Обратный перевод: «Восхищение детей и обезьян, / если вашему нёбу того хочется; / но никогда вы не сделаете сердце к сердцу, / если оно не идёт из вашего сердца».
@@ -1318,8 +1318,8 @@
 Немецкий сверен (`ext/faust/faust.txt`, строки 768–771). «Вы» — обобщённое, мн. ч., как в 760–767.
 
 - ***Elmenda hínion ar maimunion*** — «Bewundrung von Kindern und Affen»: нкв. ***elmenda*** «wonder, wonderment» (от ᴱQ *elmenda*, PE13); Q ***hína*** «child», мн. ч. *híni*, род. п. *hínion*; нкв. ***maimun*** «monkey, ape» (своих ссылок в Eldamo нет), род. мн. *maimunion* (выведено: мн. ч. *maimuni*, как у основ на согласный). Глагола нет, как у Гёте: «[вот вам] восхищение…».
-- ***qui orë carpingaldan sanna*** — «Wenn euch darnach der Gaumen steht»: толкиновский безличный оборот с дательным, Q ***or-*** «to warn, urge, feel an urge/wish/desire» (VT41/13): *orë nin caritas* «мне хочется это сделать». У Гёте тоже безлично и с дательным: «wenn **euch** … steht». Лицом в дательном стоит нёбо: нкв. ***carpinga*** «palate» — слово Фаускангера (Иов 34:3: *ve i carpinga tyave matta*, «как нёбо пробует пищу»; *carpa* «рот» + *inga* «верх»), в Eldamo его нет (`notes/nq-bible-eldano.md`). + *-lda* «ваш» + дательный *-n*. ***sanna*** «к тому» — направительный от *sa* (выведено).
-- ***mal úlumë uildë caruva hondo hondonna*** — «Doch werdet ihr nie Herz zu Herzen schaffen»: Q ***mal*** «but» (VT43/23). Q ***úlumë*** значит «ever, at all times» (PE17/156), а не «never». «Nie» — это *úlumë* с отрицательным глаголом *ui* + *-ldë*, будущее *caruva* (курс: *uin menuva*). Двойного отрицания здесь нет: *úlumë* положительное. Q ***hondo*** «[metaphorical] heart, (seat of the) deep [feelings]» — как в 665 и 668, где сердце чувствует и отдаётся (не *órë*, сердце-предчувствие). *hondo hondonna* «сердце к сердцу».
+- ***qui orë carpingaldan sanna*** — «Wenn euch darnach der Gaumen steht»: толкиновский безличный оборот с дательным, Q ***or-*** «to warn, urge, feel an urge/wish/desire» (VT41/13): *orë nin caritas* «мне хочется это сделать» — подлежащего нет, лицо в дательном, дополнение — инфинитив. У Гёте не безлично: подлежащее — «der Gaumen», а «euch» — дательный заинтересованного лица. [Сначала стояло «у Гёте тоже безлично» — неверно, нашёл проверяющий.] У меня оборот безличный, и в дательном стоит нёбо: нкв. ***carpinga*** «palate» — слово Фаускангера (Иов 34:3: *ve i carpinga tyave matta*, «как нёбо пробует пищу»; *carpa* «рот» + *inga* «верх»), в Eldamo его нет (`notes/nq-bible-eldano.md`); его первая часть, Q *carpa* «mouth», Eldamo помечает устаревшим (→ *náva²*, *lambelë*). + *-lda* «ваш» + дательный *-n*. ***sanna*** — засвидетельствовано: ᴹQ «\*thither (mentioned)» (PE23/112), *sa²* «то [названное]» + *-nna*. Отсылает к «Bewundrung», как «darnach», но значит «туда», так что здесь это перенос. [Сначала «выведено от *sa*» — оказалось, слово есть.] Направительного при *or-* у Толкина нет; это расширение образца, а не сам образец.
+- ***mal allumë caruvaldë hondo hondonna*** — «Doch werdet ihr nie Herz zu Herzen schaffen»: Q ***mal*** «but» (VT43/23). Q ***allumë*** «never» (CPT/1297; ᴹQ *allume* «at no date, \*never», PE23/110), глагол положительный: будущее *caruva* + *-ldë*. [Сначала стояло *úlumë uildë caruva*: Q *úlumë* — «ever, at all times» (PE17/156), и с отрицательным глаголом это читается и как «не всегда». Проверяющий показал *allumë* у Толкина; по Eldamo сверил сам.] Q ***hondo*** «[metaphorical] heart, (seat of the) deepest feelings» (CPT/1298, NM/176) — как в 665 и 668, где сердце чувствует и отдаётся (не *órë*, сердце-предчувствие). *hondo hondonna* «сердце к сердцу».
 - ***qui sa ui tulë hondoldallo*** — «Wenn es euch nicht von Herzen geht»: *qui sa ui …*, как в 761. Q ***tul-*** «come», аорист *tulë*. *hondo* + *-lda* + *-llo*, «из вашего сердца»: у Гёте «euch» стоит отдельно, у меня это притяжательное. *hondoldallo* перекликается с *hamnaldallo* в 767: сердце против кучки пепла.
 
-**Что потеряно.** Рифмы (*Affen / schaffen*, *steht / geht*); вместо них внутреннее эхо *-ldallo*. Не отдавал на проверку.
+**Что потеряно.** Рифмы (*Affen / schaffen*, *steht / geht*); вместо них внутреннее эхо *-ldallo*. Проверено субагентом 28.11, поправки — в скобках.
