@@ -1,6 +1,8 @@
 """[27.11: помечает «⚠УСТАРЕЛО→ лучше»; если слова нет — ищет в заметках Eldamo.] eldamo_slovo.py слово [язык] — найти в inbox/eldamo/src/data/eldamo-data.xml словарные статьи <word v="…">,
 чьё v начинается со «слово» (без учёта регистра и диакритики), и напечатать язык, v, gloss и первые cite.
-2026-10-18. Нужен для разбора имён (например, «Ránatar Maivandion»)."""
+2026-10-18. Нужен для разбора имён (например, «Ránatar Maivandion»).
+28.11: разбор через ElementTree; ссылки и «устарело» — только прямые потомки статьи; у нкв. без своих ссылок — «основа: …»
+(вложенное исходное слово). До 28.11 третья колонка цепляла ссылки соседей (nq ehten ← «ehtar (Ety/EK)»)."""
 import re, sys, unicodedata, os
 
 def bare(s):
@@ -11,24 +13,31 @@ path = os.path.join(root, "inbox", "eldamo", "src", "data", "eldamo-data.xml")
 q = bare(sys.argv[1])
 lang = sys.argv[2] if len(sys.argv) > 2 else None
 text = open(path, encoding="utf-8").read()
+# 28.11: разбор настоящим XML-парсером. Регулярками (до 28.11) граница статьи бралась «до первого вложенного <word>»,
+# и у статей, где вложенные слова стоят раньше своих <ref>/<deprecated>, ссылки пропадали (q lanya-²), а раньше —
+# брались из соседей (nq ehten получал «ehtar (Ety/EK)»). Теперь — только прямые потомки статьи.
+import xml.etree.ElementTree as ET
+_root = ET.fromstring(text.encode("utf-8"))
+def _refs(w, k):
+    return [(r.get("v", ""), r.get("source", "")) for r in w.findall("ref")][:k]
 n = 0
-for m in re.finditer(r'<word\b([^>]*)>', text):
-    attrs = dict(re.findall(r'(\w+)="([^"]*)"', m.group(1)))
-    v = attrs.get("v", "")
+for w in _root.iter("word"):
+    v = w.get("v", "")
     if not bare(v).startswith(q):
         continue
-    if lang and attrs.get("l") != lang:
+    if lang and w.get("l") != lang:
         continue
-    chunk = text[m.end():m.end() + 1500]
-    refs = re.findall(r'<ref\b[^>]*v="([^"]*)"[^>]*source="([^"]*)"', chunk)[:3]
-    # 27.11: пометка «устарело» (<deprecated> внутри статьи — по eldamo-schema.xsd; так же в eldamo_statya.py)
-    # только теги самой статьи: до первого вложенного <word или закрывающего </word> (как в eldamo_statya.py).
-    # Первая версия (27.11) брала до первого </word> и цепляла чужие теги: ложные «УСТАРЕЛО» у cilin, melda, mando.
-    ends = [x for x in (text.find("<word", m.end()), text.find("</word>", m.end())) if x > 0]
-    own = text[m.end():min(ends) if ends else m.end() + 3000]
-    dep = [dict(re.findall(r'(\w+)="([^"]*)"', d)) for d in re.findall(r'<deprecated\b([^>]*)/?>', own)]
-    ust = ("  ⚠УСТАРЕЛО→ " + ", ".join("%s %s" % (d.get("l", "?"), d.get("v", "—")) for d in dep)) if dep else ""
-    print("%-5s %-20s %-30s %s%s" % (attrs.get("l", "?"), v, attrs.get("gloss", ""), "; ".join("%s (%s)" % r for r in refs), ust))
+    refs = _refs(w, 3)
+    osnova = ""
+    if not refs:
+        # у нкв. статей своих ссылок нет: внутри вложено исходное слово (часто ᴱQ), ссылки — его. Показать как «основа».
+        ch = w.find("word")
+        if ch is not None:
+            r2 = _refs(ch, 2)
+            osnova = "основа: %s %s%s" % (ch.get("l", "?"), ch.get("v", ""), (" — " + "; ".join("%s (%s)" % r for r in r2)) if r2 else "")
+    dep = [(d.get("l", "?"), d.get("v", "—")) for d in w.findall("deprecated")]
+    ust = ("  ⚠УСТАРЕЛО→ " + ", ".join("%s %s" % d for d in dep)) if dep else ""
+    print("%-5s %-20s %-30s %s%s" % (w.get("l", "?"), v, w.get("gloss", ""), "; ".join("%s (%s)" % r for r in refs) or osnova or "(своих ссылок нет)", ust))
     n += 1
     if n >= 25:
         break
