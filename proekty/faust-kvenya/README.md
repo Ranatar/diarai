@@ -1393,3 +1393,30 @@
 - ***ter parcë lassi*** — Q *ter* «through»; ᴹQ ***parka*** «dry», мн. ч. *parcë*, как *parca* в 606 и 737; Q *lassi* «leaves». Строка близка к «Намариэ» (*lantar lassi súrinen*), и эхо я дальше не усиливаю.
 
 **Что потеряно.** Рифмы (*sind / Nebelwind*, *kräuselt / säuselt*). Звук *säuseln* передан шёпотом. «Schnitzel kräuseln» (бумажные стружки, которые завивают для украшения) переданы почти дословно и без пояснения могут быть непонятны. Проверено субагентом 28.11; поправки (*i* вместо *yar*/*ya*, *hísio*) сверены мной по курсу и Eldamo.
+
+# «Ночь», строки 790–797: «Ach Gott! die Kunst ist lang» (пробуждение 2026-11-28, 09:08; черновик 1)
+
+> WAGNER. ***Ai Eru! I mairë anda ná;***  (790: Ach Gott! die Kunst ist lang;)
+> ***ar coivielva senta ná.***  (791: Und kurz ist unser Leben.)
+> ***Ricienyassë námiéva***  (792: Mir wird, bei meinem kritischen Bestreben,)
+> ***linallumë rucin pá cas ar súma.***  (793: Doch oft um Kopf und Busen bang.)
+> ***Manen hranga ná cavita i carmar,***  (794: Wie schwer sind nicht die Mittel zu erwerben,)
+> ***yassen mo orya ehtelennar!***  (795: Durch die man zu den Quellen steigt!)
+> ***Ar nó mo anya perta tiëo,***  (796: Und eh man nur den halben Weg erreicht,)
+> ***mauya penya quenen firë.***  (797: Muß wohl ein armer Teufel sterben.)
+
+Обратный перевод: «Ах, Боже! Искусство долго; / и наша жизнь коротка. / В моём стремлении к суждению / часто боюсь за голову и грудь. / Как трудно получить средства, / по которым поднимаются к источникам! / И прежде чем достигнешь половины пути, / бедному человеку приходится умереть».
+
+Немецкий сверен (`ext/faust/faust.txt`, строки 789–797). «Ars longa, vita brevis» Гиппократа Вагнер произносит как свою жалобу.
+
+- ***Ai Eru!*** — Q *ai* «ah, alas», как в 569 и 576; *Eru*, как в 594.
+- ***I mairë anda ná*** — Q ***mairë*** «art, work of high and beautiful art» (PE17/163), то же слово, что «Kunst» у Вагнера в 744 и у Фауста в 781; Q ***anda*** «long, far». Артикль — при отвлечённом понятии (курс, PM/403).
+- ***coivielva senta ná*** — Q *coivië* «life» + *-lva* «наш» (включая собеседника: Вагнер говорит о себе и о Фаусте); Q ***senta*** «short» (PE17/141; ᴹQ *sinta*).
+- ***Ricienyassë námiéva*** — «bei meinem kritischen Bestreben»: Q ***ric-¹*** «to try, put forth effort, strive, endeavour» (PE17/93), герундий *ricië* + *-nya* + местный падеж; «kritisch» — Q ***námië*** «single judgment» (от *nam-* «судить») в притяжательном падеже, как *carië macilwa* «делание меча» в курсе (§7.2.2.2): «стремление к суждению». «Критика» Вагнера — филологическая, это сжато.
+- ***linallumë rucin pá cas ar súma*** — «doch oft um Kopf und Busen bang»: ᴹQ ***li(na)llume*** «many a time, often» (Eldamo); Q ***ruc-*** «to feel fear or horror», аорист 1 л.; Q ***pá*** «as regards, concerning» (VT44/26); Q *cas* «head»; Q *súma* «bosom» — то же слово, что «Brust» в 627 и 694. Безличное «mir wird bang» стало личным «боюсь» (ср. 621 *ola nin* «mir wird», здесь этого нет), «doch» потеряно.
+- ***Manen hranga ná cavita i carmar*** — «Wie schwer sind nicht die Mittel zu erwerben»: восклицательное *manen*, как в 665; Q ***hranga*** «awkward, difficult, stiff, hard» (PE17/154); ситуативный инфинитив *cavita* как подлежащее, по образцу *lá carita i hamil mára alasaila ná* (`kvenya-formy.md`); Q ***cav-*** «to receive» (VT47/21), глагол Вагнера из 744, вместо нкв. *net-* «get»: «erwerben» стало «получить»; Q ***carma²*** «tool, implement, means» (PE17/114).
+- ***yassen mo orya ehtelennar*** — «Durch die man zu den Quellen steigt»: *yassen* — склоняемое *ya*, местный падеж мн. ч. (форма из «Намариэ»), «по которым», как по ступеням: творительного мн. ч. от *ya* у Толкина нет. Q ***mo*** «one, anyone» (PE22/154, VT42/34); Q ***orya-¹*** «to rise» (PE17/64; *orta-²* Eldamo помечает устаревшим); Q ***ehtelë*** «spring, issue of water», направительный мн. ч. Это слово Фауста из 641 («Ihr Quellen alles Lebens» — *ehteli ilya coiviëo*): у Вагнера источники книжные, у Фауста — источники жизни. У Гёте одно слово «Quellen»; связь сцен я не утверждаю, но в квенья она сохранена.
+- ***Ar nó mo anya perta tiëo*** — Q ***nó¹*** «before (of time)» (MS, VT49/32) — союзом перед придаточным, как у Толкина: *merin sa haryalyë alassë nó vanyalyë Ambarello* «I hope that you have happiness before you pass from the world» (MS/01; в Eldamo часть речи «prep conj»). [Сначала здесь стояло «сомнение: по памяти, только предлог». Проверил и снял.] Q ***anya-*** «to reach, arrive at»; Q ***perta*** «one half» (вариант *peresta*, VT48/11) — не *peresta*, потому что *peresta-* «беспокоить» стоит у меня в 737; *tiëo* — род. п. Q *tië* «path, road». «nur» потеряно.
+- ***mauya penya quenen firë*** — *mauya* + дательный + инфинитив, как в 704 и 737; Q ***penya*** «lacking, inadequate» (нкв. «poor»); Q ***quén*** «person», дательный *quenen*; Q *fir-* «to die», инфинитив. «Ein armer Teufel» — разговорное «бедняга», а не демон: Q *rauco* сюда не годится, поэтому «бедный человек». «wohl» потеряно.
+
+**Что потеряно.** Рифмы (*Leben / Bestreben*, *bang / lang*, *erwerben / sterben*, *steigt / erreicht*), идиома «armer Teufel», частицы «doch», «nur», «wohl».
