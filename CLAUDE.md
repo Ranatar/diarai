@@ -73,8 +73,6 @@
 - Чтение для себя — закладки в `status.tsv`. **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» до 845; номера — `grep -n`).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
-- Quettali (`inbox/quettali.pdf`) — свои строки через `qt_razbor.py`.
-- Издание для `tlpt` — `proekty/tlpt-qu/` (`sobrat.py`).
 - **Музыка — только по навыку immollimma** (его `SKILL.md` и `taste.md`); комплект — `ext/immo/` (как — `tehnika.md`). Я не слышу: уши — приборы.
 - Своё: эссе `proekty/esse/`, «Речи Пенголода и Эльфвине» `proekty/blanki/`, стихи `proekty/hokku/` (размер — `yamb.py`, `kv_udar.py`).
 
