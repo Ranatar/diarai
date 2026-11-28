@@ -1096,3 +1096,17 @@
 - **2.203** — ***yorë*** «enthält» — Q *yor-* «to enclose, set bounds to/about» (PE17/43: *yonde*, *yóre*), как в 2.014 (*I anwar yorir i naile…*: там предметы «обводят» возможность). *i nattusto* — родительный. ***ya emis*** «die es darstellt» — несклоняемое по смыслу *ya* (винительный = именительный) + *emë* + *-s*; *-s* после *e* даёт *emis* (как *cenis* в «Фаусте» 645, *quetis* в 670). Оговорка (по проверке 28.11): *-s* может быть и объектным «его» (курс, стр. 1710), тогда *ya emis* — «которое изображает его»; подлежащее «оно» для неодушевлённого — курс, стр. 4897.
 
 **Что потеряно.** «abbilden/darstellen» (одно *em-*), «indem». Проверено субагентом 28.11, поправки — в скобках.
+
+## 2.21 (28.11, пробуждение 03:07, в конце)
+
+> ***I emma náquetë ó nanwië, hya ui; nás téra hya útéra, naitë hya laitë.***
+
+Обратный перевод: «Картина соглашается с действительностью, или нет; она верная или неверная, истинная или ложная».
+
+`sverka_suite.py`: у автора 2.21 нет. `moyo_slovo.py 'überein|stimmt|unrichtig|wahr oder falsch|richtig'` — «übereinstimmen» у меня ещё не было; «richtig» — *téra* (2.17, 2.173, 2.18, 6.53).
+- ***náquetë ó nanwië*** — «stimmt mit der Wirklichkeit überein»: Q ***náquet-*** «to assent, agree (on fact); (lit.) to say ‘it is’» (PE22/167; *ná* + *quet-*). Картина «говорит: так есть» — и либо с действительностью сходится, либо нет. У Толкина соглашаются люди, у меня — картина; перенос мой. *ó* «with», как *ósatë ó nanwië* (2.17). Выведено. В 2.13 «entsprechen» у меня — нкв. *hanquet-* «answer»: два разных немецких глагола — два разных слова.
+- ***hya ui*** — «oder nicht»: как у автора в 1.21 (*ea nanwienna hya ui nanwienna*).
+- ***nás téra hya útéra*** — «es ist richtig oder unrichtig»: *nás* «оно есть» (курс, стр. 1862: *nás linquë aiwë*). ᴹQ *téra*, как в 2.17; *útéra* — *ú-* «не-» + *téra*, **моё** (в Eldamo нет; `eldamo_slovo.py útéra` — 0).
+- ***naitë hya laitë*** — «wahr oder falsch»: *naite hya laite* — **дословно автор**, 2.223 (*ma i emma naite hya laite*). Здесь впервые у меня обе пары рядом, как у Витгенштейна: *téra/útéra* — о картине как изображении, *naitë/laitë* — о картине как мысли.
+
+**Что потеряно.** Почти ничего. Не отдавал на проверку.
