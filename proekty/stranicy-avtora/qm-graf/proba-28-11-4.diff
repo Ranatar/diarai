@@ -1,0 +1,40 @@
+--- qm324/shared/lexicon.py	2026-11-28 12:08:35.166332401 +0000
++++ qm324-patch4/shared/lexicon.py	2026-11-28 13:02:46.122531834 +0000
+@@ -337,7 +337,21 @@
+     if not refs:
+         return []
+     own = [r for r in refs if _ref_key(r.get('v')) == _ref_key(w.get('v'))]
+-    pool = own or refs
++    # (проба 28.11, вторая) ссылка другой формы, где приставка или суффикс не на краю самого слова, разбирает
++    # форму слова, а не слово: ᴹQ tára ← antara [intensive] = an-
++    def _edge_ok(r):
++        key = _ref_key(w.get('v'))
++        els = r.findall('element')   # (четвёртая проба) приставка — только первый элемент, суффикс — только последний
++        first = (els[0].get('v') or '') if els else ''
++        last = (els[-1].get('v') or '') if els else ''
++        if first.endswith('-') and not first.startswith('-') and not key.startswith(_ref_key(first)):
++            return False
++        if last.startswith('-') and not last.endswith('-') and not key.endswith(_ref_key(last)):
++            return False
++        return True
++    pool = own or [r for r in refs if not r.findall('inflect') or _edge_ok(r)]   # (третья проба) только формы слова
++    if not pool:
++        return []
+     most = max(len(r.findall('element')) for r in pool)
+     return [e for e in next(r for r in pool if len(r.findall('element')) == most).findall('element') if _live_in(e, w)]
+ 
+@@ -686,6 +700,14 @@
+                 filled.append(fit or g)
+             if sum(1 for g in filled if _real(g)) >= 2:
+                 parts, real = filled, [g for g in filled if _real(g)]
++        if len(real) == 1 and not direct and len(inter) == 1:
++            # (проба 28.11) один элемент с корнем, а вывод через праформу даёт другие корни: другая часть слова
++            # (S. edraith = et + ✶rekti(e) < √REK); сравнение и по id, и по форме корня
++            have = {r['id'] for r in _real(real[0])} | {r.get('form') for r in _real(real[0])}
++            got = _real(inter[0])
++            if got and not any(r['id'] in have or r.get('form') in have for r in got):
++                parts = [g for g in parts if _real(g)] + [got]
++                real = parts
+         if len(real) >= 2:
+             out = parts
+         elif direct:
