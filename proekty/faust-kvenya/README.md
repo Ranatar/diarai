@@ -1506,21 +1506,23 @@
 
 Проверено субагентом 28.11; поправки (*San … ná*) сверены мной по курсу.
 
-# «Ночь», строки 820–823: «Ein Kehrichtfaß und eine Rumpelkammer» (пробуждение 2026-11-28, 09:08; черновик 1)
+# «Ночь», строки 820–823: «Ein Kehrichtfaß und eine Rumpelkammer» (пробуждение 2026-11-28, 09:08; черновик 2, проверен)
 
 > ***Calpa auhantaron ar sambë hehtainë nation,***  (820: Ein Kehrichtfaß und eine Rumpelkammer)
 > ***ar rië tyalië aranion***  (821: Und höchstens eine Haupt- und Staatsaktion)
-> ***ó mairë ar yuhtimë quennar,***  (822: Mit trefflichen pragmatischen Maximen,)
-> ***ve camir mi náva tolio!***  (823: Wie sie den Puppen wohl im Munde ziemen!)
+> ***ó mairë yuhtaimë quennar,***  (822: Mit trefflichen pragmatischen Maximen,)
+> ***ve camir mi náva tolion!***  (823: Wie sie den Puppen wohl im Munde ziemen!)
 
-Обратный перевод: «Ведро отбросов и комната брошенных вещей, / и разве что игра королей / с превосходными и полезными изречениями, / как они подходят во рту куклы!»
+Обратный перевод: «Ведро отбросов и комната брошенных вещей, / и разве что игра королей / с превосходными полезными изречениями, / как они подходят во рту кукол!»
 
 Немецкий сверен (`grep -n`, строки 820–823). Фауст продолжает о «духе времён» учёных (815–819).
 
 - ***Calpa auhantaron*** — «Kehrichtfaß»: ᴹQ ***kalpa*** «water-vessel, bucket» (Ety/KALPA) — то же слово, что *calpar* «die goldnen Eimer» в 634: у Гёте небесные силы передают друг другу золотые вёдра, а здесь у учёных — ведро сора; перекличку я держу нарочно (у Гёте слова разные, «Eimer» и «Faß»). нкв. ***auhanta*** «refuse, trash, (lit.) thing thrown away» (Fauskanger, NQNT), род. п. мн. ч.
 - ***sambë hehtainë nation*** — «Rumpelkammer»: ᴹQ ***sambe*** «room, chamber» (Ety/STAB); Q ***hehta-*** «to put aside, leave out, abandon, forsake» (WJ/365), страдательное причастие мн. ч. *hehtainë* перед существительным; *nation* — род. п. мн. ч. *nat*. «Комната брошенных вещей».
-- ***ar rië tyalië aranion*** — «Und höchstens eine Haupt- und Staatsaktion»: «höchstens» у Толкина нет (`eldamo_gloss.py 'at most|at best|utmost|\bat least'`), *rië* «только» — сдвиг к «разве что»; *tyalië* «игра, пьеса», как «Trauerspiel» в 743 (*tyalië nairëo*); Q *aran* «king», род. п. мн. ч. ***aranion*** (засвидетельствовано: *asëa aranion*, LotR). «Haupt- und Staatsaktion» — жанр барочной пьесы о государях — стала «игрой королей».
-- ***ó mairë ar yuhtimë quennar*** — «Mit trefflichen pragmatischen Maximen»: Q *ó* «with» (PE22/162), как в «Трактате» 2.17; Q ***maira*** «admirable, excellent, splendid» (PE17/163), мн. ч.; *yuhtimë* — мн. ч. от *\*yuhtima* «пригодный к употреблению», образовано мной по правилу (*-ima*, как *quétima*) от нкв. *yuhta-* «to use» (у автора *ú yuhtaina*, «Трактат» 3.328): «pragmatisch» как «полезный»; Q ***quenna*** «saying, proverb» (PE19/86). **Не *eques***: у Толкина *eques* тоже «saying, dictum», но у автора это «Satz» «Трактата», и «прагматические максимы» стали бы «предложениями» Витгенштейна (`notes/zanyatoe-slovo.md`).
-- ***ve camir mi náva tolio*** — «Wie sie den Puppen wohl im Munde ziemen»: нкв. ***cam-*** «to fit, suit, be agreeable» (Luinyelle, 2024, √KAM), аорист мн. ч.; Q ***náva²*** «\\*mouth (including tongue, lips and teeth), speech apparatus» — рот как орган речи, а не *anto* «рот для еды»: куклы говорят; нкв. ***toli*** «doll, puppet», род. п. ед. ч. (мн. ч. в Eldamo нет): «кукол» стало «куклы». «wohl» потеряно.
+- ***ar rië tyalië aranion*** — «Und höchstens eine Haupt- und Staatsaktion»: «höchstens» у Толкина нет (`eldamo_gloss.py 'at most|at best|utmost|\bat least'`), *rië* «только» — сдвиг к «разве что»; *tyalië* — в Eldamo «mirth, [ᴹQ.] play, game, sport», «пьеса» не засвидетельствована (та же оговорка, что в 743, *tyalië nairëo*); Q *aran* «king», род. п. мн. ч. ***aranion*** (засвидетельствовано: *asëa aranion*, LotR). «Haupt- und Staatsaktion» — жанр барочной пьесы о государях — стала «игрой королей».
+- ***ó mairë yuhtaimë quennar*** — «Mit trefflichen pragmatischen Maximen»: Q *ó* «[together] with» (PE22/162), как в «Трактате» 2.17; Eldamo оговаривает, что *ó* — именно «вместе с», а «Mit … Maximen» — «снабжённая максимами»: сдвиг; Q ***maira*** «admirable, excellent, splendid» (PE17/163), мн. ч.; *yuhtaimë* — мн. ч. от нкв. *yuhtaima* «useful» (так в Eldamo, статья *yuhtaimalë*), от нкв. *yuhta-* «to use» — слабый глагол, поэтому *-ima* прямо к основе, как *tulta- → tultaima* (`kvenya-formy.md`) [сначала было *yuhtimë* по образцу *quétima*, но то от первичного *quet-*; поправка по проверке]; у автора *ú yuhtaina* (`inbox/Suite_.txt`, 3.328); «pragmatisch» у Гёте, вероятно, «политико-назидательный», а не «полезный» (по памяти проверяющего); союза *ar* между прилагательными у Гёте нет — убран; Q ***quenna*** «saying, proverb» (PE19/86). **Не *eques***: у Толкина *eques* тоже «saying, dictum», но у автора это «Satz» «Трактата», и «прагматические максимы» стали бы «предложениями» Витгенштейна (`notes/zanyatoe-slovo.md`).
+- ***ve camir mi náva tolion*** — «Wie sie den Puppen wohl im Munde ziemen»: нкв. ***cam-*** «to fit, suit, be agreeable» (Luinyelle, 2024, √KAM), аорист мн. ч. (омоним Q *cam-* «to receive», устаревший → *cav-*: *camir* можно прочесть «получают»); *ve* + придаточное с глаголом — по образцу автора (*ve tehta same teale*, 3.328), в курсе только *ve* + имя; Q ***náva²*** «\*mouth (including tongue, lips and teeth), speech apparatus» — рот как орган речи, а не *anto* «рот для еды»: куклы говорят; нкв. ***toli*** «doll, puppet» (из ᴱQ *toli*, QL/94), род. п. мн. ч. *tolion* по правилу [сначала *tolio*, ед. ч., «потому что мн. ч. в Eldamo нет» — но правило мн. ч. для слова на *-i* есть, отсутствие в словаре не довод]. «wohl» потеряно.
 
-**Что потеряно.** Рифмы (*Jammer / Rumpelkammer*, *Staatsaktion / davon*, *Maximen / ziemen*), жанровое название «Haupt- und Staatsaktion», «höchstens». Много неологизмов: *auhanta*, *yuhta-*, *cam-*, *toli*.
+**Что потеряно.** Рифмы (*Jammer / Rumpelkammer*, *Staatsaktion / davon*, *Maximen / ziemen*), жанровое название «Haupt- und Staatsaktion», «höchstens»; «Faß» (бочка) стало ведром ради переклички с 634. Много неологизмов: *auhanta*, *yuhta-*, *cam-*, *toli*.
+
+Проверено субагентом 28.11; поправки (*yuhtaimë*, *tolion*) сверены мной по курсу и Eldamo.
