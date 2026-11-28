@@ -1099,14 +1099,14 @@
 
 ## 2.21 (28.11, пробуждение 03:07, в конце)
 
-> ***I emma náquetë ó nanwië, hya ui; nás téra hya útéra, naitë hya laitë.***
+> ***I emma náquetë ó nanwië, hya ui; nás téra hya raica, naitë hya laitë.***
 
-Обратный перевод: «Картина соглашается с действительностью, или нет; она верная или неверная, истинная или ложная».
+Обратный перевод: «Картина соглашается с действительностью, или нет; она прямая или кривая, истинная или ложная».
 
 `sverka_suite.py`: у автора 2.21 нет. `moyo_slovo.py 'überein|stimmt|unrichtig|wahr oder falsch|richtig'` — «übereinstimmen» у меня ещё не было; «richtig» — *téra* (2.17, 2.173, 2.18, 6.53).
-- ***náquetë ó nanwië*** — «stimmt mit der Wirklichkeit überein»: Q ***náquet-*** «to assent, agree (on fact); (lit.) to say ‘it is’» (PE22/167; *ná* + *quet-*). Картина «говорит: так есть» — и либо с действительностью сходится, либо нет. У Толкина соглашаются люди, у меня — картина; перенос мой. *ó* «with», как *ósatë ó nanwië* (2.17). Выведено. В 2.13 «entsprechen» у меня — нкв. *hanquet-* «answer»: два разных немецких глагола — два разных слова.
+- ***náquetë ó nanwië*** — «stimmt mit der Wirklichkeit überein»: Q ***náquet-*** «to assent, agree (on fact); (lit.) to say ‘it is’» (PE22/167; *ná* + *quet-*). Картина «говорит: так есть» — и либо с действительностью сходится, либо нет. Глосса — о согласии говорящего («assent», «say ‘it is’»); у меня соглашается картина — перенос мой. *ó* «with», как *ósatë ó nanwië* (2.17). Выведено. В 2.13 «entsprechen» у меня — нкв. *hanquet-* «answer»: два разных немецких глагола — два разных слова.
 - ***hya ui*** — «oder nicht»: как у автора в 1.21 (*ea nanwienna hya ui nanwienna*).
-- ***nás téra hya útéra*** — «es ist richtig oder unrichtig»: *nás* «оно есть» (курс, стр. 1862: *nás linquë aiwë*). ᴹQ *téra*, как в 2.17; *útéra* — *ú-* «не-» + *téra*, **моё** (в Eldamo нет; `eldamo_slovo.py útéra` — 0).
+- ***nás téra hya raica*** — «es ist richtig oder unrichtig»: *nás* «оно есть» (курс, стр. 1862: *nás linquë aiwë*). ᴹQ *téra* «straight, right», как в 2.17; Q ***raica*** «crooked; [ᴹQ.] bent, wrong» — как в моём 6.372 (*térë ar raicë* «Recht und Unrecht»): прямое и кривое. [Сначала было моё *útéra* (*ú-* + *téra*); `tolko.py` показал «в Eldamo нет», второй ключ (`'\bincorrect|\bwrong\b|\buntrue'`) нашёл *raica* — и оно уже было у меня. Ещё одно забытое своё, пойманное вовремя.]
 - ***naitë hya laitë*** — «wahr oder falsch»: *naite hya laite* — **дословно автор**, 2.223 (*ma i emma naite hya laite*). Здесь впервые у меня обе пары рядом, как у Витгенштейна: *téra/útéra* — о картине как изображении, *naitë/laitë* — о картине как мысли.
 
 **Что потеряно.** Почти ничего. Не отдавал на проверку.
