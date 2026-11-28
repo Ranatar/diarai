@@ -1,0 +1,102 @@
+test_corpus_browser (tests.test_browser.Browser.test_corpus_browser) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_corpus_follows_the_atlas (tests.test_browser.Browser.test_corpus_follows_the_atlas) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_early_conception (tests.test_browser.Browser.test_early_conception) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_english_interface (tests.test_browser.Browser.test_english_interface) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_era_switch_updates_reference (tests.test_browser.Browser.test_era_switch_updates_reference) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_formed_word_keeps_etymology (tests.test_browser.Browser.test_formed_word_keeps_etymology) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_graph_page (tests.test_browser.Browser.test_graph_page) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_intro_search_and_word (tests.test_browser.Browser.test_intro_search_and_word) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_language_switch (tests.test_browser.Browser.test_language_switch) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_language_switch_in_place (tests.test_browser.Browser.test_language_switch_in_place) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_malformed_hash_and_cluster_in_hash (tests.test_browser.Browser.test_malformed_hash_and_cluster_in_hash) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_narrow_screen (tests.test_browser.Browser.test_narrow_screen) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_neologism_as_element (tests.test_browser.Browser.test_neologism_as_element) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_neologisms_by_switch (tests.test_browser.Browser.test_neologisms_by_switch) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_old_addresses_and_back (tests.test_browser.Browser.test_old_addresses_and_back) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_one_primitive_for_both_branches (tests.test_browser.Browser.test_one_primitive_for_both_branches) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_open_word_from_derivation (tests.test_browser.Browser.test_open_word_from_derivation) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_origin_tree (tests.test_browser.Browser.test_origin_tree) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_panorama_cell_and_rule_in_reference (tests.test_browser.Browser.test_panorama_cell_and_rule_in_reference) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_reconstruction_form_finds_the_word (tests.test_browser.Browser.test_reconstruction_form_finds_the_word) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_reconstruction_panel (tests.test_browser.Browser.test_reconstruction_panel) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_reference_sections (tests.test_browser.Browser.test_reference_sections) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_root_card_and_index (tests.test_browser.Browser.test_root_card_and_index) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_root_instead_in_other_era (tests.test_browser.Browser.test_root_instead_in_other_era) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_roots_of_other_conceptions_part_by_part (tests.test_browser.Browser.test_roots_of_other_conceptions_part_by_part) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_shortcut_and_alt_lang (tests.test_browser.Browser.test_shortcut_and_alt_lang) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_three_elements (tests.test_browser.Browser.test_three_elements) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_unruled_step_in_card (tests.test_browser.Browser.test_unruled_step_in_card) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_word_is_first_element (tests.test_browser.Browser.test_word_is_first_element) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_wordform_engine_matches_python (tests.test_browser.Browser.test_wordform_engine_matches_python) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_wordform_panel (tests.test_browser.Browser.test_wordform_panel) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_wordform_suffix (tests.test_browser.Browser.test_wordform_suffix) ... skipped 'ELDAMO_SKIP_BROWSER=1'
+test_affix_as_argument (tests.test_cli.CommandLine.test_affix_as_argument) ... ok
+test_bad_period (tests.test_cli.CommandLine.test_bad_period) ... ok
+test_reconstruct (tests.test_cli.CommandLine.test_reconstruct) ... ok
+test_word (tests.test_cli.CommandLine.test_word) ... ok
+test_chain_ids_unique (tests.test_graph.Graph.test_chain_ids_unique) ... ok
+test_chains_follow_chronology (tests.test_graph.Graph.test_chains_follow_chronology) ... ok
+test_conditions_are_kept (tests.test_graph.Graph.test_conditions_are_kept) ... ok
+test_edges_come_from_literal_pairs (tests.test_graph.Graph.test_edges_come_from_literal_pairs) ... ok
+test_every_literal_pair_is_an_edge (tests.test_graph.Graph.test_every_literal_pair_is_an_edge) ... ok
+test_failed_steps_are_not_witnesses (tests.test_graph.Graph.test_failed_steps_are_not_witnesses) ... ok
+test_grades (tests.test_graph.Graph.test_grades) ... ok
+test_graph_nodes_have_no_stress_or_breve (tests.test_graph.Graph.test_graph_nodes_have_no_stress_or_breve) ... ok
+test_pairs_carry_their_own_language (tests.test_graph.Graph.test_pairs_carry_their_own_language) ... ok
+test_stress_rule_joins_the_graph (tests.test_graph.Graph.test_stress_rule_joins_the_graph) ... ok
+test_boundary_patterns_need_marked_boundaries (tests.test_interpreter.Interpreter.test_boundary_patterns_need_marked_boundaries) ... ok
+test_breve_requires_short_vowel (tests.test_interpreter.Interpreter.test_breve_requires_short_vowel) ... ok
+test_comparison_form (tests.test_interpreter.Interpreter.test_comparison_form) ... ok
+test_documented_notation (tests.test_interpreter.Interpreter.test_documented_notation) ... ok
+test_dropped_member_is_determined (tests.test_interpreter.Interpreter.test_dropped_member_is_determined) ... ok
+test_no_match_and_mismatch_are_distinct (tests.test_interpreter.Interpreter.test_no_match_and_mismatch_are_distinct) ... ok
+test_no_silent_failure_on_unknown_notation (tests.test_interpreter.Interpreter.test_no_silent_failure_on_unknown_notation) ... ok
+test_partial_application_is_reported_separately (tests.test_interpreter.Interpreter.test_partial_application_is_reported_separately) ... ok
+test_positions (tests.test_interpreter.Interpreter.test_positions) ... ok
+test_sound_law_keeps_shared_context (tests.test_interpreter.Interpreter.test_sound_law_keeps_shared_context) ... ok
+test_stem_with_trailing_hyphen_ends_the_word (tests.test_interpreter.Interpreter.test_stem_with_trailing_hyphen_ends_the_word) ... ok
+test_benchmark_floor (tests.test_lexicon.Compounds.test_benchmark_floor) ... ok
+test_latest_stage_uses_stem_of_first_element (tests.test_lexicon.Compounds.test_latest_stage_uses_stem_of_first_element) ... ok
+test_primitive_compound (tests.test_lexicon.Compounds.test_primitive_compound) ... ok
+test_elements_resolved (tests.test_lexicon.Lexicon.test_elements_resolved) ... ok
+test_homonyms_are_separate_pages (tests.test_lexicon.Lexicon.test_homonyms_are_separate_pages) ... ok
+test_no_deleted_words (tests.test_lexicon.Lexicon.test_no_deleted_words) ... ok
+test_roots_as_eldamo_derivations_find_them (tests.test_lexicon.Lexicon.test_roots_as_eldamo_derivations_find_them) ... ok
+test_stage_forms_from_derivations (tests.test_lexicon.Lexicon.test_stage_forms_from_derivations) ... ok
+test_stems_and_roots (tests.test_lexicon.Lexicon.test_stems_and_roots) ... ok
+test_agrees_with_attested_final_forms (tests.test_lexicon.Orthography.test_agrees_with_attested_final_forms) ... ok
+test_examples (tests.test_lexicon.Orthography.test_examples) ... ok
+test_deleted_rules_are_excluded (tests.test_model.Model.test_deleted_rules_are_excluded) ... ok
+test_derivation_steps_reference_real_pairs (tests.test_model.Model.test_derivation_steps_reference_real_pairs) ... ok
+test_each_xml_pair_appears_exactly_once (tests.test_model.Model.test_each_xml_pair_appears_exactly_once) ... ok
+test_every_rule_page_of_branch_languages_is_used_or_excluded (tests.test_model.Model.test_every_rule_page_of_branch_languages_is_used_or_excluded) ... ok
+test_example_counts_match_derivations (tests.test_model.Model.test_example_counts_match_derivations) ... ok
+test_formulas_replay_attested_steps (tests.test_model.Model.test_formulas_replay_attested_steps) ... ok
+test_lower_order_means_earlier (tests.test_model.Model.test_lower_order_means_earlier) ... ok
+test_order_and_before_come_from_xml (tests.test_model.Model.test_order_and_before_come_from_xml) ... ok
+test_rule_language_matches_branch_and_marker (tests.test_model.Model.test_rule_language_matches_branch_and_marker) ... ok
+test_source_checksum_and_version (tests.test_model.Model.test_source_checksum_and_version) ... ok
+test_elements_beside_derivation (tests.test_outputs.GraphPage.test_elements_beside_derivation) ... ok
+test_paths_of_another_shape_and_struck_beside (tests.test_outputs.GraphPage.test_paths_of_another_shape_and_struck_beside) ... ok
+test_ref_analysing_another_form (tests.test_outputs.GraphPage.test_ref_analysing_another_form) ... ok
+test_struck_references (tests.test_outputs.GraphPage.test_struck_references) ... ok
+test_keys (tests.test_outputs.InterfaceCatalog.test_keys) ... ok
+test_languages_and_placeholders (tests.test_outputs.InterfaceCatalog.test_languages_and_placeholders) ... ok
+test_no_untranslated_text_in_sources (tests.test_outputs.InterfaceCatalog.test_no_untranslated_text_in_sources)
+Russian interface text lives only in the catalog: none in the code outside comments, ... ok
+test_atlas_embeds_current_payload (tests.test_outputs.Outputs.test_atlas_embeds_current_payload) ... ok
+test_branch_files_are_current (tests.test_outputs.Outputs.test_branch_files_are_current) ... 
+  test_branch_files_are_current (tests.test_outputs.Outputs.test_branch_files_are_current) (file='branches/quenya/data/lexicon.json') ... FAIL
+
+======================================================================
+FAIL: test_branch_files_are_current (tests.test_outputs.Outputs.test_branch_files_are_current) (file='branches/quenya/data/lexicon.json')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/diarai/diarai/ext/qm324-patch4/tests/test_outputs.py", line 24, in test_branch_files_are_current
+    self.assertEqual(path.read_text(encoding='utf-8'), dumps(d[name]),
+AssertionError: '[\n [2177341 chars]\n  "elements": [\n   {\n    "lang": "eq",\n  [10571715 chars]n]\n' != '[\n [2177341 chars]\n  "links": {\n   "combine": [\n    {\n     "[10570807 chars]n]\n' : stale: run python scripts/build.py
+
+----------------------------------------------------------------------
+Ran 87 tests in 346.375s
+
+FAILED (failures=1, skipped=32)
