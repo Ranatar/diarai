@@ -71,7 +71,7 @@
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
 - Чтение для себя — закладки в `status.tsv`. **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
-- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» до 781).
+- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» до 783).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
 - Quettamin автора — `proekty/stranicy-avtora/quettamin.md`; Quettali (`inbox/quettali.pdf`) — свои строки через `qt_razbor.py` .
 - **Новое в inbox — сперва по карте** (`find inbox -newermt` против `upominaniya.tsv`). Издание для `tlpt` — `proekty/tlpt-qu/`.
