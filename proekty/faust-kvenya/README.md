@@ -1229,3 +1229,22 @@
 - ***an sinar ta carë mai*** — «Denn heutzutage wirkt das viel»: *an* «ибо», Q ***sinar*** «today» (в ᴹQ и «nowadays»), *car-* «do» — «wirkt», как в 716, 1646. Q *mai* «well»: позднего «много» (наречия) я не нашёл (`eldamo_gloss.py '^much\b|\bmuch\b|\bmany\b' q`), поэтому «viel» стало «хорошо». Сдвиг.
 
 **Что потеряно.** Рифмы (*deklamieren / profitieren*, *Trauerspiel / viel*), «Nachtmütze», «viel». Не отдавал на проверку.
+
+# «Ночь», строки 746–751 (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> WAGNER. ***Linan ahlárien sa laitaina:***  (746: Ich hab es öfters rühmen hören,)
+> ***ecë tyalindon nolya airimo.***  (747: Ein Komödiant könnt einen Pfarrer lehren.)
+>
+> FAUST. ***Ná, qui i airimo ná tyalindo;***  (750: Ja, wenn der Pfarrer ein Komödiant ist;)
+> ***ve ta lúmelissen tulë.***  (751: Wie das denn wohl zuzeiten kommen mag.)
+
+Обратный перевод: «ВАГНЕР. Не раз я слышал это хвалимым: / актёру возможно учить пастора. — ФАУСТ. Да, если пастор — актёр; / как это порой и бывает».
+
+Немецкий сверен (`faust_nomera.py`).
+
+- ***Linan*** — «öfters»: ᴹQ *li(n)an* «many a time, not seldom, several times, often, sometimes» (позднего Q-наречия нет; нкв. *rillumë* «frequently»). ***ahlárien*** — перфект Q *hlar-* «hear» по курсу (стр. 8525–8535: приращение = опорный гласный, удлинение, *-ië*; *mat- → amátië*) + *-n*. Выведено. ***sa laitaina*** — «es rühmen»: Q *laita-* «to praise, bless» (*laituvalmet*, Let/448 — та же хвала на Кормаллене, что *andavë* в 682), страдательное причастие *laitaina* (слабый глагол, *-ina* прибавляется, курс, стр. 13644). «hören + инфинитив» стало «слышать хвалимым» — сдвиг.
+- ***ecë tyalindon nolya airimo*** — «könnt … lehren»: *ecë* + дательный + инфинитив — «возможно кому-то», как в 540 (*lá ecë ven ista*). Q *pol-* не взял: у Толкина это «physical power and ability» (VT41/6; по проверке разделов 530–557 в этот же час). нкв. ***tyalindo*** «player» — от *tyal-* «play», того же корня, что *tyalië* «Trauerspiel» в 743: у Гёте «Komödiant» и «Trauerspiel» связаны театром, у меня — корнем. ᴹQ ***nolya-*** «to teach». нкв. ***airimo*** «priest» (от Q *aira* «holy»).
+- ***Ná*** — «Ja»: Q *ná* «yes, it is so, it is a fact». Потом то же *ná* — «есть»: *qui i airimo ná tyalindo*. Двойное *ná* в одной строке — у Гёте этого нет, но у Толкина «да» и «есть» — одно слово.
+- ***ve ta lúmelissen tulë*** — «Wie das denn wohl zuzeiten kommen mag»: *ve* «как», *ta* «это», нкв. *lúmelissen* «sometimes, at times» (мн. частичный местный от *lúmë*), Q *tul-* «come», аорист *tulë*. «denn wohl … mag» (ирония «пожалуй, может») потеряно.
+
+**Что потеряно.** Рифмы (*hören / lehren*; *ist* — с 751 нет), «mag», «wohl». Не отдавал на проверку.
