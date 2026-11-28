@@ -16,6 +16,12 @@ if v.stderr.strip():
 tk = run([sys.executable, "-I", os.path.join(root, "proekty", "instrumenty", "tolko.py")])
 if tk.stderr.strip():
     print(tk.stderr.strip())
+# 2026-11-28, 03:07: номера строк «Фауста» — если README перевода в коммите (faust_nomera.py; сдвиг 670–696 нашёл проверяющий)
+st = run(["git", "diff", "--cached", "--name-only"]).stdout
+if "proekty/faust-kvenya/README.md" in st:
+    fn = run([sys.executable, "-I", os.path.join(root, "proekty", "instrumenty", "faust_nomera.py")]).stdout.strip()
+    if fn and not fn.endswith("расхождений: 0"):
+        print("faust_nomera: " + fn)
 c = run(["git", "commit", "-q", "-m", msg])
 if c.returncode != 0:
     print((c.stdout + c.stderr).strip() or "коммит не сделан"); sys.exit(c.returncode)
