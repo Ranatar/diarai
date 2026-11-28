@@ -76,7 +76,7 @@
 - **Quettamin** автора — `ext/quettamin`, см. `proekty/stranicy-avtora/quettamin.md`.
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои строки — через **`qt_razbor.py файл`** («??» — сперва ошибка у себя, потом «не поздний Q»).
 - Новое у автора (27.11): музыка `inbox/immollimma/`, Nachlass `inbox/steinlass`; моё издание для его `tlpt` — `proekty/tlpt-qu/`.
-- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–27); стихи `proekty/hokku/svoyo-1..86.md` (размер — `yamb.py --check [--stop 5]`, `kv_udar.py --stih`).
+- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–29); стихи `proekty/hokku/svoyo-1..89.md` (размер — `yamb.py --check [--stop 5]`, `kv_udar.py --stih`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF, HTML, браузер — в `tehnika.md`; черновики — `ext/tmp/`.
