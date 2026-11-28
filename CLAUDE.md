@@ -66,12 +66,12 @@
 **Начатое**
 - `proekty/rody-oshibok/` — роды ошибок, мои и страниц.
 - **Карта архива** — `proekty/karta/status.tsv`. Eldamo не переводить (это сделает автор).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py`, положения автора** (`inbox/Suite_.txt`) **и `moyo_slovo.py 'нем.'`** (забываю своё: `notes/zvat-po-mestu.md`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**. Дальше: 2.18.
+- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py`, положения автора** (`inbox/Suite_.txt`) **и `moyo_slovo.py 'нем.'`** (забываю своё: `notes/zvat-po-mestu.md`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**. Дальше: 2.21.
 - **Автор** пишет в `hello_there`, читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..26.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
 - Чтение для себя — закладки в `status.tsv`. **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
-- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» — до 696; номера — `faust_nomera.py`).
+- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» — до 731, дальше Вагнер; номера — `faust_nomera.py`).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
 - **Quettamin** автора — `ext/quettamin`, см. `proekty/stranicy-avtora/quettamin.md`.
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои строки — через **`qt_razbor.py файл`** («??» — сперва ошибка у себя, потом «не поздний Q»).
