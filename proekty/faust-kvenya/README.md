@@ -1420,3 +1420,24 @@
 - ***mauya penya quenen firë*** — *mauya* + дательный + инфинитив, как в 704 и 737; Q ***penya*** «lacking, inadequate» (нкв. «poor»); Q ***quén*** «person», дательный *quenen*; Q *fir-* «to die», инфинитив. «Ein armer Teufel» — разговорное «бедняга», а не демон: Q *rauco* сюда не годится, поэтому «бедный человек». «wohl» потеряно.
 
 **Что потеряно.** Рифмы (*Leben / Bestreben*, *bang / lang*, *erwerben / sterben*, *steigt / erreicht*), идиома «armer Teufel», частицы «doch», «nur», «wohl».
+
+# «Ночь», строки 799–802: «Das Pergament, ist das der heil’ge Bronnen» (пробуждение 2026-11-28, 09:08; черновик 1)
+
+> FAUST. ***I parma, ma sa ná i aira ehtelë,***  (799: Das Pergament, ist das der heil’ge Bronnen,)
+> ***yallo mo sucë yulda, ar ui soica tennoio?***  (800: Woraus ein Trunk den Durst auf ewig stillt?)
+> ***Lá cavityë ceutië,***  (801: Erquickung hast du nicht gewonnen,)
+> ***qui sa ui ehtelu tyen et véra fëatyallo.***  (802: Wenn sie dir nicht aus eigner Seele quillt.)
+
+Обратный перевод: «Книга — разве она святой источник, / из которого пьют глоток и не жаждут вовек? / Ты не получаешь освежения, / если оно не бьёт ключом тебе из твоей собственной души».
+
+Немецкий сверен (`ext/faust/faust.txt`, строки 798–802). Фауст теперь говорит Вагнеру «du» (обобщённое), а не «Er», как в 778.
+
+- ***I parma, ma sa ná*** — Q ***parma*** «book, writing, written document» (LotR, PE17) за «Pergament», как *parmar* в 566, 567, 580, 599: материал (кожа) потерян, нкв. *teccelma* «writing-skin» есть, но беру толкиновское слово. Вынесенное вперёд подлежащее и *sa* — как у Гёте «Das Pergament, ist das…».
+- ***i aira ehtelë*** — Q *aira* «holy, sanctified», как «heil'ges» в 614; Q *ehtelë* «spring, issue of water», то же слово, что в 641 (Фауст) и 795 (Вагнер). У Гёте здесь другое слово, «Bronnen», и это сглажено.
+- ***yallo mo sucë yulda, ar ui soica tennoio*** — «Woraus ein Trunk den Durst auf ewig stillt»: *yallo* — склоняемое *ya*, отделительный падеж (курс: *ye-llo*, 2186); Q *mo* «one»; ᴹQ ***suk-*** «to drink» (Ety/SUK), аорист *sucë*; Q ***yulda¹*** «drink, draught» (*yuldar* в «Намариэ»); *ui* — отрицательная связка, как в 761; Q *soica* «thirsty», как в 644 (*soica nanyë*); Q ***tennoio*** «forever» (UT/305, 317). «Глоток утоляет жажду» стало «пьют и не жаждут»: глагола «утолять» у Толкина нет (нкв. *luhtya-* «quench» — о пламени, *farta-* «sate» — неологизм).
+- ***Lá cavityë ceutië*** — «Erquickung hast du nicht gewonnen»: Q *cav-* «to receive», глагол Вагнера из 744 и 794, аорист + *-tyë*; герундий ***ceutië*** от Q *ceuta-* «to refresh» — Гёте повторяет «erquick-» из 786 («unerquicklich»), у меня тоже повтор (786 *lá ceutar*). Перфект «hast gewonnen» стал аористом общего правила (курс: общее условие — аорист).
+- ***qui sa ui ehtelu tyen et véra fëatyallo*** — «Wenn sie dir nicht aus eigner Seele quillt»: построено как 761 *qui sa ui nirë et fëallo* («Wenn es nicht aus der Seele dringt»), потому что у Гёте эти строки перекликаются. ᴹQ ***ehtelu-*** «to well, bubble up» (PE22/103), как *ehteluldë* в 644; аорист *u*-глагола без окончания; *tyen* «тебе», как в 668; Q *véra* «own», как в 600; *fëatyallo* — *fëa* + *-tya* + отделительный.
+
+*ui* перед глаголом (802, как в 761) — по курсу допустимо: *i atan ui cambë macil* (§5.5.1.2, `qfull.txt` 8722; PE17/143–144, система 1959 года); *lá* (801 и обычно в «Фаусте») — система 1969 года (PE22/153). Обе системы у меня смешаны и в одной строфе. Оставляю это ради параллели 761/802.
+
+**Что потеряно.** Рифмы (*Bronnen / gewonnen*, *stillt / quillt*), «Pergament» как материал, перфект «gewonnen».
