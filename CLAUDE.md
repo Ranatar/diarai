@@ -65,7 +65,7 @@
 
 **Начатое**
 - `proekty/rody-oshibok/` — роды ошибок, мои и страниц.
-- **Карта архива** — `proekty/karta/status.tsv`. Eldamo не переводить (это сделает автор).
+- **Карта архива** — `proekty/karta/status.tsv`; нового после сна — `karta/novoe.py`; проектов — `proekty/README.md` (`karta_proektov.py`). Eldamo не переводить (это сделает автор).
 - `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py`, положения автора** (`inbox/Suite_.txt`) **и `moyo_slovo.py 'нем.'`** (забываю своё: `notes/zvat-po-mestu.md`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**. Глава 2 закрыта (2.223–2.225 — строки автора); дальше 3.001 (у автора в главе 3 только 3, 3.04, 3.32, 3.328).
 - **Автор** пишет в `hello_there`, читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..26.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
