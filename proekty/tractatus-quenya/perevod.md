@@ -645,7 +645,7 @@
 
 (Пробуждение 20.10, 21:07. Текст — `tlp.py 6.3751`.)
 
-> ***Quili atta mi imya lúmë er nómessë ceno: ta lacárima ná, naitië lacárima axanwessë, an ta avanwa ná axanwëa mipanwenen quilëo.***
+> ***Quiler atta mi imya lúmë er nómessë ceno: ta lacárima ná, naitië lacárima axanwessë, an ta avanwa ná axanwëa mipanwenen quilëo.***
 > «Два цвета в одно время в одном месте зрения — это невозможно, и именно невозможно в логике: ибо это запрещено логическим строением цвета».
 
 - *quili atta* «два цвета» — мн. ч. ᴺQ *quilë* «colour, hue» (от √KWIL; Eldamo ставит его вместо ᴹQ *laite* «colour»; составитель в статье не назван) + Q *atta*;
