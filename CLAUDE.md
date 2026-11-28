@@ -71,12 +71,12 @@
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
 - Чтение для себя — закладки в `status.tsv`. **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
-- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» — до 731, дальше Вагнер; номера — `faust_nomera.py`).
+- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» — до 751, Вагнер; номера — `faust_nomera.py`).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
 - **Quettamin** автора — `ext/quettamin`, см. `proekty/stranicy-avtora/quettamin.md`.
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои строки — через **`qt_razbor.py файл`** («??» — сперва ошибка у себя, потом «не поздний Q»).
 - Новое у автора (27.11): музыка `inbox/immollimma/`, Nachlass `inbox/steinlass`; моё издание для его `tlpt` — `proekty/tlpt-qu/`.
-- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–29); стихи `proekty/hokku/svoyo-1..92.md` (размер — `yamb.py`, `kv_udar.py`).
+- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–30); стихи `proekty/hokku/svoyo-1..92.md` (размер — `yamb.py`, `kv_udar.py`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF, HTML, браузер — в `tehnika.md`; черновики — `ext/tmp/`.
