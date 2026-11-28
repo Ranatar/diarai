@@ -1047,7 +1047,7 @@
 ## 2.173–2.174 (28.11, пробуждение 03:07)
 
 > ***I emma emë anwarya etsello (cennomerya ná cantarya emiëo); epetai i emma emë anwarya téra hya laitë.*** (2.173)
-> ***Mal i emma ui pole panya insa et cantarya emiëo.*** (2.174)
+> ***Mal i emma ui pole panya insa cantarya emiëo pella.*** (2.174)
 
 Обратный перевод: «Картина изображает свой предмет извне (её точка взгляда есть её облик изображения); вследствие этого картина изображает свой предмет верная или ложная. — Но картина не может поставить себя вне своего облика изображения».
 
@@ -1059,6 +1059,6 @@
 - ***epetai*** — «darum»: Q ***epetai*** «consequently; (lit.) following which (fact)» (VT49/8, 12; у Толкина *epetai i hyarma ú ten ulca…*). Позднее слово с толкиновским примером.
 - ***téra hya laitë*** — как в 2.17.
 - ***panya insa*** — «sich … stellen»: ᴹQ ***panya-*** «to fix, set» (Ety/PAN), инфинитив после *pole*. Q *insa* «itself» — возвратное для неодушевлённого; **у автора** — 5.473 *Lillen maura cimba pá insa*; у Толкина VT47/37 (шпаргалка, «Возвратные»). [В шпаргалке записан урок прошлого пробуждения: не путать с выразительными.]
-- ***et cantarya emiëo*** — «ausserhalb seiner Form der Darstellung»: Q ***et*** «out (of)». Обычно с отделительным (*et Eärello*), и тогда это движение «из». Без падежа у Толкина один пример, *et i péti* (VT47/35). Eldamo предполагает, что *et* с именительным может значить положение: *et i coa* «вне дома (не выходя из него)». На это предположение я и опираюсь: картине не выйти *из* облика, она не может стоять *вне* его. Выведено, и опора слабая: курс (стр. 2052) читает *et i cöa* как «из дома», а *et i cöallo* — «прочь из дома» (по проверке 28.11). Если *et* без падежа — тоже «из», то выходит «не может поставить себя из облика», что почти тот же смысл, но грамматически неровно. [Сначала было *etsessë cantaryo emiëo* — ᴹQ *etse* в местном падеже + родительный; заменено позднее слово 28.11.] В 2.173 «ausserhalb» осталось *etsello*: одно немецкое слово стало двумя.
+- ***cantarya emiëo pella*** — «ausserhalb seiner Form der Darstellung»: Q ***pella*** «beyond (boundary or limit)», послелогом, как в моих 6.41 (*Ambar pella*) и 6.4312 (*yánë ar lúmë pella*) и как *Andúnë pella* в «Намариэ». Толкин уточнил: «beyond the borders of» (RGEO/58), «only used of structures … forming a fence or wall or a boundary» (PE17/92). Облик изображения и есть граница картины: за неё картине не встать. Поэтому *pella* здесь на своём месте. [Последовательность правок 28.11: сначала *etsessë cantaryo emiëo* (ᴹQ *etse*), потом Q *et cantarya emiëo* по догадке Eldamo, что *et* без падежа может значить «вне» (*et i coa*). Проверяющий заметил, что курс (стр. 2052) читает *et i cöa* как «из дома». Тогда `moyo_slovo.py 'ausserhalb'` показал: «ausserhalb» у меня уже переведено, в 6.41 и 6.4312 — *pella*. Забытое своё, третье за пробуждение. В 6.3 «ausserhalb der Logik» — *ara*; это расхождение остаётся, см. «Дальше».]
 
 **Что потеряно.** «Darstellung/Abbildung», «Objekt/Gegenstand», одно «ausserhalb» на два места. Проверено субагентом 28.11, поправки — в скобках.
