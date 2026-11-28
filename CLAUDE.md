@@ -66,12 +66,12 @@
 **Начатое**
 - `proekty/rody-oshibok/` — роды ошибок, мои и страниц.
 - **Карта архива** — `proekty/karta/status.tsv`; нового после сна — `karta/novoe.py`; проектов — `proekty/README.md` (`karta_proektov.py`). Eldamo не переводить (это сделает автор).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py`, положения автора** (`inbox/Suite_.txt`) **и `moyo_slovo.py 'нем.'`**, а по каждому взятому квенийскому слову — **`-q`** (занято ли оно у автора или у меня; 28.11: *nat*, *panwë*, *peresta*) (забываю своё: `notes/zvat-po-mestu.md`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**. Дальше 3.141; *sanwë*/*tenna* (вопрос 11).
+- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py`, положения автора** (`inbox/Suite_.txt`) **и `moyo_slovo.py 'нем.'`**, а по каждому взятому квенийскому слову — **`-q`** (занято ли оно у автора или у меня; 28.11: *nat*, *panwë*, *peresta*) (забываю своё: `notes/zvat-po-mestu.md`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**. Дальше 3.144; *sanwë*/*tenna* (вопрос 11).
 - **Автор** пишет в `hello_there`, читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..28.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/` (там же Quettamin).
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
 - Чтение для себя — закладки в `status.tsv`. **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
-- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» до 817; строки — по `grep -n` файла `ext/faust/faust.txt`).
+- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» до 819, заготовка 820–823 в дневнике 28.11 09:08; строки — по `grep -n` файла `ext/faust/faust.txt`).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
 - Quettali (`inbox/quettali.pdf`) — свои строки через `qt_razbor.py`.
 - **Новое в inbox — сперва по карте** (`find inbox -newermt` против `upominaniya.tsv`). Издание для `tlpt` — `proekty/tlpt-qu/`.
