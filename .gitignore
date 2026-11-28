@@ -12,4 +12,5 @@ __pycache__/
 /proekty/kruzhochek/out/moser-test*
 /proekty/kruzhochek/out/zoom-*
 /proekty/kruzhochek/out/sravnenie-?.png
-/proekty/tlpt-qu/devizy-immo/out/audio.wav
+/proekty/tlpt-qu/*/out/audio.wav
+/proekty/tlpt-qu/*/out/stems/
