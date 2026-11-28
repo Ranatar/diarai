@@ -1151,3 +1151,35 @@
 - ***i coirëa fana valassëo*** — «der Gottheit lebendiges Kleid». Q ***fana*** «raiment, veil; (bright) shape or figure; **bodily form of an angelic spirit**» (PE17/26, 173). У Толкина *fana* — это облик, который Айнур надевают, как одежду, чтобы быть видимыми. Те же заметки дали *úfanwëa* в 664, где Фауст просил: «Enthülle dich!» Дух открылся и говорит, что ткёт одеяние божества. Получается, Фауст видит как раз такое одеяние. Q *coirëa* «living», как в 593. ᴹQ ***valassë*** «divinity» (Ety/BAL) — «Gottheit», не *Eru* (594, «Gott»): у Гёте здесь не Бог, а божественность. Q *Vairë* «Weaver, Ever-weaving» — валиэ, которая ткёт историю мира, — сюда просится, но у Гёте ткёт сам Дух, и я её не впускаю.
 
 **Что потеряно.** Рифмы (*Tatensturm* — с 701 *Wurm*; *ab / Grab*; *her / Meer*; *Wehen / Leben*; *Zeit / Kleid*), «laufend/sausend» как звук. Не отдавал на проверку.
+
+# «Ночь», строки 719–731: «Nicht mir!» (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> FAUST. ***Tyë, ye ranya os i palda Ambar,***  (719: Der du die weite Welt umschweifst,)
+> ***a caraitë Fairë, manen amna felin imni tyen!***  (720: Geschäftiger Geist, wie nah fühl ich mich dir!)
+>
+> FAIRË. ***Ovéa natyë ó i fairë ye hanyatyë,***  (723: Du gleichst dem Geist, den du begreifst,)
+> ***lá ó ni!***  (724: Nicht mir!)
+> *(Vanyas.)*  (725: (verschwindet))
+>
+> FAUST *(lantala)*. ***Lá ó tyë?***  (728: Nicht dir?)
+> ***Ó man tá?***  (729: Wem denn?)
+> ***Inyë, emma valassëo!***  (730: Ich Ebenbild der Gottheit!)
+> ***Ar lá ó tyë!***  (731: Und nicht einmal dir!)
+
+Обратный перевод: «ФАУСТ. Ты, кто бродит вокруг широкого Мира, / о деятельный Дух, как близко я чувствую себя к тебе! — ДУХ. Ты подобен духу, которого понимаешь, / не мне! (Исчезает.) — ФАУСТ (падая). Не тебе? / Кому же? / Я, образ божества! / И не тебе!»
+
+Немецкий сверен (`faust_nomera.py`).
+
+- ***ranya os i palda Ambar*** — ᴹQ *ranya-* «to stray, \*wander» (как *Atan ranya* в «Прологе», 466, где это было «Es irrt der Mensch»: у Гёте «irren» и «umschweifen» разные, у меня одно слово — потеря). нкв. *os* «around», как в 571, 660, 663. Q ***palda*** «wide, broad» (ᴹQ *palla* Eldamo помечает «УСТАРЕЛО → q palda»). *Ambar* — обитаемый Мир. *ye ranya* без личного окончания: относительное *ye* само подлежащее; согласование с «du» не передано — выведено.
+- ***a caraitë Fairë*** — Q ***caraitë*** «active, busy», как *i caraitë nassë* «die wirkende Natur» в 623. «Geschäftig» — тот, кто всё время действует, — Дух, который только что сказал «so schaff ich … und wirke» (715–716: *ontan*, *carin*). У *caraitë* корень тот же, что у *car-*.
+- ***manen amna felin imni tyen*** — *manen* в восклицании (как в 648, 665, 692). Q ***amna*** «nearer to», как в 649 (*amna natyë nin* «bist mir näher»): тогда Дух казался ближе, теперь Фауст сам чувствует себя ближе. *felin imni* — «чувствую себя», как *verya imni* в 652; *tyen* — дательный.
+- ***Ovéa natyë ó i fairë*** — «Du gleichst dem Geist»: Q ***ovéa*** «(con)similar, alike» (PE17/189; *o-* «together» + *vëa* «seeming»). У автора в «Трактате» 2.12 — *Emma na oveantaine nanwieo* «Das Bild ist ein Modell der Wirklichkeit» (Suite), слово, видимо, от той же основы. С каким падежом *ovéa* у Толкина, не сказано; я беру Q *ó* «[together] with» (PE22/162: *vá meninye ó le*), потому что в самом *ovéa* сидит *o-* «вместе». Выведено. Этим обойдён дательный: «Wem denn?» дательным было бы *mannen* или *manen*, а *manen* у меня — «как».
+- ***ye hanyatyë*** — «den du begreifst»: ᴹQ *hanya-* «to understand, know about» (Ety/KHAN), как в «Трактате» 6.54 (*aiquen hanya ni* «кто понимает меня»). *ye* — личное относительное, дух — лицо.
+- ***lá ó ni!*** — «Nicht mir!»: *lá* — как у автора в 1.1; *ó ni* — *ó* + самостоятельное местоимение, как *ó le* у Толкина.
+- ***(Vanyas.)*** — «(verschwindet)»: ᴹQ *vanya-* «to go, depart, disappear» (Ety/WAN), аорист + *-s*. Q *vanya-* (MS/01) — «to pass». Отсюда же *vanwa* «ушедший, утраченный».
+- ***(lantala)*** — «zusammenstürzend»: действительное причастие Q *lanta-* «to fall» (*lantar* в «Намариэ»; *lantalassë* в «Markirya»). «Рушащийся» стало «падающий».
+- ***Ó man tá?*** — «Wem denn?»: *man* «кто», Q *tá* «then» (как в «Трактате» 3.321). Вопрос строится на том же *ó*, что и ответ Духа.
+- ***Inyë, emma valassëo!*** — «Ich Ebenbild der Gottheit!»: *inyë* — как в 705. *emma* — «Bild» автора, то же слово, которым в «Трактате» переведена вся картинная теория (2.1–2.203). *valassë* — как в 716 (*i coirëa fana valassëo*). По 2.16–2.2 картина должна делить с изображённым форму, а Дух только что сказал Фаусту, что тот подобен не ему. «Eben-» («точное, равное») не передано.
+- ***Ar lá ó tyë!*** — «Und nicht einmal dir!»: «einmal» («даже») потеряно.
+
+**Что потеряно.** Рифмы (*umschweifst / begreifst*, *dir / mir*), «einmal», «Eben-», «irren / umschweifen». Не отдавал на проверку.
