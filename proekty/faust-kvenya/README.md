@@ -1356,3 +1356,17 @@
 - ***tanar intë pitya mairenen*** — «trägt … mit wenig Kunst sich selber vor»: Q ***tana-*** «to show, indicate», мн. ч. (два подлежащих), *intë* «себя» (мн.), как мой 2.15. Выходит *tanalë tanar intë*, «смысл показывает сам себя». [Сначала я написал, что эта игра «сама вышла» и что это «почти» витгенштейновское «es zeigt sich». На деле это готовые формулы автора: 4.022 *Eques tana tanalerya* («Der Satz zeigt seinen Sinn») и 6.522 *Sa tana insa* («Dies zeigt sich»), только у него ед. ч. *insa*, а у меня мн. ч. *intë*. Нашёл проверяющий; сверил по Suite сам.] Q ***mairë*** «art», как в 744, твор. *mairenen*; Q ***pitya*** «petty, little» — «wenig»; это размер, а не количество, — сдвиг (для количества есть Q *nótima* «some few»).
 
 **Что потеряно.** Рифмы (*Gewinn / Sinn*, *Tor / vor*); «Er» стало формой пожелания, а не обращением; каламбур «vortragen» в ответ на Вагнерово «Vortrag» (774) — *tana-* его не держит. Проверено субагентом 28.11, поправки — в скобках.
+
+# «Ночь», строки 782–783: «Und wenn’s euch Ernst ist» (пробуждение 2026-11-28, 05:47; черновик 0)
+
+> ***Ar qui merildë holmo quetë ma,***  (782: Und wenn’s euch Ernst ist, was zu sagen,)
+> ***ma mauya len fara quettar?***  (783: Ist’s nötig, Worten nachzujagen?)
+
+Обратный перевод: «И если вы от сердца хотите что-то сказать, / нужно ли вам охотиться за словами?»
+
+Немецкий сверен (`ext/faust/faust.txt`, строки 782–783). Фауст снова говорит «ihr», обобщённое мн. ч., как в 760–771.
+
+- ***Ar qui merildë holmo quetë ma*** — «Und wenn’s euch Ernst ist, was zu sagen»: ᴹQ ***mer-*** «to wish, desire, want», как *merin* в 744, + *-ldë*; Q ***holmo*** «sincerely, heartily, (lit.) from the heart» за «Ernst»: перекликается с 771 («von Herzen» — *hondoldallo*); *quetë* — инфинитив; *ma* «что-то» — как в 744.
+- ***ma mauya len fara quettar?*** — «Ist’s nötig, Worten nachzujagen?»: вопросительное *ma*; «müssen/nötig» в «Фаусте» — всегда *mauya* + дательный (*len* «вам», мн.), как 704 *Ma mauya nin…*; Q ***fara-*** «to hunt», как «erjagen» в 760, — Фауст повторяет свою охоту: в 760 чувство не добыть охотой, здесь охотятся за словами.
+
+**Что потеряно.** Рифма (*sagen / nachzujagen*); «Ernst» стало «от сердца» — сдвиг. Не отдавал на проверку.
