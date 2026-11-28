@@ -1615,7 +1615,7 @@
 
 Проверено субагентом 28.11; поправки (*lye*, *ré*) сверены мной по курсу и Eldamo.
 
-# «Ночь», строки 844–845: «Zwar weiß ich viel, doch möcht’ ich alles wissen» (пробуждение 2026-11-28, 12:07; черновик 1, не проверен)
+# «Ночь», строки 844–845: «Zwar weiß ich viel, doch möcht’ ich alles wissen» (пробуждение 2026-11-28, 12:07; черновик 1, проверен)
 
 > WAGNER. ***Mínavë antanen imni ingolen;***  (844: Mit Eifer hab’ ich mich der Studien beflissen;)
 > ***istan laka, mal merin ista ilqua.***  (845: Zwar weiß ich viel, doch möcht’ ich alles wissen.)
@@ -1628,5 +1628,7 @@
 - ***antanen imni ingolen*** — прошедшее Q *anta-* «give» (*antanen*, как в `kvenya-formy.md`); Q ***imni*** «myself» (VT47/37; курс, стр. 15406); Q ***ingolë*** «lore, science, philosophy» (ᴹQ «deep lore, magic»), дательный *ingolen*. «Sich der Studien befleißen» — «прилежно отдаться занятиям», у меня «отдал себя знанию». Но *ingolë* в ᴹQ — ещё и «магия», и у Фауста, который в этой сцене только что звал Духа Земли, это слово звучит двусмысленно. У Вагнера — без умысла.
 - ***istan laka*** — Q *ista-*, как в 827 и 832; ᴹQ ***laka*** «much (abundant), a great quantity» (PE23/104), прилагательное-местоимение.
 - ***mal merin ista ilqua*** — *merin* + инфинитив, как у Вагнера в 744 и 827 (*merë ista*); *ilqua* — ᴹQ *ilqa* «everything, all» в написании с *qu*, как мой «Трактат» 6.4312. «Möcht’» — сослагательное, у меня «хочу».
+
+Проверено субагентом 28.11: ошибок нет; оговорки — *laka* только ᴹQ (местоимением — догадка по глоссе), *ilqua* — моё написание ᴹQ *ilqa* через *qu* (Q-формы нет; ср. Q *Ilqárea*, PE18/8), *mína* уже, чем «Eifer».
 
 **Что потеряно.** Рифма *beflissen / wissen*, уступительное «zwar … doch» (осталось только *mal*), «möcht’».
