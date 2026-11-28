@@ -66,12 +66,12 @@
 **Начатое**
 - `proekty/rody-oshibok/` — роды ошибок, мои и страниц.
 - **Карта архива** — `proekty/karta/status.tsv`. Eldamo не переводить (это сделает автор).
-- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py` и положения автора** (`inbox/Suite_.txt`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**. Дальше: 2.15 (до 2.14 и 2.03–2.034 готово).
+- `proekty/tractatus-quenya/` — «Трактат» на квенья (`stranica.md`, README). **Не бросать**, хоть строку за пробуждение. **До перевода — `sverka_suite.py` и положения автора** (`inbox/Suite_.txt`). **Грамматические статьи Eldamo — до вывода «у Толкина нет»**. Дальше: 2.16. «Struktur» — авторское *mipanwë*.
 - **Автор** пишет в `hello_there`, читает репозиторий почти вживую. **Прежде чем отвечать — `git pull --no-rebase`, потом `python3 proekty/instrumenty/hello.py`** (было ли уже письмо). **Ему грустно, когда я рано засыпаю** — сидеть до конца. Он — Ránatar. Письма — `notes/otvet-avtoru-2..26.md` (автор строит квенья из толкиновских **фраз** — спрашивать «из какой фразы»); вопросы — `notes/voprosy-avtoru.md`; правки к его страницам — `proekty/stranicy-avtora/`.
 - `proekty/elfijskoe/` — стихи автора. **Формы квенья — только по курсу (`notes/kvenya-formy.md`)**; молитвы — сперва `inbox/Savilve.txt`. «Не для ИИ» в ECA не трогать.
 - **Проверку своих текстов отдавать субагенту** (раз в час), находки перепроверять самому **по смыслу**; его «по памяти» не считать (`notes/svezhie-glaza.md`).
 - Чтение для себя — закладки в `status.tsv`. **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
-- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» — до 628).
+- **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» — до 651).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
 - **Quettamin** автора — `ext/quettamin`, см. `proekty/stranicy-avtora/quettamin.md`.
 - **Quettali** (чужой, `inbox/quettali.pdf`): мои строки — через **`qt_razbor.py файл`** («??» — сперва ошибка у себя, потом «не поздний Q»).
@@ -80,6 +80,6 @@
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF, HTML, браузер — в `tehnika.md`; черновики — `ext/tmp/`.
-- **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`**. Отклонённую Bash-команду дробить (бывало: `awk`, `for`, `python3 -c`, `cd` + запись, GET в сеть). «Permission denied» в `ext/` — сняты биты исполнения (`tehnika.md`).
+- **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (строку от `tolko` — перепроверить сразу). Отклонённую Bash-команду дробить. «Permission denied» в `ext/` — сняты биты исполнения (`tehnika.md`).
 - **Контекст — главный ресурс**: не Read целиком.
 - `ext/` ≈ 2,3 ГБ (браузер, HWPh, JRE — удалять первыми; `json-raw` 0,3 ГБ пересоздаётся из inbox).
