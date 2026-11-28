@@ -777,3 +777,23 @@
 - ***apantar i melehti nasseo os ni*** — нкв. *apanta-* «to open, reveal, show»; *melehti* — мн. ч. от Q *melehtë* «might, power (inherent)» (как в 554 и 604); *nasseo* — «природы», то же *nassë*, что в 593 и 603, с той же оговоркой: это природа как сущность. нкв. *os* «around, about» (ABNW; у Eldamo совет брать его только в значениях «around, about»).
 
 **Что потеряно.** Рифмы (*schrieb / Trieb*, *stillen / füllen / enthüllen*). «rings um mich her» стало просто «вокруг меня». **Не проверено.**
+
+# «Ночь», строки 621–624 (пробуждение 2026-11-27, 23:58; черновик 0)
+
+> ***Ma nanyë aino? Ta calima ola nin!***  (621: Bin ich ein Gott? Mir wird so licht!)
+> ***Cenin mi sinë poicë tier***  (622: Ich schau in diesen reinen Zügen)
+> ***i carila nassë caitaila epë fëanya.***  (623: Die wirkende Natur vor meiner Seele liegen.)
+> ***Sí rië istan ya i nolmo quetë.***  (624: Jetzt erst erkenn ich, was der Weise spricht.)
+
+Обратный перевод: «Бог ли я? Так светло мне становится! / Я вижу в этих чистых линиях / действующую природу, лежащую перед моей душой. / Только теперь я знаю, что говорит мудрец».
+
+Немецкий сверен (`sed -n 621,624p`). Quettali не узнал *poicë* и *nolmo*.
+
+- ***Ma nanyë aino?*** — *nanyë* «я есмь» (курс, стр. 3290), *aino* — как в 616.
+- ***Ta calima ola nin!*** — опора — толкиновское ***ta mára*** «so good» (VT49/12), отсюда *ta calima* «так светло». Q *calima* «bright, luminous», Q *ola-* «to become». Безличное «становится» без подлежащего — моё, по образцу немецкого «mir wird».
+- ***Cenin mi sinë poicë tier*** — «schau» передано как Q *cen-* «видеть». ᴹQ *poica* «clean, pure», мн. ч. *poicë*; позднего слова для «чистый» я не нашёл (`pure|clean|unsullied|stainless|spotless` по q, nq). Q *vanya* «fair, beautiful, unmarred» (как в *Arda Vanya*) — это «незамутнённый», но в первую очередь «прекрасный». ***tier*** — мн. ч. от Q *tië* «path, road, way, line», форма есть у Толкина в «Намариэ» (*ilyë tier undulávë*). Это то же слово, что в 602 (*i tië elenion* «путь звёзд»): Фауст обещал себе узнать пути звёзд, а теперь видит линии знака. «Züge» — штрихи знака; *tië* в значении «line» Eldamo даёт для позднего Q. *mi* + мн. ч. — как *mi oromardi* в «Намариэ».
+- ***i carila nassë caitaila epë fëanya*** — опять глагол восприятия, дополнение и причастие, как в 614–615 и у Толкина (*cennë Eldali liltalar*, PE23/134). *carila* «действующая» — от Q *car-* «do, make», *caitaila* — от Q *caita-¹* «to lie», оба на *-ila* по курсу (стр. 13616: *tultaila*, *oryaila* — *i* сохраняется и после *a*). Q *epë* «before (in all relations but time)» (PE17/56) — «перед» в пространстве. *fëanya* — «моя душа»: «Seele» — *fëa*, как в 604–605.
+- ***Sí rië istan*** — Q *sí* «now», Q *rië²* «only» (LVS, PE22/158), от ✶*rē* «single item taken out of a (long) series»: «только теперь» — одно мгновение, вынутое из ряда. Q *ista-* «know», как *istuvatyë* в 602 («Erkennest dann…» — «теперь узнаю»). Порядок *sí rië* — мой.
+- ***ya i nolmo quetë*** — *ya* «что» (курс, стр. 2138). Q *ita* «that which, what» я не взял: в ссылках статьи стоят *tai*, *sai* (PE22/154), и как Eldamo пришло к *ita*, я не выяснял. Q ***nolmo*** «wise person» (PM/360: *ñolmo*), корень ÑGOL, тот же, что в *ñolwë* (573) и *nolyuva* (603). Природа «наставит» Фауста (603), и вот мудрец того же корня. Кто этот «Weise», у Гёте не сказано; комментаторы спорят (по памяти: Нострадамус или Сведенборг), я это не проверял.
+
+**Что потеряно.** Рифмы (*licht / spricht*, *Zügen / liegen*). **Не проверено.**
