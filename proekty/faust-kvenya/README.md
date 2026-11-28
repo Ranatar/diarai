@@ -1206,3 +1206,26 @@
 - ***mauya i parca hlicilan peresta*** — «Der trockne Schleicher stören muß»: *mauya* + дательный + инфинитив, как в 669 и 704. ᴹQ ***parka*** «dry» (Ety); ᴹQ ***hlik-*** «to creep, \*sneak», действительное причастие *hlicila* по курсу (*-ila*, стр. 13614), здесь в роли существительного «ползущий» в дательном — выведено. нкв. ***peresta-*** «to disturb». Порядок, как у Гёте: дополнение («diese Fülle») впереди.
 
 **Что потеряно.** Рифмы (*zunichte / Gesichte*; *Famulus / muß*), «schönstes». Не отдавал на проверку.
+
+# «Ночь», строки 738–745: Вагнер (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> *(Wagner mi lómëa vaima, calma máryassë. Faust querë insë úcaira.)*  (738–739: Wagner im Schlafrock und der Nachtmütze, eine Lampe in der Hand. Faust wendet sich unwillig.)
+>
+> WAGNER. ***Á nin apsenë! Hlarin lyë nyarila;***  (742: Verzeiht! ich hör euch deklamieren;)
+> ***ma cendanelyë naitië tyalië nairëo Hellenórëo?***  (743: Ihr last gewiß ein griechisch Trauerspiel?)
+> ***Mairë sinallo merin cavë ma;***  (744: In dieser Kunst möcht ich was profitieren,)
+> ***an sinar ta carë mai.***  (745: Denn heutzutage wirkt das viel.)
+
+Обратный перевод: «(Вагнер в ночном одеянии, с лампой в руке. Фауст нехотя отворачивается.) — ВАГНЕР. Простите меня! Я слышу, как вы декламируете; / вы, верно, читали игру горя Греции? / От этого искусства я хотел бы получить что-нибудь; / ибо нынче это действует хорошо».
+
+Немецкий сверен (`faust_nomera.py`).
+
+- ***Wagner mi lómëa vaima*** — нкв. *vaima* «wrap, robe» (из ᴱQ), *lómëa* «ночной, сумрачный», как *lómëa málo* в 568. «Nachtmütze» опущен. *calma máryassë* — *calma* «лампа», как в 658 (та лампа погасла, Вагнер несёт новую); *má* + *-rya* + *-ssë*, ср. *máryat* в «Намариэ». ***Faust querë insë úcaira*** — *quer-* «to turn», как в 645 (*Queris i parma úcaira* — тогда «unwillig» было про книгу, теперь про Вагнера), *insë* «себя» (лицо; шпаргалка), *úcaira* — как в 645.
+- ***Á nin apsenë!*** — «Verzeiht!»: Q ***apsen-*** «to remit, release, forgive» — из «Átaremma» (*apsene*, VT43/18). *Á* + основа — повелительное. Вагнер говорит Фаусту «Ihr», и я беру вежливое ***lyë*** (курс, стр. 1653–1656: *lye* «тебя (Вас)», вежливая форма), а Фауст Духу говорил *tyë*. Различие «Ihr / du» Гёте сохранено.
+- ***Hlarin lyë nyarila*** — *hlar-* «hear», как в 690. Q ***nyar-*** «to relate, recite» (ᴹQ — «recite (in sing-song voice)»), действительное причастие *nyarila* — «декламирующего». У Гёте инфинитив («hör euch deklamieren»), у меня причастие — выведено.
+- ***ma cendanelyë*** — *ma* — вопрос; Q *cenda-* «to watch (intensively)… to read», как *cendanen* в 565 (там Фауст «высматривал» луну, здесь — «читал»: у Толкина одно слово). Прошедшее *cendanë* + *-lyë*. Q ***naitië*** «indeed, truly» — «gewiß», как *naitië* в «Трактате» 6.3751.
+- ***tyalië nairëo Hellenórëo*** — «ein griechisch Trauerspiel»: немецкое «Trauer-spiel» — «игра печали»: Q *tyalië* «mirth; [ᴹQ.] play, game» + *nairëo* — *nairë* «горе», как в 653. нкв. *Hellenórë* «Greece, Greek people», родительный. Сложного слова не делаю.
+- ***Mairë sinallo merin cavë ma*** — «In dieser Kunst möcht ich was profitieren»: Q ***mairë*** «art, work of high and beautiful art», отделительный с *sina* — «от этого искусства». Q ***cav-*** «to receive» (VT47/21), инфинитив *cavë*: «profitieren» стало «получить» (нкв. *cambië* «profit» — от того же глагола). *merin* — «хочу»: «möcht» — мягче. Сдвиг.
+- ***an sinar ta carë mai*** — «Denn heutzutage wirkt das viel»: *an* «ибо», Q ***sinar*** «today» (в ᴹQ и «nowadays»), *car-* «do» — «wirkt», как в 716, 1646. Q *mai* «well»: позднего «много» (наречия) я не нашёл (`eldamo_gloss.py '^much\b|\bmuch\b|\bmany\b' q`), поэтому «viel» стало «хорошо». Сдвиг.
+
+**Что потеряно.** Рифмы (*deklamieren / profitieren*, *Trauerspiel / viel*), «Nachtmütze», «viel». Не отдавал на проверку.
