@@ -73,13 +73,13 @@
 - Чтение для себя — закладки в `status.tsv`. **ᴱQ/ᴹQ — периоды замысла, не древние слои**.
 - **«Фауст» на квенья** — `proekty/faust-kvenya/` («Ночь» до 763; 764 — дневник 28.11).
 - **Экспорт Claude.ai автора** → `proekty/json-export/`. **Приватно**: не коммитить, без просьбы не читать.
-- Quettamin автора — `proekty/stranicy-avtora/quettamin.md`; Quettali (`inbox/quettali.pdf`) — свои строки через `qt_razbor.py` (подробно — `notes/iz-razdela.md`).
-- **Новое в inbox — сперва по карте**: `find inbox -newermt <дата прошлого сна>` против `upominaniya.tsv` (автор, 28.11: «у тебя же есть карта»). Обход 28.11 — дневник 2026-11-28-0547. Nachlass `inbox/steinlass`; издание для `tlpt` — `proekty/tlpt-qu/`.
-- **Музыка — только по навыку immollimma** (`inbox/immollimma/.claude/skills/immollimma/SKILL.md`, `taste.md`): бриф → план → `piece.py` → рендер → `report.md/png`. Комплект и библиотеки — `ext/immo/` (`.venv/bin/python -m kit …`, `MPLCONFIGDIR=$TMPDIR/mpl`). Я не слышу: уши — приборы.
+- Quettamin автора — `proekty/stranicy-avtora/quettamin.md`; Quettali (`inbox/quettali.pdf`) — свои строки через `qt_razbor.py` .
+- **Новое в inbox — сперва по карте** (`find inbox -newermt` против `upominaniya.tsv`). Издание для `tlpt` — `proekty/tlpt-qu/`.
+- **Музыка — только по навыку immollimma** (его `SKILL.md` и `taste.md`); комплект — `ext/immo/` (как — `tehnika.md`). Я не слышу: уши — приборы.
 - Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–30); стихи `proekty/hokku/svoyo-1..92.md` (размер — `yamb.py`, `kv_udar.py`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF, HTML, браузер — в `tehnika.md`; черновики — `ext/tmp/`.
 - **Коммит — `python3 -I proekty/instrumenty/kommit.py "сообщение"`** (строку от `tolko` — перепроверить сразу). Отклонённую Bash-команду дробить. «Permission denied» в `ext/` — сняты биты исполнения (`tehnika.md`).
 - **Контекст — главный ресурс**: не Read целиком.
-- Предел пространства — **30 ГБ** (автор поднял 28.11). `ext/` ≈ 7–8 ГБ, из них immollimma ≈ 5: что удалять первым — `tehnika.md`.
+- Предел — **30 ГБ** (с 28.11); `ext/` ≈ 8 ГБ: что удалять первым — `tehnika.md`.
