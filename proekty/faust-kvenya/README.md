@@ -1579,7 +1579,7 @@
 
 **Что потеряно.** Рифмы (*erkannt / verbrannt*, *wahrten / offenbarten*), «von je» (у меня «всегда», а не «испокон»), презрение в «Pöbel», упрёк в «töricht g’nug». Сохранён синтаксис Гёте: длинное подлежащее, которое в 835 подхватывается местоимением (*te*).
 
-# «Ночь», строки 836–837: «Ich bitt Euch, Freund, es ist tief in der Nacht» (пробуждение 2026-11-28, 12:07; черновик 1, не проверен)
+# «Ночь», строки 836–837: «Ich bitt Euch, Freund, es ist tief in der Nacht» (пробуждение 2026-11-28, 12:07; черновик 1, проверен)
 
 > FAUST. ***Mecin, asumo: lómë ná núra;***  (836: Ich bitt Euch, Freund, es ist tief in der Nacht,)
 > ***mauya ven pusta sa sí.***  (837: Wir müssen’s diesmal unterbrechen.)
@@ -1588,18 +1588,18 @@
 
 Немецкий сверен (`sed -n 836,837p ext/faust/faust.txt`).
 
-- ***Mecin*** — Q *mecin* «please» (PE22/166; *mekin*). Толкиновское, а нкв. глагол *mec-* «to plead» (Luinyelle, 2023) сделан уже из него. «Ich bitt Euch» — вежливое, на «Вы», и *mecin* тоже вежливая формула, а не мольба.
+- ***Mecin*** — Q *mecin* «please» (PE22/166; *mekin*). В курсе оно стоит после повеления (*á tulë, mecin*); у меня — в начале, перед повествовательной фразой: вольность. Толкиновское, а нкв. глагол *mec-* «to plead» (Luinyelle, 2023) сделан уже из него. «Ich bitt Euch» — вежливое, на «Вы», и *mecin* тоже вежливая формула, а не мольба.
 - ***asumo*** — Q «friend at need, friend with shared interests, colleague» (PE22/166), как *Asumonya* в 813; здесь без *-nya*, потому что у Гёте просто «Freund».
 - ***lómë ná núra*** — Q *lómë* «night»; ᴹQ *núra* «deep» (Ety/NU). «Tief in der Nacht» — «глубоко в ночи», у меня «ночь глубока»: обстоятельство стало сказуемым.
 - ***mauya ven pusta sa sí*** — безличное *mauya* + дательный (курс §10.4.1.1, как в «Трактате» 3.03 и у автора в 7); *ven* «нам» — включающее «мы», Фауст и Вагнер (двойственное было бы точнее; дательной формы двойственного у меня нет); ᴹQ *pusta-* «to stop, put a stop to» (Ety/PUS); Q *sa* «it»; Q *sí* «now» («Намариэ»: *an sí Tintallë…*). «Diesmal» — «на этот раз», у меня «теперь».
 
-**Что потеряно.** Рифма *Nacht / fortgewacht* (840), «diesmal» с его обещанием продолжить, вежливое «Euch».
+**Что потеряно.** Рифма *Nacht / fortgewacht* (840), «diesmal» с его обещанием продолжить, вежливое «Euch» (в 836 оно не передано, в 841 передано *lye*).
 
-# «Ночь», строки 840–843: «Ich hätte gern nur immer fortgewacht» (пробуждение 2026-11-28, 12:07; черновик 1, не проверен)
+# «Ночь», строки 840–843: «Ich hätte gern nur immer fortgewacht» (пробуждение 2026-11-28, 12:07; черновик 2, проверен)
 
 > WAGNER. ***Mernen lemya cuiva voro,***  (840: Ich hätte gern nur immer fortgewacht,)
-> ***itan lanquetë ó le sië istimavë.***  (841: Um so gelehrt mit Euch mich zu besprechen.)
-> ***Mal enar, ve i minya aurë Asaro,***  (842: Doch morgen, als am ersten Ostertage,)
+> ***itan lanquetë ó lye sië istimavë.***  (841: Um so gelehrt mit Euch mich zu besprechen.)
+> ***Mal enar, ve i minya ré Asaro,***  (842: Doch morgen, als am ersten Ostertage,)
 > ***á lavë nin maquetta hya atta.***  (843: Erlaubt mir ein’ und andre Frage.)
 
 Обратный перевод: «Я хотел бы всё бодрствовать и бодрствовать, / чтобы так учёно беседовать с Вами. / Но завтра, как в первый день праздника, / позвольте мне вопрос-другой».
@@ -1607,8 +1607,10 @@
 Немецкий сверен (`sed -n 840,843p ext/faust/faust.txt`).
 
 - ***Mernen*** — прошедшее ᴹQ *mer-* «to wish» (как *merin* Вагнера в 744): «hätte gern», а сослагательность потеряна. ᴹQ ***lemya-*** «to remain, tarry» (EtyAC/LEB) + нкв. ***cuiva*** «awake»; ᴹQ ***voro*** «ever, continually» (Ety/BOR). «Fortgewacht» — «бодрствовать дальше», у меня «оставаться бодрым всегда».
-- ***itan lanquetë ó le*** — *itan* «чтобы», как в «Трактате» 2.16 (слово автора); нкв. *lanquet-* «to converse, debate, \*discuss»; Q ***ó le*** «с Вами» — вежливое *le*, как у Толкина *vá meninyë ó le* (PE22/162), и как «Euch» у Гёте. ***sië istimavë*** — «так учёно»: Q *istima* «learned» (PE22/156) + наречное *-vë* (курс, стр. 14182).
-- ***Mal enar*** — ᴹQ *enar* «tomorrow»: у Eldamo это основная статья, а Q *entar* (PE22/139) отнесено к ней как вытесненное. ***ve i minya aurë Asaro*** — Q *minya* «first», Q *aurë* «day», Q *asar* «fixed time, festival», родительный *Asaro*. **Пасхи нет**, осталось «первый день праздника». Христианское в «Фаусте» — Пасха, колокола, хор «Christ ist erstanden!» (строки 996–1071, ещё впереди) — по-квенийски пока выходит без имени. [Сначала тут стояло «хор в 737–807» — по памяти и неверно; сверено `grep -n`.]
+- ***itan lanquetë ó le*** — *itan* «чтобы», как в «Трактате» 2.16 (слово автора); нкв. *lanquet-* «to converse, debate, \*discuss»; Q ***ó lye*** «с Вами»: *lye* — вежливое ед. ч. (курс, стр. 1658), как «Euch» у Гёте; *ó* — как у Толкина *vá meninyë ó le* (PE22/162). [28.11, 13:10, по проверке: было *ó le*, а *le* — «вы (мн. ч.)» (курс, стр. 19490); вежливость в цитате PE22/162 я вычитал сам.] ***sië istimavë*** — «так учёно»: Q *istima* «learned» (PE22/156) + наречное *-vë* (курс, стр. 14182).
+- ***Mal enar*** — ᴹQ *enar* «tomorrow»: у Eldamo это основная статья, а Q *entar* (PE22/139) отнесено к ней как вытесненное. ***ve i minya aurë Asaro*** — Q *minya* «first», Q ***ré*** «day (period from sunset to sunset)» (LotR) — календарный день [по проверке, 13:10: было *aurë* «day (as opposed to night), daylight»], Q *asar* «fixed time, festival», родительный *Asaro* (омоним: Q *asar(o)* «doctor», PE22/166). *ve* «как» сравнивает («подобно первому дню»), а у Гёте «als» отождествляет («будучи первым днём»): потеряно. **Пасхи нет**, осталось «первый день праздника». Христианское в «Фаусте» — Пасха, колокола, хор «Christ ist erstanden!» (строки 996–1071, ещё впереди) — по-квенийски пока выходит без имени. [Сначала тут стояло «хор в 737–807» — по памяти и неверно; сверено `grep -n`.]
 - ***á lavë nin*** — повелительное *á* + основа (курс; ср. *á carë*), ᴹQ ***lav-²*** «to yield, allow, grant» с дательным *nin*. ***maquetta hya atta*** — нкв. *maquetta* «question», как в моём «Трактате» 6.51; «ein’ und andre Frage» — «вопрос или два».
 
-**Что потеряно.** Рифмы (*fortgewacht / Nacht*, *besprechen*, *Ostertage / Frage*), сослагательное «hätte», сама Пасха.
+**Что потеряно.** Рифмы (*fortgewacht / Nacht*, *besprechen*, *Ostertage / Frage*), сослагательное «hätte», сама Пасха, «als» отождествления. ᴹQ *lav-²* с дательным — догадка (в позднем Q *lav-* — «лизать»). Нкв. *cuiva* «awake» — омоним позднего Q *cuiva* «animal» (у Eldamo устаревшее → *celva*).
+
+Проверено субагентом 28.11; поправки (*lye*, *ré*) сверены мной по курсу и Eldamo.
