@@ -1086,22 +1086,22 @@
 > ***Massë natyë, Faust, yeva óma lamyanë nin,***  (697: Wo bist du, Faust, des Stimme mir erklang,)
 > ***ye nindë ninna ilyë melehteryainen?***  (698: Der sich an mich mit allen Kräften drang?)
 > ***Ma natyë sa, ye, yorina súlenyanen,***  (699: Bist du es, der, von meinem Hauch umwittert,)
-> ***pápa ilyë nattustassen coiviéno,***  (700: In allen Lebenslagen zittert,)
-> ***rucila, cúnina hlócë?***  (701: Ein furchtsam weggekrümmter Wurm?)
+> ***papë ilyë nattustassen coiviéno,***  (700: In allen Lebenslagen zittert,)
+> ***rucila, cúna hlócë?***  (701: Ein furchtsam weggekrümmter Wurm?)
 
-Обратный перевод: «Где ты, Фауст, чей голос звучал мне, / кто теснил меня всеми своими силами? / Ты ли это, кто, обведённый моим дыханием, / дрожит во всех положениях жизни, / боящийся, согнутый червь?»
+Обратный перевод: «Где ты, Фауст, чей голос звучал мне, / кто теснил меня всеми своими силами? / Ты ли это, кто, обведённый моим дыханием, / дрожит во всех положениях жизни, / боящийся, кривой червь?»
 
 Немецкий сверен (`faust_nomera.py` — 0 расхождений).
 
-- ***Massë natyë*** — ᴹQ *massë* «where», как в 693; *natyë* «ты есть», как в 649. ***yeva óma*** — «des Stimme»: нкв. *yeva* «whose» (личная пара к *yava*, которое у меня в «Трактате» 2.171; статья без ссылок). Родительный от *ye* у Толкина — *yeo* (VT47/21), но с глоссой «from who». *óma* — как в 690. ᴹQ ***lamya-*** «to sound» (Ety/LAM), прошедшее *lamyanë* — слабое, выведено.
-- ***ye nindë ninna*** — Q ***nir-*** «to press, urge, thrust, force (in a given direction)»: прошедшее засвидетельствовано, *ninden* «я теснил» (PE22/165), отсюда *nindë*. Толкин уточняет: давление человека на других «by mind and ‘will’ as well as by physical strength» — Фауст теснил Духа именно всеми силами, и душевными тоже. *ninna* «на меня» — направительный: у Рёандила (VLDS, 2023) тот, на кого давят, стоит в направительном (*i eldar ninder i santie tenna*). «sich» не передано: *nir-* непереходен в смысле «напирать». В 643 у меня то же *nir-* для «sich drängt» (*i hwirina súma nirë*).
+- ***Massë natyë*** — ᴹQ *massë* «where», как в 693; *natyë* «ты есть», как в 649. ***yeva óma*** — «des Stimme»: нкв. *yeva* «whose» (личная пара к *yava*, которое у меня в «Трактате» 2.171; статья без ссылок). Родительный от *ye* у Толкина — *yeo* (VT47/21), но с глоссой «from who». *óma* — как в 690. ᴹQ ***lamya-*** «to sound» (Ety/LAM), прошедшее *lamyanë* — слабое, выведено; у непереходных курс допускает и сильное (стр. 6766, *ullë*) — по проверке 28.11.
+- ***ye nindë ninna*** — Q ***nir-*** «to press, urge, thrust, force (in a given direction)»: прошедшее засвидетельствовано, *ninden* «я теснил» (PE22/165), отсюда *nindë*. Толкин уточняет: давление человека на других «by mind and ‘will’ as well as by physical strength» — Фауст теснил Духа именно всеми силами, и душевными тоже. *ninna* «на меня» — направительный по аналогии: у Рёандила (VLDS, 2023) направительный стоит в значении «impose» и при прямом дополнении (*i eldar ninder i santie tenna*), а у меня дополнения нет. «sich» не передано. [Сначала: «*nir-* непереходен в смысле „напирать“» — Eldamo этого не говорит, *nirin* — «I press/thrust». Засвидетельствовано и второе прошедшее, *nirnen* (PE22/165). По проверке 28.11.] В 643 у меня то же *nir-* для «sich drängt» (*i hwirina súma nirë*).
 - ***ilyë melehteryainen*** — *melehtë* «might», как в 650 (*melehtenyar*), 681 (*melehtenen*); + *-rya* «его» + творительный мн. ч. *-inen*. Выведено. У Гёте «mit allen Kräften» — у меня «всеми его силами».
 - ***Ma natyë sa, ye*** — *ma* — вопросительная частица (курс, стр. 5180: «основное вопросительное слово»; *Ma técal parma?*), *sa* «это». ***yorina súlenyanen*** — «von meinem Hauch umwittert»: страдательное причастие от Q *yor-* «to enclose, set bounds to/about» (PE17/43; как в «Трактате» 2.014, 2.203), без удлинения, как *car- → carina* (курс, стр. 13639); выведено. *súlë* — как в 691: там это было дыхание души Фауста, притянувшее Духа, здесь — дыхание самого Духа. Одно слово с двух сторон.
-- ***pápa*** — нкв. *pap-* «to tremble» (из ᴱQ *papa-*, QL/72), настоящее *pápa*. ***ilyë nattustassen coiviéno*** — «In allen Lebenslagen»: нкв. *nattusta* «situation, (lit.) collection of affairs» — у меня это «Sachlage» в «Трактате» (2.014, 2.202). «Lebenslage» — «положение жизни», и Гёте тут нечаянно говорит языком Витгенштейна. Местный мн. ч. *-ssen*.
+- ***papë*** — нкв. *pap-* «to tremble» (из ᴱQ *papa-*, QL/72), аорист: «zittert in allen Lebenslagen» — привычное свойство, не то, что сейчас. [Сначала было настоящее *pápa*; по проверке 28.11.] ***ilyë nattustassen coiviéno*** — «In allen Lebenslagen»: нкв. *nattusta* «situation, (lit.) collection of affairs» — у меня это «Sachlage» в «Трактате» (2.014, 2.202). «Lebenslage» — «положение жизни», и Гёте тут нечаянно говорит языком Витгенштейна. Местный мн. ч. *-ssen*.
 - ***rucila*** — «furchtsam»: действительное причастие от Q *ruc-* «to feel fear or horror» (WJ/415), как *lá rucita* в 655. Тот, кто хотел «не дрогнуть», теперь «дрожащий».
-- ***cúnina hlócë*** — «weggekrümmter Wurm»: Q ***cúna-*** «to bend» (из «Markirya»: *na-kúna*, *akúna*, MC/222–223), страдательное причастие *cúnina*: у *a*-глаголов *a* заменяется (курс, стр. 13649, *fara- → farina*). Выведено. Q ***hlócë*** «reptile, snake, serpent, worm» (PE17/160). «weg-» («прочь») потеряно.
+- ***cúna hlócë*** — «weggekrümmter Wurm»: Q ***cúna*** «bent, curved» — прилагательное, засвидетельствовано (*kúna*, MC/223), а глагол *cúna-* «to bend», по Eldamo, построен на нём. [Сначала было выведенное причастие *cúnina* от *cúna-*; по проверке 28.11 взято готовое толкиновское слово. Есть ещё Q *locin* «bent».] Q ***hlócë*** «reptile, snake, serpent, worm» (PE17/160). «weg-» («прочь») потеряно.
 
-**Что потеряно.** Рифмы (*erklang / drang*, *umwittert / zittert*, *Wurm* — с 708 *Tatensturm*), «weg-». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*erklang / drang*, *umwittert / zittert*, *Wurm* — с 708 *Tatensturm*), «weg-». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 704–705: ответ Фауста (пробуждение 2026-11-28, 03:07; черновик 0)
 
@@ -1112,12 +1112,12 @@
 
 Немецкий сверен (`faust_nomera.py`).
 
-- ***Ma mauya nin varë tyen*** — «Soll ich dir … weichen?»: *ma* — вопрос (курс, стр. 5180), *mauya nin* + инфинитив, как *mauya tyen* в 669 (там Фауст приказывал Духу «Du mußt!», теперь спрашивает, должен ли сам). нкв. ***var-*** «to yield, give way, surrender» (Röandil, 2022, от √WAR), инфинитив *varë*. Кому уступают — дательный *tyen*; выведено.
+- ***Ma mauya nin varë tyen*** — «Soll ich dir … weichen?»: *ma* — вопрос (курс, стр. 5180), *mauya nin* + инфинитив, как *mauya tyen* в 669 (там Фауст приказывал Духу «Du mußt!», теперь спрашивает, должен ли сам). нкв. ***var-*** «to yield, give way, surrender» (Röandil, 2022, от √WAR), инфинитив *varë*. Омоним: ᴹQ *var-* «to err» (по проверке 28.11) — «должен ли я ошибиться тебе» читается плохо, но читается. Кому уступают — дательный *tyen*; выведено.
 - ***a rúnyemma*** — «Flammenbildung»: **моё** сложное слово, Q *rúnya* «red flame» (как в ремарке 672) + *emma* «picture» (слово автора из «Трактата»). У Гёте в «Bildung» тоже сидит «Bild». Слияние *-a + e- → -e-*: образца в сложных словах я не искал, форма выведена. [Сначала стояло «образца у меня нет»; это «нет» без поиска, поправлено по `tolko.py` сразу.]
 - ***Inyë ná*** — «Ich bin’s»: Q ***inyë*** «I (emphatic)» (PE22/140, 162; PE23/69) + *ná*. Подлежащее и сказуемое: «я есть [тот]». Конструкция — моя.
 - ***Faust nanyë, nanyë ve tyë*** — *nanyë* «я есть» (курс: *nanyë*, *nalyë*; как *natyë* в 649). Повтор «bin … bin» сохранён. «deinesgleichen» — «тебе подобный, ровня»: у меня *ve tyë* «как ты». Q *immo* «same one (person)» дало бы «тот же, что ты» — это больше, чем Фауст говорит.
 
-**Что потеряно.** Рифма *weichen / deinesgleichen*, «gleich» как «ровня» (стало «как»). Не отдавал на проверку.
+**Что потеряно.** Рифма *weichen / deinesgleichen*, «gleich» как «ровня» (стало «как»). Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 708–716: песнь Духа Земли (пробуждение 2026-11-28, 03:07; черновик 0)
 
