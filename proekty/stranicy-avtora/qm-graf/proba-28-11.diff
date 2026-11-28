@@ -1,0 +1,29 @@
+--- qm324/shared/lexicon.py	2026-11-28 12:08:35.166332401 +0000
++++ qm324-patch/shared/lexicon.py	2026-11-28 12:34:33.239986379 +0000
+@@ -337,7 +337,10 @@
+     if not refs:
+         return []
+     own = [r for r in refs if _ref_key(r.get('v')) == _ref_key(w.get('v'))]
+-    pool = own or refs
++    # (проба 28.11) ссылка другой формы с <inflect> — это форма слова (интенсив antara у tára), её элементы не слова
++    pool = own or [r for r in refs if not r.findall('inflect')]
++    if not pool:
++        return []
+     most = max(len(r.findall('element')) for r in pool)
+     return [e for e in next(r for r in pool if len(r.findall('element')) == most).findall('element') if _live_in(e, w)]
+ 
+@@ -686,6 +689,14 @@
+                 filled.append(fit or g)
+             if sum(1 for g in filled if _real(g)) >= 2:
+                 parts, real = filled, [g for g in filled if _real(g)]
++        if len(real) == 1 and not direct and len(inter) == 1:
++            # (проба 28.11) один элемент с корнем, а вывод через праформу даёт другой корень: это другая часть слова
++            # (S. edraith = et + ✶rekti(e) < √REK), а не соперник элемента
++            have = {r['id'] for r in _real(real[0])}
++            extra = [r for r in _real(inter[0]) if r['id'] not in have]
++            if extra and not any(r['id'] in have for r in _real(inter[0])):
++                parts = [g for g in parts if _real(g)] + [extra]
++                real = parts
+         if len(real) >= 2:
+             out = parts
+         elif direct:
