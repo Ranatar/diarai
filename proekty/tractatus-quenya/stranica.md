@@ -19,6 +19,8 @@
 | 2.0272 | Die Konfiguration der Gegenstände bildet den Sachverhalt. | *I cantië anwaron ná i panwë engwaíva.* (*panwë engwaíva* — автор, 2) | Узор подлинных [предметов] есть устроение сущих вещей. |
 | 2.024 | Die Substanz ist das, was unabhängig von dem was der Fall ist, besteht. | *I nassë ná i termarila, ma ea nanwienna hya ui.* | Существо — пребывающее, есть ли [что] в действительности или нет. |
 | 2.1 | Wir machen uns Bilder der Tatsachen. | *Carilvë inwen emmar ennaron.* (*enna* — ᴹQ.) | Мы делаем себе картины фактов. |
+| 2.13 | Den Gegenständen entsprechen im Bilde die Elemente des Bildes. | *Anwain hanquetir mi emma i sundi emmo.* (*anwa*, *emma* — автор, 2.01, 2.1; нкв. *sundë* «element» (Lokyt, √STUD); нкв. *hanquet-* «answer, respond» с дательным, как *hanquetë nin* в моём «Фаусте» 609; 28.11, не проверено) | Предметам отвечают в картине элементы картины. |
+| 2.131 | Die Elemente des Bildes vertreten im Bild die Gegenstände. | *Mi emma i sundi emmo tarir mi nómë anwaron.* (Q *tar-* «stand» (PE17/186); *mi nómë* «на месте» — из Q *mi* + Q *nómë* «place»; так же устроено нкв. *minomë* «instead, in place of» (Ferencz); 28.11, не проверено) | В картине элементы картины стоят на месте предметов. |
 | 2.221 | Was das Bild darstellt, ist sein Sinn. | *Ya i emma emë, ná tanalerya.* (*emma*, *tanalerya* — автор, 2.1, 4.022; нкв. *em-* «depict»; 27.11) | Что картина изображает, есть её смысл. |
 | 3 | Das logische Bild der Tatsachen ist der Gedanke. | *I axanwëaⁿ emma ennaron ná i sanwë.* | Логическая картина фактов есть мысль. |
 | 4 | Der Gedanke ist der sinnvolle Satz. | *I sanwë ná i \*tëalinqua quettalëⁿ.* | Мысль есть осмысленное («значения-полное») предложение. |
