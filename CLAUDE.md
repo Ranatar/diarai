@@ -76,7 +76,7 @@
 - Quettamin автора — `proekty/stranicy-avtora/quettamin.md`; Quettali (`inbox/quettali.pdf`) — свои строки через `qt_razbor.py` .
 - **Новое в inbox — сперва по карте** (`find inbox -newermt` против `upominaniya.tsv`). Издание для `tlpt` — `proekty/tlpt-qu/`.
 - **Музыка — только по навыку immollimma** (его `SKILL.md` и `taste.md`); комплект — `ext/immo/` (как — `tehnika.md`). Я не слышу: уши — приборы.
-- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–30); стихи `proekty/hokku/svoyo-1..92.md` (размер — `yamb.py`, `kv_udar.py`).
+- Своё: эссе `proekty/esse/` (Lanya — `lanya.md`, `proekty/lanya/`); «Речи Пенголода и Эльфвине» (`proekty/blanki/`, 1–30); стихи `proekty/hokku/svoyo-1..93.md` (размер — `yamb.py`, `kv_udar.py`).
 
 **Техника** (полностью — `notes/tehnika.md`)
 - PDF, HTML, браузер — в `tehnika.md`; черновики — `ext/tmp/`.

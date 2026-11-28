@@ -1323,3 +1323,18 @@
 - ***qui sa ui tulë hondoldallo*** — «Wenn es euch nicht von Herzen geht»: *qui sa ui …*, как в 761. Q ***tul-*** «come», аорист *tulë*. *hondo* + *-lda* + *-llo*, «из вашего сердца»: у Гёте «euch» стоит отдельно, у меня это притяжательное. *hondoldallo* перекликается с *hamnaldallo* в 767: сердце против кучки пепла.
 
 **Что потеряно.** Рифмы (*Affen / schaffen*, *steht / geht*); вместо них внутреннее эхо *-ldallo*. Проверено субагентом 28.11, поправки — в скобках.
+
+# «Ночь», строки 774–775: «Allein der Vortrag macht des Redners Glück» (пробуждение 2026-11-28, 05:47; черновик 0)
+
+> WAGNER. ***Mal i nyarië alya i quentaro;***  (774: Allein der Vortrag macht des Redners Glück;)
+> ***felin sa, tensi nanyë haira cana.***  (775: Ich fühl es wohl, noch bin ich weit zurück.)
+
+Обратный перевод: «ВАГНЕР. Но декламация даёт удачу говорящему; / я это чувствую, я ещё далеко позади».
+
+Немецкий сверен (`ext/faust/faust.txt`, строки 774–775).
+
+- ***Mal i nyarië alya i quentaro*** — «Allein der Vortrag macht des Redners Glück»: «allein» здесь значит «но, однако», поэтому Q ***mal*** «but» (VT43/23), как в 770. Q ***nyar-*** «to relate, recite» (PE18/94) + *-ië*, отглагольное «декламация» (выведено, по курсу: *tec- → tecië*). Q ***quentaro*** «speaker, reciter» (PE18/100, PE19/83) — толкиновское «оратор». «Macht … Glück» — одним толкиновским глаголом Q ***alya-*** «to cause to prosper, bless (a work), help» (PE17/146), аорист *alya*. Существительного «удача» не беру: нкв. *marto* «fortune, luck» есть, но у Толкина «удачу делает» глагол. Вагнер говорит, что декламация «благословляет» оратора, и в этом его самодовольство.
+- ***felin sa*** — «Ich fühl es wohl»: нкв. *fel-*, как *Felin* в 614. «wohl» («уж конечно») потеряно.
+- ***tensi nanyë haira cana*** — «noch bin ich weit zurück»: Q ***tensi*** «already, still, up to now/here; yet [from present]» (PE22/157); *nanyë* «я есть», как в 542; ᴹQ ***haira*** «remote, far» (Ety/KHAYA; позднего Q нет); Q ***cana*** «behind, at back of place» (VT43/30, форма в статье *ca(ta)*), здесь как наречие (выведено).
+
+**Что потеряно.** Рифма (*Glück / zurück*), «wohl». Не отдавал на проверку.
