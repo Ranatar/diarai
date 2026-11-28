@@ -820,3 +820,31 @@
 - ***fírima súmalya amaurëassë*** — Q ***fírima*** «mortal, \*(lit.) able to die» для «ird'sche»: у Гёте «земная», у меня «смертная». У Толкина *Fírimar* — люди (S/102), так что «земное» в его мире и есть «смертное». Q ***súma*** «hollow cavity, bosom» — из «Markirya» (MC/222: *ringa súmaryassë* «in her cold bosom»). ***amaurëassë*** — «на рассвете», тоже из «Markirya» (MC/222: *amaurëasse*, от *amaurëa* «dawn, early day, morning»). Обе формы взяты из одного толкиновского стихотворения: это «Markirya», поздний квенийский вариант «The Last Ark» (MC/221–222; по Eldamo, сверено), первая строка — *man cenuva fána cirya?* «кто увидит белый корабль?». Там же есть *i fairi nécë* «the pale phantoms» (MC/221: «призраки», а не «духи»; сначала я перевёл «духи», не посмотрев глоссу), так что и *fairi* из 625 у Толкина соседствуют с этой грудью и этим рассветом. «Morgen*rot*» — красное — потеряно.
 
 **Что потеряно.** Рифмы (*verschlossen / unverdrossen*, *tot / Morgenrot*), «Rot» утреннего света, «irdisch» стало «смертным». **Не проверено.**
+
+# «Ночь», ремарка 629 и строки 631–637 (пробуждение 2026-11-27, 23:58; черновик 0)
+
+> ***(Tiris i tehta.)***  (629: er beschaut das Zeichen.)
+> ***Manen ilqua lanya insa ilúvenna,***  (631: Wie alles sich zum Ganzen webt,)
+> ***er mi hyana carë ar cuita!***  (632: Eins in dem andern wirkt und lebt!)
+> ***Manen i melehti menelo oryar ar núyar***  (633: Wie Himmelskräfte auf und nieder steigen)
+> ***ar antar inten i laurië calpar!***  (634: Und sich die goldnen Eimer reichen!)
+> ***Rámainen nísimë almëo***  (635: Mit segenduftenden Schwingen)
+> ***menelello terir cemen,***  (636: Vom Himmel durch die Erde dringen,)
+> ***ar lindalenen lindar ter Ilu!***  (637: Harmonisch all das All durchklingen!)
+
+Обратный перевод: «(Он рассматривает знак.) / Как всё ткёт себя к целому, / одно в другом действует и живёт! / Как силы небес восходят и нисходят / и подают себе золотые вёдра! / На крыльях, благоуханных благословением, / с неба пронзают землю / и музыкой поют сквозь Всё!»
+
+Немецкий сверен (`sed -n 629,637p`; 630 — пустая). Слова прогнаны через `eldamo_slovo.py` (без `head`). Quettali не узнал *ilqua*, *calpar*, *nísimë*, *menelello*, *lindalenen*.
+
+- ***Tiris i tehta*** — Q *tir-* «to look (at), gaze, observe» для «beschauen» (в 610 «erblicken» было *cen-*: там увидел, здесь рассматривает). *tehta* — слово автора, как в 607, 610, 616.
+- ***ilqua*** — «alles»: так у автора в «Трактате» 1 (*Ea na ilqua ya ea nanwienna*), это ᴹQ *ilqa*; у Eldamo значение «everything» помечено ⚠, а в позднем Q есть *ilyama* «all [things]» (из фразы *ai tó sí ilyama menta hwirya…*). Беру авторское.
+- ***lanya insa*** — «sich webt». Q *were-* «to weave» (PE17/33) Eldamo помечает «УСТАРЕЛО → mq *lanya-*» (Ety/LAN «weave»). Это то же *lanya*, что в моём эссе `proekty/esse/lanya.md`: там я разбирал позднее Q *lanya* «thread, warp» и *lanya-* «to bound… mark the limit of» и «to cross», а ᴹQ *lanya-* «ткать» стояло с краю. Теперь у Гёте всё ткёт само себя. *insa* «itself» — возвратное (VT47/37; курс, стр. 15404–15422), как *insa* у автора (5.473, 6.522).
+- ***ilúvenna*** — Q *ilúvë* «the whole, the all, allness», направительный (*-nna*): «zum Ganzen».
+- ***er mi hyana carë ar cuita*** — Q *er* «one, alone»; Q *hyana* «other» (как в 605) — «в другом». Q *exë* «the other» Eldamo помечает «УСТАРЕЛО → q hye», а *hye* — «other person», о лице. Здесь «Eins» и «andern» — не лица. *carë* — аорист Q *car-* «do, make» («wirkt»), Q *cuita-* «to live» (PE22/154), аорист *cuita*.
+- ***i melehti menelo oryar ar núyar*** — «Himmelskräfte»: *melehti* (как в 620) + род. от Q *menel* «the heavens, firmament». Q *orya-* «to rise» (как в 598, 604), Q *núya-* «to descend».
+- ***ar antar inten i laurië calpar*** — «reichen sich»: Q *anta-* «give» + дательный возвратного *inten* «себе»: «подают себе» — ближе к «друг другу» не выйдет (курс, стр. 15434: *quententë inten* «они говорили сами с собой»). *laurië* — мн. ч. от Q *laurëa* «golden (of hue)», форма из «Намариэ» (*laurië lantar lassi*). ᴹQ ***calpa*** «water-vessel, bucket» (у Eldamo через k: *kalpa*; от *kalpa-* «to draw water, scoop out») — вёдра для черпания, как у колодца. Мн. ч. *calpar*.
+- ***Rámainen nísimë almëo*** — ***rámainen*** «на крыльях» — форма из «Markirya» (*rámainen elvië* «on wings like stars», MC/222), как *súma* и *amaurëassë* в 627–628. Q *nísima* «fragrant» (UT/167, *Nísimaldar* «Fragrant Trees»), мн. ч. *nísimë*; Q *almë* «good (or blessed) thing, blessing» (PE17/146), род. *almëo*: «благоуханные благословением» — сложное «segenduftend» разобрано на два слова.
+- ***menelello terir cemen*** — образец курса — *cemenello menelenna* «от земли до небес» (стр. 7095), у Гёте наоборот: с неба через землю. нкв. *ter-* «to pierce» (из ᴱQ, PE14/28) для «dringen»: «пронзают», и это тот же корень, что предлог *ter* «сквозь» в 637.
+- ***ar lindalenen lindar ter Ilu*** — «harmonisch … durchklingen»: Q ***lindalë*** «music» (S/15 — это *Ainulindalë*), творительный; Q *linda-* «\*to sing, make music» (Minor-Doc 1975: *linduvanye*; значение со звёздочкой). ***Ilu*** — как в 610 (*i tehta Iluo*): позднее *ilu* — «больше, чем *ëa*», вместе с духами (VT39/20). Знак Макрокосма показал Фаусту, как силы небес «музыкой поют сквозь Всё», а у Толкина мир и начался с *lindalë* айнур. «all das» потеряно.
+
+**Что потеряно.** Рифмы (*webt / lebt*, *steigen / reichen*, *Schwingen / dringen / durchklingen*), «all das All», «auf und nieder» стало «восходят и нисходят» (это близко). «sich reichen» — «подают себе», а не «друг другу». **Не проверено.**
