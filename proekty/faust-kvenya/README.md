@@ -1338,3 +1338,21 @@
 - ***tensi nanyë haira cana*** — «noch bin ich weit zurück»: Q ***tensi*** «already, still, up to now/here; yet [from present]» (PE22/157); *nanyë* «я есть», как в 542; ᴹQ ***haira*** «remote, far» (Ety/KHAYA) — прилагательное, поэтому *nanyë haira* «я далёк». [Сначала стояло «позднего Q нет»: позднего *haira* нет, но есть поздние наречия Q *haia* «afar» (CPT/1296) и *palan* «far (and wide), afar, distant»; при *nanyë* нужнее прилагательное, оставил *haira*.]; Q ***cana*** «behind, at back of place» (VT43/30, форма в статье *ca(ta)*) — в Eldamo это предлог, здесь стоит без дополнения, как наречие (выведено; нкв. наречие *cána* «backward» — о направлении, не об отставании).
 
 **Что потеряно.** Рифма (*Glück / zurück*), «wohl». Проверено субагентом 28.11, поправки — в скобках и в примечаниях.
+
+# «Ночь», строки 778–781: «Such Er den redlichen Gewinn!» (пробуждение 2026-11-28, 05:47; черновик 0)
+
+> FAUST. ***Nai cesuvas faila cambië!***  (778: Such Er den redlichen Gewinn!)
+> ***Vás nauva alasaila romya nyellínen!***  (779: Sei Er kein schellenlauter Tor!)
+> ***Handelë ar téra tanalë***  (780: Es trägt Verstand und rechter Sinn)
+> ***tanar intë pitya mairenen!***  (781: Mit wenig Kunst sich selber vor!)
+
+Обратный перевод: «ФАУСТ. Пусть он ищет честной прибыли! / Не быть ему неразумным, громким от бубенцов! / Разум и правый смысл / показывают себя малым искусством!»
+
+Немецкий сверен (`ext/faust/faust.txt`, строки 778–781).
+
+- ***Nai cesuvas*** — «Such Er»: Фауст говорит Вагнеру «Er», снисходительное 3-е лицо (в 760–771 у него было обобщённое «ihr»). Сохраняю 3-е лицо толкиновским пожеланием *nai* + будущее с личным окончанием: *nai tuluvas enar* «пусть он придёт завтра» (курс, стр. 5364). Q ***ces-*** «to search, examine (in order to find)» (Q *cesta-¹* Eldamo помечает устаревшим), будущее *cesuva* + *-s*. Q ***faila*** «fair-minded, just, generous» (PM/352) за «redlich»; нкв. ***cambië*** «profit, gain, intake».
+- ***Vás nauva*** — «Sei Er kein…»: запрет 3-му лицу через *vá* с личным окончанием: «*vás(së)* „он не должен“» и *ván caruva* «я не собираюсь это делать» (курс, стр. 8790–8796, PE17/144). *nauva* — будущее от «быть». Q ***alasaila*** «unwise» (PE22/154) — то же слово, что *alasailë* в 542 («Laffen»). Нкв. ***romya*** «loud»; Q ***nyellë*** «small bell» (PE19/78), твор. мн. *nyellínen* «от бубенцов» (выведено). «Schellen» — бубенцы шута.
+- ***Handelë ar téra tanalë*** — «Verstand und rechter Sinn»: ᴹQ ***handelë*** «intellect» (Ety/KHAN; *handë* — «knowledge, understanding», шире); ᴹQ ***téra*** «straight, right», как мой «richtig» в 2.21; ***tanalë*** «Sinn» — слово автора из Suite (от *tana-* «показывать», в паре с Eldamo *teale*).
+- ***tanar intë pitya mairenen*** — «trägt … mit wenig Kunst sich selber vor»: Q ***tana-*** «to show, indicate», мн. ч. (два подлежащих), *intë* «себя» (мн.), как мой 2.15. Здесь игра, которой у Гёте нет, но которая сама вышла из слов автора: *tanalë tanar intë*, «смысл показывает сам себя». Это почти витгенштейновское «es zeigt sich». Q ***mairë*** «art», как в 744, твор. *mairenen*; Q ***pitya*** «petty, little» — «wenig».
+
+**Что потеряно.** Рифмы (*Gewinn / Sinn*, *Tor / vor*), «Er» стало формой пожелания, а не обращением. Не отдавал на проверку.
