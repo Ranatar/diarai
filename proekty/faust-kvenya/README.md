@@ -1080,3 +1080,25 @@
 - ***itan orta insa ve elmë, i fairi*** — *itan* «чтобы», как в «Трактате» 2.16 (слово автора). Q *orta-¹* «to raise, lift (up), (lit.) cause to rise» (по Eldamo, «one of Tolkien’s favorite example for causative verbs») + *insa* «себя» (грудь — неодушевлённое). *ve elmë* «как мы»: Q ***elmë*** — по Eldamo «we (emphatic inclusive), \*we (emphatic exclusive)»; исключающее (без Фауста) — со звёздочкой, догадка. *i fairi* — приложение, как «uns, den Geistern». «gleich» стало «как». У Гёте дательный «uns … gleich», у меня сравнение.
 
 **Что потеряно.** Рифмы (*Grauen* — с 689 *schauen*, *Ruf / erschuf*, *Freudebeben / heben*), «Übermensch» как слово эпохи. Проверено субагентом 28.11, поправки — в скобках.
+
+# «Ночь», строки 697–701: речь Духа, конец (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> ***Massë natyë, Faust, yeva óma lamyanë nin,***  (697: Wo bist du, Faust, des Stimme mir erklang,)
+> ***ye nindë ninna ilyë melehteryainen?***  (698: Der sich an mich mit allen Kräften drang?)
+> ***Ma natyë sa, ye, yorina súlenyanen,***  (699: Bist du es, der, von meinem Hauch umwittert,)
+> ***pápa ilyë nattustassen coiviéno,***  (700: In allen Lebenslagen zittert,)
+> ***rucila, cúnina hlócë?***  (701: Ein furchtsam weggekrümmter Wurm?)
+
+Обратный перевод: «Где ты, Фауст, чей голос звучал мне, / кто теснил меня всеми своими силами? / Ты ли это, кто, обведённый моим дыханием, / дрожит во всех положениях жизни, / боящийся, согнутый червь?»
+
+Немецкий сверен (`faust_nomera.py` — 0 расхождений).
+
+- ***Massë natyë*** — ᴹQ *massë* «where», как в 693; *natyë* «ты есть», как в 649. ***yeva óma*** — «des Stimme»: нкв. *yeva* «whose» (личная пара к *yava*, которое у меня в «Трактате» 2.171; статья без ссылок). Родительный от *ye* у Толкина — *yeo* (VT47/21), но с глоссой «from who». *óma* — как в 690. ᴹQ ***lamya-*** «to sound» (Ety/LAM), прошедшее *lamyanë* — слабое, выведено.
+- ***ye nindë ninna*** — Q ***nir-*** «to press, urge, thrust, force (in a given direction)»: прошедшее засвидетельствовано, *ninden* «я теснил» (PE22/165), отсюда *nindë*. Толкин уточняет: давление человека на других «by mind and ‘will’ as well as by physical strength» — Фауст теснил Духа именно всеми силами, и душевными тоже. *ninna* «на меня» — направительный: у Рёандила (VLDS, 2023) тот, на кого давят, стоит в направительном (*i eldar ninder i santie tenna*). «sich» не передано: *nir-* непереходен в смысле «напирать». В 643 у меня то же *nir-* для «sich drängt» (*i hwirina súma nirë*).
+- ***ilyë melehteryainen*** — *melehtë* «might», как в 650 (*melehtenyar*), 681 (*melehtenen*); + *-rya* «его» + творительный мн. ч. *-inen*. Выведено. У Гёте «mit allen Kräften» — у меня «всеми его силами».
+- ***Ma natyë sa, ye*** — *ma* — вопросительная частица (курс), *sa* «это». ***yorina súlenyanen*** — «von meinem Hauch umwittert»: страдательное причастие от Q *yor-* «to enclose, set bounds to/about» (PE17/43; как в «Трактате» 2.014, 2.203), без удлинения, как *car- → carina* (курс, стр. 13639); выведено. *súlë* — как в 691: там это было дыхание души Фауста, притянувшее Духа, здесь — дыхание самого Духа. Одно слово с двух сторон.
+- ***pápa*** — нкв. *pap-* «to tremble» (из ᴱQ *papa-*, QL/72), настоящее *pápa*. ***ilyë nattustassen coiviéno*** — «In allen Lebenslagen»: нкв. *nattusta* «situation, (lit.) collection of affairs» — у меня это «Sachlage» в «Трактате» (2.014, 2.202). «Lebenslage» — «положение жизни», и Гёте тут нечаянно говорит языком Витгенштейна. Местный мн. ч. *-ssen*.
+- ***rucila*** — «furchtsam»: действительное причастие от Q *ruc-* «to feel fear or horror» (WJ/415), как *lá rucita* в 655. Тот, кто хотел «не дрогнуть», теперь «дрожащий».
+- ***cúnina hlócë*** — «weggekrümmter Wurm»: Q ***cúna-*** «to bend» (из «Markirya»: *na-kúna*, *akúna*, MC/222–223), страдательное причастие *cúnina*: у *a*-глаголов *a* заменяется (курс, стр. 13649, *fara- → farina*). Выведено. Q ***hlócë*** «reptile, snake, serpent, worm» (PE17/160). «weg-» («прочь») потеряно.
+
+**Что потеряно.** Рифмы (*erklang / drang*, *umwittert / zittert*, *Wurm* — с 708 *Tatensturm*), «weg-». Не отдавал на проверку.
