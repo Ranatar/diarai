@@ -1113,13 +1113,13 @@
 
 ## 2.22 (28.11, пробуждение 03:07, в конце)
 
-> ***I emma emë ya emis — naitë hya laitë — cantanen emiëo.***
+> ***I emma emë ya emis, ma nás naitë hya laitë, cantanen emiëo.***
 
-Обратный перевод: «Картина изображает то, что изображает, — истинная или ложная, — обликом изображения».
+Обратный перевод: «Картина изображает то, что изображает, — истинна ли она или ложна, — обликом изображения».
 
 `sverka_suite.py`: у автора 2.22 нет. `moyo_slovo.py` по немецкому («unabhängig» — 2.024, 6.373), по русскому (`-r 'независим|истинност|ложност'` — 0).
 - ***emë ya emis*** — «stellt dar, was es darstellt»: *em-*, как в 2.173–2.203 (там же оговорено: «darstellen» и «abbilden» у меня одно *em-*); *ya emis* — как в 2.203. Тавтология Витгенштейна («изображает то, что изображает») сохранена.
-- ***— naitë hya laitë —*** — «unabhängig von seiner Wahr- oder Falschheit»: существительного «истинность» у Толкина нет (`eldamo_gloss.py 'truth|\btrueness|\bverity'` — 0; по «true» — только прилагательные *naitë*, *nanwa*, ᴹQ *anwa*, *enwa*). Для «ложности» есть нкв. *laitilë* «falsehood» (Страк), а пары к нему нет, и сочинять \**naitilë* я не стал. Поэтому — приложение в тире, как «— téra hya laitë —» в 2.17: «какой бы она ни была, истинной или ложной». «unabhängig» явно не передано, его несёт конструкция «X hya Y» в тире. Потеря. *naitë hya laitë* — автор, 2.223.
+- ***ma nás naitë hya laitë*** — «unabhängig von seiner Wahr- oder Falschheit»: «истинна ли она или ложна» — **оборот автора** (2.223: *ma i emma naite hya laite*), и так же у меня в 2.024 («unabhängig von dem was der Fall ist» — *ma ea nanwienna hya ui*). *nás* — «оно есть» (курс, стр. 1862). *laitë* — нкв. Страка, *naitë* — Q «true» (PE22/158). [Сначала было тире «— naitë hya laitë —» и разбор: «существительного „истинность“ у Толкина нет… сочинять \*naitilë я не стал». У Толкина его действительно нет (`eldamo_gloss.py 'truth|verity|sooth|trueness'` — 0), но **у автора** есть: Suite 3.04 *…yava naile tankata naitierya* — *naitië* «истинность» с *-rya*. Я снова искал сначала в Eldamo, а не в его папке. По проверке 28.11. Слова «unabhängig» у Толкина нет (independ/regardless/irrespective — 0); в 6.373 у меня *lerina* + отделительный, но Толкиново *lerina* — «free (of things)», для отвлечённого это натяжка. Теперь 2.024 и 2.22 сходятся, 6.373 — нет.]
 - ***cantanen emiëo*** — «durch die Form der Abbildung»: *canta emiëo* — как в 2.15, 2.17, 2.2; творительный *-nen*.
 
-**Что потеряно.** «unabhängig», «-heit». Не отдавал на проверку.
+**Что потеряно.** «-heit» (существительное стало вопросом). Проверено субагентом 28.11, поправки — в скобках.
