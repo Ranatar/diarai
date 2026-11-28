@@ -494,7 +494,7 @@
 - ***endaryassë*** — «в его сердцевине»: Q *enda* «heart; centre, \*interior» + *-rya* «его» + местный *-ssë* (Quettali: `poss-s3-loc-sing`). У Толкина *enda* — «сердце», но не орган: «It means „centre“, and refers… to the fëa or sáma itself, distinct from the periphery» (VT39/32, по заметке Eldamo). «Im Innersten» — то же «не на периферии».
 - Второе чтение по Quettali: *nassë* — ещё и *ná* + *-ssë*, «он есть».
 
-**Что потеряно.** Рифма *Welt / zusammenhält*, глагол «zusammenhalten». Не отдавал на проверку.
+**Что потеряно.** Рифма *Welt / zusammenhält*, глагол «zusammenhalten». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 560–561 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
 
@@ -507,7 +507,7 @@
 - ***erdi*** — «семена», ᴹQ *erde* «seed, germ». **Оговорка:** в позднем Q *erdë* значит «singularity» («the totality of an individual, including body, mind, and soul», MR/216, 1958), и Quettali читает *erdi* именно так. Позднего слова для «семени» нет (`eldamo_gloss.py`: ᴹQ *erde*, неоквенийское *ori* «grain, ⚠️seed»). Для читателя позднего Q строка звучит как «всякую силу и всякую единичность»: Фауст хочет видеть не семена мира, а его отдельные существа. Это далеко от Гёте, но не бессмысленно. Пусть останется с этой пометкой, а заменить можно позже.
 - ***lá cesuvan quettassen*** — «не буду рыться в словах». Q *ces-* «to search, examine (in order to find something)» (PE17/156, 1964), будущее 1 л. ед. ч. *cesuvan*, как *cen- → cenuvan*. Quettali *ces-* не знает ни в одной форме (проверил *cesë*, *cesin*, *cesuva*; *cesta-* «seek» знает). Сначала я проверил свою форму по образцу *cenuvan*, потом слово в Eldamo, и только после этого записал пробел за ним. *quettassen* — местный мн. ч. от *quetta* «word». Слово опять стоит в центре: через тысячу строк Фауст напишет «Im Anfang war das Wort» и отвергнет его.
 
-**Что потеряно.** Рифма *Samen / kramen*, «nicht mehr». Не отдавал на проверку.
+**Что потеряно.** Рифма *Samen / kramen*, «nicht mehr». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 563–564 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
 
@@ -521,7 +521,7 @@
 - ***métima lúmessë*** — «в последний раз»: Q *métima* «last, ultimate, final» + местный падеж от Q *lúmë¹* «time, period of time, hour». **Поправка по Quettali:** в черновике стояло *lússë* от *lú*, но *lú* «time, occasion» — только ᴹQ, а в позднем Q *lú(n)* — «\*deep pool» (`eldamo_statya.py lú`). Ошибся я, а не программа. Второе чтение по Quettali: *lúmë²* «darkness», то есть «в последней тьме». Для полуночи у пульта — к месту.
 - ***nyérenyanna*** — «на мою скорбь»: *nyérë* «grief» — неоквенья (ᴱQ *nyére*), + *-nya* «моя» + направительный *-nna* («auf»). «Pein» (мука) стало «скорбью».
 
-**Что потеряно.** Рифма *Mondenschein / Pein*, «voller» как «полная луна». Не отдавал на проверку.
+**Что потеряно.** Рифма *Mondenschein / Pein*, «voller» как «полная луна». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 565–566 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
 
@@ -534,7 +534,7 @@
 - ***ter rimbë morendion*** — «сквозь множество полночей»: *ter* «through», Q *rimbë* «host, great number» (существительное) + род. мн. от неоквенийского *morendë* «midnight» (Luinyelle). Сначала я хотел прилагательное *rimbë* «многие», но *rimba* «numerous» есть только в ᴹQ (`eldamo_statya.py rimba`), а Quettali разобрал *rimbë* как существительное. Перестроил в «множество полночей».
 - ***ara parmar sinë*** — «у этих книг»: *ara* «beside» (как в моём «Трактате» 6.3), *parmar* «books». Пульта в квенья нет, и Фауст стоит у книг, что для него одно и то же. *sinë* — мн. ч. от *sina* «this» (Quettali: `adj-ppos`).
 
-**Что потеряно.** Рифма *Mitternacht / herangewacht*, «manche», «Pult». Не отдавал на проверку.
+**Что потеряно.** Рифма *Mitternacht / herangewacht*, «manche», «Pult». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 567–568 (пробуждение 2026-10-27, 16:34, остаток; черновик 0)
 
@@ -1201,11 +1201,11 @@
 - ***Ai, fírië!*** — «O Tod!»: *ai*, как в 576, 665, 686. *fírië* «death» — как «Tod» в «Трактате» 6.4311 и 6.4312 (`moyo_slovo.py 'Tod'`). У Гёте — досадливое восклицание; у меня то же слово, что у Витгенштейна в «Der Tod ist kein Ereignis des Lebens».
 - ***Istan sa*** — Q *ista-* «know», *sa* «это». ***Famulusinya*** — латинское слово Гёте оставлено, как «Nostradamus» в 614; + *-inya* после согласного (курс, стр. 1690: *elen-inya*). ᴹQ *núro* «servant» сделало бы Вагнера слугой, а он ученик-помощник.
 - ***ammelda alassenya*** — «mein schönstes Glück»: Q ***ammelda*** — засвидетельствованная усилительная форма от *melda* «dear, beloved» (PE17/57; превосходная степень на *am-/an-*, курс, стр. 14290). «Прекраснейшее» стало «дражайшим» — сдвиг. *alassë* + *-nya*, как *alassë* в 614, 653.
-- ***ola alla*** — «wird … zunichte»: Q *ola-* «to become» (*ólar*, CPT/1296), как в 621 (*Ta calima ola nin*). ᴹQ *alla²* «none, nothing», как «Nichts» в «Трактате» 6.11. Нкв. *munta* не взял: у Eldamo ⚠ стоит как раз на «nothing» (хотя автор ставит *munta* в 2.012).
+- ***ola alla*** — «wird … zunichte»: Q *ola-* «to become» (*olōlie* «has become», PE22/133; *ólar* в CPT/1296 — «grew», о деревьях — по проверке 28.11), как в 621 (*Ta calima ola nin*). ᴹQ *alla²* «none, nothing», как «Nichts» в «Трактате» 6.11. Нкв. *munta* не взял: у Eldamo ⚠ стоит как раз на «nothing» (хотя автор ставит *munta* в 2.012).
 - ***Sa quantassë sina olorion*** — «Daß diese Fülle der Gesichte»: *sa* «что» — как в «Трактате» 2.15. нкв. ***quantassë*** «fullness» (от Q *quanta* «full» — как *quanta isilmë* в 563 и *quantemma* в 730). Q ***olor*** «dream, vision», мн. ч. *olori* засвидетельствовано (UT/396); род. мн. *olorion*. По заметке Толкина (UT/396) *olor* — не сонные сны людей: «To the Eldar it included the vivid contents of their memory». Так что «Gesichte» Фауста стали эльфийскими видениями-воспоминаниями, и это близко: Дух только что был перед ним.
 - ***mauya i parca hlicilan peresta*** — «Der trockne Schleicher stören muß»: *mauya* + дательный + инфинитив, как в 669 и 704. ᴹQ ***parka*** «dry» (Ety); ᴹQ ***hlik-*** «to creep, \*sneak», действительное причастие *hlicila* по курсу (*-ila*, стр. 13614), здесь в роли существительного «ползущий» в дательном — выведено. нкв. ***peresta-*** «to disturb». Порядок, как у Гёте: дополнение («diese Fülle») впереди.
 
-**Что потеряно.** Рифмы (*zunichte / Gesichte*; *Famulus / muß*), «schönstes». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*zunichte / Gesichte*; *Famulus / muß*), «schönstes». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 738–745: Вагнер (пробуждение 2026-11-28, 03:07; черновик 0)
 
@@ -1220,34 +1220,34 @@
 
 Немецкий сверен (`faust_nomera.py`).
 
-- ***Wagner mi lómëa vaima*** — нкв. *vaima* «wrap, robe» (из ᴱQ), *lómëa* «ночной, сумрачный», как *lómëa málo* в 568. «Nachtmütze» опущен. *calma máryassë* — *calma* «лампа», как в 658 (та лампа погасла, Вагнер несёт новую); *má* + *-rya* + *-ssë*, ср. *máryat* в «Намариэ». ***Faust querë insë úcaira*** — *quer-* «to turn», как в 645 (*Queris i parma úcaira* — тогда «unwillig» было про книгу, теперь про Вагнера), *insë* «себя» (лицо; шпаргалка), *úcaira* — как в 645.
+- ***Wagner mi lómëa vaima*** — нкв. *vaima* «wrap, robe» (из ᴱQ), *lómëa* «shadowed, gloomy, \*dusk-like», как *lómëa málo* в 568; «ночной» — сдвиг (по проверке 28.11). «Nachtmütze» опущен. *calma máryassë* — *calma* «лампа», как в 658 (та лампа погасла, Вагнер несёт новую); *má* + *-rya* + *-ssë*, ср. *máryat* в «Намариэ». ***Faust querë insë úcaira*** — *quer-* «to turn», как в 645 (*Queris i parma úcaira* — тогда «unwillig» было про книгу, теперь про Вагнера), *insë* «себя» (лицо; шпаргалка), *úcaira* — как в 645.
 - ***Á nin apsenë!*** — «Verzeiht!»: Q ***apsen-*** «to remit, release, forgive» — из «Átaremma» (*apsene*, VT43/18). *Á* + основа — повелительное. Вагнер говорит Фаусту «Ihr», и я беру вежливое ***lyë*** (курс, стр. 1653–1656: *lye* «тебя (Вас)», вежливая форма), а Фауст Духу говорил *tyë*. Различие «Ihr / du» Гёте сохранено.
 - ***Hlarin lyë nyarila*** — *hlar-* «hear», как в 690. Q ***nyar-*** «to relate, recite» (ᴹQ — «recite (in sing-song voice)»), действительное причастие *nyarila* — «декламирующего». У Гёте инфинитив («hör euch deklamieren»), у меня причастие — выведено.
 - ***ma cendanelyë*** — *ma* — вопрос; Q *cenda-* «to watch (intensively)… to read», как *cendanen* в 565 (там Фауст «высматривал» луну, здесь — «читал»: у Толкина одно слово). Прошедшее *cendanë* + *-lyë*. Q ***naitië*** «indeed, truly» — «gewiß», как *naitië* в «Трактате» 6.3751.
-- ***tyalië nairëo Hellenórëo*** — «ein griechisch Trauerspiel»: немецкое «Trauer-spiel» — «игра печали»: Q *tyalië* «mirth; [ᴹQ.] play, game» + *nairëo* — *nairë* «горе», как в 653. нкв. *Hellenórë* «Greece, Greek people», родительный. Сложного слова не делаю.
+- ***tyalië nairëo Hellenórëo*** — «ein griechisch Trauerspiel»: немецкое «Trauer-spiel» — «игра печали»: Q *tyalië* «mirth; [ᴹQ.] play, game» + *nairëo* — ᴹQ *nairë* «lament, sorrow» (Ety/NAY), как в 653. [Сначала без пометки языка. По проверке 28.11: в позднем Q этого слова нет, а нкв. *nairë* (из *ñ-*) — «space»; позднее Q для «плача» — *nainië*.] нкв. *Hellenórë* «Greece, Greek people», родительный. Сложного слова не делаю.
 - ***Mairë sinallo merin cavë ma*** — «In dieser Kunst möcht ich was profitieren»: Q ***mairë*** «art, work of high and beautiful art», отделительный с *sina* — «от этого искусства». Q ***cav-*** «to receive» (VT47/21), инфинитив *cavë*: «profitieren» стало «получить» (нкв. *cambië* «profit» — от того же глагола). *merin* — «хочу»: «möcht» — мягче. Сдвиг.
-- ***an sinar ta carë mai*** — «Denn heutzutage wirkt das viel»: *an* «ибо», Q ***sinar*** «today» (в ᴹQ и «nowadays»), *car-* «do» — «wirkt», как в 716, 1646. Q *mai* «well»: позднего «много» (наречия) я не нашёл (`eldamo_gloss.py '^much\b|\bmuch\b|\bmany\b' q`), поэтому «viel» стало «хорошо». Сдвиг.
+- ***an sinar ta carë mai*** — «Denn heutzutage wirkt das viel»: *an* «ибо», Q ***sinar*** «today» (в ᴹQ и «nowadays»), *car-* «do» — «wirkt», как в 716, 1646. Q *mai* «well» (⚠ у него только на ᴱQ «too much»): позднего «много» (наречия) я не нашёл (`eldamo_gloss.py '^much\b|\bmuch\b|\bmany\b' q`), поэтому «viel» стало «хорошо». Сдвиг.
 
-**Что потеряно.** Рифмы (*deklamieren / profitieren*, *Trauerspiel / viel*), «Nachtmütze», «viel». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*deklamieren / profitieren*, *Trauerspiel / viel*), «Nachtmütze», «viel». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 746–751 (пробуждение 2026-11-28, 03:07; черновик 0)
 
 > WAGNER. ***Linan ahlárien sa laitaina:***  (746: Ich hab es öfters rühmen hören,)
-> ***ecë tyalindon nolya airimo.***  (747: Ein Komödiant könnt einen Pfarrer lehren.)
+> ***ecë tyalindon saita airimo.***  (747: Ein Komödiant könnt einen Pfarrer lehren.)
 >
 > FAUST. ***Ná, qui i airimo ná tyalindo;***  (750: Ja, wenn der Pfarrer ein Komödiant ist;)
 > ***ve ta lúmelissen tulë.***  (751: Wie das denn wohl zuzeiten kommen mag.)
 
-Обратный перевод: «ВАГНЕР. Не раз я слышал это хвалимым: / актёру возможно учить пастора. — ФАУСТ. Да, если пастор — актёр; / как это порой и бывает».
+Обратный перевод: «ВАГНЕР. Не раз я слышал это хвалимым: / актёру возможно умудрить пастора. — ФАУСТ. Да, если пастор — актёр; / как это порой и бывает».
 
 Немецкий сверен (`faust_nomera.py`).
 
 - ***Linan*** — «öfters»: ᴹQ *li(n)an* «many a time, not seldom, several times, often, sometimes» (позднего Q-наречия нет; нкв. *rillumë* «frequently»). ***ahlárien*** — перфект Q *hlar-* «hear» по курсу (стр. 8525–8535: приращение = опорный гласный, удлинение, *-ië*; *mat- → amátië*) + *-n*. Выведено. ***sa laitaina*** — «es rühmen»: Q *laita-* «to praise, bless» (*laituvalmet*, Let/448 — та же хвала на Кормаллене, что *andavë* в 682), страдательное причастие *laitaina* (слабый глагол, *-ina* прибавляется, курс, стр. 13644). «hören + инфинитив» стало «слышать хвалимым» — сдвиг.
-- ***ecë tyalindon nolya airimo*** — «könnt … lehren»: *ecë* + дательный + инфинитив — «возможно кому-то», как в 540 (*lá ecë ven ista*). Q *pol-* не взял: у Толкина это «physical power and ability» (VT41/6; по проверке разделов 530–557 в этот же час). нкв. ***tyalindo*** «player» — от *tyal-* «play», того же корня, что *tyalië* «Trauerspiel» в 743: у Гёте «Komödiant» и «Trauerspiel» связаны театром, у меня — корнем. ᴹQ ***nolya-*** «to teach». нкв. ***airimo*** «priest» (от Q *aira* «holy»).
+- ***ecë tyalindon nolya airimo*** — «könnt … lehren»: *ecë* + дательный + инфинитив — «возможно кому-то», как в 540 (*lá ecë ven ista*). Q *pol-* не взял: у Толкина это «physical power and ability» (VT41/6; по проверке разделов 530–557 в этот же час). нкв. ***tyalindo*** «player» — от *tyal-* «play», того же корня, что *tyalië* «Trauerspiel» в 743: у Гёте «Komödiant» и «Trauerspiel» связаны театром, у меня — корнем. нкв. ***saita-*** «to teach, (lit.) make wise» — как в 548, где Фауст говорит, что учить не может (*uin quista i ecë nin saita*): Вагнер отвечает тем же глаголом. [Сначала было ᴹQ *nolya-*; разнобой с 548 заметил проверяющий, 28.11.] нкв. ***airimo*** «priest» (по Eldamo — от Q *airë¹*).
 - ***Ná*** — «Ja»: Q *ná* «yes, it is so, it is a fact». Потом то же *ná* — «есть»: *qui i airimo ná tyalindo*. Двойное *ná* в одной строке — у Гёте этого нет, но у Толкина «да» и «есть» — одно слово.
 - ***ve ta lúmelissen tulë*** — «Wie das denn wohl zuzeiten kommen mag»: *ve* «как», *ta* «это», нкв. *lúmelissen* «sometimes, at times» (мн. частичный местный от *lúmë*), Q *tul-* «come», аорист *tulë*. «denn wohl … mag» (ирония «пожалуй, может») потеряно.
 
-**Что потеряно.** Рифмы (*hören / lehren*; *ist* — с 751 нет), «mag», «wohl». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*hören / lehren*; *ist* — с 751 нет), «mag», «wohl». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 754–757 (пробуждение 2026-11-28, 03:07; черновик 0)
 
