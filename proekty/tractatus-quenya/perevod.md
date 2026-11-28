@@ -1029,7 +1029,7 @@
 
 ## 2.171–2.172 (28.11, пробуждение 03:07)
 
-> ***I emma pole emë ilya nanwië yava canta haryas. I yánëa emma ilqua yánëa, i quilëa ilqua quilëa, ar sië.*** (2.171)
+> ***I emma pole emë ilya nanwië yava canta haryas. I yánëa emma ilqua yánëa, i quilëa ilqua quilëa, arta.*** (2.171)
 > ***Mal cantarya emiëo i emma ui pole emë; tanas sa.*** (2.172)
 
 Обратный перевод: «Картина может изображать всякую действительность, чей облик она имеет. Пространственная картина — всё пространственное, цветная — всё цветное, и так далее. — Но свой облик изображения картина изображать не может; она его показывает».
@@ -1038,7 +1038,7 @@
 - ***yava canta haryas*** — «deren Form es hat»: нкв. ***yava*** «whose, of which» (Фаускангер, PPQ; *ya* + притяжательное *-va*), *haryas* — «она [картина] имеет». У Толкина есть родительный от личного *ye*: *yeo* (VT47/21, глосса «from who»), но он для одушевлённых, и *-o* там в старом значении «от». [Сначала было *qui harya cantarya* «если имеет её облик», с разбором: «Относительного в родительном у Толкина нет: засвидетельствованы только *yassen*, *yasse*, *yan*; курс приводит *yallo*, *ó ye*». Это было ложное «нет», найденное одним ключом (статья *ya*). `tolko.py` показал строку, второй ключ (статья *ye* и `eldamo_gloss.py 'whose|of which'`) нашёл *yeo* и нкв. *yava*. Поправлено сразу, 28.11.]
 - ***I yánëa emma ilqua yánëa*** — нкв. *yánë* «space (as a physical dimension)», как в 2.013 и 2.0131 (*yánë quileron* «пространство цветов»); прилагательное *yánëa* — **моё**, по образцу *-ëa* от существительных (*lómë → lómëa*, «Фауст» 568). Глагол опущен, как у Витгенштейна. *ilqua* «всё» — как у автора в 1 (*ilqua ya ea*).
 - ***i quilëa ilqua quilëa*** — нкв. *quilëa* «coloured, -hued» (от нкв. *quilë*, как в 2.0131). Ловушка: ᴹQ *laite* значит «colour», а у автора *laite* — «falsch» (2.223). Беру *quilë*, иначе «цветная картина» читалась бы «ложная».
-- ***ar sië*** — «etc.»: Q *sië* «thus, so». Сочетание — моё.
+- ***arta*** — «etc.»: Q ***arta¹*** «etcetera, \*and so forth» (PE17/71: *malta, tyelpe, míri, arta* «золото, серебро, самоцветы и т. д.»; *ar* + *ta*). Толкин ставит его в конце перечня, как и Витгенштейн. [Сначала было *ar sië*, моё сочетание; *arta* нашёл 28.11, когда перепроверял «нет» в 2.173.]
 - ***Mal cantarya emiëo i emma ui pole emë*** — дополнение вынесено вперёд, как у Витгенштейна («Seine Form der Abbildung aber»). *ui* перед глаголом — курс §5.5.1.2 (стр. 8722), как в моих 6.5 и 6.4321.
 - ***tanas sa*** — «es weist sie auf»: *tana-* «show» — у меня оно под «zeigen» (4.022 автора *Eques tana tanalerya*; моё 4.1212 *tánima*). У Витгенштейна здесь «aufweisen», а не «zeigen»: одно слово на оба — потеря. *sa* — «его» (облик), как в 2.17 *emë sa* (там — действительность).
 
@@ -1047,18 +1047,18 @@
 ## 2.173–2.174 (28.11, пробуждение 03:07)
 
 > ***I emma emë anwarya etsello (cennomerya ná cantarya emiëo); epetai i emma emë anwarya téra hya laitë.*** (2.173)
-> ***Mal i emma ui pole panya insa etsessë cantaryo emiëo.*** (2.174)
+> ***Mal i emma ui pole panya insa et cantarya emiëo.*** (2.174)
 
 Обратный перевод: «Картина изображает свой предмет извне (её точка взгляда есть её облик изображения); вследствие этого картина изображает свой предмет верная или ложная. — Но картина не может поставить себя вне своего облика изображения».
 
 `sverka_suite.py`: у автора 2.173–2.174 нет.
 - ***emë*** — «stellt … dar». Здесь у Витгенштейна «darstellen» и «Form der **Darstellung**», а в 2.17–2.172 — «abbilden» и «Form der **Abbildung**». У меня оба — *em-* / *emië*, как уже в 2.221 (*Ya i emma emë*). Потеря, и сознательная. Сначала я взял нкв. *apanta-* «to open, reveal, show, display», но его «show» сливается с *tana-* «zeigen», а Витгенштейн в 2.172 и 4.121 противопоставляет как раз «darstellen/abbilden» и «zeigen/aufweisen». Лучше склеить два «изображать», чем «изображать» с «показывать».
 - ***anwarya*** — «sein Objekt». У Витгенштейна здесь «Objekt», а не «Gegenstand»; у меня, как у автора (2.01), «Gegenstand» — *anwa*, и «Objekt» стало им же. Потеря.
-- ***etsello*** — «von ausserhalb»: ᴹQ ***etse*** «outside, exterior» (EtyAC/ET) + *-llo*. Позднего Q-слова для «снаружи» нет: `eldamo_gloss.py '\boutside…'` даёт Q *ava¹* «\*outer» (по Eldamo это ᴹQ «outside, beyond» и прилагательное) и Q *ar(a)* «beside» (с пометкой «⚠️out»). Форма *etsello* — выведено.
+- ***etsello*** — «von ausserhalb»: ᴹQ ***etse*** «outside, exterior» (EtyAC/ET) + *-llo*. Форма *etsello* — выведено. [Здесь стояло «Позднего Q-слова для „снаружи“ нет», по одному ключу `'\boutside…'`. Второй ключ (`'\bexterior|\bouter|\bout\b|\bforth'`) нашёл Q ***et*** «out (of)» (*Et Eärello*, LotR/967). Но *et* у Толкина — «из» (движение, обычно с отделительным), а «von ausserhalb» — не «из», а «снаружи, извне». Поэтому здесь оставил *etsello*, а в 2.174 взял *et*. 28.11.]
 - ***cennomerya*** — «sein Standpunkt»: нкв. ***cennomë*** «point of view, vista» (статья без ссылок и автора). По составу это *cen-* «видеть» + *nómë* «место», «место, откуда видят», и *nómë* — то же, что в моём 2.131 *mi nómë*. Скобки Витгенштейна сохранены.
 - ***epetai*** — «darum»: Q ***epetai*** «consequently; (lit.) following which (fact)» (VT49/8, 12; у Толкина *epetai i hyarma ú ten ulca…*). Позднее слово с толкиновским примером.
 - ***téra hya laitë*** — как в 2.17.
 - ***panya insa*** — «sich … stellen»: ᴹQ ***panya-*** «to fix, set» (Ety/PAN), инфинитив после *pole*. Q *insa* «itself» — возвратное для неодушевлённого (VT47/37; шпаргалка, «Возвратные»). [В шпаргалке записан урок прошлого пробуждения: не путать с выразительными.]
-- ***etsessë cantaryo emiëo*** — «ausserhalb seiner Form der Darstellung»: местный *etsessë* «во внешнем» + родительный *cantaryo* (*canta* + *-rya* + *-o*, курс, стр. 2060: *hestoryo*). Конструкция «местный падеж существительного + родительный» вместо предлога — выведено. Это то же «вне», что и в 2.173 *etsello*, только «где», а не «откуда»: у Витгенштейна тоже одно слово *ausserhalb*.
+- ***et cantarya emiëo*** — «ausserhalb seiner Form der Darstellung»: Q ***et*** «out (of)». Обычно с отделительным (*et Eärello*), и тогда это движение «из». Без падежа у Толкина один пример, *et i péti* (VT47/35). Eldamo предполагает, что *et* с именительным может значить положение: *et i coa* «вне дома (не выходя из него)». На это предположение я и опираюсь: картине не выйти *из* облика, она не может стоять *вне* его. Выведено. [Сначала было *etsessë cantaryo emiëo* — ᴹQ *etse* в местном падеже + родительный; заменено позднее слово 28.11.] В 2.173 «ausserhalb» осталось *etsello*: одно немецкое слово стало двумя.
 
-**Что потеряно.** «Darstellung/Abbildung», «Objekt/Gegenstand». Не отдавал на проверку.
+**Что потеряно.** «Darstellung/Abbildung», «Objekt/Gegenstand», одно «ausserhalb» на два места. Не отдавал на проверку.
