@@ -1,0 +1,152 @@
+{
+ "title": "Девизы «Трактата»: немецкий и квенья",
+ "styles": [
+  "ambient_film"
+ ],
+ "seconds": 150,
+ "tempo_bpm": 70,
+ "meter": "свободно",
+ "key": null,
+ "language": "modal",
+ "library": "plain",
+ "library_notes": [],
+ "defaults": [
+  "version",
+  "purpose",
+  "sync.mode",
+  "sync.cues_file",
+  "sync.video_file",
+  "style.cards",
+  "style.mood",
+  "style.references",
+  "style.avoid",
+  "language",
+  "key",
+  "tempo_bpm",
+  "meter",
+  "ensemble.size",
+  "ensemble.include",
+  "ensemble.exclude",
+  "ensemble.noises",
+  "ensemble.processing",
+  "commercial_ad",
+  "dramaturgy.arc",
+  "dramaturgy.climax_s",
+  "dramaturgy.ending",
+  "themes",
+  "characters",
+  "silences",
+  "deliver",
+  "iteration.sketch_first",
+  "iteration.sketch_seconds",
+  "iteration.ask_before_full",
+  "notes"
+ ],
+ "sections": [
+  {
+   "t0": 0.0,
+   "t1": 25.0,
+   "label": "раздел 1",
+   "mood": "",
+   "intensity": 0.5,
+   "note": "",
+   "leader": "vc_sus",
+   "texture": "реверс-подъёмы к монтажным точкам",
+   "register": "low",
+   "pulse": "slow",
+   "dynamic": "p"
+  },
+  {
+   "t0": 25.0,
+   "t1": 50.0,
+   "label": "раздел 2",
+   "mood": "",
+   "intensity": 0.5,
+   "note": "",
+   "leader": "vibes",
+   "texture": "низкий пульс",
+   "register": "mid",
+   "pulse": "slow",
+   "dynamic": "p"
+  },
+  {
+   "t0": 50.0,
+   "t1": 75.0,
+   "label": "раздел 3",
+   "mood": "",
+   "intensity": 0.5,
+   "note": "",
+   "leader": "afl_sus",
+   "texture": "медленные пэды струнных и органа",
+   "register": "wide",
+   "pulse": "slow",
+   "dynamic": "p"
+  },
+  {
+   "t0": 75.0,
+   "t1": 100.0,
+   "label": "раздел 4",
+   "mood": "",
+   "intensity": 0.5,
+   "note": "",
+   "leader": "choir",
+   "texture": "редкие колокольные ноты",
+   "register": "wide",
+   "pulse": "none",
+   "dynamic": "p"
+  },
+  {
+   "t0": 100.0,
+   "t1": 125.0,
+   "label": "раздел 5",
+   "mood": "",
+   "intensity": 0.5,
+   "note": "",
+   "leader": "org_quiet",
+   "texture": "медленные пэды струнных и органа",
+   "register": "low",
+   "pulse": "none",
+   "dynamic": "p"
+  },
+  {
+   "t0": 125.0,
+   "t1": 150.0,
+   "label": "раздел 6",
+   "mood": "",
+   "intensity": 0.5,
+   "note": "",
+   "leader": "vc_sus",
+   "texture": "низкий пульс",
+   "register": "mid",
+   "pulse": "none",
+   "dynamic": "p"
+  }
+ ],
+ "hits": [],
+ "silences": [],
+ "themes": [],
+ "characters": [],
+ "avoid": [
+  "активная мелодия поверх речи",
+  "резкие удары без метки"
+ ],
+ "devices": [
+  "pad",
+  "spores",
+  "swell",
+  "heartbeat",
+  "arpeggio (редко)"
+ ],
+ "ending": "cadence",
+ "deliver": [
+  "mp3",
+  "midi",
+  "pdf",
+  "report"
+ ],
+ "sketch": {
+  "sketch_first": true,
+  "sketch_seconds": 60,
+  "ask_before_full": false
+ }
+}
