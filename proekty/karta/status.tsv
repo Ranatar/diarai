@@ -208,3 +208,7 @@ html-generated/cogitatio.html	бегло	дневник 2026-11-28-0547 (оди�
 html-generated/ritus.html	частично	дневник 2026-11-28-0547 (снимки 0/20/60/85 с; подписи из кода: Tenebrae → Invocatio → Excitatio → Cogitatio → Haeresis → Exorcismus → Cogitatio resumpta → Responsum; пара к immollimma/requests/ritus-cogitationis)
 html-generated/kulman3d.html	бегло	дневник 2026-11-28-0547 (снимок; three.js подменён локальным r128 из ext/wormlisp)
 html-generated/pendulum-wave.html	бегло	дневник 2026-11-28-0547 (снимок; то же)
+html-generated/tpm/	бегло	дневник 2026-11-28-0547 (tpm2-model: снимки «Общий вид», «Лист»; подмена three.js и OrbitControls из ext/wormlisp; печать своей строки снять не удалось — screenshot timeout во время анимации; шрифты tpm2-font-*.js не открывал)
+html-generated/philosynth-gallery.html	бегло	дневник 2026-11-28-0547 (подписи 90 снимков, разделы 1–8; снимки не открывал)
+Synthesises-of-concepts/various/philosynth_social_spec.md	частично	дневник 2026-11-28-0547 (§1–2)
+Synthesises-of-concepts/various/philosynth_stress_test.md	бегло	дневник 2026-11-28-0547 (начало, таблица генераций)
