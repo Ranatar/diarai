@@ -1614,3 +1614,19 @@
 **Что потеряно.** Рифмы (*fortgewacht / Nacht*, *besprechen*, *Ostertage / Frage*), сослагательное «hätte», сама Пасха, «als» отождествления. ᴹQ *lav-²* с дательным — догадка (в позднем Q *lav-* — «лизать»). Нкв. *cuiva* «awake» — омоним позднего Q *cuiva* «animal» (у Eldamo устаревшее → *celva*).
 
 Проверено субагентом 28.11; поправки (*lye*, *ré*) сверены мной по курсу и Eldamo.
+
+# «Ночь», строки 844–845: «Zwar weiß ich viel, doch möcht’ ich alles wissen» (пробуждение 2026-11-28, 12:07; черновик 1, не проверен)
+
+> WAGNER. ***Mínavë antanen imni ingolen;***  (844: Mit Eifer hab’ ich mich der Studien beflissen;)
+> ***istan laka, mal merin ista ilqua.***  (845: Zwar weiß ich viel, doch möcht’ ich alles wissen.)
+
+Обратный перевод: «С рвением я отдал себя знанию; / знаю много, но хочу знать всё».
+
+Немецкий сверен (`sed -n 844,845p ext/faust/faust.txt`).
+
+- ***Mínavë*** — Q *mína* «desiring to start, eager to go» + наречное *-vë* (курс, стр. 14182). Рвение, которое рвётся *начать*, — точно для Вагнера, который всё время собирается учиться.
+- ***antanen imni ingolen*** — прошедшее Q *anta-* «give» (*antanen*, как в `kvenya-formy.md`); Q ***imni*** «myself» (VT47/37; курс, стр. 15406); Q ***ingolë*** «lore, science, philosophy» (ᴹQ «deep lore, magic»), дательный *ingolen*. «Sich der Studien befleißen» — «прилежно отдаться занятиям», у меня «отдал себя знанию». Но *ingolë* в ᴹQ — ещё и «магия», и у Фауста, который в этой сцене только что звал Духа Земли, это слово звучит двусмысленно. У Вагнера — без умысла.
+- ***istan laka*** — Q *ista-*, как в 827 и 832; ᴹQ ***laka*** «much (abundant), a great quantity» (PE23/104), прилагательное-местоимение.
+- ***mal merin ista ilqua*** — *merin* + инфинитив, как у Вагнера в 744 и 827 (*merë ista*); *ilqua* — ᴹQ *ilqa* «everything, all» в написании с *qu*, как мой «Трактат» 6.4312. «Möcht’» — сослагательное, у меня «хочу».
+
+**Что потеряно.** Рифма *beflissen / wissen*, уступительное «zwar … doch» (осталось только *mal*), «möcht’».
