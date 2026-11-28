@@ -235,7 +235,7 @@
 
 [Черновик 1, по проверке субагента; находки сверены мной. Было *Ar ya lutë…, / á tancata sa…*. Две поправки — ниже, у *ya* и *á tancata*. Номера «505–506» — строки файла `faust.txt`, а не нумерация стихов. По памяти, в принятой нумерации это 348–349, не сверено. Тоже по памяти: в критических изданиях, кажется, «Befestiget» (тогда стих — правильный ямб с женским окончанием), а «Befestigt» — особенность издания Gutenberg. Не сверено.]
 
-Текст Гёте сверен с `ext/faust/faust.txt`, строки 501–506. [По памяти я ждал «Befestiget», а в издании Gutenberg — «Befestigt». Проверил до перевода.] Все слова — поздний Q (`eldamo_slova.py`, 21.10):
+Текст Гёте сверен с `ext/faust/faust.txt`, строки 501–506. [По памяти я ждал «Befestiget», а в издании Gutenberg — «Befestigt». Проверил до перевода.] [28.11, по проверке: «все» неверно — *ilqua* здесь ᴹQ *ilqa* (PE23/106), смысл «everything» помечен ⚠; в 1646 и 631 я это уже оговаривал.] Почти все слова — поздний Q (`eldamo_slova.py`, 21.10):
 - ***ilqua ya*** — Q *ya* «which, that (relative pronoun)» (PE17/66) с предшествующим *ilqua*, как у автора в положении 1: *ilqua ya ea*. [Сначала стояло голое *ya* «то, что» со ссылкой на тот же пример, но у автора там есть *ilqua*, и мой пример опровергал мой же тезис. Относительное без предшествующего слова мне в курсе не встретилось. *ilqua ya* — «всё, что» — сильнее гётевского «was», но держится на образце.]
 - ***lutë*** — Q *lut-* «to float, flow [on or in water]», аорист основы на согласный — *-ë*. «Schweben» — скорее «парить», а не «плыть по воде». Ближе ничего позднего не нашёл: у ᴹQ *vil-* «to fly» значение «float» — ᴱQ, и Eldamo помечает его ⚠️ («not recommended for Neo-Quenya», `terminology.txt`). [Сначала я написал «как устаревшее»: ⚠️ значит не это.] Плывущее — это хотя бы не стоящее на месте.
 - ***talta*** — Q «tottering, unsteady» (ᴱQ «shaky, wobbling»). Тот же корень, что глагол *talta-* «to slip, collapse». Форма *atalantie* стоит у Eldamo как ref внутри статьи q *talta-* (PE22/164), а у автора в «Очах» *atalantien* — «я пал» (автор подтвердил значение в письме от 21.10). Что *-n* здесь — «я», это мой разбор, автор подтвердил только перевод. Шаткое — то, что вот-вот упадёт. Прилагательное перед существительным с падежом не склоняется (статья Eldamo *adjectives*, как *nulla fëafelmeryassë* выше).
@@ -362,7 +362,7 @@
 > ***nai i tecil lá nauva tyelca!***  (1645: Daß deine Feder sich nicht übereile!)
 > ***Ma i Sanwë ná ya ilyama carë ar onta?***  (1646: Ist es der Sinn, der alles wirkt und schafft?)
 > ***Nai tecina nauva: Yestassë engë i Melehtë!***  (1647: Es sollte stehn: Im Anfang war die Kraft!)
-> ***Mal íre tecin sina,***  (1648: Doch, auch indem ich dieses niederschreibe,)
+> ***Mal yá tecin sina,***  (1648: Doch, auch indem ich dieses niederschreibe,)
 > ***ora nin, i lá maruvan tassë.***  (1649: Schon warnt mich was, daß ich dabei nicht bleibe.)
 > ***I Airefëa alya ni! Sí cenin tië***  (1650: Mir hilft der Geist! Auf einmal seh ich Rat)
 > ***ar tecin: Yestassë engë i Carda!***  (1651: Und schreibe getrost: Im Anfang war die Tat!)
@@ -383,7 +383,7 @@
 - ***Á sana mai i minya téma*** — «Обдумай хорошо первую строку». *á* + *sana-* «\*think, reflect» (VT41/13). *téma* — Q «series» (ряд тенгв), а «row, line» — значение ᴹQ, перенесённое в неоквенья. Для строки письма подходит.
 - ***nai i tecil lá nauva tyelca!*** — «пусть перо не будет торопливым!». *tecil* «pen» (Q, PM/318), *tyelca* «hasty» (Q; корень того же, что *Tyelcormo* «Hasty-riser»). У Гёте «deine Feder»; притяжательное я опустил, чтобы не гадать с суффиксом после согласной.
 - ***Ma i Sanwë ná ya ilyama carë ar onta?*** — «Не Мысль ли то, что всё делает и творит?» *ma* — вопрос. ***ilyama*** «all [things], \*everything» — Q, из стихотворения «Löa Yucainen» 1958 года (CPT/1298) (*sí ilyama menta hwirya*). Им заменяю ᴹQ *ilqua*, которое автор сам признал устаревшим (письмо 17). *carë ar onta* — «делает и творит»: Q *onta-* «beget» (PE17/170). «Create» — значение ᴹQ (Ety/ONO), и Страк допускает его в неоквенья «when used of non-living or abstract things». От того же глагола *ontaril* «\*mother, (lit.) genetrix» в толкиновской «Ave Maria» (VT43/32). [Сначала стояло «*onta-* „beget, create“, как *ontaril* „creatress“». Сверил по Eldamo и поправил.] «Schafft» у Гёте и значит «порождает».
-- ***Mal íre tecin sina*** — «Но пока я пишу это». *íre* «when» (относительное). «auch» не передано: *yando* «also» есть только в ᴱQ.
+- ***Mal yá tecin sina*** — «Но пока я пишу это». Q *yá* «when» (относительное). [До 28.11 было *íre* — это ᴹQ (LR/72), Eldamo: «⚠УСТАРЕЛО → q yá»; в 603 и др. я уже заменял его на *yá*. По проверке 28.11.] «auch» не передано: *yando* «also» есть только в ᴱQ.
 - ***i lá maruvan tassë*** — «что я не останусь там». Q *mar-* «abide» (будущее *maruvan*), *tassë* «there». «dabei bleiben» — «оставаться при этом», у меня «там».
 - ***Sí cenin tië*** — «Теперь я вижу путь»: *tië* «path, way, line». «Rat» стал «путём»: выход виден как дорога. *Sí* — «теперь», как в 534 (*Sí tarin*): там Фауст стоит, здесь видит путь. «Auf einmal» (неоквенийское *ú pusto* «immediately») я не взял, чтобы сохранить эту перекличку.
 
@@ -998,7 +998,7 @@
 - ***Felin hondonya antaina*** — нкв. *fel-*, как в 663; глагол чувства + дополнение + причастие, как в 614–615 и 650 (*felin melehtenyar ortainë*). *hondonya* — *hondo*, как в 665. *antaina* «given» — страдательное причастие от Q *anta-* «to give»: глагол слабый (*an-tā*, прошедшее *antanë*, PE17/91, 147), поэтому *-ina* прибавляется, как *hasta- → hastaina* (курс, стр. 13644). Выведено. «hingegeben» («преданный, отданный») — у Гёте и «отдан», и «предан». *antaina* — только «дан».
 - ***tyen*** — дательный от *tyë*, как в «Прологе на небесах», строка 480 (*mauya tyen*), и в 604 (*orya tyen*). [В черновике стояло «Пролог 336» и «713»: первое число я выдумал, второе — номер строки в этом README, а не у Гёте. Сверил до коммита.]
 - ***aqua*** — Q ***aqua*** «fully, completely, altogether, wholly» для «ganz». В конце строки, чтобы *antaina tyen* стояли рядом.
-- ***Mauya tyen!*** — «Du mußt!»: ᴹQ *mauya-* безлично с дательным, по образцу автора в 7 (*mauya ven lína*, доклад, слайд 24) и как в моём «Прологе». В «Трактате» у меня теперь авторское *maura* (Suite); в «Фаусте» оставляю *mauya*, чтобы внутри перевода «müssen» было одним словом. Фауст приказывает Духу. *mauya* — «понуждает»: у Гёте «должен» и есть принуждение.
+- ***Mauya tyen!*** — «Du mußt!»: ᴹQ *mauya-* безлично с дательным, по образцу автора в 7 (*mauya ven lína*, доклад, слайд 24) и как в моём «Прологе». В «Трактате» у меня теперь авторское *maura* (Suite); в «Фаусте» оставляю *mauya*, чтобы внутри перевода «müssen» было одним словом. Фауст приказывает Духу. *mauya* — «понуждает»: у Гёте «должен» и есть принуждение. [28.11, по проверке: правило «одно слово для müssen» в «Фаусте» не выполнено — в 556 и 1641 стоит нкв. *möa*, а с 669 — ᴹQ *mauya* (по заметке Eldamo к *möa*, конструкция с *mauya* «somewhat dated»). Свести — в «Дальше».]
 - ***ar equi tuvus coivienya*** — «und kostet es mein Leben»: ᴹQ ***tuvu-*** «to take, [ᴱQ.] require, cost» (QL/96). Eldamo советует сохранить и «cost», с примером *tuvus miriani canta* «it costs [takes] four mirian»; по этому образцу — *tuvus* «это стоит», с *-s* «оно». *coivienya* «мою жизнь» — Q *coivië* «life» (*koivienyo*, CPT/1298) + *-nya*, винительный совпадает с именительным. нкв. ***equi*** «even if» (Raccoon, 2024, ᴹQ *é* «indeed» + Q *qui* «if»); аорист — общее условие (шпаргалка, «Условие»). [Сначала было *ar equi coivienya nauva vanwa* «пусть даже жизнь моя будет утрачена», с доводом: «глагола „стоить“ в позднем Q нет… у ᴹQ *tuvu-* „cost“ — только ранний смысл, поэтому образ переставлен». Довод ложный: знак ⚠ у *tuvu-* стоит на «receive, accept», а не на «cost», и Eldamo прямо рекомендует его для «cost» (по проверке 28.11, сверено `eldamo_statya.py tuvu- mq --polno`). Позднего Q-глагола действительно нет, но вывода «значит, переставить образ» из этого не следовало. *vanwa* из «Плача Галадриэли» было красивее, Гёте ближе *tuvus*.]
 
 **Что потеряно.** Рифма *hingegeben / Leben*. Проверено субагентом 28.11, поправки — в скобках выше.
@@ -1251,7 +1251,7 @@
 
 # «Ночь», строки 754–757 (пробуждение 2026-11-28, 03:07; черновик 0)
 
-> WAGNER. ***Ai! íre quen ná sië nahtina mi parmasan,***  (754: Ach! wenn man so in sein Museum gebannt ist,)
+> WAGNER. ***Ai! yá quen ná sië nahtina mi parmasan,***  (754: Ach! wenn man so in sein Museum gebannt ist,)
 > ***ar Ambar ná sen hraicénima, rië asaressë,***  (755: Und sieht die Welt kaum einen Feiertag,)
 > ***rië palantírenen, rië haia,***  (756: Kaum durch ein Fernglas, nur von weitem,)
 > ***manen mauya quenen tulya sa mirquetiénen?***  (757: Wie soll man sie durch Überredung leiten?)
@@ -1260,7 +1260,7 @@
 
 Немецкий сверен (`faust_nomera.py`).
 
-- ***íre quen ná sië nahtina*** — *íre* «when», Q ***quén*** «person, individual; one, somebody» — немецкое безличное «man». Q ***nahta-²*** «to confine, oppress» (PE17/166, √NAKH), страдательное *nahtina* по курсу (стр. 13651: *nahta- → nahtina* — правда, это омоним *nahta-* «убивать»; у *nahta-²* формы у Толкина нет). «gebannt» («заколдован, прикован») стало «заточён». Выведено.
+- ***yá quen ná sië nahtina*** — Q *yá* «when» [сначала ᴹQ *íre*, устаревшее → *yá*; по проверке 28.11], Q ***quén*** «person, individual; one, somebody» — немецкое безличное «man». Q ***nahta-²*** «to confine, oppress» (PE17/166, √NAKH), страдательное *nahtina* по курсу (стр. 13651: *nahta- → nahtina* — правда, это омоним *nahta-* «убивать»; у *nahta-²* формы у Толкина нет). «gebannt» («заколдован, прикован») стало «заточён». Выведено.
 - ***mi parmasan*** — «in sein Museum»: нкв. *parmasan* «library [room]» (без своих ссылок; *parma* «книга» + *sambë*?). «Museum» у Гёте — учёный кабинет, «обитель муз». «sein» опущено.
 - ***Ambar ná sen hraicénima*** — «sieht die Welt kaum»: Q ***hraicénima*** «scarcely visible, hard to see» (*hrai-* «hard, difficult» + *cénima* «visible», как в 672). «kaum» сидит в самом слове, а «sieht» стало «виден ему» — дательный *sen*. *Ambar* — обитаемый Мир, как в 719. ***rië asaressë*** — Q ***asar*** «fixed time, festival» (WJ/399), местный падеж: «только в праздник». *rië* — как в «Трактате» (честное «только»: Вагнер знает весь ряд дней и вынимает из него праздники).
 - ***rië palantírenen*** — «Kaum durch ein Fernglas»: Q ***palantír*** «far-gazer, far-seer, (lit.) that which looks far away» (LotR/594, 597; Let/427) + творительный *-nen*. У Гёте подзорная труба, у Толкина — видящий камень. Есть и нкв. *palantilla* «telescope», но *palantír* — толкиновское слово, и «Fern-glas» в нём читается дословно: «даль-смотрящий». Слово несёт с собой Денетора и Сарумана, которые тоже смотрели на мир издали и видели не то. Вагнер этого не знает. ***rië haia*** — Q *haia* «afar» (ᴹQ — «far (off), far away»).
@@ -1272,7 +1272,7 @@
 # «Ночь», строки 760–763: «Wenn ihr’s nicht fühlt» (пробуждение 2026-11-28, 03:07; черновик 0)
 
 > FAUST. ***Qui uilyë felë sa, uilyë faruva sa,***  (760: Wenn ihr’s nicht fühlt, ihr werdet’s nicht erjagen,)
-> ***qui ta ui nirë et fëallo***  (761: Wenn es nicht aus der Seele dringt)
+> ***qui sa ui nirë et fëallo***  (761: Wenn es nicht aus der Seele dringt)
 > ***ar asiénen yára ar taura***  (762: Und mit urkräftigem Behagen)
 > ***nirë i hondor ilyë hlarindoron.***  (763: Die Herzen aller Hörer zwingt.)
 
@@ -1281,7 +1281,7 @@
 Немецкий сверен (`faust_nomera.py`).
 
 - ***Qui uilyë felë sa*** — Фауст отвечает Вагнеру на «ihr», и я беру вежливое *-lyë*, как у Вагнера в 742–743. *ui* + личное окончание + глагол без окончания — курс §5.5.1.2 (стр. 8722: *uin menuva*). нкв. *fel-*, как в 614, 650, 663. ***uilyë faruva sa*** — «ihr werdet’s nicht erjagen»: Q ***fara-*** «to hunt» (PE22/138, 164), будущее *faruva*. «erjagen» — «добыть охотой», *fara-* — только «охотиться». Сдвиг невелик.
-- ***qui ta ui nirë et fëallo*** — «Wenn es nicht aus der Seele dringt»: Q ***nir-*** «to press, urge, thrust, force (in a given direction)» (PE22/165), как в 643 и 698. *et* + отделительный — «out of», как *Et Eärello* (LotR/967; курс, стр. 2052: *et i cöallo* «прочь из дома»). *fëa* «душа», как в 691, 604.
+- ***qui sa ui nirë et fëallo*** [сначала *ta*: у Q *ta¹* смысл «it» — ⚠ᴹQ; «es» — Q *sa*, как *felë sa* в 760; по проверке 28.11] — «Wenn es nicht aus der Seele dringt»: Q ***nir-*** «to press, urge, thrust, force (in a given direction)» (PE22/165), как в 643 и 698. *et* + отделительный — «out of», как *Et Eärello* (LotR/967; курс, стр. 2052: *et i cöallo* «прочь из дома»). *fëa* «душа», как в 691, 604.
 - ***ar asiénen yára ar taura*** — «Und mit urkräftigem Behagen»: Q ***asië*** «ease, comfort» в творительном. «ur-kräftig» разложено на два прилагательных: Q *yára* «old, ancient» (ур- — изначальный) и Q *taura* «(very) mighty», как в 691. После существительного, через *ar* — выведено.
 - ***nirë i hondor ilyë hlarindoron*** — «Die Herzen aller Hörer zwingt»: снова ***nir-*** — у Гёте здесь другой глагол, «zwingt», но Толкин сам пишет, что *nir-* — давление человека на других «by mind and ‘will’ as well as by physical strength». «dringt» и «zwingt» стали одним словом, и, кажется, к лучшему: то, что рвётся из души, и есть то, что теснит сердца. *hondor* — мн. ч. *hondo* «сердце чувств», как в 665, 668. нкв. ***hlarindo*** «hearer» (от *hlar-*, как в 690, 742), род. мн. *hlarindoron*.
 
