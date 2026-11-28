@@ -876,7 +876,7 @@
 
 # «Ночь», ремарка 645–646 и строки 648–651 (пробуждение 2026-11-27, 23:58; черновик 0)
 
-> ***(Querë i parma úcairavë ar cenis i tehta Fairëo Cemeno.)***  (645–646: er schlägt unwillig das Buch um und erblickt das Zeichen des Erdgeistes.)
+> ***(Queris i parma úcaira ar cenis i tehta Fairëo Cemeno.)***  (645–646: er schlägt unwillig das Buch um und erblickt das Zeichen des Erdgeistes.)
 > ***Manen hyallë tehta sina carë nin!***  (648: Wie anders wirkt dies Zeichen auf mich ein!)
 > ***Tyë, a Fairë Cemeno, amna natyë nin;***  (649: Du, Geist der Erde, bist mir näher;)
 > ***tensi felin melehtenyar ortainë,***  (650: Schon fühl ich meine Kräfte höher,)
@@ -886,14 +886,14 @@
 
 Немецкий сверен (`sed -n 645,651p`; 647 — пустая).
 
-- ***Querë i parma*** — Q *quer-* «to turn» (VT49/20–21: *querne* «turned»; Eldamo: вероятно, и переходное). нкв. ***úcaira*** «reluctant (to do)» (Laiqua, 2026; *ú-* + нкв. *caira* «eager to do») + наречное *-vë* (как *téravë* в моём «Трактате») — *úcairavë* «нехотя» — выведено. *cenis* — как в 610: «erblickt» оба раза *cen-*.
+- ***Queris i parma*** — Q *quer-* «to turn» (VT49/20–21: *querne* «turned», *quere* «turns»; Eldamo: и переходное, и непереходное) + *-s* «он», как *cenis* рядом. [Сначала было *Querë* без лица — читалось бы «книга поворачивается»; по проверке 28.11.] нкв. ***úcaira*** «reluctant (to do)» (Laiqua, 2026; *ú-* + нкв. *caira*) — прилагательное в роли наречия, потому что «нехотя» — свойство самого Фауста (курс, стр. 14080 и далее: *nornes linta* «он бежал быстрый»; *-vë* — когда качество не деятеля). [Сначала было *úcairavë*; по проверке 28.11.] *cenis* — как в 610: «erblickt» оба раза *cen-*.
 - ***i tehta Fairëo Cemeno*** — «Erdgeist»: Q *fairë* «дух бесплотный» (как *fairi* в 571, 608, 625) + род. от Q *cemen* «the earth» (как в 636, 642). Сложного слова не делаю.
-- ***Manen hyallë … carë nin*** — *manen* «как» (как в 605); нкв. *hyallë* «otherwise, another way, differently»; *carë* — аорист Q *car-* «do» («wirkt … ein»); *nin* — дательный «мне», а не «на меня» — сдвиг.
-- ***amna natyë nin*** — Q ***amna*** «nearer to» (PE17/91; вариант *ambena*): по заметке Eldamo — направительный от *ambë* «more», точнее «to a further point in the motion towards an object». У Гёте «bist mir näher» — состояние, а *amna* — движение «ближе к»: Дух Земли как будто приближается. *natyë* «ты есть» — по образцу курса *nalyë* (стр. 1850), с доверительным *-tyë* — выведено.
-- ***tensi felin melehtenyar ortainë*** — Q *tensi* «already, still, up to now» (PE22/157) для «schon». нкв. *fel-* «to feel» (как в 614). *melehtenyar* — *melehtë* + *-nya* + *-r* (по образцу курса *aiwe-rya-r*). *ortainë* — мн. ч. от *ortaina* «raised» (страдательное от Q *orta-*; курс, стр. 13636; есть и в заметке Eldamo). «höher» стало «поднятыми» — та же конструкция, что в 614–615: глагол чувства + дополнение + причастие.
+- ***Manen hyallë … carë nin*** — [*manen* у Толкина только в вопросе (PM/395); в восклицании — моё. Есть Q *ap-* «to touch one, concern, affect» (VT44/26) — ближе к «auf mich einwirken», не взял; по проверке 28.11.] *manen* «как» (как в 605); нкв. *hyallë* «otherwise, another way, differently»; *carë* — аорист Q *car-* «do» («wirkt … ein»); *nin* — дательный «мне», а не «на меня» — сдвиг.
+- ***amna natyë nin*** — Q ***amna*** «nearer to» (PE17/91; вариант *ambena*): по заметке Eldamo — направительный от *ambë* «more», точнее «to a further point in the motion towards an object». У Гёте «bist mir näher» — состояние, а *amna* — движение «ближе к»: Дух Земли как будто приближается. Оговорки (по проверке 28.11): *amna* + дательный *nin* — **выведено**, образца нет; есть нкв. омоним *amna* «almost» (тогда «ты почти мне»). *natyë* «ты есть» — по образцу курса *nalyë* (стр. 1850), с доверительным *-tyë* — выведено.
+- ***tensi felin melehtenyar ortainë*** — Q *tensi* «already, still, up to now» (PE22/157) для «schon». нкв. *fel-* «to feel» (как в 614). *melehtenyar* — *melehtë* + *-nya* + *-r* (по образцу курса *aiwe-rya-r*). *ortainë* — мн. ч. от *ortaina* «raised» (курс, стр. 13636; у Толкина — QVS конца 1940-х, PE22/107, и там *ortaina* относится к каузативному *ortā*). Согласование причастия во мн. ч. не засвидетельствовано (Eldamo: «general consensus… they probably do», единственный пример *rakine tengwi*) — выведено. «höher» стало «поднятыми» — та же конструкция, что в 614–615: глагол чувства + дополнение + причастие.
 - ***tensi uryan ve vinya hyeronen*** — Q *urya-* «to be hot» (как *uryaila* в 615). Q ***hyero*** «wine» (PE23/139, 1969, ✶*syeru*) — позднее слово; ᴹQ *limpë* — «drink of the Valar», это другое. *ve* + творительный «как от» — выведено.
 
-**Что потеряно.** Рифмы (*ein / Wein*, *näher / höher*), «auf mich ein» (у меня «мне»), «unwillig» стало «нехотя». **Не проверено.**
+**Что потеряно.** Рифмы (*ein / Wein*, *näher / höher*), «auf mich ein» (у меня «мне»). *fel-* у Eldamo — «to feel (emotions)», а силы — не чувство. Проверено субагентом 28.11, поправки — в скобках выше.
 
 # «Ночь», строки 652–655 (пробуждение 2026-11-27, 23:58; черновик 0)
 
