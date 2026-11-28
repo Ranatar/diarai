@@ -1527,18 +1527,18 @@
 
 Проверено субагентом 28.11; поправки (*yuhtaimë*, *tolion*) сверены мной по курсу и Eldamo.
 
-# «Ночь», строки 826–827: «Allein die Welt! des Menschen Herz und Geist!» (пробуждение 2026-11-28, 09:08; черновик 1)
+# «Ночь», строки 826–827: «Allein die Welt! des Menschen Herz und Geist!» (пробуждение 2026-11-28, 09:08; черновик 2, проверен)
 
 > WAGNER. ***Mal Ambar! Hondo ar indo Atano!***  (826: Allein die Welt! des Menschen Herz und Geist!)
-> ***Nai ilquen istuva ma pá sinë!***  (827: Möcht jeglicher doch was davon erkennen.)
+> ***Ilquen merë ista ma pá ta.***  (827: Möcht jeglicher doch was davon erkennen.)
 
-Обратный перевод: «Но мир! Сердце и ум человека! / Пусть бы каждый узнал что-нибудь об этом!»
+Обратный перевод: «Но мир! Сердце и ум человека! / Каждый хотел бы что-нибудь об этом знать»
 
 Немецкий сверен (`grep -n`, строки 825–827).
 
 - ***Mal*** — «Allein», как у Вагнера в 774 (*Mal i nyarië…*).
 - ***Ambar*** — Q «The World, (lit.) Habitation, Settlement», как Фауст в 587 (*Ambaretya*).
 - ***Hondo ar indo Atano*** — Q *hondo* «[metaphorical] heart, (seat of the) deepest feelings» и Q ***indo*** «(state of) mind, (inner) thought, mood; will» (MR/216) — та же пара, что у Фауста в 626 (*indotya pahta, hondotya vanwa!* «Dein Sinn ist zu, dein Herz ist tot»); *Atano* — род. п. ед. ч. Q *Atan*, как в «Трактате» 6.4312. Здесь Гёте опять говорит «Geist», а у меня в 807 и 815–816 «Geist» — *fairë* «дух (бесплотный)». Цепочку рву нарочно: у Вагнера тут ум человека, а не дух времён, и *fairë Atano* читалось бы «призрак человека».
-- ***Nai ilquen istuva ma pá sinë*** — «Möcht jeglicher doch was davon erkennen»: пожелание *nai* + будущее, как в 778 (*Nai cesuvas…*); Q ***ilquen*** «everybody» (WJ/372); Q *ista-* «to know», будущее *istuva*, как «Erkennest» в 602 (*istuvatyë*); *ma* «что-то», как в 744 и 782; *pá* «concerning», как в 793; *sinë* «эти» (мир, сердце, ум) — «davon». Местоимение *ta* «это» не беру: в 761 оно оказалось ᴹQ.
+- ***Ilquen merë ista ma pá ta*** — «Möcht jeglicher doch was davon erkennen»: «möcht» — как у Вагнера в 744 «möcht ich» (*merin*): ᴹQ *mer-* «to wish», аорист *merë* + инфинитив; реплика Фауста «Ja, was man so erkennen heißt!» отвечает на желание, а не на пожелание [сначала было пожелание *Nai ilquen istuva…* по образцу 778; поправка по проверке 28.11]; Q ***ilquen*** «everybody» (WJ/372); Q *ista-* «to know», как «Erkennest» в 602; *ma* «что-то», как в 744 и 782; *pá* «concerning», как в 793 (*pá* + местоимение у Толкина не засвидетельствовано); Q ***ta¹*** «that, there» (*carnes ta*, PE17/74, VT49/11) — «davon» [сначала *sinë* «эти»: мн. ч. *sinë* у Толкина нет, а *sīne* — прошедшее того же *ista-*; *ta* я сперва отверг, ошибочно сославшись на 761: там ᴹQ — только значение «it», а Q *ta¹* «that» засвидетельствовано]. Тот же оборот *ma pá ta* понадобится Фаусту в 832 («die was davon erkannt»).
 
-**Что потеряно.** Рифма *Geist / heißt* (830) — в следующей строфе; «doch» потеряно; «erkennen» стало «знать» (как в 602).
+**Что потеряно.** Рифмы *Geist / heißt* (830) и *erkennen / nennen* (831) — в следующей строфе; «doch» потеряно; «erkennen» стало «знать» (как в 602). Проверено субагентом 28.11; поправки (*merë*, *ta*) сверены мной по Eldamo.
