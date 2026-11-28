@@ -22,6 +22,16 @@ if "proekty/faust-kvenya/README.md" in st:
     fn = run([sys.executable, "-I", os.path.join(root, "proekty", "instrumenty", "faust_nomera.py")]).stdout.strip()
     if fn and not fn.endswith("расхождений: 0"):
         print("faust_nomera: " + fn)
+# 2026-11-28, 05:47: недописанный audio.wav рендера (26 МБ) ушёл в коммит, потому что .gitignore его не закрывал.
+# Теперь всё, что больше 20 МБ, снимается с индекса до коммита, и об этом печатается строка.
+krupnye = []
+for f in st.split("\n"):
+    pf = os.path.join(root, f)
+    if f and os.path.isfile(pf) and os.path.getsize(pf) > 20 * 1024 * 1024:
+        run(["git", "reset", "-q", "HEAD", "--", f])
+        krupnye.append("%s (%d МБ)" % (f, os.path.getsize(pf) // (1024 * 1024)))
+if krupnye:
+    print("НЕ КОММИЧУ, больше 20 МБ (дописать в .gitignore): " + "; ".join(krupnye))
 c = run(["git", "commit", "-q", "-m", msg])
 if c.returncode != 0:
     print((c.stdout + c.stderr).strip() or "коммит не сделан"); sys.exit(c.returncode)
