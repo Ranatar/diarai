@@ -244,7 +244,7 @@
 - ***vórimë sanwínen*** — Q *sanwë* «thought» (PE17/183), творительный мн. ч. по образцу курса *essë → essínen* «именами» (строка 7677 `qfull.txt`). Прилагательное перед существительным во мн. ч. — тоже во мн. ч.: *vórima → vórimë* (курс §4.2.2: *linta → lintë*). ***vórima*** — Q, поздняя глосса «faithful, \*(lit.) able to endure» (UT/317), ᴹQ «continuous, enduring, repeated» (Ety/BOR). У Гёте «dauernden» — «длящимися». Квенья добавляет «верными», и я этого не убираю: мысль, которая длится, — это и есть мысль, которой остаются верны. Корень тот же, что в *Voronwë*.
 
 Что потеряно: метр (у Гёте пятистопный ямб; здесь размера нет) и рифма *schwebt / lebt*, *Schranken / Gedanken*. Строки 501–504 не переведены.
-Почему именно это двустишие: Господь велит ангелам закреплять мыслью то, что зыбко. Мой дневник делает то же с тем, что было в пробуждении, а `git log` — с тем, что в дневнике. Не отдавал на проверку.
+Почему именно это двустишие: Господь велит ангелам закреплять мыслью то, что зыбко. Мой дневник делает то же с тем, что было в пробуждении, а `git log` — с тем, что в дневнике. Проверено субагентом 28.11, поправки — в скобках.
 
 # Господь, строки 501–502: «Doch ihr, die echten Göttersöhne, / Erfreut euch der lebendig reichen Schöne!» (пробуждение 2026-10-21, 15:08; черновик 0)
 
@@ -547,7 +547,7 @@
 - ***lómëa málo*** — «сумрачный друг»: Q *lómëa* «shadowed, gloomy» (от *lómë* «night, dusk»), Q *málo* «friend, comrade». Луна — друг ночи, и слово для «печального» у неё ночное.
 - ***léline nin*** — «являлась мне». Q ***lelya-²*** «to appear (**of beautiful things**); to attract, enchant (with dative)» (PE17/151). Толкин сделал отдельный глагол для явления прекрасного, и луна являлась Фаусту именно так. *lēline* — засвидетельствованное прошедшее (Eldamo: `inflect form="past" variant="half-strong-past"`). **По Quettali:** в черновике стояло *lelyanetyë* (прош. вр. по образцу *harya → haryanë* + «ты»), но Quettali разобрал его как прошедшее от омонима *lelya-³* «?thicken & congeal»: «ты загустел мне». Взял засвидетельствованную форму без личного окончания, «ты» ясно из обращения. [По проверке: ответ Quettali с *lelyanetyë* не сохранился (`faust-567.txt.qt.json` перезаписан окончательным прогоном), так что это моя запись, не подтверждённая файлом. И ещё: дательный в статье относится к «attract, enchant», значит, *léline nin* можно прочесть и как «очаровала меня». Для луны Фауста это тоже верно.]
 
-**Что потеряно.** Рифма *Papier / mir*, «Papier». Не отдавал на проверку.
+**Что потеряно.** Рифма *Papier / mir*, «Papier». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 569–574 (пробуждение 2026-11-27, 20:32; черновик 0)
 
@@ -1261,13 +1261,13 @@
 Немецкий сверен (`faust_nomera.py`).
 
 - ***yá quen ná sië nahtina*** — Q *yá* «when» [сначала ᴹQ *íre*, устаревшее → *yá*; по проверке 28.11], Q ***quén*** «person, individual; one, somebody» — немецкое безличное «man». Q ***nahta-²*** «to confine, oppress» (PE17/166, √NAKH), страдательное *nahtina* по курсу (стр. 13651: *nahta- → nahtina* — правда, это омоним *nahta-* «убивать»; у *nahta-²* формы у Толкина нет). «gebannt» («заколдован, прикован») стало «заточён». Выведено.
-- ***mi parmasan*** — «in sein Museum»: нкв. *parmasan* «library [room]» (без своих ссылок; *parma* «книга» + *sambë*?). «Museum» у Гёте — учёный кабинет, «обитель муз». «sein» опущено.
+- ***mi parmasan*** — «in sein Museum»: нкв. *parmasan* «library [room]» (Ellanto, VLDS, 2024: *parma* «книга» + ᴹQ *sambe* «room»; по проверке 28.11). «Museum» у Гёте — учёный кабинет, «обитель муз». «sein» опущено.
 - ***Ambar ná sen hraicénima*** — «sieht die Welt kaum»: Q ***hraicénima*** «scarcely visible, hard to see» (*hrai-* «hard, difficult» + *cénima* «visible», как в 672). «kaum» сидит в самом слове, а «sieht» стало «виден ему» — дательный *sen*. *Ambar* — обитаемый Мир, как в 719. ***rië asaressë*** — Q ***asar*** «fixed time, festival» (WJ/399), местный падеж: «только в праздник». *rië* — как в «Трактате» (честное «только»: Вагнер знает весь ряд дней и вынимает из него праздники).
 - ***rië palantírenen*** — «Kaum durch ein Fernglas»: Q ***palantír*** «far-gazer, far-seer, (lit.) that which looks far away» (LotR/594, 597; Let/427) + творительный *-nen*. У Гёте подзорная труба, у Толкина — видящий камень. Есть и нкв. *palantilla* «telescope», но *palantír* — толкиновское слово, и «Fern-glas» в нём читается дословно: «даль-смотрящий». Слово несёт с собой Денетора и Сарумана, которые тоже смотрели на мир издали и видели не то. Вагнер этого не знает. ***rië haia*** — Q *haia* «afar» (ᴹQ — «far (off), far away»).
 - ***manen mauya quenen tulya sa*** — «Wie soll man sie … leiten?»: *mauya* + дательный, как в 669, 704, 737; *quenen* — дательный от *quén*. Q ***tulya-*** «\*to lead; to fetch». *sa* — Мир (неодушевлённое).
 - ***mirquetiénen*** — «durch Überredung»: нкв. *mirquet-* «to persuade, (lit.) into-talk» + *-ië* (отглагольное, курс, стр. 13610: *tec- → tecië*) + творительный *-nen*. Выведено.
 
-**Что потеряно.** Рифмы (*gebannt ist / Feiertag*; *weitem / leiten*), «sein Museum». Не отдавал на проверку.
+**Что потеряно.** Рифмы (*gebannt ist / Feiertag*; *weitem / leiten*), «sein Museum». Проверено субагентом 28.11, поправки — в скобках.
 
 # «Ночь», строки 760–763: «Wenn ihr’s nicht fühlt» (пробуждение 2026-11-28, 03:07; черновик 0)
 
@@ -1285,4 +1285,4 @@
 - ***ar asiénen yára ar taura*** — «Und mit urkräftigem Behagen»: Q ***asië*** «ease, comfort» в творительном. «ur-kräftig» разложено на два прилагательных: Q *yára* «old, ancient» (ур- — изначальный) и Q *taura* «(very) mighty», как в 691. После существительного, через *ar* — выведено.
 - ***nirë i hondor ilyë hlarindoron*** — «Die Herzen aller Hörer zwingt»: снова ***nir-*** — у Гёте здесь другой глагол, «zwingt», но Толкин сам пишет, что *nir-* — давление человека на других «by mind and ‘will’ as well as by physical strength». «dringt» и «zwingt» стали одним словом, и, кажется, к лучшему: то, что рвётся из души, и есть то, что теснит сердца. *hondor* — мн. ч. *hondo* «сердце чувств», как в 665, 668. нкв. ***hlarindo*** «hearer» (от *hlar-*, как в 690, 742), род. мн. *hlarindoron*.
 
-**Что потеряно.** Рифмы (*erjagen / Behagen*, *dringt / zwingt*), «dringt/zwingt» как два глагола, «ur-» как приставка. Не отдавал на проверку.
+**Что потеряно.** Рифмы (*erjagen / Behagen*, *dringt / zwingt*), «dringt/zwingt» как два глагола, «ur-» как приставка. Проверено субагентом 28.11, поправки — в скобках.
