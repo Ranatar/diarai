@@ -894,3 +894,22 @@
 - ***tensi uryan ve vinya hyeronen*** — Q *urya-* «to be hot» (как *uryaila* в 615). Q ***hyero*** «wine» (PE23/139, 1969, ✶*syeru*) — позднее слово; ᴹQ *limpë* — «drink of the Valar», это другое. *ve* + творительный «как от» — выведено.
 
 **Что потеряно.** Рифмы (*ein / Wein*, *näher / höher*), «auf mich ein» (у меня «мне»), «unwillig» стало «нехотя». **Не проверено.**
+
+# «Ночь», строки 652–655 (пробуждение 2026-11-27, 23:58; черновик 0)
+
+> ***Felin verië verya imni Ambarenna,***  (652: Ich fühle Mut, mich in die Welt zu wagen,)
+> ***colë nyérë Cemeno, alassë Cemeno,***  (653: Der Erde Weh, der Erde Glück zu tragen,)
+> ***nanya vangwi,***  (654: Mit Stürmen mich herumzuschlagen)
+> ***ar ú ruciëo mi raccalë rácina ciryo.***  (655: Und in des Schiffbruchs Knirschen nicht zu zagen.)
+
+Обратный перевод: «Я чувствую смелость отважиться в Мир, / нести горе Земли, радость Земли, / противиться бурям / и без страха в треске разбитого корабля».
+
+Немецкий сверен (`sed -n 652,655p`).
+
+- ***Felin verië verya imni Ambarenna*** — нкв. *fel-* «to feel (emotions)», как в 614 и 650. ᴹQ ***verië*** «boldness, \*daring» и ᴹQ ***verya-*** «to dare» (Ety/BER) — одного корня: «смелость отважиться». нкв. *verta-* «to dare (tr.)» Eldamo помечает «УСТАРЕЛО → mq verya-». Инфинитив — простая форма аориста (курс, стр. 11480: *merin anta*); при существительном *verië* — выведено. Q ***imni*** «myself» (VT47/37) — «mich … wagen». *Ambarenna* — «в Мир»: *Ambar*, как в 587 (*Ambaretya*).
+- ***colë nyérë Cemeno, alassë Cemeno*** — Q ***col-*** «to bear, \*carry, wear» (PE22/155), инфинитив *colë*. нкв. *nyérë* «grief» (основа — ᴱQ *nyére*, GL/60, LT1A); позднего Q для «Weh» я не нашёл (`woe|sorrow|grief|pain`: Q *naica* «bitterly painful» — прилагательное). *alassë* — как в 614. *Cemen* — как в 636, 642, 646: «Erde» всюду *cemen*, «Welt» — *Ambar*. Повтор «der Erde … der Erde» сохранён.
+- ***nanya vangwi*** — нкв. *nanya-* «to struggle, oppose, resist»; падеж дополнения в статье не указан, винительный — выведено. Q ***vangwë*** «storm» (NM/237, PE17/34), мн. ч. *vangwi*. «herumschlagen» («драться, биться») стало «противиться» — сдвиг.
+- ***ar ú ruciëo*** — «nicht zu zagen»: *ú* + родительный «без» (курс, стр. 2052: *mindon ú telumëo*) + отглагольное *rucië* от Q ***ruc-*** «to feel fear or horror» (*rucimmë*, VT44/7) — выведено. Инфинитив с отрицанием я не нашёл, поэтому «без страха».
+- ***mi raccalë rácina ciryo*** — «des Schiffbruchs Knirschen»: нкв. *racca-* «to crack (sound)» + *-lë* — *raccalë* «треск» — выведено. Q ***rácina*** «broken» и Q ***cirya*** «(sharp-prowed) ship» — оба из «Markirya» (*rákina*, MC/222; *kirya*, MC/221), как *súma* (628) и *rámainen* (635). Кораблекрушение стало «разбитым кораблём».
+
+**Что потеряно.** Рифмы (*wagen / tragen / herumzuschlagen / zagen* — четыре на одну), «Schiffbruch» как одно слово. **Не проверено.**
