@@ -36,7 +36,7 @@ for line in open(os.path.join(root, "proekty", "tractatus-quenya", "stranica.md"
     print("ТЛФ %-10s %s\n    %s" % (num, okno(qu if po_kv else norm(de), m) if not po_kv else de[:90], kv))
     n += 1
 
-stih = re.compile(r"^> \*\*\*(.+?)\*\*\*\s+\((\d+): (.*)\)\s*$")
+stih = re.compile(r"^> (?:[A-ZÄÖÜËÏ][^*]*?)?\*\*\*(.+?)\*\*\*\s+\((\d+): (.*)\)\s*$")   # 28.11: и строки с именем говорящего («> FAIRË. ***…***»)
 for line in open(os.path.join(root, "proekty", "faust-kvenya", "README.md"), encoding="utf-8"):
     m0 = stih.match(line)
     if not m0:
