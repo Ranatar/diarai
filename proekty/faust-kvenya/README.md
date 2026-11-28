@@ -1357,7 +1357,7 @@
 
 **Что потеряно.** Рифмы (*Gewinn / Sinn*, *Tor / vor*); «Er» стало формой пожелания, а не обращением; каламбур «vortragen» в ответ на Вагнерово «Vortrag» (774) — *tana-* его не держит. Проверено субагентом 28.11, поправки — в скобках.
 
-# «Ночь», строки 782–783: «Und wenn’s euch Ernst ist» (пробуждение 2026-11-28, 05:47; черновик 0)
+# «Ночь», строки 782–783: «Und wenn’s euch Ernst ist» (пробуждение 2026-11-28, 05:47; черновик 1)
 
 > ***Ar qui merildë holmo quetë ma,***  (782: Und wenn’s euch Ernst ist, was zu sagen,)
 > ***ma mauya len fara quettar?***  (783: Ist’s nötig, Worten nachzujagen?)
@@ -1366,7 +1366,7 @@
 
 Немецкий сверен (`ext/faust/faust.txt`, строки 782–783). Фауст снова говорит «ihr», обобщённое мн. ч., как в 760–771.
 
-- ***Ar qui merildë holmo quetë ma*** — «Und wenn’s euch Ernst ist, was zu sagen»: ᴹQ ***mer-*** «to wish, desire, want», как *merin* в 744, + *-ldë*; Q ***holmo*** «sincerely, heartily, (lit.) from the heart» за «Ernst»: перекликается с 771 («von Herzen» — *hondoldallo*); *quetë* — инфинитив; *ma* «что-то» — как в 744.
+- ***Ar qui merildë holmo quetë ma*** — «Und wenn’s euch Ernst ist, was zu sagen»: ᴹQ ***mer-*** «to wish, desire, want», как *merin* в 744 (в позднем Q *mer-* значит «to hope»), + *-ldë*; Q ***holmo*** «sincerely, [?heartily]» (PE19/97; «(lit.) from the heart» — толкование Eldamo по ✶*khomlō*) за «Ernst»: перекликается с 771 («von Herzen» — *hondoldallo*); *quetë* — инфинитив; *ma* «что-то» — как в 744.
 - ***ma mauya len fara quettar?*** — «Ist’s nötig, Worten nachzujagen?»: вопросительное *ma*; «müssen/nötig» в «Фаусте» — всегда *mauya* + дательный (*len* «вам», мн.), как 704 *Ma mauya nin…*; Q ***fara-*** «to hunt», как «erjagen» в 760, — Фауст повторяет свою охоту: в 760 чувство не добыть охотой, здесь охотятся за словами.
 
-**Что потеряно.** Рифма (*sagen / nachzujagen*); «Ernst» стало «от сердца» — сдвиг. Не отдавал на проверку.
+**Что потеряно.** Рифма (*sagen / nachzujagen*); дательный «Worten nachjagen» стал прямым дополнением при *fara-*. Проверено субагентом 28.11.
