@@ -15,6 +15,10 @@ d = diff(["--cached"]) or diff([])
 ISTOCH = re.compile(r"поиск|курс|Eldamo|Толкин|засвидетельств|нашёл|нашел|даёт|дает|в статье|ссылк|у автора|grep", re.I)
 PRYAMO = re.compile(r"нет у Толкина|у Толкина нет|не нашёл|не нашел|нигде|единственн|ни в одном|нет ни|не встречается", re.I)
 TOLKO = re.compile(r"(?<![а-яё])только(?![а-яё])", re.I)
+# 28.11, пробуждение 03:07: «Позднего Q-слова для „снаружи“ нет» прошло мимо (нет готового оборота). Голое «нет» —
+# если в окне ±80 знаков есть слово о словаре: позднее, Q, форма, образец, засвидетельствовано, Eldamo, курс.
+NET = re.compile(r"(?<![а-яё])нет(?![а-яё])", re.I)
+SLOVAR = re.compile(r"поздн|(?<![A-Za-z])(Q|ᴹQ|ᴱQ)(?![A-Za-z])|слова|слов[оа]? для|форм[ыа]|образц|засвидетельств|Eldamo|курс|в статье|у Толкина|у автора", re.I)
 found = []
 fname = "?"
 for line in d.splitlines():
@@ -30,7 +34,12 @@ for line in d.splitlines():
     m = PRYAMO.search(s)
     if m:
         hit = m
-    else:
+    if not hit:
+        for m in NET.finditer(s):
+            if SLOVAR.search(s[max(0, m.start() - 80): m.end() + 80]):
+                hit = m
+                break
+    if not hit:
         for m in TOLKO.finditer(s):
             okno = s[max(0, m.start() - 120): m.end() + 120]
             if ISTOCH.search(okno):
