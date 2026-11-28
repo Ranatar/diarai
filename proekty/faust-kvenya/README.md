@@ -1183,3 +1183,26 @@
 - ***Ar lá ó tyë!*** — «Und nicht einmal dir!»: «einmal» («даже») потеряно.
 
 **Что потеряно.** Рифмы (*umschweifst / begreifst*, *dir / mir*), «einmal», «irren / umschweifen». Проверено субагентом 28.11, поправки — в скобках.
+
+# «Ночь», строки 732–737: стук (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> *(Mo tamba.)*  (732: (es klopft))
+>
+> ***Ai, fírië! Istan sa — ta ná Famulusinya —***  (734: O Tod! ich kenn’s—das ist mein Famulus—)
+> ***ammelda alassenya ola alla!***  (735: Es wird mein schönstes Glück zunichte!)
+> ***Sa quantassë sina olorion***  (736: Daß diese Fülle der Gesichte)
+> ***mauya i parca hlicilan peresta!***  (737: Der trockne Schleicher stören muß!)
+
+Обратный перевод: «(Кто-то стучит.) — Ах, смерть! Я знаю это — это мой фамулус — / моя дражайшая радость становится ничем! / Что эту полноту видений / должен нарушить сухой ползун!»
+
+Немецкий сверен (`faust_nomera.py`).
+
+- ***(Mo tamba.)*** — «(es klopft)»: Q ***mo*** «one, anyone, someone, somebody» и ᴹQ ***tamba-*** «to knock, keep on knocking» (Ety/TAM) — «keep on knocking» ещё и ближе к стуку в дверь. Аорист. Безличное «es» передано «кто-то». [В черновике оба слова стояли по памяти с пометкой «не проверено»; проверил через минуту, оба есть.]
+- ***Ai, fírië!*** — «O Tod!»: *ai*, как в 576, 665, 686. *fírië* «death» — как «Tod» в «Трактате» 6.4311 и 6.4312 (`moyo_slovo.py 'Tod'`). У Гёте — досадливое восклицание; у меня то же слово, что у Витгенштейна в «Der Tod ist kein Ereignis des Lebens».
+- ***Istan sa*** — Q *ista-* «know», *sa* «это». ***Famulusinya*** — латинское слово Гёте оставлено, как «Nostradamus» в 614; + *-inya* после согласного (курс, стр. 1690: *elen-inya*). ᴹQ *núro* «servant» сделало бы Вагнера слугой, а он ученик-помощник.
+- ***ammelda alassenya*** — «mein schönstes Glück»: Q ***ammelda*** — засвидетельствованная усилительная форма от *melda* «dear, beloved» (PE17/57; превосходная степень на *am-/an-*, курс, стр. 14290). «Прекраснейшее» стало «дражайшим» — сдвиг. *alassë* + *-nya*, как *alassë* в 614, 653.
+- ***ola alla*** — «wird … zunichte»: Q *ola-* «to become» (*ólar*, CPT/1296), как в 621 (*Ta calima ola nin*). ᴹQ *alla²* «none, nothing», как «Nichts» в «Трактате» 6.11. Нкв. *munta* не взял: у Eldamo ⚠ стоит как раз на «nothing» (хотя автор ставит *munta* в 2.012).
+- ***Sa quantassë sina olorion*** — «Daß diese Fülle der Gesichte»: *sa* «что» — как в «Трактате» 2.15. нкв. ***quantassë*** «fullness» (от Q *quanta* «full» — как *quanta isilmë* в 563 и *quantemma* в 730). Q ***olor*** «dream, vision», мн. ч. *olori* засвидетельствовано (UT/396); род. мн. *olorion*. По заметке Толкина (UT/396) *olor* — не сонные сны людей: «To the Eldar it included the vivid contents of their memory». Так что «Gesichte» Фауста стали эльфийскими видениями-воспоминаниями, и это близко: Дух только что был перед ним.
+- ***mauya i parca hlicilan peresta*** — «Der trockne Schleicher stören muß»: *mauya* + дательный + инфинитив, как в 669 и 704. ᴹQ ***parka*** «dry» (Ety); ᴹQ ***hlik-*** «to creep, \*sneak», действительное причастие *hlicila* по курсу (*-ila*, стр. 13614), здесь в роли существительного «ползущий» в дательном — выведено. нкв. ***peresta-*** «to disturb». Порядок, как у Гёте: дополнение («diese Fülle») впереди.
+
+**Что потеряно.** Рифмы (*zunichte / Gesichte*; *Famulus / muß*), «schönstes». Не отдавал на проверку.
