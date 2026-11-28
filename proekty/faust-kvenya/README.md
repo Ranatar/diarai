@@ -1271,7 +1271,7 @@
 
 # «Ночь», строки 760–763: «Wenn ihr’s nicht fühlt» (пробуждение 2026-11-28, 03:07; черновик 0)
 
-> FAUST. ***Qui uilyë felë sa, uilyë faruva sa,***  (760: Wenn ihr’s nicht fühlt, ihr werdet’s nicht erjagen,)
+> FAUST. ***Qui uildë felë sa, uildë faruva sa,***  (760: Wenn ihr’s nicht fühlt, ihr werdet’s nicht erjagen,)
 > ***qui sa ui nirë et fëallo***  (761: Wenn es nicht aus der Seele dringt)
 > ***ar asiénen yára ar taura***  (762: Und mit urkräftigem Behagen)
 > ***nirë i hondor ilyë hlarindoron.***  (763: Die Herzen aller Hörer zwingt.)
@@ -1280,28 +1280,28 @@
 
 Немецкий сверен (`faust_nomera.py`).
 
-- ***Qui uilyë felë sa*** — Фауст отвечает Вагнеру на «ihr», и я беру вежливое *-lyë*, как у Вагнера в 742–743. *ui* + личное окончание + глагол без окончания — курс §5.5.1.2 (стр. 8722: *uin menuva*). нкв. *fel-*, как в 614, 650, 663. ***uilyë faruva sa*** — «ihr werdet’s nicht erjagen»: Q ***fara-*** «to hunt» (PE22/138, 164), будущее *faruva*. «erjagen» — «добыть охотой», *fara-* — только «охотиться». Сдвиг невелик.
+- ***Qui uildë felë sa*** — «ihr» у Фауста здесь обобщённое «вы, ораторы», поэтому *-ldë* «вы» (мн. ч., курс, стр. 4882). [Сначала *uilyë* с вежливым *-lyë*: я решил, что Фауст отвечает Вагнеру его же вежливым «ihr» (742–743). Но в 778–779 Фауст говорит Вагнеру «Er», так что вежливое «ihr» в этой сцене только у Вагнера. Поправлено 28.11 по проверке 764–767; по тексту сверил сам.] *ui* + личное окончание + глагол без окончания — курс §5.5.1.2 (стр. 8722: *uin menuva*). нкв. *fel-*, как в 614, 650, 663. ***uildë faruva sa*** — «ihr werdet’s nicht erjagen»: Q ***fara-*** «to hunt» (PE22/138, 164), будущее *faruva*. «erjagen» — «добыть охотой», *fara-* — только «охотиться». Сдвиг невелик.
 - ***qui sa ui nirë et fëallo*** [сначала *ta*: у Q *ta¹* смысл «it» — ⚠ᴹQ; «es» — Q *sa*, как *felë sa* в 760; по проверке 28.11] — «Wenn es nicht aus der Seele dringt»: Q ***nir-*** «to press, urge, thrust, force (in a given direction)» (PE22/165), как в 643 и 698. *et* + отделительный — «out of», как *Et Eärello* (LotR/967; курс, стр. 2052: *et i cöallo* «прочь из дома»). *fëa* «душа», как в 691, 604.
 - ***ar asiénen yára ar taura*** — «Und mit urkräftigem Behagen»: Q ***asië*** «ease, comfort» в творительном. «ur-kräftig» разложено на два прилагательных: Q *yára* «old, ancient» (ур- — изначальный) и Q *taura* «(very) mighty», как в 691. После существительного, через *ar* — выведено.
 - ***nirë i hondor ilyë hlarindoron*** — «Die Herzen aller Hörer zwingt»: снова ***nir-*** — у Гёте здесь другой глагол, «zwingt», но Толкин сам пишет, что *nir-* — давление человека на других «by mind and ‘will’ as well as by physical strength». «dringt» и «zwingt» стали одним словом, и, кажется, к лучшему: то, что рвётся из души, и есть то, что теснит сердца. *hondor* — мн. ч. *hondo* «сердце чувств», как в 665, 668. нкв. ***hlarindo*** «hearer» (от *hlar-*, как в 690, 742), род. мн. *hlarindoron*.
 
 **Что потеряно.** Рифмы (*erjagen / Behagen*, *dringt / zwingt*), «dringt/zwingt» как два глагола, «ur-» как приставка. Проверено субагентом 28.11, поправки — в скобках.
 
-# «Ночь», строки 764–767: «Sitzt ihr nur immer!» (пробуждение 2026-11-28, 05:47; черновик 0)
+# «Ночь», строки 764–767: «Sitzt ihr nur immer!» (пробуждение 2026-11-28, 05:47; черновик 1)
 
-> FAUST. ***Harilyë illumë! Hostalyë,***  (764: Sitzt ihr nur immer! leimt zusammen,)
-> ***maxalyë apsa hyanaron merendello***  (765: Braut ein Ragout von andrer Schmaus)
-> ***ar sustalyë i hlinyë rúnyar***  (766: Und blast die kümmerlichen Flammen)
-> ***et pitya littëo hamnalyallo!***  (767: Aus eurem Aschenhäufchen ’raus!)
+> FAUST. ***Áldë harir illumë! Áldë hostar,***  (764: Sitzt ihr nur immer! leimt zusammen,)
+> ***ar maxar apsa hyanaron merendello***  (765: Braut ein Ragout von andrer Schmaus)
+> ***ar sustar i hlinyë rúnyar***  (766: Und blast die kümmerlichen Flammen)
+> ***et pitya littëo hamnaldallo!***  (767: Aus eurem Aschenhäufchen ’raus!)
 
-Обратный перевод: «ФАУСТ. Сидите себе всегда! Сваливаете в кучу, / варите стряпню с пира других / и раздуваете тощие огоньки / из вашей маленькой кучки пепла!»
+Обратный перевод: «ФАУСТ. Сидите себе всегда! Сваливайте в кучу, / и варите стряпню с пира других, / и раздувайте тощие огоньки / из вашей маленькой кучки пепла!»
 
 Немецкий сверен (`ext/faust/faust.txt`, строки 764–767).
 
-- ***Harilyë illumë!*** — «Sitzt ihr nur immer!»: Q ***har-*** «to sit, stay» (не ᴹQ *ham-*, оно устарело), аорист с вежливым *-lyë*, как в 760. Q ***illumë*** «\*always» (VT44/9). Повелительное «вы» по курсу — *áldë* + аорист мн. ч. (`notes/kvenya-formy.md`), но Фауст говорит Вагнеру вежливое «Ihr», то есть обращается к одному человеку, а вежливого повелительного в курсе нет. Поэтому стоит изъявительное: «вы сидите всегда!». Насмешка держится на *illumë*, приказ стал описанием.
-- ***Hostalyë*** — «leimt zusammen»: Q ***hosta-*** «to gather (hastily together), collect, assemble, pile». Вместо нкв. *himma* «клей», подобранного в прошлое пробуждение, взял толкиновский глагол: «leimen» у Гёте значит сляпать наспех чужое, а в *hosta-* как раз есть «hastily».
-- ***maxalyë apsa hyanaron merendello*** — «Braut ein Ragout von andrer Schmaus»: нкв. ***maxa-*** «to cook» (у Толкина глагола «варить» нет; нкв. *ipsalta-* — «варить пиво», не то); ᴹQ ***apsa¹*** «meat, cooked food» — рагу; Q ***hyana*** «other» как существительное во мн. ч. род. п. *hyanaron* «других» (выведено; Q *exë* «the other» Eldamo помечает устаревшим → *hye*); ᴹQ ***merende*** «feast, festival» + отложительный *-llo*.
-- ***ar sustalyë i hlinyë rúnyar*** — «Und blast die kümmerlichen Flammen»: Q ***susta-*** «to blow (tr.)» (NM/239). У Толкина это *sustanë Manwëo súlë ten i indo Sindicollo*, «дух Манвэ вдул [совет] в сердце Тингола». Здесь этим глаголом раздувают угольки, и чем выше глагол, тем злее насмешка. Нкв. ***hlinya*** «lean, thin, meagre» (основа нкв. *linya*), мн. ч. *hlinyë*. Q ***rúnya*** «red flame» — то же слово, что в ремарке 672 и в «Flammenbildung» 704 (*rúnyemma*): там пламя Духа, здесь его жалкая копия.
-- ***et pitya littëo hamnalyallo!*** — «Aus eurem Aschenhäufchen ’raus!»: *et … -llo* «out of», как у Толкина *Et Eärello* (LotR). Q ***hamna*** «pile, (artificial) mound» (PE19/91) + *-lya* «ваш» (вежливое) + *-llo*; порядок «притяжательное, потом падеж» выведен, образца с *-lyallo* я не искал. Нкв. ***littë*** «ash» (своих ссылок в Eldamo нет). «-chen» передан Q ***pitya*** «petty, little»: в нём есть и «маленький», и «мелкий, ничтожный».
+- ***Áldë harir illumë!*** — «Sitzt ihr nur immer!»: повелительное мн. ч. по курсу, *áldë* + аорист мн. ч. (*áldë tulir* «придите», курс, стр. 5270). [Сначала стояло *Harilyë illumë!*, изъявительное с вежливым *-lyë*: я решил, что «ihr» здесь вежливое обращение Фауста к Вагнеру. Проверяющий 28.11 показал, что в 778–779 Фауст говорит Вагнеру «Such **Er**… Sei **Er**…», а вежливое «ihr» в этой сцене у Вагнера (742–743). Значит, «ihr» у Фауста в 760–771 — обобщённое «вы, ораторы». Сверил по тексту сам. Так вернулось и повелительное наклонение.] Q ***har-*** «to sit, stay» (ᴹQ *ham-* Eldamo помечает устаревшим → *har-*). Q ***illumë*** «\*always» (VT44/9).
+- ***Áldë hostar*** — «leimt zusammen»: Q ***hosta-*** «to gather (hastily together), collect, assemble, pile up». Вместо нкв. *himma* «клей», подобранного в прошлое пробуждение, взял толкиновский глагол: «leimen» у Гёте значит сляпать наспех чужое, а в *hosta-* как раз есть «hastily». В 765–766 *áldë* не повторяю: *ar maxar*, *ar sustar* стоят под тем же повелением (выведено, образца ряда повелений с одним *áldë* я не искал).
+- ***ar maxar apsa hyanaron merendello*** — «Braut ein Ragout von andrer Schmaus»: нкв. ***maxa-*** «to cook», от ᴱQ *maksa-* «cook» (QL/59, ᴱ√M(B)ASA «cook, bake»). [Сначала стояло «у Толкина глагола „варить“ нет» — неверно, нашёл проверяющий 28.11. Есть, только в раннем периоде замысла.] ᴹQ ***apsa¹*** «meat, cooked food» — рагу. Q ***hyana*** «other» как существительное во мн. ч. род. п. *hyanaron* «других» (выведено; Q *exë* «the other» Eldamo помечает устаревшим → *hye*; притяжательный *-iva* тоже возможен — курс, стр. 10045, «можно употреблять любой из этих падежей»). ᴹQ ***meren(de)*** «feast, festival», основа *merend-* (Ety/MBER) + отложительный *-llo*.
+- ***ar sustar i hlinyë rúnyar*** — «Und blast die kümmerlichen Flammen»: Q ***susta-*** «to blow (tr.)» (NM/239). У Толкина это непереведённая фраза *sustanë Manwëo súlë ten i indo Sindicollo*; Eldamo вслед за Хостеттером (NM/240, прим. 7) толкует её как «дух Манвэ дунул в сердце Тингола». [Сначала стояло «вдул [совет]» и перевод без оговорки — нашёл проверяющий.] Здесь этим глаголом раздувают угольки, и чем выше глагол, тем злее насмешка. Нкв. ***hlinya*** «lean, thin, meagre» (Paul Strack, от ᴹ✶*slinyā*; заменило шапировское *linya*) [сначала «основа нкв. *linya*» — наоборот], мн. ч. *hlinyë*. Q ***rúnya*** «red flame» (с долгим *ú*; *runya* без долготы — «fiery red») — то же слово, что в ремарке 672 и в «Flammenbildung» 704 (*rúnyemma*): там пламя Духа, здесь его жалкая копия.
+- ***et pitya littëo hamnaldallo!*** — «Aus eurem Aschenhäufchen ’raus!»: *et … -llo* «out of», как *et Eärello Endorenna utúlien* (LotR/967). Q ***hamna*** «pile, (artificial) mound» (PE19/91) + *-lda* «ваш» (мн. ч., курс, стр. 4916) + *-llo*; притяжательное, потом падеж — курс, стр. 4932: *atarinyallo*. [Сначала *hamnalyallo* с вежливым *-lya* и оговоркой «образца не искал»; образец есть.] Нкв. ***littë*** «ash» (Fauskanger, NQNT; своих ссылок в Eldamo нет). «-chen» передан Q ***pitya*** «petty, little»: в нём есть и «маленький», и «мелкий, ничтожный».
 
-**Что потеряно.** Рифмы (*zusammen / Flammen*, *Schmaus / ’raus*), повелительное наклонение, «Ragout» как иностранное словечко. Не отдавал на проверку.
+**Что потеряно.** Рифмы (*zusammen / Flammen*, *Schmaus / ’raus*), «Ragout» как иностранное словечко. Проверено субагентом 28.11, поправки — в скобках.
