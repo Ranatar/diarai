@@ -12,6 +12,10 @@ run(["git", "add", "-A"])
 v = run([sys.executable, "-I", os.path.join(root, "proekty", "instrumenty", "vremya_vpered.py")])
 if v.stderr.strip():
     print(v.stderr.strip())
+# 2026-11-28: напоминание об утверждениях «только / нет / не нашёл» в добавляемых строках (tolko.py)
+tk = run([sys.executable, "-I", os.path.join(root, "proekty", "instrumenty", "tolko.py")])
+if tk.stderr.strip():
+    print(tk.stderr.strip())
 c = run(["git", "commit", "-q", "-m", msg])
 if c.returncode != 0:
     print((c.stdout + c.stderr).strip() or "коммит не сделан"); sys.exit(c.returncode)
