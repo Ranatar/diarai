@@ -1055,3 +1055,26 @@
 - ***sinomë ëan!*** — «Da bin ich!»: Q ***sinomë*** «here, (lit.) in this place», из клятвы Элендила *Sinomë maruvan* (LotR/967). *ëan* «я есть» — *ëa* + *-n*.
 
 **Что потеряно.** Рифмы (*schauen / Grauen*, *sehn / Seelenflehn*), «schauen/sehn», «Antlitz/Gesicht», «flehn» в *súlë*. Не отдавал на проверку.
+
+# «Ночь», строки 686–690: речь Духа, продолжение (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> ***— Manen pitya norto***  (686: …—Welch erbärmlich Grauen)
+> ***mapa tyë, Oratan! Massë i yalmë fëo?***  (687: Faßt Übermenschen dich! Wo ist der Seele Ruf?)
+> ***Massë i súma ya ontanë ambar insassë***  (688: Wo ist die Brust, die eine Welt in sich erschuf)
+> ***ar collë sa ar mirtanë sa, ya pampilenen alasseo***  (689: Und trug und hegte, die mit Freudebeben)
+> ***oronyë, itan orta insa ve elmë, i fairi?***  (690: Erschwoll, sich uns, den Geistern, gleich zu heben?)
+
+Обратный перевод: «— Какой мелкий ужас / хватает тебя, сверхчеловек! Где зов души? / Где грудь, что создала мир в себе, / и несла его, и лелеяла его, что в трепете радости / поднялась, чтобы поднять себя, как мы, духи?»
+
+Немецкий сверен (`sed -n 686,690p`).
+
+- ***Manen pitya norto*** — *manen* в восклицании, как в 648 и 665 (у Толкина — только в вопросе, PM/395). Q ***pitya*** «petty, little» (PE17/115, WJ/389): «erbärmlich» у Гёте — презрение, *pitya* — «мелкий». [Q *saura* не взял: у него «wretched» стоит после ⚠ («⚠️[Q.] bad, unhealthy, ill, wretched»), то есть именно этот смысл Eldamo не советует; урок из 669.] ᴹQ ***norto*** «horror» (EtyAC/ÑGOROTH); от того же корня — Q *ruc-* «to feel fear or horror», как в 655 *lá rucita* («не дрогнуть»). Фауст хотел не дрогнуть и дрогнул.
+- ***mapa tyë*** — ᴹQ *mapa-* «grasp, seize», как в ремарке 670: Фауст «faßt das Buch», теперь ужас «faßt» его. Повтор Гёте сохранён.
+- ***Oratan*** — «Übermensch»: Q *or* «above» + *Atan* — **моё** сложное слово, без образца. Звательный без *a*. Ирония Духа держится на интонации.
+- ***Massë i yalmë fëo?*** — Q *massë* «where» (как в моём «Трактате» 5.633), связка опущена. ᴹQ ***yalmë*** «clamour» — от корня YAL, того же, что Q *yal-* в 674 «Man yála ni?». Фауст позвал Духа, Дух спрашивает, где этот зов.
+- ***Massë i súma*** — *súma* «hollow cavity, bosom», как в 628 и 643. ***ya ontanë ambar insassë*** — ᴹQ *onta-* «to beget, create» (*ontane*, Ety/ONO), как в 594. *ambar* со строчной, без артикля — «eine Welt», не Мир с большой буквы. *insassë* — Q *insa* «itself» (VT47/37) в местном падеже: «в себе»; склонение возвратного — выведено (образец курса — *inten*, дательный от *intë*, шпаргалка).
+- ***ar collë sa ar mirtanë sa*** — «und trug und hegte»: *col-* «bear, carry», как в 653 и 682; прошедшее *collë* — по образцу *vil- → villë* (курс, стр. 6740), но у глаголов на *l* бывает и *túlë* от *tul-* (стр. 6744), так что возможно и *cólë*. Выведено. нкв. ***mirta-*** «to value, esteem, treasure, cherish» (без своих ссылок), прошедшее *mirtanë* — слабое. *sa* — «его» (мир), дважды, как у Гёте одно дополнение на два глагола.
+- ***ya pampilenen alasseo oronyë*** — «die mit Freudebeben erschwoll»: нкв. ***pampilë*** «trembling» (из ᴱQ *pampile*, QL/72) в творительном + *alasseo* «радости» (*alassë*, как в 614, 653). Q *orya-* «to rise», прошедшее ***oronyë*** — засвидетельствовано (курс, стр. 12524: PE17/64, 77). «erschwoll» («вздулась, набухла») стало «поднялась»: ᴹQ *tiuya-* «to swell» значит ещё «grow fat», не взял. Сдвиг, зато *oronyë* — пара к *órëa* «поднимается» в 659 (пар) и *orta* дальше.
+- ***itan orta insa ve elmë, i fairi*** — *itan* «чтобы», как в «Трактате» 2.16 (слово автора). Q *orta-* «to raise» + *insa* «себя» (грудь — неодушевлённое). *ve elmë* «как мы»: Q ***elmë*** — по Eldamo «we (emphatic inclusive), \*we (emphatic exclusive)»; исключающее (без Фауста) — со звёздочкой, догадка. *i fairi* — приложение, как «uns, den Geistern». «gleich» стало «как». У Гёте дательный «uns … gleich», у меня сравнение.
+
+**Что потеряно.** Рифмы (*Grauen* — с 683 *schauen*, *Ruf / erschuf*, *Freudebeben / heben*), «Übermensch» как слово эпохи. Не отдавал на проверку.
