@@ -65,3 +65,22 @@ if n == 0:
         if k >= 10:
             break
     print("в заметках:", k)
+
+# 2026-11-28, пробуждение 03:07: засвидетельствованные ФОРМЫ внутри чужих статей (<ref v="…">). Повод: *ie* «existence»
+# (PE22/124) — герундий внутри статьи q ëa-; заголовка ie у Q нет, и я написал «у Толкина есть только ᴹQ érë».
+# Печатается всегда (не только при n == 0): точное совпадение формы без диакритики.
+k = 0
+for w in _root.iter("word"):
+    if lang and w.get("l") != lang:
+        continue
+    for r in w.findall("ref"):
+        if bare(r.get("v", "")) != q or bare(w.get("v", "")) == q:
+            continue
+        inf = ", ".join(i.get("form", "") for i in r.findall("inflect"))
+        print("  форма в статье %s %s «%s»: %s (%s)%s%s" % (w.get("l", "?"), w.get("v", ""), w.get("gloss", ""),
+              r.get("v", ""), r.get("source", ""), (" «%s»" % r.get("gloss")) if r.get("gloss") else "", (" [%s]" % inf) if inf else ""))
+        k += 1
+        break
+    if k >= 12:
+        break
+print("как форма в чужих статьях:", k)
