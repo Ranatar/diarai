@@ -948,3 +948,18 @@
 - Попутно: у Толкина есть ***Sundocarmë*** «Base-structure» (PE18/33, 84), термин его исторической фонологии: строение корней. *sundo* «base, root» — от того же корня, что *sundë* «element» (Lokyt, √STUD «base»), которое я взял в 2.13. Элемент и строение у меня случайно сошлись в толкиновском термине.
 
 **Что потеряно.** В 2.03 «ineinander» стало «в себе». **Не проверено.**
+
+## 2.15 (28.11)
+
+> ***Sa i sundi emmo tarir imbi intë tulcaina lénen, emë sa i engwi tarir sië imbi intë.***
+> ***Estalvë limë sina sundion emmo carmerya, ar nailerya canta emiëo.***
+
+Обратный перевод: «То, что элементы картины стоят между собой определённым образом, изображает, что вещи так стоят между собой. Эту связь элементов картины мы называем её строением, а её возможность — обликом изображения».
+
+- ***Sa … , emë sa …*** — Q *sa²* «that [anaphoric]», в том числе союз «что»: *merin sa haryalyë alassë nó vanyalyë Ambarello* «I hope that you have happiness before you pass from the world» (MS), *ecë nin carë sa* (VT49/20). Оба «dass» переданы одним *sa*. Первое придаточное — подлежащее при *emë*: так у Витгенштейна, но для квенья это смелее, чем в примерах. *emë* — нкв. *em-* «to depict», как в моём 2.221 (там *darstellt*). У Витгенштейна здесь «stellt vor», а в 2.221 «darstellt», и это разные глаголы; у меня оба — *em-*. Различие потеряно (в 2.11 «vorstellen» тоже будет).
+- ***i engwi*** — «die Sachen»: автор в 2.01 переводит «(Sachen, Dingen)» как *(engwion, nation)*, значит «Sache» = ᴹQ *engwë*. ***sië*** — Q «thus» для «so».
+- ***Estalvë … carmerya*** — «heisse seine Struktur» («пусть называется»). ᴹQ *esta-¹* «to name» (поздней статьи Q нет; есть ᴹQ *estaina* «named»), *-lvë* — включающее «мы» для общих утверждений (курс, стр. 13986). У Витгенштейна это соглашение о слове («пусть называется»), у меня — «мы называем». *carmerya* — *carmë* + *-rya* «её [картины] строение».
+- ***limë sina*** — «dieser Zusammenhang». Q *limë* «link» — то же √LIM, что в 2.03 (*limi limilo*) и 2.032 (*limyar*). Связь элементов, в 2.032 «сцепление», здесь стала одним звеном. *sina* после существительного, как у Толкина (*vanda sina*). *sundion* — род. мн. от *sundë*.
+- ***nailerya canta emiëo*** — «ihre Möglichkeit seine Form der Abbildung», глагол *estalvë* подразумевается. *naile* — автор; *canta* — как в 2.0141 и 2.033. ***emiëo*** — «изображения», род. от *emië*: отглагольное на *-ië* от *em-* по курсу (*tec- → tecië*, стр. 13610) — **моё**, у Толкина и в Eldamo его нет. «seine» (картины) при *canta* опущено.
+
+**Что потеряно.** Различие *vorstellen* / *darstellen*; «heisse» как соглашение; «seine» при «Form». **Не проверено.**
