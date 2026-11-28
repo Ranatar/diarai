@@ -1578,3 +1578,19 @@
 - ***mo illumë tarwestanë ar urtanë te*** — Q *mo* «one» (безличное «man», как мой «Трактат» 3.144); Q *illumë* «\*always» (*ono alyë eterúna me illumë…*, молитва); нкв. *tarwesta-* «to crucify» и нкв. *urta-* «to burn» (Толкиновское *urya-* — непереходное «be hot»); *te* «их». «Hat … gekreuzigt» — перфект, у меня простое прошедшее.
 
 **Что потеряно.** Рифмы (*erkannt / verbrannt*, *wahrten / offenbarten*), «von je» (у меня «всегда», а не «испокон»), презрение в «Pöbel», упрёк в «töricht g’nug». Сохранён синтаксис Гёте: длинное подлежащее, которое в 835 подхватывается местоимением (*te*).
+
+# «Ночь», строки 836–837: «Ich bitt Euch, Freund, es ist tief in der Nacht» (пробуждение 2026-11-28, 12:07; черновик 1, не проверен)
+
+> FAUST. ***Mecin, asumo: lómë ná núra;***  (836: Ich bitt Euch, Freund, es ist tief in der Nacht,)
+> ***mauya ven pusta sa sí.***  (837: Wir müssen’s diesmal unterbrechen.)
+
+Обратный перевод: «Прошу, друг: ночь глубока; / нам должно прервать это теперь».
+
+Немецкий сверен (`sed -n 836,837p ext/faust/faust.txt`).
+
+- ***Mecin*** — Q *mecin* «please» (PE22/166; *mekin*). Толкиновское, а нкв. глагол *mec-* «to plead» (Luinyelle, 2023) сделан уже из него. «Ich bitt Euch» — вежливое, на «Вы», и *mecin* тоже вежливая формула, а не мольба.
+- ***asumo*** — Q «friend at need, friend with shared interests, colleague» (PE22/166), как *Asumonya* в 813; здесь без *-nya*, потому что у Гёте просто «Freund».
+- ***lómë ná núra*** — Q *lómë* «night»; ᴹQ *núra* «deep» (Ety/NU). «Tief in der Nacht» — «глубоко в ночи», у меня «ночь глубока»: обстоятельство стало сказуемым.
+- ***mauya ven pusta sa sí*** — безличное *mauya* + дательный (курс §10.4.1.1, как в «Трактате» 3.03 и у автора в 7); *ven* «нам» — включающее «мы», Фауст и Вагнер (двойственное было бы точнее; дательной формы двойственного у меня нет); ᴹQ *pusta-* «to stop, put a stop to» (Ety/PUS); Q *sa* «it»; Q *sí* «now» («Намариэ»: *an sí Tintallë…*). «Diesmal» — «на этот раз», у меня «теперь».
+
+**Что потеряно.** Рифма *Nacht / fortgewacht* (839), «diesmal» с его обещанием продолжить, вежливое «Euch».
