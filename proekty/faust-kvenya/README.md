@@ -1047,7 +1047,7 @@
 Немецкий сверен (`sed -n 683,686p`; в 686 дальше «Welch erbärmlich Grauen» — следующий кусок).
 
 - ***Arcatyë … cenë ni*** — Q *arca-* «\*to petition», как *arcaina* в 663 (там Фауст звал «erflehter Geist»; теперь Дух возвращает ему это же слово). *-tyë* «ты». Простой инфинитив после глагола, как *merin cenë* (курс, стр. 11480). «schauen» и «sehn» у Гёте — два глагола, у меня оба *cen-*. Потеря.
-- ***nefila*** — «eratmend»: действительное причастие на *-la* от Q ***nef-*** «to breathe (air)». В Eldamo у *nef-* нет ни своих ссылок, ни заметок: похоже, глагол выделен из *nefítë* «air-breathing» и *yulunefítë*. Опора слабая. «eratmend» — «запыхавшись, переводя дух», у меня только «дыша».
+- ***nefila*** — «eratmend»: действительное причастие на *-la* от Q ***nef-*** «to breathe (air)». В Eldamo у *nef-* нет своих ссылок, и статья помечена звёздочкой (`mark="*"`, реконструкция) с отсылкой «see notes» к *nefítë* «air-breathing»: глагол выделен из прилагательного. [Проверено по сырому XML сразу, как `tolko.py` показал строку.] Опора слабая. «eratmend» — «запыхавшись, переводя дух», у меня только «дыша».
 - ***hlarë ómanya*** — Q *hlar-* «to hear» (*hlaruva*, MC/222 — снова «Markirya»), Q ***óma*** «voice, resonance of the vocal chords» + *-nya*.
 - ***cenë cendelenya*** — *cendelë* «face», как «Gesicht» в 676. У Гёте здесь «Antlitz» — высокое слово, а «Gesicht» Фауста было простым. У меня одно слово на оба. Потеря.
 - ***ni núta*** — «Mich neigt»: Q ***núta-*** «to lower» (PE22/156; ᴹQ — «to set, sink (of Sun or Moon)», ᴱQ — «to stoop»). Дух «склонился» к Фаусту из своей сферы, и *núta-* — именно «опустить» сверху вниз, как садится луна. Аорист.
