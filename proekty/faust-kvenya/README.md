@@ -1002,3 +1002,35 @@
 - ***ar equi coivienya nauva vanwa*** — «und kostet es mein Leben»: глагола «стоить» в позднем Q нет. Q *cav-* «receive» значения «cost» не имеет (Eldamo помечает этот нео-смысл ⚠), а у ᴹQ *tuvu-* «cost» — только ранний смысл. Поэтому образ переставлен: не «стоит жизни», а «жизнь будет утрачена». нкв. ***equi*** «even if» (Raccoon, 2024, ᴹQ *é* «indeed» + Q *qui* «if»). Будущее в условии о будущем событии — шпаргалка, «Условие» (курс, стр. 16246). Q *coivië* «life» (*koivienyo* «моей жизни», CPT/1298) + *-nya*. Q ***vanwa*** «gone, lost, departed, vanished, … dead», как в «Плаче Галадриэли» *Sí vanwa ná, Rómello vanwa, Valimar!* «Ныне утрачен, утрачен для тех, кто с Востока, Валимар!». *nauva* «будет» (будущее *ná*). Цена ушла, осталась утрата.
 
 **Что потеряно.** Рифма *hingegeben / Leben*, «kostet» (см. выше). Не отдавал на проверку.
+
+# «Ночь», строки 670–681: явление Духа (пробуждение 2026-11-28, 03:07; черновик 0)
+
+> *(Mapas i parma ar quetis i tehta Fairëo núlavë. Tintila rúnya; i Fairë ná cénima i rúnyassë.)*  (670–672: Er faßt das Buch und spricht das Zeichen des Geistes geheimnisvoll aus. Es zuckt eine rötliche Flamme, der Geist erscheint in der Flamme.)
+>
+> FAIRË. ***Man yála ni?***  (674: Wer ruft mir?)
+>
+> FAUST *(querina öa)*. ***Naira cendelë!***  (676: Schreckliches Gesicht!)
+>
+> FAIRË. ***Utúcietyë ni melehtenen,***  (678: Du hast mich mächtig angezogen,)
+> ***ar ardanyallo andavë usúcietyë,***  (679: An meiner Sphäre lang gesogen,)
+> ***ar sí —***  (680: Und nun—)
+>
+> FAUST. ***Ai! uin pole colë tyë!***  (682: Weh! ich ertrag dich nicht!)
+
+Обратный перевод: «(Он берёт книгу и таинственно произносит знак Духа. Дрожит красное пламя; Дух виден в пламени.) — ДУХ. Кто зовёт меня? — ФАУСТ (отвернувшись). Ужасное лицо! — ДУХ. Ты притянул меня мощью, / и из моей области долго пил, / и теперь — — ФАУСТ. Ах! я не могу вынести тебя!»
+
+Немецкий сверен (`sed -n 670,682p`; строки 673, 675, 677, 681 — пустые и имена говорящих). [В заголовке стоит «670–681», а последняя реплика — 682; номера строк файла, не стихов Гёте.]
+
+- ***Mapas i parma*** — ᴹQ *mapa-* «to grasp, seize» (Ety/MAP; я назвал его в 662 и не взял, здесь оно на месте: Фауст «faßt» книгу рукой). Аорист + *-s*, как в ремарке 645 (*Queris i parma … cenis*).
+- ***quetis i tehta Fairëo núlavë*** — Q *quet-* «say, speak»; *i tehta Fairëo* — как в 645 (там *Fairëo Cemeno*; здесь у Гёте просто «des Geistes»). Q ***núla¹*** «dark, occult, mysterious» + *-vë*: наречие, потому что таинственно не сам Фауст, а произнесение (курс, стр. 14080 и далее: *-vë* — когда качество не деятеля). Выведено.
+- ***Tintila rúnya*** — *tintila-*, как «zucken» в 659 (тогда *tintilar carni alcar*). Q ***rúnya*** «red flame» (одно слово на «rötliche Flamme»; Eldamo, PW_FL). Аорист, как в ремарке.
+- ***i Fairë ná cénima i rúnyassë*** — «der Geist erscheint»: Q ***cénima*** «visible» (PE17/175, PE22/155; у автора в `Savilve.txt`: *cénima illio yú alacénimo*). Q *lelya-²* «to appear» не взял: оно — «of beautiful things», им в 568 являлась луна, а Дух через четыре строки — «Schreckliches Gesicht». «erscheint» (событие) стало «виден» (состояние). Сдвиг.
+- ***Man yála ni?*** — Q ***yal-*** «to summon» (UT/317; Eldamo: \*«call (out to)»), настоящее *yála* (удлинение и *-a*, курс, стр. 3172–3174). У Гёте старинный дательный «ruft mir»; у меня винительный *ni*: дательный при *yal-* не засвидетельствован. Потеря архаизма.
+- ***querina öa*** — «abgewendet»: страдательное причастие от Q *quer-* «to turn» (как *Queris* в 645) по курсу (стр. 13639: у первичных *-ina* прибавляется, *car- → carina*) + Q ***öa*** «away (of movement)» (PE17/24, 144; PE22/168). Выведено.
+- ***Naira cendelë!*** — Q ***naira¹*** «dreadful, horrible, unendurable» и Q ***cendelë*** «face». У *naira* есть и «unendurable» — это уже ответ Фауста через четыре строки: «ich ertrag dich nicht». У Гёте «Gesicht» — и лицо, и видение; *cendelë* — только лицо (от *cen-* «видеть», так что видение в корне всё же есть).
+- ***Utúcietyë ni melehtenen*** — ᴹQ ***tuk-*** «to draw, \*pull (toward)» (Ety), перфект по курсу (стр. 8525–8535: приращение, удлинение, *-ië*; *mat- → amátië*): *utúcië* + *-tyë*. Выведено. *melehtenen* — Q *melehtë* «might» в творительном, как *melehtë* в 650 и 604: «mächtig» стало «мощью». Нкв. *telyanta-* «to allure» и Q *lelya-²* «to attract, enchant (with dative)» не взял: у Гёте «angezogen» — почти физическое, как магнит.
+- ***ar ardanyallo andavë usúcietyë*** — «An meiner Sphäre lang gesogen»: Q ***arda*** «region, realm» + *-nya* + *-llo*: «из моей области». «Sphäre» Гёте — круг, пределы Духа; *arda* — область, и в ней слышна *Arda*, мир, что для Духа Земли верно. ᴹQ ***suk-*** «to drink» (нео: «[rapidly], gulp»), перфект *usúcië* + *-tyë* — выведено. Q *yul-* «to drink» позднее, но спокойнее, а «saugen» — жадно. *andavë* «долго» — от Q *anda* «long» + *-vë*: выведено.
+- ***ar sí —*** — Q *sí* «now», как в «Намариэ» (*Sí man i yulma nin enquantuva?*). Тире Гёте сохранено: Дух не договаривает.
+- ***Ai! uin pole colë tyë!*** — *Ai* для «Weh!», как в 576. *uin* — *ui* + *-n* перед глаголом (курс §5.5.1.2, *uin menuva*). *pole colë* — «мочь нести», *col-* — как в 653 (там оговорено: глагол выведен из основ *kol-*, *kól-*). «ertragen» и *col-* «bear, carry» совпадают, как «tragen» в 653: Фауст хотел нести горе Земли и не может вынести её Духа.
+
+**Что потеряно.** Рифмы (*angezogen / gesogen*, *Gesicht / nicht*), «mir» как дательный. Не отдавал на проверку.
