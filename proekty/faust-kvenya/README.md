@@ -1371,12 +1371,12 @@
 
 **Что потеряно.** Рифма (*sagen / nachzujagen*); дательный «Worten nachjagen» стал прямым дополнением при *fara-*. Проверено субагентом 28.11.
 
-# «Ночь», строки 784–787: «Ja, eure Reden, die so blinkend sind» (пробуждение 2026-11-28, 09:08; черновик 1)
+# «Ночь», строки 784–787: «Ja, eure Reden, die so blinkend sind» (пробуждение 2026-11-28, 09:08; черновик 2, проверен)
 
-> ***Ná, questaldar, yar sië itar,***  (784: Ja, eure Reden, die so blinkend sind,)
+> ***Ná, questaldar, i sië itar,***  (784: Ja, eure Reden, die so blinkend sind,)
 > ***yassen locildë cirdar Atanion,***  (785: In denen ihr der Menschheit Schnitzel kräuselt,)
-> ***lá ceutar, ve súrë hísëo,***  (786: Sind unerquicklich wie der Nebelwind,)
-> ***ya quellessë hlussa ter parcë lassi!***  (787: Der herbstlich durch die dürren Blätter säuselt!)
+> ***lá ceutar, ve súrë hísio,***  (786: Sind unerquicklich wie der Nebelwind,)
+> ***i quellessë hlussa ter parcë lassi!***  (787: Der herbstlich durch die dürren Blätter säuselt!)
 
 Обратный перевод: «Да, ваши речи, что так искрятся, / в которых вы завиваете стружки людей, / не освежают, как ветер тумана, / что осенью шепчет сквозь сухие листья!»
 
@@ -1384,12 +1384,12 @@
 
 - ***Ná*** — Q *ná* «yes, it is so» (PE22/166) за «Ja».
 - ***questaldar*** — Q ***questa*** «speech, language» (PE18/75), мн. ч. + *-lda* «ваш».
-- ***yar sië itar*** — «die so blinkend sind»: глагол вместо прилагательного. Q ***ita-*** «to sparkle» (PM/363, Сильм.), аорист мн. ч. Не беру Q *itila* «twinkling, glinting» (Eldamo помечает его устаревшим) и Q *alca-* «to glitter» (PE18/87): аорист *alcar* совпал бы с *alcar* «слава», которое у меня уже стоит в 551. *sië* «так», как в 644.
+- ***i sië itar*** — «die so blinkend sind»: несклоняемое относительное *i* в роли подлежащего, как в курсе: *tíran atani i nórar* (`qfull.txt`, 2172) [сначала стояло *yar*: такая форма у Толкина не засвидетельствована, а моё же правило в `kvenya-formy.md` велит брать *ya* только в падеже; поправка по проверке 28.11]. Глагол вместо прилагательного. Q ***ita-*** «to sparkle» (PM/363, Сильм.), аорист мн. ч. Не беру Q *itila* «twinkling, glinting» (Eldamo помечает его устаревшим) и Q *alca-* «to glitter» (PE18/87): аорист *alcar* совпал бы с *alcar* «слава», которое у меня уже стоит в 551. *sië* «так», как в 644.
 - ***yassen*** — склоняемое *ya*, местный падеж мн. ч., как в «Намариэ» (`kvenya-formy.md`).
-- ***locildë cirdar Atanion*** — «ihr … Schnitzel kräuselt»: нкв. ***loc-*** «to loop, curl» + *-i-* аориста + *-ldë*; нкв. ***cirda*** «splinter, wood shaving» (из ᴱQ *kinda*, QL/47); «der Menschheit» — *Atanion*, род. п. мн. ч., как *Atani* в 549 и 594. Артикля нет по правилу Толкина при родительном (PE17/13).
+- ***locildë cirdar Atanion*** — «ihr … Schnitzel kräuselt»: нкв. ***loc-*** «to loop, curl» (неологизм Luinyelle, VLDS, 2023, по Eldamo; переходность не указана) + *-i-* аориста + *-ldë*; нкв. ***cirda*** «splinter, wood shaving» (в QL/47 у ᴱQ *kinda* только «splinter», «wood shaving» — глосса нкв.); «der Menschheit» можно прочесть и как дательный («для человечества»), я выбрал родительный — *Atanion*, род. п. мн. ч., как *Atani* в 549 и 594. Артикля нет по правилу Толкина при родительном (PE17/13).
 - ***lá ceutar*** — «sind unerquicklich»: Q ***ceuta-*** «to renew, refresh» (VT48/7–8) с *lá*, как отрицал глаголы в 552, 561, 625. Прилагательное стало отрицанием глагола.
-- ***ve súrë hísëo*** — «wie der Nebelwind»: Q *súrë* «wind» (как в 713) + Q *hísë* «mist» в род. п. Сложного слова не строю.
-- ***ya quellessë hlussa*** — «der herbstlich … säuselt»: Q ***quellë*** «late autumn, (lit.) fading» (LotR, приложение D), местный падеж «осенью»; нкв. ***hlussa-*** «to whisper» (ᴹQ *lussa-*, Ety/SLUS; Eldamo даёт нкв. форму с *hl-*). Был ещё ᴹQ *eske* «rustle, noise of leaves» (Ety/EZGE), но это существительное.
+- ***ve súrë hísio*** — «wie der Nebelwind»: Q *súrë* «wind» (как в 713) + Q *hísë* «mist» в род. п. У *hísë* основа *hísi-* (Eldamo, `stem="hísi-"`), падежи строятся от неё, как *lindë → lindio* (курс, таблица, 16713) [сначала стояло *hísëo*; поправка по проверке]. Сложного слова не строю.
+- ***i quellessë hlussa*** — «der herbstlich … säuselt»: опять несклоняемое *i* (было *ya*, та же ошибка, что в 624); Q ***quellë*** «late autumn, (lit.) fading» (LotR, приложение D), местный падеж «осенью»; нкв. ***hlussa-*** «to whisper» (ᴹQ *lussa-*, Ety/SLUS; Eldamo даёт нкв. форму с *hl-*). Был ещё ᴹQ *eske* «rustle, noise of leaves» (Ety/EZGE), но это существительное, и Толкин его отверг (Eldamo, `mark="-"`).
 - ***ter parcë lassi*** — Q *ter* «through»; ᴹQ ***parka*** «dry», мн. ч. *parcë*, как *parca* в 606 и 737; Q *lassi* «leaves». Строка близка к «Намариэ» (*lantar lassi súrinen*), и эхо я дальше не усиливаю.
 
-**Что потеряно.** Рифмы (*sind / Nebelwind*, *kräuselt / säuselt*). Звук *säuseln* передан шёпотом. «Schnitzel kräuseln» (бумажные стружки, которые завивают для украшения) переданы почти дословно и без пояснения могут быть непонятны.
+**Что потеряно.** Рифмы (*sind / Nebelwind*, *kräuselt / säuselt*). Звук *säuseln* передан шёпотом. «Schnitzel kräuseln» (бумажные стружки, которые завивают для украшения) переданы почти дословно и без пояснения могут быть непонятны. Проверено субагентом 28.11; поправки (*i* вместо *yar*/*ya*, *hísio*) сверены мной по курсу и Eldamo.
