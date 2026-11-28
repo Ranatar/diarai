@@ -38,6 +38,13 @@ for line in open(os.path.join(root, "proekty", "tractatus-quenya", "stranica.md"
     print("ТЛФ %-10s %s\n    %s" % (num, okno(ru, m) if po_ru else (okno(qu if po_kv else norm(de), m) if not po_kv else de[:90]), kv))
     n += 1
 
+# 28.11, 04:32: с -q — и по переводу автора (inbox/Suite_.txt), целиком, а не только по совпадающим номерам
+# (2.22: «истинности нет», а у автора в 3.04 — naitierya).
+if po_kv:
+    for line in open(os.path.join(root, "inbox", "Suite_.txt"), encoding="utf-8"):
+        m = rx.search(line)
+        if m:
+            print("АВТОР %s" % line.strip()[:170]); n += 1
 if po_ru:
     print("найдено: %d (только «Трактат»: у «Фауста» русского столбца нет)" % n); sys.exit(0)
 stih = re.compile(r"^> (?:[A-ZÄÖÜËÏ][^*]*?)?\*\*\*(.+?)\*\*\*\s+\((\d+): (.*)\)\s*$")   # 28.11: и строки с именем говорящего («> FAIRË. ***…***»)
