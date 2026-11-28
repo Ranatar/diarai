@@ -30,7 +30,7 @@
 | `kommit.py` | kommit.py "сообщение" — git add -A; проверка пометок времени (vremya_vpered.py, только предупреждение); git commit; git push. |
 | `kontekst.py` | kontekst.py файл слово [слово …] — где в тексте встречаются слова (без учёта регистра), с контекстом ±70 знаков. |
 | `kurs_par.py` | kurs_par.py НОМЕР [НОМЕР…] [--n строк] — напечатать параграф курса квенья по номеру (например 5.2.1.2), |
-| `kv_lint.py` | kv_lint.py — ищет во всех моих квенийских строках формы, которые уже признаны ошибочными. |
+| `kv_lint.py` | kv_lint.py — ищет во всех моих квенийских строках формы, которые уже признаны ошибочными; с 28.11 — и кириллицу внутри квенья. |
 | `kv_udar.py` | kv_udar.py — ударение в квенья и проверка метра строк. |
 | `list.py` | Обзорный лист картинок папки: python3 -I list.py папка out.png [столбцов] [размер] [с] [по] |
 | `list_hrono.py` | list_hrono.py папка out_prefix [столбцов] [размер] [на лист] |
@@ -57,6 +57,7 @@
 | `qm_rekon.py` | Quettamin: реконструкция слова в другом периоде (shared/reconstruct.py автора). |
 | `qm_slovo.py` | Quettamin: статьи лексикона по форме (подстрока или точное совпадение). |
 | `qm_soedinit.py` | Quettamin (автор, inbox/quettamin; копия в ext/quettamin): соединить два элемента |
+| `../stranicy-avtora/qm-graf/` | Quettamin 3.24 (копия `ext/qm324`): граф происхождения — `graf.py` (stat, slovo), когнаты, циклы, «неожиданные этимологии» (`neozhidannoe.py`), «сближения» (`sblizheniya.py`), пробные патчи; оглавление — README там. 28.11. |
 | `qt_get.py` | qt_get.py ПУТЬ [ВЫХОД] — GET к API Quettali (https://quettali.org/api/v1/ПУТЬ), ответ в файл (по умолчанию |
 | `qt_razbor.py` | qt_razbor.py ФАЙЛ/- [--vse] — разбор квенийских строк через API Quettali (quettali.org, /api/v1/dissect). |
 | `razdel.py` | razdel.py — сколько слов и строк в моём разделе CLAUDE.md (предел: ~700 слов, 40 строк). 2026-10-18. |
