@@ -1489,3 +1489,17 @@
 **Что потеряно.** Рифмы (*weit / Vergangenheit*, *Siegeln / bespiegeln*, *heißt / Geist*), насмешливость «Herren», «bespiegeln» как самолюбование.
 
 Проверено субагентом 28.11; поправки (*nár*, *men*, *lihtaina lihtainen*, без *ve*) сверены мной по Eldamo и курсу.
+
+# «Ночь», строки 818–819: «Da ist’s denn wahrlich oft ein Jammer!» (пробуждение 2026-11-28, 09:08; черновик 1)
+
+> ***Tá ná naitië linan nainië!***  (818: Da ist’s denn wahrlich oft ein Jammer!)
+> ***Mo norë lello minya tiriessë.***  (819: Man läuft euch bei dem ersten Blick davon.)
+
+Обратный перевод: «Тогда это поистине часто — плач! / От вас бегут при первом взгляде».
+
+Немецкий сверен (`grep -n`, строки 818–819). Фауст продолжает; «euch» — обобщённое («вы, учёные»), как в 815.
+
+- ***Tá ná naitië linan nainië!*** — Q *tá* «then», как в 809; *ná*; Q ***naitië*** «indeed, truly» (PE22/166) за «wahrlich», как *naitië* за «allerdings» в «Трактате» (6.372, 6.522); ᴹQ *li(n)an* «often», как в 746 и 793; Q ***nainië*** «lament» (*Altariello nainië*, RGEO/58) за «Jammer». «Ein Jammer» у Гёте — разговорное «жалкое зрелище», а *nainië* — «плач»: торжественнее, чем нужно, это сдвиг.
+- ***Mo norë lello minya tiriessë*** — «Man läuft euch … davon»: построено по образцу курса *i orcor nórar lello* «орки бегут от вас» (`qfull.txt`, 4859): Q ***nor-¹*** «to run» (PE17/58), аорист *norë*, *lello* — отделительный от *le* «вы». Не *ruc-* «*to flee»: оно у меня в «Фаусте» значит «бояться» (545, 655, 701, 793). Q *mo* «one», как в 795; Q ***minya*** «first»; *tiriessë* — герундий Q *tir-* «to look (at), gaze», местный падеж: «при первом смотрении».
+
+**Что потеряно.** Рифма *Jammer / Rumpelkammer* (820) ждёт следующую строфу; разговорный тон «ein Jammer».
