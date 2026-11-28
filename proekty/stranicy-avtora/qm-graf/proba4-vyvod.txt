@@ -1,0 +1,10 @@
+статей 33127 различий 8
+{'корни добавлены': 6, 'корни заменены': 2}
+  q mq. antaro: ['A', 'A', 'N-', 'N-'] [] -> ['A', 'N-', 'TĀ/TAƷ'] []
+  q mq. taras: ['A', 'N-'] [] -> ['TĀ/TAƷ'] []
+  q mq. tára: ['A', 'N-'] [] -> ['TĀ/TAƷ'] []
+  q q. Utumno: ['TUB'] [] -> ['TUB', 'TUP'] []
+  s ns. edledhia-: ['ET'] [] -> ['ET', 'LED'] []
+  s ns. edledhron: ['ET'] [] -> ['ET', 'LED'] []
+  s s. edlen(n): ['ET'] [] -> ['ET', 'LED'] []
+  s s. edraith: ['ET'] [] -> ['ET', 'REK'] []
