@@ -14,7 +14,8 @@ root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..")
 args = [a for a in sys.argv[1:] if a != "-q"]
 if not args:
     print(__doc__); sys.exit(1)
-rx = re.compile(args[0], re.I)
+norm = lambda t: t.replace("ß", "ss").replace("ẞ", "SS")   # 28.11: «außerhalb» (6.41) и «ausserhalb» (2.17x) — одно слово
+rx = re.compile(norm(args[0]), re.I)
 po_kv = "-q" in sys.argv
 
 def okno(t, m, w=60):
@@ -28,11 +29,11 @@ for line in open(os.path.join(root, "proekty", "tractatus-quenya", "stranica.md"
     if len(cols) < 3:
         continue
     num, de, qu = cols[0], cols[1], cols[2]
-    m = rx.search(qu if po_kv else de)
+    m = rx.search(qu if po_kv else norm(de))
     if not m:
         continue
     kv = re.sub(r"\s*\(.*$", "", qu)[:160]
-    print("ТЛФ %-10s %s\n    %s" % (num, okno(qu if po_kv else de, m) if not po_kv else de[:90], kv))
+    print("ТЛФ %-10s %s\n    %s" % (num, okno(qu if po_kv else norm(de), m) if not po_kv else de[:90], kv))
     n += 1
 
 stih = re.compile(r"^> \*\*\*(.+?)\*\*\*\s+\((\d+): (.*)\)\s*$")
@@ -41,7 +42,7 @@ for line in open(os.path.join(root, "proekty", "faust-kvenya", "README.md"), enc
     if not m0:
         continue
     qu, num, de = m0.groups()
-    m = rx.search(qu if po_kv else de)
+    m = rx.search(qu if po_kv else norm(de))
     if not m:
         continue
     print("Фауст %-8s %s\n    %s" % (num, de[:90], qu))
