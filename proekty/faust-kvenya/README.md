@@ -756,3 +756,24 @@
 - *cen* «sight» в Eldamo — «sight, \*sense of sight», то есть скорее зрение, чем «Blick» (взгляд). Есть Q *tir-* «to look (at), gaze» и нкв. *tirmë* «stare, \*gaze». Оставил *cen*: у Гёте блаженство течёт через зрение во «все чувства», так что зрение тут на месте. Отмечаю как потерю оттенка.
 
 **Что потеряно.** Рифмы (*Blick / -glück*, *Sinnen / rinnen*), «welche» (восклицание стало утверждением), «Nerv' und Adern» — «жилы и кровь». Проверено субагентом 28.11, поправки — в скобках выше.
+
+# «Ночь», строки 616–620 (пробуждение 2026-11-27, 23:58; черновик 0)
+
+> ***Ma náne aino i tencë tehtar sinë,***  (616: War es ein Gott, der diese Zeichen schrieb,)
+> ***i lintar nin i ursa órenyo,***  (617: Die mir das innre Toben stillen,)
+> ***quantar i penya hondo alassenen,***  (618: Das arme Herz mit Freude füllen,)
+> ***ar núla felmenen***  (619: Und mit geheimnisvollem Trieb)
+> ***apantar i melehti nasseo os ni?***  (620: Die Kräfte der Natur rings um mich her enthüllen?)
+
+Обратный перевод: «Был ли то бог, кто написал эти знаки, / что унимают мне ярость моего сердца, / наполняют скудное сердце радостью / и тёмным порывом / открывают силы природы вокруг меня?»
+
+Немецкий сверен (`sed -n 616,620p`). Слова прогнаны через `eldamo_slovo.py` (без `head`). Quettali не узнал *tencë* и *ursa*.
+
+- ***Ma náne aino*** — *ma* — вопрос; *náne* «был» (курс, стр. 3334: *náner* мн. ч.). нкв. ***aino*** «god» (Fauskanger, от Q *aina* «holy»). Q *Vala* у Eldamo — «(Angelic) Power», с пометкой «⚠️God», а Q *Ainu* — «holy one, angelic spirit», и значение «(pagan) god» у него только в ᴱQ. Бог Фауста — не Вала и не Айну, а «какой-то бог». То же слово понадобится в 621: «Bin ich ein Gott?».
+- ***i tencë tehtar sinë*** — *i* — несклоняемое относительное (курс, стр. 2130, 14922). *tencë* «написал» — прошедшее от *tec-* с носовой вставкой, в курсе с пометкой «^» (стр. 4652): форма взята из ранних или отвергнутых вариантов (стр. 2868), а сам глагол у Толкина есть только как ᴹQ *tek-*. *sinë* — мн. ч. от *sina* (курс, стр. 15182: *sinë cirmar*). *tehtar* — снова слово автора, как в 607 и 610.
+- ***i lintar nin i ursa órenyo*** — у Гёте подлежащее «die» — знаки, поэтому глаголы во мн. ч. нкв. *linta-* «to soothe»; Q ***ursa*** «rage» (PE17/188). «innre» передано через Q *órë* «heart (inner mind)»: «ярость моего *внутреннего* сердца». Два *i* подряд — относительное и артикль.
+- ***quantar i penya hondo alassenen*** — Q *quanta-* «to fill» (PE17/68), творительный *alassenen* «радостью» (то, *чем* наполняют, в творительном — выведено мной). Q *penya* «lacking, inadequate; \*poor»: «arm» тут — «бедное, жалкое», а у меня «скудное», то есть то, чему не хватает. Зато так выходит противопоставление: скудное наполнено. Q ***hondo*** «[metaphorical] heart, (seat of the) deepest feelings». Толкин сам ставит его в пару к *órë* (NM/176: «parallel to ōre ‚innermost mind‘»), поэтому в 617 *órë*, а в 618 *hondo*, как у Гёте «innre» и «Herz».
+- ***ar núla felmenen*** — Q *núla¹* «dark, occult, mysterious» (PE17/125), Q *felmë* «\*impulse, emotion» (VT41/13; значение со звёздочкой — толкование Eldamo). Творительный — «с порывом».
+- ***apantar i melehti nasseo os ni*** — нкв. *apanta-* «to open, reveal, show»; *melehti* — мн. ч. от Q *melehtë* «might, power (inherent)» (как в 554 и 604); *nasseo* — «природы», то же *nassë*, что в 593 и 603, с той же оговоркой: это природа как сущность. нкв. *os* «around, about» (ABNW; у Eldamo совет брать его только в значениях «around, about»).
+
+**Что потеряно.** Рифмы (*schrieb / Trieb*, *stillen / füllen / enthüllen*). «rings um mich her» стало просто «вокруг меня». **Не проверено.**
