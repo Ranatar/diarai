@@ -900,16 +900,16 @@
 > ***Felin verië verya imni Ambarenna,***  (652: Ich fühle Mut, mich in die Welt zu wagen,)
 > ***colë nyérë Cemeno, alassë Cemeno,***  (653: Der Erde Weh, der Erde Glück zu tragen,)
 > ***nanya vangwi,***  (654: Mit Stürmen mich herumzuschlagen)
-> ***ar ú ruciëo mi raccalë rácina ciryo.***  (655: Und in des Schiffbruchs Knirschen nicht zu zagen.)
+> ***ar lá rucita mi raccalë rácina ciryo.***  (655: Und in des Schiffbruchs Knirschen nicht zu zagen.)
 
-Обратный перевод: «Я чувствую смелость отважиться в Мир, / нести горе Земли, радость Земли, / противиться бурям / и без страха в треске разбитого корабля».
+Обратный перевод: «Я чувствую смелость отважиться в Мир, / нести горе Земли, радость Земли, / противиться бурям / и не дрогнуть в треске разбитого корабля».
 
 Немецкий сверен (`sed -n 652,655p`).
 
 - ***Felin verië verya imni Ambarenna*** — нкв. *fel-* «to feel (emotions)», как в 614 и 650. ᴹQ ***verië*** «boldness, \*daring» и ᴹQ ***verya-*** «to dare» (Ety/BER) — одного корня: «смелость отважиться». нкв. *verta-* «to dare (tr.)» Eldamo помечает «УСТАРЕЛО → mq verya-». Инфинитив — простая форма аориста (курс, стр. 11480: *merin anta*); при существительном *verië* — выведено. Q ***imni*** «myself» (VT47/37) — «mich … wagen». *Ambarenna* — «в Мир»: *Ambar*, как в 587 (*Ambaretya*).
-- ***colë nyérë Cemeno, alassë Cemeno*** — Q ***col-*** «to bear, \*carry, wear» (PE22/155), инфинитив *colë*. нкв. *nyérë* «grief» (основа — ᴱQ *nyére*, GL/60, LT1A); позднего Q для «Weh» я не нашёл (`woe|sorrow|grief|pain`: Q *naica* «bitterly painful» — прилагательное). *alassë* — как в 614. *Cemen* — как в 636, 642, 646: «Erde» всюду *cemen*, «Welt» — *Ambar*. Повтор «der Erde … der Erde» сохранён.
+- ***colë nyérë Cemeno, alassë Cemeno*** — Q ***col-*** «to bear, \*carry, wear» (PE22/155), инфинитив *colë*. нкв. *nyérë* «grief» (основа — ᴱQ *nyére*, GL/60, LT1A); из позднего Q ближе всего *nainië* «lament» (поиск `grief|sorrow|woe|lament|mourn|sad|misery|anguish|distress|affliction` по q) — слово из «Aldudénië» («Lament for the Two Trees»), но это плач, а не горе; Q *naica* «bitterly painful» — прилагательное. [Сначала тут было «позднего Q я не нашёл» — после узкого поиска; `tolko.py` показал строку перед коммитом, перепроверено сразу.] *alassë* — как в 614. *Cemen* — как в 636, 642, 646: «Erde» всюду *cemen*, «Welt» — *Ambar*. Повтор «der Erde … der Erde» сохранён.
 - ***nanya vangwi*** — нкв. *nanya-* «to struggle, oppose, resist»; падеж дополнения в статье не указан, винительный — выведено. Q ***vangwë*** «storm» (NM/237, PE17/34), мн. ч. *vangwi*. «herumschlagen» («драться, биться») стало «противиться» — сдвиг.
-- ***ar ú ruciëo*** — «nicht zu zagen»: *ú* + родительный «без» (курс, стр. 2052: *mindon ú telumëo*) + отглагольное *rucië* от Q ***ruc-*** «to feel fear or horror» (*rucimmë*, VT44/7) — выведено. Инфинитив с отрицанием я не нашёл, поэтому «без страха».
+- ***ar lá rucita*** — «nicht zu zagen»: у Толкина есть отрицательный инфинитив — ***lá carita*** *i hamil mára alasaila ná* «not to do (in this case) what you judge good (would be) unwise» (PE22/154, VT42/33): *lá* + ситуативный инфинитив на *-ita* (курс, стр. 11488: «в этой конкретной ситуации»). «Не дрогнуть» именно в кораблекрушении — как раз «in this case». Q ***ruc-*** «to feel fear or horror» (*rucimmë*, VT44/7) → *rucita*. [Сначала было *ú ruciëo* «без страха», и в разборе стояло «инфинитив с отрицанием я не нашёл» — ложное «не нашёл»: `tolko.py` показал строку, я вспомнил *lá carita* из проверки 2.15 и сверил по Eldamo.]
 - ***mi raccalë rácina ciryo*** — «des Schiffbruchs Knirschen»: нкв. *racca-* «to crack (sound)» + *-lë* — *raccalë* «треск» — выведено. Q ***rácina*** «broken» и Q ***cirya*** «(sharp-prowed) ship» — оба из «Markirya» (*rákina*, MC/222; *kirya*, MC/221), как *súma* (628) и *rámainen* (635). Кораблекрушение стало «разбитым кораблём».
 
 **Что потеряно.** Рифмы (*wagen / tragen / herumzuschlagen / zagen* — четыре на одну), «Schiffbruch» как одно слово. **Не проверено.**
