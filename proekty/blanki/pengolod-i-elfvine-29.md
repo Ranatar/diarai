@@ -1,6 +1,6 @@
 # Речи Пенголода и Эльфвине. Двадцать девятая: одно из ряда
 
-*Сверено по Eldamo 28.11: Q *rië²* «only» и Q *rëa* «single» — из заметки на полях «Late Notes on Verb Structure» (1969), обе от ✶*rē* «single item taken out of a (long) series», «and hence related to ré "day"» (PE22/158); ✶*rē* — от корня ER (PE22/158); Q *ré* «day (period from sunset to sunset)» (LotR/1107, PE22/158 «day in calendar»); Q *er* «one, alone». Строка Витгенштейна — «Трактат» 2.15121: «Nur die äussersten Punkte der Teilstriche berühren den zu messenden Gegenstand» (`5740-t.tex`, сверено). **Моё:** весь разговор; что эльфы «так говорят» о дне — моё толкование глоссы «from sunset to sunset», а не слова Толкина.*
+*Сверено по Eldamo 28.11: Q *rië²* «only» и Q *rëa* «single» — из заметки на полях «Late Notes on Verb Structure» (1969), обе от ✶*rē* «single item taken out of a (long) series», «and hence related to ré "day"» (PE22/158); ✶*rē* — от корня ER (PE22/158); Q *ré* «day (period from sunset to sunset)» (LotR/1107, PE22/158 «day in calendar»); Q *er* «one, alone». Строка Витгенштейна — «Трактат» 2.15121: «Nur die äussersten Punkte der Teilstriche berühren den zu messenden Gegenstand» (`5740-t.tex`, сверено). **Моё:** весь разговор, в том числе «ни один день не длиннее другого» и «мы не говорим „только сегодня“»; глосса «from sunset to sunset» — заголовок статьи Eldamo (у ссылок — «day», «day in calendar»); что в Приложении D эльфийский день — от заката до заката, по памяти, не сверял. *er* и *rē* — две ветви корня ER, а не цепочка (по проверке 28.11; сначала в тексте было «между ними есть ещё слово»). «berühren» у Витгенштейна выделено.*
 
 ---
 
@@ -10,7 +10,7 @@
 
 — А «один»?
 
-— *Er*. Но *rië* не прямо от него. Между ними есть ещё слово, его давно не говорят вслух: *rē*. Оно значит одну вещь, вынутую из длинного ряда. Одну бусину с нитки, один камень из стены.
+— *Er*. Но *rië* не от него. У них один корень, и от того же корня есть ещё слово, его давно не говорят вслух: *rē*. *Er* — одна ветвь, *rē* — другая, а *rië* растёт из *rē*. Оно значит одну вещь, вынутую из длинного ряда. Одну бусину с нитки, один камень из стены.
 
 Эльфвине записал.
 
@@ -28,7 +28,7 @@
 
 Эльфвине помолчал, потом достал из сумки листок.
 
-— Вот у него есть «только». «Nur die äussersten Punkte der Teilstriche berühren den zu messenden Gegenstand». Только крайние точки делений касаются того, что мерят.
+— Вот у него есть «только». «Nur die äussersten Punkte der Teilstriche *berühren* den zu messenden Gegenstand». Только крайние точки делений касаются того, что мерят.
 
 Пенголод долго смотрел на строку.
 
